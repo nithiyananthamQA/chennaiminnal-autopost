@@ -116,7 +116,9 @@ class RateReel(unittest.TestCase):
         self.assertTrue(G.reel_caption(p, day, r).startswith(G.REEL_HEAD))
         self.assertNotEqual(G.state_path("chennai"), G.state_path("chennai", "reel"))
         self.assertTrue(G.PAGES["chennai"].get("reel"))
+        self.assertFalse(G.PAGES["chennai"].get("post", True))      # owner 17 Nov: "only one post thats reel"
         self.assertFalse(G.PAGES["namakkal"].get("reel"))      # the reference's pages: carousel only, as he does
+        self.assertTrue(G.PAGES["namakkal"].get("post", True))
 
     def test_sound_effects_land_on_their_cues(self):
         import numpy as np
