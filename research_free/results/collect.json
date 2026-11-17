@@ -1,180 +1,128 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 47 recent posts read from the page",
+  "instagram check: 49 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/chennai-receives-first-rain-today-cyclone-aquana-to-make-landfall-the-next-day/4379257",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/ஆவடி-ஆணையரகத்தில்-80-ரௌடிகள்-கைது",
-  "candidate filter: collected=2",
-  "to write: 2 Chennai district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/chennai-recei",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/11-kg-2-people-with-cannabis-arrested/4379106",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/the-man-who-snatched-the-chain-from-the-old-woman-arrested/4379202",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/rs-103-crore-fraud-in-digital-bank/4378916",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/boy-snatches-phone-at-knife-point-at-guard-arrested/4378967",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-2-crore-land-scam-case-three-including-avadi-woman-arrested/4379002",
+  "candidate filter: collected=5",
+  "to write: 5 Chennai district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/rs-103-crore-",
+  "NOT filed (N) காவலாளியிடம் கத்திமுனையில் ‘போன்’ பறித்த சிறுவன் க: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "NOT filed (N) ‘டிஜிட்டல்’ வங்கியில் ரூ.1.03 கோடி மோசடி: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "NOT filed (N) மூதாட்டியிடம் செயின் பறித்த நபர் கைது: all free models failed: no usable answer from the models",
+  "NOT filed (N) 11 கிலோ கஞ்சாவுடன் 2 பேர் கைது: all free models failed: no usable answer from the models",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min",
-  "filed: 2 Chennai district stories (target 2), reels only",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 1}, time left 79 min",
+  "filed: 1 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "ஆவடி, செங்குன்றம் பகுதிகளில் 80 ரௌடிகள் அதிரடி கைது: 19 கிலோ கஞ்சா பறிமுதல்",
-   "english_headline": "80 rowdies arrested in Avadi and Red Hills; 19kg ganja and drugs seized in 3-day special drive",
+   "tamil_headline": "ஆவடியில் ரூ.2 கோடி நிலமோசடி: மூவர் கைது",
+   "english_headline": "Three arrested in 2 crore rupee land fraud case in Avadi",
    "category": "Crime & Safety",
-   "location": "Avadi and Red Hills, Chennai district",
-   "importance": "High",
+   "location": "Avadi, Chennai district",
+   "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றத்தடுப்பு",
-    "loc": "ஆவடி, சென்னை",
-    "hl1": "ஆவடி, செங்குன்றம் பகுதிகளில் 80 பேர்",
-    "hl2": "19 கிலோ கஞ்சா பறிமுதல்",
+    "cat": "நிலமோசடி",
+    "loc": "ஆவடி, கோவில்பதாகை",
+    "hl1": "ஆவடியில் ரூ.2 கோடி நிலமோசடி",
+    "hl2": "மூன்று பேர் கைது",
     "slides": [
      {
-      "title": "அதிரடி நடவடிக்கை",
+      "title": "மோசடி விவரம்",
       "lines": [
-       "ஆவடி, செங்குன்றம் பகுதிகளில் <b>80 ரௌடிகள்</b> கைது",
-       "கடந்த <b>3 நாட்களில்</b> சிறப்பு சோதனை",
-       "குற்றத்தடுப்பு நடவடிக்கையாக போலீசார் அதிரடி"
+       "போலி ஆவணங்கள் மூலம் நிலம் அபகரிப்பு",
+       "கோவில்பதாகை, கன்னடப்பாளையம் பகுதி",
+       "1.66 ஏக்கர் நிலம், ரூ.2 கோடி மதிப்பு"
       ]
      },
      {
-      "title": "கைது விவரம்",
+      "title": "கைது",
       "lines": [
-       "<b>12 ரௌடிகள்</b> உட்பட <b>61 பேர்</b> முன்னெச்சரிக்கை கைது",
-       "பொது அமைதிக்கு பங்கம் விளைவித்த <b>49 பேர்</b> பிடிபட்டனர்",
-       "<b>23 பேரிடம்</b> நன்னடத்தை பிணை பெறப்பட்டது"
+       "லட்சுமி (41 வயது), ஆவடி மூலம்",
+       "ஜானகிராமன் (39 வயது), திருவள்ளூர்",
+       "ஜெயகுமார் (47 வயது), கும்மிடிப்பூண்டி"
       ]
      },
      {
-      "title": "போதைப்பொருள்",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "<b>11 கஞ்சா வழக்குகள்</b> பதிவு செய்யப்பட்டு <b>19 பேர்</b> கைது",
-       "<b>19 கிலோ கஞ்சா</b>, <b>60 கிராம்</b> மெத்தம்பெட்டமைன் பறிமுதல்",
-       "கடத்தலுக்கு பயன்படுத்திய <b>2 இருசக்கர வாகனங்கள்</b> மீட்பு"
+       "ஆவடி மத்திய குற்றப்பிரிவில் வழக்கு",
+       "இன்ஸ்பெக்டர் பாலன் தலைமையில் விசாரணை",
+       "நேற்று முன்தினம் சிறையில் அடைக்கப்பட்டனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஆவடி மற்றும் செங்குன்றம் பகுதிகளில் கடந்த 3 நாட்களில் 80 ரௌடிகள் அதிரடியாக கைது செய்யப்பட்டுள்ளனர். ஆவடி காவல் ஆணையரகத்திற்கு உட்பட்ட பகுதிகளில் குற்றத்தடுப்பு நடவடிக்கையாக இந்தச் சிறப்புச் சோதனை நடத்தப்பட்டது. இதில் 12 ரௌடிகள் மற்றும் பொது அமைதிக்கு பங்கம் விளைவித்த 49 பேர் என மொத்தம் 61 பேர் முன்னெச்சரிக்கை நடவடிக்கையாகக் கைது செய்யப்பட்டனர். மேலும் 23 பேரிடம் நன்னடத்தை பிணை பெறப்பட்டு நடவடிக்கை எடுக்கப்பட்டுள்ளது. போதைப் பொருட்களுக்கு எதிரான சோதனையில் 11 கஞ்சா வழக்குகள் பதிவு செய்யப்பட்டு 15 பேர் கைது செய்யப்பட்டனர். தலைமறைவாக இருந்த 4 பேர் உட்பட மொத்தம் 19 பேர் பிடிபட்டனர். இவர்களிடம் இருந்து 19 கிலோ கஞ்சா மற்றும் 60 கிராம் மெத்தம்பெட்டமைன் பறிமுதல் செய்யப்பட்டது. கடத்தலுக்குப் பயன்படுத்தப்பட்ட 2 இருசக்கர வாகனங்களையும் போலீசார் கைப்பற்றினர். ஆவடி மற்றும் செங்குன்றம் காவல் மாவட்டங்களில் இந்த அதிரடி நடவடிக்கை மேற்கொள்ளப்பட்டது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஆவடி, செங்குன்றம் பகுதிகளில் 80 ரௌடிகள் அதிரடி கைது - 19 கிலோ கஞ்சா பறிமுதல்\n\n📰 முழு விவரம்:\nஆவடி காவல் ஆணையரகத்திற்கு உட்பட்ட ஆவடி மற்றும் செங்குன்றம் காவல் மாவட்டங்களில் கடந்த 3 நாட்களாகச் சிறப்பு குற்றத்தடுப்பு நடவடிக்கை மேற்கொள்ளப்பட்டது. இதில் 12 ரௌடிகள் மற்றும் பொது அமைதிக்குத் தொந்தரவு செய்த 49 பேர் என மொத்தம் 61 பேர் முன்னெச்சரிக்கை நடவடிக்கையாகக் கைது செய்யப்பட்டனர். மேலும் 23 பேரிடம் நன்னடத்தை பிணை பெறப்பட்டது. போதைப் பொருள் விற்பனை தொடர்பாக 11 கஞ்சா வழக்குகள் பதியப்பட்டு 15 பேர் மற்றும் தலைமறைவாக இருந்த 4 பேர் என மொத்தம் 19 பேர் கைது செய்யப்பட்டனர். இவர்களிடம் இருந்து 19 கிலோ கஞ்சா, 60 கிராம் மெத்தம்பெட்டமைன் மற்றும் 2 இருசக்கர வாகனங்கள் பறிமுதல் செய்யப்பட்டன.\n\n📍 இடம்: ஆவடி, செங்குன்றம், சென்னை மாவட்டம்\n🗓️ நாள்: கடந்த 3 நாட்கள்\n👮 நடவடிக்கை: 80 பேர் கைது, 19 கிலோ கஞ்சா பறிமுதல்\nℹ️ மக்கள் கவனத்திற்கு: குற்றச் செயல்கள் குறித்து போலீசாருக்குத் தகவல் தெரிவிக்கலாம்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nAvadi Red Hills rowdies arrest | Chennai crime news\n📍 ஆவடி, சென்னை | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Avadi #CrimeNews #சென்னை",
-   "prompts": "A group of Tamil Nadu police officers in khaki uniforms handcuff and lead away a line of men and boys, representing the bulk of the 80 arrests made in the three‑day special drive. The scene is set on a typical Avadi suburban street lined with low‑rise houses, a concrete curb and a few street trees, identifiable as the Avadi‑Red Hills area of Chennai. Police officers (about five) are seen from behind or side‑profile, while the arrested individuals (around ten visible) are shown from behind, wearing casual shirts and trousers, walking toward a police jeep. Parked nearby are two seized two‑wheelers, their colours not distinct, and a police jeep with flashing lights. The lighting is bright daylight with clear sky, typical of a Chennai afternoon. Shot at eye level with a 35 mm lens, wide enough to capture the street context and the procession. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of a metal table on the curb displaying the seized contraband: several tightly wrapped bundles of greenish ganja leaves and multiple sealed bags of white powder representing 60 kg of methamphetamine, alongside a police evidence tag. In the background, one of the two seized two‑wheelers is visible, its registration plate blurred, and a police officer in khaki stands with a hand on the table, his face turned away. The setting remains the same Avadi residential street, with the same daylight illumination and clear weather. The camera is positioned slightly higher than eye level, using a 35 mm lens to focus on the evidence while still showing the surrounding street and the parked vehicle, emphasizing the seized goods as the story’s key detail. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/ஆவடி-ஆணையரகத்தில்-80-ரௌடிகள்-கைது",
-   "published": "2026-11-17T19:26:47.805Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794956938/chennaiminnal/ezgzq6mw830m8nyk7uad.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794956971/chennaiminnal/ftzs6rw1xnswdznmkp9e.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அக்வான் புயல் நாளை மறுநாள் கரையேறும்; சென்னையில் இன்று மழை",
-   "english_headline": "Cyclone Aquane to make landfall in Andhra Pradesh; rain expected in Chennai today",
-   "category": "Weather & Agriculture",
-   "location": "Chennai, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "புயல் எச்சரிக்கை",
-    "loc": "சென்னை, திருவள்ளூர்",
-    "hl1": "அக்வான் புயல் நாளை மறுநாள் கரையேறும்",
-    "hl2": "சென்னையில் இன்று மழை",
-    "slides": [
-     {
-      "title": "புயல் நிலைமை",
-      "lines": [
-       "அக்வான் புயல் நேற்று தீவிர புயலாக வலுவடைந்தது",
-       "இது வடமேற்கு திசையில் ஆந்திரா நோக்கி நகர்கிறது"
-      ]
-     },
-     {
-      "title": "மழை எச்சரிக்கை",
-      "lines": [
-       "சென்னை, திருவள்ளூரில் இன்று மிதமான மழை",
-       "நாளை இடி மின்னலுடன் கனமழை பெய்ய வாய்ப்புள்ளது"
-      ]
-     },
-     {
-      "title": "கடல் எச்சரிக்கை",
-      "lines": [
-       "மணிக்கு 60 கி.மீ. வேகத்தில் காற்று வீசக்கூடும்",
-       "மீனவர்கள் கடலுக்கு செல்ல வேண்டாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அக்வான் புயல் நாளை மறுநாள் ஆந்திராவில் கரையை கடக்கக்கூடும். வானிலை ஆய்வு மையம் இந்த எச்சரிக்கையை வெளியிட்டுள்ளது. தென்மேற்கு வங்கக்கடலில் நேற்று முன்தினம் மாலை புயல் உருவானது. நேற்று அக்வான் புயல் தீவிர புயலாக வலுவடைந்தது. இது வடமேற்கு திசையில் ஆந்திரா நோக்கி நகர்ந்து கொண்டிருக்கிறது. நவம்பர் 20ஆம் தேதி புயல் கரையை கடக்கக்கூடும். சென்னை, திருவள்ளூர், செங்கல்பட்டு மாவட்டங்களில் இன்று மழை பெய்யும். இடி மின்னல் மற்றும் பலத்த காற்றுடன் மிதமான மழை இருக்கும். நாளை இந்த மாவட்டங்களில் கனமழை பெய்ய வாய்ப்புள்ளது. தமிழ்நாடு வட கடலோர பகுதிகளில் காற்று வேகம் அதிகரிக்கும். மணிக்கு 50 கிலோமீட்டர் வேகத்தில் காற்று வீசக்கூடும். இடையிடையே மணிக்கு 60 கிலோமீட்டர் வேகத்தில் சூறாவளி காற்று இருக்கும். எனவே மீனவர்கள் கடலுக்கு செல்ல வேண்டாம். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌀 அக்வான் புயல் நாளை மறுநாள் கரையேறும்; சென்னையில் இன்று மழை\n\n📰 முழு விவரம்:\nவங்கக்கடலில் உருவாகியுள்ள அக்வான் புயல், நாளை மறுநாள் ஆந்திராவில் கரையை கடக்கக்கூடும் என வானிலை ஆய்வு மையம் தெரிவித்துள்ளது. தென்மேற்கு வங்கக்கடல் பகுதியில் நேற்று முன்தினம் மாலை ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம், அக்வான் புயலாக வலுவடைந்தது. நேற்று இந்த புயல் தீவிர புயலாக வலுவடையும் நிலையில் இருந்தது. இது வடமேற்கு திசையில் ஆந்திரா நோக்கி நகர்ந்து, நவம்பர் 20ஆம் தேதி கரையை கடக்கக்கூடும். சென்னை, திருவள்ளூர், செங்கல்பட்டு மாவட்டங்களில் இன்று இடி மின்னல் மற்றும் பலத்த காற்றுடன் மிதமான மழை பெய்ய வாய்ப்புள்ளது. நாளை இந்த மாவட்டங்களில் சில இடங்களில் இடி மின்னலுடன் கனமழை பெய்ய வாய்ப்புள்ளது. தமிழ்நாடு வட கடலோர பகுதிகளில் இன்றும் நாளும் மணிக்கு 50 கிலோமீட்டர் வேகத்திலும், இடையிடையே 60 கிலோமீட்டர் வேகத்திலும் சூறாவளி காற்று வீசக்கூடும். எனவே மீனவர்கள் கடலுக்கு செல்ல வேண்டாம்.\n\n📍 இடம்: சென்னை, திருவள்ளூர், செங்கல்பட்டு\n🗓️ நாள்: நவம்பர் 20ஆம் தேதி (கரையேற்றம்)\n🕘 நேரம்: இன்று முதல் மழை\n👮 நடவடிக்கை: மீனவர்களுக்கு கடலுக்கு செல்ல வேண்டாம் என எச்சரிக்கை\nℹ️ மக்கள் கவனத்திற்கு: வட கடலோர பகுதிகளில் காற்று வேகம் அதிகரிக்கலாம்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nChennai Cyclone Aquane warning | Chennai rain today | Chennai news\n📍 Chennai, Chennai district | 18 November 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiRain #ChennaiNews #சென்னை",
-   "prompts": "A dramatic, photo-realistic wide shot of a dark, stormy sky over the Chennai coastline with heavy rain clouds rolling in. The sea is choppy with whitecaps, and distant lightning flashes illuminate the horizon. Silhouettes of palm trees bend in the strong wind. The atmosphere is tense and moody, capturing the arrival of a cyclone. No people are visible, focusing on the power of nature and the weather conditions described in the news. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of a traditional fishing boat anchored safely in a calm harbor area, with the hull visible and ropes tied tightly. In the background, a grey, overcast sky looms, suggesting impending bad weather. The water is slightly rippled but not stormy yet, indicating the warning phase before the cyclone hits. The scene conveys the instruction for fishermen to stay away from the sea. No text or logos are present, just the realistic maritime setting of Tamil Nadu. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/chennai-receives-first-rain-today-cyclone-aquana-to-make-landfall-the-next-day/4379257",
-   "published": "2026-11-18T01:59:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சென்னை' and the news itself, e.g. 'சென்னை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "reel_script": "ஆவடியில் ரூ.2 கோடி மதிப்பிலான நிலத்தை போலி ஆவணங்கள் மூலம் அபகரித்த வழக்கில் மூன்று பேர் கைது செய்யப்பட்டனர். ஆவடி, கோவில்பதாகை பகுதியைச் சேர்ந்த வாசு என்பவர் ஆவடி மத்திய குற்றப்பிரிவில் புகார் அளித்தார். கன்னடப்பாளையம் பகுதியில் உள்ள 1.66 ஏக்கர் நிலம் வாசுவின் குடும்பத்திற்கு சொந்தமானது. கண்ணம்மாளின் பேரன் மற்றும் பேத்திகள் போலி ஆவணம் தயாரித்துள்ளனர். அவர்கள் அந்த நிலத்தை ஜானகிராமன் மற்றும் லட்சுமிக்கு கிரையம் செய்து கொடுத்தனர். பின்னர் ஜெயகுமார் என்பவருக்கு கிரையம் செய்யப்பட்டது. ஜெயகுமார் தனது மனைவிக்கு அந்த நிலத்தை செட்டில்மென்ட் செய்து கொடுத்தார். இன்ஸ்பெக்டர் பாலன் தலைமையிலான போலீசார் வழக்கு பதிந்து விசாரித்தனர். ஆவடியைச் சேர்ந்த லட்சுமி, 41 வயது என்பவர் கைது செய்யப்பட்டார். திருவள்ளூரைச் சேர்ந்த ஜானகிராமன், 39 வயது என்பவரும் கைது செய்யப்பட்டார். கும்மிடிப்பூண்டியைச் சேர்ந்த ஜெயகுமார், 47 வயது என்பவரும் கைது செய்யப்பட்டார். இவர்கள் மூவரும் நேற்று முன்தினம் சிறையில் அடைக்கப்பட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஆவடியில் ரூ.2 கோடி மதிப்பிலான நிலத்தை போலி ஆவணங்கள் மூலம் அபகரித்த வழக்கில் மூன்று பேர் கைது\n\n📰 முழு விவரம்:\nஆவடி, கோவில்பதாகை பகுதியைச் சேர்ந்த வாசு என்பவர் ஆவடி மத்திய குற்றப்பிரிவில் புகார் அளித்தார். கன்னடப்பாளையம் பகுதியில் உள்ள 1.66 ஏக்கர் நிலம் வாசுவின் குடும்பத்திற்கு சொந்தமானது. கண்ணம்மாளின் பேரன் மற்றும் பேத்திகள் போலி ஆவணம் தயாரித்து, அந்த நிலத்தை ஜானகிராமன் மற்றும் லட்சுமிக்கு கிரையம் செய்து கொடுத்தனர். பின்னர் ஜெயகுமார் என்பவருக்கு கிரையம் செய்யப்பட்டு, அவரது மனைவிக்கு செட்டில்மென்ட் செய்யப்பட்டது. இன்ஸ்பெக்டர் பாலன் தலைமையிலான போலீசார் வழக்கு பதிந்து விசாரித்து, மூவரையும் கைது செய்தனர். கைது செய்யப்பட்டவர்கள் நேற்று முன்தினம் சிறையில் அடைக்கப்பட்டனர்.\n\n📍 இடம்: ஆவடி, கோவில்பதாகை, கன்னடப்பாளையம்\n🗓️ நாள்: நேற்று முன்தினம்\n👮 நடவடிக்கை: மூன்று பேர் கைது, சிறையில் அடைக்கப்பட்டனர்\nℹ️ மக்கள் கவனத்திற்கு: போலி ஆவணங்கள் மூலம் நிலம் விற்பனை செய்ய முயற்சிக்கும்போது கவனமாக இருக்கவும்.\n\nAvadi land fraud case | Chennai news\n📍 Avadi, Chennai | 17 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Avadi #ChennaiNews #சென்னை",
+   "prompts": "A realistic photo of a police officer in uniform standing near a police vehicle at night in a Chennai suburb. The scene shows a dimly lit street with a few houses in the background, representing the arrest of individuals involved in a land fraud case. The lighting is artificial street light, creating a serious and official atmosphere. No faces are clearly visible, focusing on the back of the officer and the side of the police car. The setting looks like a typical residential area in Avadi, Chennai, with narrow roads and local architecture. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a stack of old land documents and a map on a wooden table, with a pen resting on top. The documents appear worn and official, suggesting legal property records. The background is slightly blurred, showing a dim office or home setting. The focus is on the papers, highlighting the theme of fraudulent documentation used in the land fraud case. The lighting is warm and indoor, emphasizing the details of the paper texture and the map lines. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-2-crore-land-scam-case-three-including-avadi-woman-arrested/4379002",
+   "published": "2026-11-17T20:34:22+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 41 ('ஆவடி: போலி ஆவணங்கள் வாயிலாக, 2 கோடி ரூபாய் மதிப்பிலான நிலத்த'); 60 ('ஆவடி, கோவில்பதாகை பகுதியைச் சேர்ந்தவர் வாசு, 60.'); 41, ('இது குறித்து இன்ஸ்பெக்டர் பாலன் தலைமையிலான போலீசார் வழக்கு ப'); 39 ('இது குறித்து இன்ஸ்பெக்டர் பாலன் தலைமையிலான போலீசார் வழக்கு ப'); 47, ('இது குறித்து இன்ஸ்பெக்டர் பாலன் தலைமையிலான போலீசார் வழக்கு ப')",
    "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794957009/chennaiminnal/vghbm8mpyvpevloasuvf.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794957013/chennaiminnal/tar7zjjop5ljyead02n9.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794958356/chennaiminnal/vqmaxbvsumhmuwihpuaj.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794958360/chennaiminnal/feewwxrmitv5cmtiozs1.jpg"
    ]
   }
  ]
