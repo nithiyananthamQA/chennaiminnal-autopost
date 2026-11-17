@@ -18,6 +18,7 @@ FS = NM / "@fontsource"
 ICONS = NM / "@fortawesome" / "fontawesome-free" / "svgs" / "solid"
 # Chennai Minnal: ONE page (no second page). Page name / handle / logo in this one place.
 PAGES = {
+    # 18 Nov: chennaiminnal is the real Instagram username (it was chennaiminnal - every Chennai end card showed a handle nobody could find)
     "chennai": {"logo": "logo_chennai.png", "name": "சென்னை மின்னல்", "handle": "chennaiminnal", "tagline": "சென்னை மின்னல்", "follow": "சென்னை மாவட்டச்<br>செய்திகளுக்கு",
                    "ticker": "சென்னை மின்னல்  •  சென்னை மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_chennai.png", "hashtag": "#ChennaiMinnal"},
 }
