@@ -82,6 +82,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-17 | `128d0e8` | pick: picked news saved |
+| 2026-11-18 | `36bc3c8` | Same code as Kovai Minnal 510ab882 Posting chain: the Cloudflare Worker waits, not a GitHub machine (owner 18 Nov: 'safe from ban?') |
+| 2026-11-17 | `af89d47` | pick: picked news saved |
+| 2026-11-17 | `e4b4619` | pick: list sent |
+| 2026-11-18 | `b969de4` | Same code as Kovai Minnal 60399b11 Chennai: its own areas, suburbs and city services; state politics stays out (owner 18 Nov: 'chennai is the most populated city ... add even more small areas') |
 | 2026-11-18 | `b9dd07a` | Same code as Kovai Minnal f829744d Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
 | 2026-11-18 | `1014841` | Same code as Kovai Minnal 0691bd3d Power cuts: a list for our district only is kept whole (17 Nov: Chennai never posted a power cut - ABP's Chennai-only list was cut to 0 words); covaimail.com is Kovai's paper only |
 | 2026-11-18 | `152ae1f` | pick state in the shape pick.py works with (the empty {} crashed the 21:00 round) |
@@ -107,9 +112,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-17 | `d2a1deb` | Same code as Kovai Minnal 63c34e7e Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
 | 2026-11-17 | `93e18cb` | facebook RN-48 |
 | 2026-11-17 | `afb96db` | powercut: notices written |
-| 2026-11-17 | `be13faf` | stories shared |
-| 2026-11-17 | `2b9057e` | Chennai Minnal live (owner 17 Nov) |
-| 2026-11-17 | `593847e` | Chennai Minnal: refreshed copy of Kovai Minnal (cb585c89) with the latest Chennai power-cut / Facebook state |
-| 2026-11-17 | `d3d653c` | Chennai Minnal: refreshed copy of Kovai Minnal (12cb54fe) - shop names rule, gold rate reel live |
-| 2026-11-17 | `4526686` | Chennai Minnal: refreshed copy of Kovai Minnal (1a398477) - gold rate reel music only |
 <!-- recent-changes:end -->
