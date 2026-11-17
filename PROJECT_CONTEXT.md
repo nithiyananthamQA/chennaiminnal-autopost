@@ -82,6 +82,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-18 | `b9dd07a` | Same code as Kovai Minnal f829744d Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
 | 2026-11-18 | `1014841` | Same code as Kovai Minnal 0691bd3d Power cuts: a list for our district only is kept whole (17 Nov: Chennai never posted a power cut - ABP's Chennai-only list was cut to 0 words); covaimail.com is Kovai's paper only |
 | 2026-11-18 | `152ae1f` | pick state in the shape pick.py works with (the empty {} crashed the 21:00 round) |
 | 2026-11-18 | `2a519cb` | Same code as Kovai Minnal eb19a89e pick: a new page's empty state file no longer crashes the round (17 Nov: Chennai's 21:00 round failed - KeyError 'rounds' - no news since 18:26) |
@@ -111,5 +112,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-17 | `593847e` | Chennai Minnal: refreshed copy of Kovai Minnal (cb585c89) with the latest Chennai power-cut / Facebook state |
 | 2026-11-17 | `d3d653c` | Chennai Minnal: refreshed copy of Kovai Minnal (12cb54fe) - shop names rule, gold rate reel live |
 | 2026-11-17 | `4526686` | Chennai Minnal: refreshed copy of Kovai Minnal (1a398477) - gold rate reel music only |
-| 2026-11-17 | `c18c361` | Chennai Minnal: refreshed copy of Kovai Minnal (6daa3efd) - gold rate reel only, 10 s |
 <!-- recent-changes:end -->
