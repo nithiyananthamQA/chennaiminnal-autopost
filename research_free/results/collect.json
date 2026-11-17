@@ -1,687 +1,180 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 38 recent posts read from the page",
+  "instagram check: 47 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/power-outage-in-chennai-tomorrow/4379067",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/northeast-monsoon-warning-pothole-repair-work-in-full-swing-in-chennai",
-  "manual link added: https://www.hindutamil.in/news/india/cyclone-akvan-update-likely-to-intensify-into-a-very-severe-cyclonic-storm-by-november-19",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/கால்வாயில்-தவறி-விழுந்து-இளைஞா்-பலி",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/is-the-electric-wire-a-flag-that-hurts-clothes-the-people-of-valluvar-are-in-danger-of-losing-their-lives/4378899",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/bihar-labourer-killed-by-lorry---water-lorry-driver-questioned/4379005",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/புழல்-சிறைக்குள்-கஞ்சா-கடத்திய-ஆண்-செவிலியா்-கைது",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/the-judge-was-unhappy-with-the-police-for-not-producing-the-detainee/4379103",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-man-killed-as-lorry-hits-bike/4378737",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/தனியாா்-நிறுவனத்தில்-ரூ1-கோடி-ஆன்லைன்-மோசடி-சைபா்-குற்றப்பிரிவு-விசாரணை",
-  "candidate filter: collected=10",
-  "to write: 10 Chennai district candidates (max 10 stories)",
-  "round: top 10 of 10 candidates",
-  "candidates waiting: 10 Chennai; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/chennai-receives-first-rain-today-cyclone-aquana-to-make-landfall-the-next-day/4379257",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/ஆவடி-ஆணையரகத்தில்-80-ரௌடிகள்-கைது",
+  "candidate filter: collected=2",
+  "to write: 2 Chennai district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Chennai; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/chennai-recei",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "NOT filed (N) கைதானவரை ஆஜர்படுத்தாத போலீசார்மீது நீதிபதி அதிருப்: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "try (N) manual=True: https://www.hindutamil.in/news/india/cyclone-akvan-update-li",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/northeast-monsoo",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "NOT filed (N) தீவிரம் அடையும் ‘அக்வான்’ புயல்: நவ.19-ல் சென்னை, : duplicate after write",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 16})",
-  "candidate loop ended: left 0, tried={'N': 10}, done={'N': 8}, time left 75 min",
-  "filed: 8 Chennai district stories (target 10), reels only",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min",
+  "filed: 2 Chennai district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":10,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b"
  ],
  "stories": [
   {
-   "tamil_headline": "தரமணியில் சைக்கிள் மீது குடிநீர் லாரி மோதி முதியவர் பலி",
-   "english_headline": "Elderly cyclist killed after water tanker lorry hits him in Taramani; driver Raj, 48, arrested",
-   "category": "Roads & Transport",
-   "location": "Taramani, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "தரமணி",
-    "hl1": "தரமணியில் சைக்கிள் மீது லாரி மோதி",
-    "hl2": "லாரி ஓட்டுநர் கைது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "தரமணி, நல்லதம்பி தெருவில் விபத்து",
-       "சைக்கிளில் சென்ற <b>60 வயது</b> முதியவர் மீது குடிநீர் லாரி மோதியது",
-       "லாரி சக்கரத்தில் சிக்கி முதியவர் உயிரிழந்தார்"
-      ]
-     },
-     {
-      "title": "ஓட்டுநர் கைது",
-      "lines": [
-       "பொதுமக்கள் லாரி ஓட்டுநரைப் பிடித்தனர்",
-       "அடையாறு போக்குவரத்து புலனாய்வுப் பிரிவில் ஒப்படைத்தனர்",
-       "ஓட்டுநர் மயிலாடுதுறையைச் சேர்ந்த <b>ராஜ், 48</b>, கைது"
-      ]
-     },
-     {
-      "title": "விசாரணை நிலவரம்",
-      "lines": [
-       "இறந்தவர் யார் என்பது அடையாளம் தெரியவில்லை",
-       "போலீசார் விசாரணை நடத்தி வருகின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தரமணியில் சைக்கிள் மீது குடிநீர் லாரி மோதியதில் முதியவர் ஒருவர் உயிரிழந்தார். இன்று நவம்பர் 17ஆம் தேதி தரமணி நல்லதம்பி தெருவில் இந்த விபத்து நடந்தது. சுமார் 60 வயது மதிக்கத்தக்க அடையாளம் தெரியாத நபர் சைக்கிளில் சென்று கொண்டிருந்தார். பின்னால் வந்த குடிநீர் லாரி அவர் மீது மோதியது. நிலைதடுமாறி கீழே விழுந்த முதியவர் லாரி சக்கரத்தில் சிக்கி உயிரிழந்தார். பொதுமக்கள் லாரி ஓட்டுநரைப் பிடித்து அடையாறு போக்குவரத்து புலனாய்வுப் பிரிவில் ஒப்படைத்தனர். விசாரணையில் ஓட்டுநர் மயிலாடுதுறையைச் சேர்ந்த ராஜ், 48 என தெரியவந்தது. அவரைக் கைது செய்த போலீசார், உயிரிழந்தவர் குறித்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தரமணியில் சைக்கிள் மீது லாரி மோதி முதியவர் பலி\n\n📰 முழு விவரம்:\nதரமணி, நல்லதம்பி தெருவில் நவம்பர் 17ஆம் தேதி சைக்கிளில் சென்ற சுமார் 60 வயது மதிக்கத்தக்க அடையாளம் தெரியாத முதியவர் மீது பின்னால் வந்த குடிநீர் லாரி மோதியது. நிலைதடுமாறி கீழே விழுந்த அவர் லாரி சக்கரத்தில் சிக்கி உயிரிழந்தார். பொதுமக்கள் லாரி ஓட்டுநரைப் பிடித்து அடையாறு போக்குவரத்து புலனாய்வுப் பிரிவில் ஒப்படைத்தனர். விசாரணையில் ஓட்டுநர் மயிலாடுதுறையைச் சேர்ந்த ராஜ், 48 என தெரியவந்தது. அவரைக் கைது செய்த போலீசார், உயிரிழந்தவர் குறித்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: தரமணி, நல்லதம்பி தெரு\n🗓️ நாள்: நவம்பர் 17\n👮 நடவடிக்கை: லாரி ஓட்டுநர் ராஜ் (48 வயது), கைது\n\nTaramani lorry accident elderly cyclist dies | Chennai news\n📍 தரமணி, சென்னை மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Taramani #ChennaiNews #சென்னை",
-   "prompts": "A white water tanker lorry stands stopped at an angle on a narrow residential street in Taramani, Chennai, its rear wheel next to a small upturned bicycle lying on the tarmac. Two Tamil Nadu police in khaki stand beside the lorry, and a few onlookers in shirts and sarees gather at a distance, seen from behind, while a shuttered house and a concrete compound wall line the street. Early daylight with grey, overcast light and a few wet patches on the road. A police jeep with its light bar is parked at the far end near a TNEB pole. Camera at eye level, 35 mm, wide enough to show the whole street and the lorry with the bicycle in the foreground, no faces visible and no readable signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the rear wheel of a large water tanker lorry resting on a road surface in Chennai, with a bent bicycle frame and a fallen cycle basket lying beside it on the tarmac. Dull daylight, a few puddles reflecting the grey sky, and a bit of a kerb and a concrete drain in the background. A khaki-uniformed police boot is visible at the edge of the frame, blurred. Camera low and close, 50 mm, shallow depth of field so the wheel and bicycle are sharp while the background is soft; no injuries, no blood, no readable text. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-man-killed-as-lorry-hits-bike/4378737",
-   "published": "2026-11-17T18:31:03+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944376/chennaiminnal/vx5sjryhqzgfeqh3sjq5.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944379/chennaiminnal/bbz4f0xahu76jsshjnfc.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பெருங்குடியில் ரூ.1 கோடி ஆன்லைன் மோசடி: சைபர் குற்றப்பிரிவு விசாரணை",
-   "english_headline": "Rs 1 crore online fraud at a private firm in Perungudi; cyber crime police investigating",
+   "tamil_headline": "ஆவடி, செங்குன்றம் பகுதிகளில் 80 ரௌடிகள் அதிரடி கைது: 19 கிலோ கஞ்சா பறிமுதல்",
+   "english_headline": "80 rowdies arrested in Avadi and Red Hills; 19kg ganja and drugs seized in 3-day special drive",
    "category": "Crime & Safety",
-   "location": "Perungudi, Chennai district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ஆன்லைன் மோசடி",
-    "loc": "பெருங்குடி, சென்னை",
-    "hl1": "பெருங்குடியில் ரூ.1 கோடி ஆன்லைன் மோசடி",
-    "hl2": "சைபர் குற்றப்பிரிவு விசாரணை",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "பெருங்குடியில் ஒரு தனியார் நிறுவனத்தில் <b>ரூ.1 கோடி</b> மோசடி",
-       "நிறுவனத்தின் வங்கிக் கணக்குக்குள் மர்ம நபர்கள் ஊடுருவினர்",
-       "நவ. <b>9</b>ஆம் தேதி <b>24 முறை</b> பணப் பரிவர்த்தனை நடந்தது"
-      ]
-     },
-     {
-      "title": "எவ்வளவு பணம்?",
-      "lines": [
-       "மொத்தம் <b>ரூ.1,03,76,860</b> அபகரிக்கப்பட்டது",
-       "நிறுவன இயக்குநர் சத்யநாராயணன் சென்னை காவல் ஆணையரிடம் புகார்",
-       "நிறுவனக் கணினியில் இருந்து பரிவர்த்தனை நடக்கவில்லை"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "சைபர் குற்றப்பிரிவு வழக்குப் பதிவு செய்து விசாரிக்கிறது",
-       "பணம் சென்ற வங்கிக் கணக்குகளை முடக்க கோரிக்கை",
-       "ஏபிஐ பணப் பரிவர்த்தனை வசதி தற்காலிகமாக நிறுத்தம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பெருங்குடியில் தனியார் நிறுவனத்தில் ரூ.1 கோடி ஆன்லைன் மோசடி நடந்துள்ளது. நவம்பர் 9ஆம் தேதி மர்ம நபர்கள் நிறுவனத்தின் தனியார் வங்கிக் கணக்கில் ஊடுருவினர். சட்ட விரோதமாக 24 முறை பணப் பரிவர்த்தனை செய்து மொத்தம் ரூ.1,03,76,860 அபகரித்துள்ளனர். நிறுவனத்தின் இயக்குநர் சத்யநாராயணன் சென்னை காவல் ஆணையரிடம் புகார் அளித்தார். பாதுகாப்பு குறியாக்கச் சான்றிதழ் இருந்தும், இந்தப் பரிவர்த்தனைகள் நிறுவனக் கணினியில் இருந்து செய்யப்படவில்லை என ஆய்வில் தெரியவந்துள்ளது. புகாரின் அடிப்படையில் சைபர் குற்றப்பிரிவு போலீசார் வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர். பணம் அனுப்பப்பட்ட வங்கிக் கணக்குகளை முடக்கவும், ஐ பி முகவரி விவரங்களைத் தரவும் வங்கியிடம் கோரப்பட்டுள்ளது. நிறுவனத்தின் ஏபிஐ பணப் பரிவர்த்தனை வசதியைத் தற்காலிகமாக நிறுத்துமாறும் அறிவுறுத்தப்பட்டுள்ளது. பணம் இந்தியாவின் பல மாநிலங்களில் உள்ள கணக்குகளுக்கு மாற்றப்பட்டுள்ளது. மோசடியில் ஈடுபட்டவர்கள் யார் என்பது இன்னும் விசாரணையில் உள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பெருங்குடியில் தனியார் நிறுவனத்தில் ரூ.1 கோடி ஆன்லைன் மோசடி\n\n📰 முழு விவரம்:\nபெருங்குடியில் உள்ள ஒரு தனியார் ஆன்லைன் பணப் பரிவர்த்தனை நிறுவனத்தின் வங்கிக் கணக்குக்குள் நவ. 9ஆம் தேதி மர்ம நபர்கள் ஊடுருவினர். 24 முறை சட்ட விரோதமாகப் பணம் அனுப்பப்பட்டு மொத்தம் ரூ.1,03,76,860 அபகரிக்கப்பட்டது. நிறுவன இயக்குநர் சத்யநாராயணன் சென்னை காவல் ஆணையரிடம் புகார் அளித்தார். நிறுவனக் கணினியில் இருந்து இந்தப் பரிவர்த்தனைகள் நடக்கவில்லை என ஆய்வில் தெரியவந்தது.\n🔍 புகாரின் அடிப்படையில் சைபர் குற்றப்பிரிவு வழக்குப் பதிவு செய்து விசாரிக்கிறது.\n🏦 பணம் சென்ற வங்கிக் கணக்குகளை முடக்கவும், ஐ.பி. முகவரி, தொழில்நுட்பப் பதிவுகளை வழங்கவும் வங்கியிடம் கோரப்பட்டுள்ளது.\n⏸️ நிறுவனத்தின் ஏபிஐ பணப் பரிவர்த்தனை வசதியைத் தற்காலிகமாக நிறுத்துமாறு அறிவுறுத்தப்பட்டுள்ளது.\n💰 பணம் இந்தியாவின் பல மாநிலங்களில் உள்ள கணக்குகளுக்கு மாற்றப்பட்டுள்ளது.\n\nRs 1 crore online fraud Perungudi | Chennai news\n📍 பெருங்குடி, சென்னை மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Perungudi #சைபர்கிரைம் #ChennaiNews",
-   "prompts": "A cyber crime police officer in khaki uniform sits at a desk in a Perungudi office and examines transaction printouts and records of bank transfers, while a computer monitor shows only blurred screen light. The setting is a private firm's office in Perungudi, one of the IT-corridor areas of Chennai, with glass partitions, an air-conditioned workspace, and rows of desks with computers and server cabinets along the wall. Two people in shirts and trousers sit on the far side of the room, seen from behind, and a third person in a formal shirt stands near a window, all at a distance and out of focus. On the desk are stacks of paper, a laptop, a keyboard, and a bundle of bank statements, with a server rack and a network cable visible on the floor. It is daytime, with soft natural light coming through the windows, and the mood is quiet and investigative. Shot at eye level with a 35 mm lens, wide enough to show the whole office and the people working in it. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a desk in a Perungudi office with a computer keyboard, a printed stack of bank transaction records, and a server cable lying across the surface, with a police officer's khaki sleeve just entering the frame at the edge. The focus is on the paper printouts and the glowing blank screen of a monitor, which shows no readable content, emphasising the digital trail of the cyber fraud. Behind the desk, a server rack with blinking lights is slightly out of focus, and a glass partition shows the silhouettes of two people working at a distance. The lighting is daytime office light mixed with the faint blue glow of the computer screen. Shot as a detail close-up at eye level with a 35 mm lens, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/தனியாா்-நிறுவனத்தில்-ரூ1-கோடி-ஆன்லைன்-மோசடி-சைபா்-குற்றப்பிரிவு-விசாரணை",
-   "published": "2026-11-17T19:20:13.247Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 99 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944389/chennaiminnal/hrmsuifehkvshsqlfnbl.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944394/chennaiminnal/cyngdnlt4wnxtpoaj1yk.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "புழல் சிறைக்குள் கஞ்சா கடத்திய செவிலியர் உதவியாளர் கைது",
-   "english_headline": "Male nurse's assistant arrested for smuggling cannabis into Puzhal prison",
-   "category": "Crime & Safety",
-   "location": "Puzhal, Chennai district",
+   "location": "Avadi and Red Hills, Chennai district",
    "importance": "High",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "கைது",
-    "loc": "புழல், சென்னை",
-    "hl1": "புழல் சிறைக்குள் கஞ்சா கடத்தல்: ஒருவர்",
-    "hl2": "313 கிராம் கஞ்சா பறிமுதல்",
+    "cat": "குற்றத்தடுப்பு",
+    "loc": "ஆவடி, சென்னை",
+    "hl1": "ஆவடி, செங்குன்றம் பகுதிகளில் 80 பேர்",
+    "hl2": "19 கிலோ கஞ்சா பறிமுதல்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "அதிரடி நடவடிக்கை",
       "lines": [
-       "புழல் மத்திய சிறையில் செவிலியர் உதவியாளராக பணியாற்றும்",
-       "திங்கள்கிழமை சிறைக்குள் செல்லும்போது சோதனை",
-       "உள்ளாடைக்குள் பார்சல் மறைத்து வைத்திருந்தது தெரிந்தது"
+       "ஆவடி, செங்குன்றம் பகுதிகளில் <b>80 ரௌடிகள்</b> கைது",
+       "கடந்த <b>3 நாட்களில்</b> சிறப்பு சோதனை",
+       "குற்றத்தடுப்பு நடவடிக்கையாக போலீசார் அதிரடி"
       ]
      },
      {
-      "title": "என்ன கிடைத்தது?",
+      "title": "கைது விவரம்",
       "lines": [
-       "<b>313 கிராம்</b> கஞ்சா பறிமுதல்",
-       "வாசனை திரவிய பாட்டில், குங்குமப் பாக்கெட்டும் இருந்தது",
-       "சிறைக் காவலர்கள் புழல் காவல் நிலையத்தில் புகார்"
+       "<b>12 ரௌடிகள்</b> உட்பட <b>61 பேர்</b> முன்னெச்சரிக்கை கைது",
+       "பொது அமைதிக்கு பங்கம் விளைவித்த <b>49 பேர்</b> பிடிபட்டனர்",
+       "<b>23 பேரிடம்</b> நன்னடத்தை பிணை பெறப்பட்டது"
       ]
      },
      {
-      "title": "போலீஸ் விசாரணை",
+      "title": "போதைப்பொருள்",
       "lines": [
-       "காவங்கரை பேருந்து நிறுத்தம் அருகே பார்சல் ஒப்படைக்கப்பட்டது",
-       "பிளாக் 4-ல் உள்ள சில கைதிகளிடம் தரும்படி கூறியதாக தெரிந்தது",
-       "போலீஸ் தீவிர விசாரணையில் உள்ளனர்"
+       "<b>11 கஞ்சா வழக்குகள்</b> பதிவு செய்யப்பட்டு <b>19 பேர்</b> கைது",
+       "<b>19 கிலோ கஞ்சா</b>, <b>60 கிராம்</b> மெத்தம்பெட்டமைன் பறிமுதல்",
+       "கடத்தலுக்கு பயன்படுத்திய <b>2 இருசக்கர வாகனங்கள்</b> மீட்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "புழல் சிறைக்குள் கஞ்சா கடத்திய செவிலியர் உதவியாளர் கைது செய்யப்பட்டுள்ளார். சென்னை புழல் மத்திய சிறையில் விசாரணைக் கைதிகள் பிரிவில் உள்ள மருத்துவமனையில் செவிலியர் உதவியாளராகப் பணியாற்றும் சி கே கனகராஜ், 51 வயது, திங்கள்கிழமை சிறைக்குள் சென்றார். அப்போது சிறைக் காவலர்கள் அவரைச் சோதனை செய்தனர். அவர் தனது உள்ளாடைக்குள் ஒரு பார்சலை மறைத்து வைத்திருந்தது தெரியவந்தது. பார்சலைப் பறிமுதல் செய்து திறந்து பார்த்தபோது, 313 கிராம் கஞ்சா, வாசனை திரவிய பாட்டில், குங்குமப் பாக்கெட் ஆகியவை இருந்தன. சிறைக் காவலர்கள் கனகராஜைப் பிடித்து புழல் காவல் நிலையத்தில் ஒப்படைத்து புகார் அளித்தனர். போலீசார் வழக்குப் பதிவு செய்து அவரைக் கைது செய்து விசாரித்தனர். விசாரணையில், காவங்கரை பேருந்து நிறுத்தம் அருகே அந்த பார்சலை ஒப்படைத்து, சிறையில் பிளாக் 4-ல் உள்ள சில கைதிகளிடம் தரும்படி கூறியிருப்பது தெரியவந்தது. இதுதொடர்பாக போலீசார் தீவிர விசாரணையில் ஈடுபட்டுள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 புழல் சிறைக்குள் கஞ்சா கடத்தல்: செவிலியர் உதவியாளர் கைது\n\n📰 முழு விவரம்:\nபுழல் மத்திய சிறையில் விசாரணைக் கைதிகள் பிரிவில் உள்ள மருத்துவமனையில் செவிலியர் உதவியாளராகப் பணியாற்றும் சி.கே.கனகராஜ் (51 வயது), திங்கள்கிழமை சிறைக்குள் சென்றபோது சோதனை செய்யப்பட்டார். அவர் உள்ளாடைக்குள் பார்சல் ஒன்றை மறைத்து வைத்திருந்தது கண்டறியப்பட்டது.\nபார்சலில் 313 கிராம் கஞ்சா, வாசனை திரவிய பாட்டில், குங்குமப் பாக்கெட் இருந்தன. சிறைக் காவலர்கள் அவரைப் புழல் காவல் நிலையத்தில் ஒப்படைத்து புகார் அளித்தனர். போலீசார் வழக்குப் பதிவு செய்து அவரைக் கைது செய்தனர்.\nவிசாரணையில், காவங்கரை பேருந்து நிறுத்தம் அருகே பார்சலை ஒப்படைத்து, சிறையில் பிளாக் 4-ல் உள்ள சில கைதிகளிடம் தரும்படி கூறியிருப்பது தெரியவந்தது. இதுதொடர்பாக போலீசார் தீவிர விசாரணை நடத்துகின்றனர்.\n\nPuzhal prison cannabis smuggling, nurse assistant arrested | Chennai news\n📍 புழல், சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Puzhal #கைது #ChennaiNews",
-   "prompts": "A row of Tamil Nadu prison guards in khaki uniform stands at the security check gate of Puzhal Central Prison in Chennai, seen from slightly behind and at a distance. In the middle, a man in his fifties wearing a plain white shirt and trousers, a hospital assistant's identity lanyard around his neck, is being searched by a guard who holds a sealed parcel recovered from under his clothing. The gate is a grey concrete entrance with a steel barrier and a small guard booth, with a wall of the prison compound behind it. A few two-wheelers are parked at the roadside outside the gate, and an autorickshaw passes slowly on the road. The time is mid-morning under bright daylight with clear sky and harsh shadows. Shot at eye level with a 35 mm lens, wide enough to show the gate, the guards and the surrounding road, with all faces turned away or blurred. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail on a steel or wooden table inside a Tamil Nadu police station, lit by daylight from a window. On the table lies a torn-open brown paper parcel holding a small heap of dried green cannabis leaves, placed beside a small glass perfume bottle with a plain cap and a small folded paper packet of red kumkum powder spilled slightly onto the wood. A khaki-uniformed police officer's sleeve and hand are visible at the edge of the frame, blurred, with no face shown. The background is a plain cream wall with a government notice board, its text unreadable and out of focus. Shot from slightly high with a 50 mm lens, shallow depth of field, neutral daylight tones. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/புழல்-சிறைக்குள்-கஞ்சா-கடத்திய-ஆண்-செவிலியா்-கைது",
-   "published": "2026-11-17T19:17:58.135Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஆவடி மற்றும் செங்குன்றம் பகுதிகளில் கடந்த 3 நாட்களில் 80 ரௌடிகள் அதிரடியாக கைது செய்யப்பட்டுள்ளனர். ஆவடி காவல் ஆணையரகத்திற்கு உட்பட்ட பகுதிகளில் குற்றத்தடுப்பு நடவடிக்கையாக இந்தச் சிறப்புச் சோதனை நடத்தப்பட்டது. இதில் 12 ரௌடிகள் மற்றும் பொது அமைதிக்கு பங்கம் விளைவித்த 49 பேர் என மொத்தம் 61 பேர் முன்னெச்சரிக்கை நடவடிக்கையாகக் கைது செய்யப்பட்டனர். மேலும் 23 பேரிடம் நன்னடத்தை பிணை பெறப்பட்டு நடவடிக்கை எடுக்கப்பட்டுள்ளது. போதைப் பொருட்களுக்கு எதிரான சோதனையில் 11 கஞ்சா வழக்குகள் பதிவு செய்யப்பட்டு 15 பேர் கைது செய்யப்பட்டனர். தலைமறைவாக இருந்த 4 பேர் உட்பட மொத்தம் 19 பேர் பிடிபட்டனர். இவர்களிடம் இருந்து 19 கிலோ கஞ்சா மற்றும் 60 கிராம் மெத்தம்பெட்டமைன் பறிமுதல் செய்யப்பட்டது. கடத்தலுக்குப் பயன்படுத்தப்பட்ட 2 இருசக்கர வாகனங்களையும் போலீசார் கைப்பற்றினர். ஆவடி மற்றும் செங்குன்றம் காவல் மாவட்டங்களில் இந்த அதிரடி நடவடிக்கை மேற்கொள்ளப்பட்டது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஆவடி, செங்குன்றம் பகுதிகளில் 80 ரௌடிகள் அதிரடி கைது - 19 கிலோ கஞ்சா பறிமுதல்\n\n📰 முழு விவரம்:\nஆவடி காவல் ஆணையரகத்திற்கு உட்பட்ட ஆவடி மற்றும் செங்குன்றம் காவல் மாவட்டங்களில் கடந்த 3 நாட்களாகச் சிறப்பு குற்றத்தடுப்பு நடவடிக்கை மேற்கொள்ளப்பட்டது. இதில் 12 ரௌடிகள் மற்றும் பொது அமைதிக்குத் தொந்தரவு செய்த 49 பேர் என மொத்தம் 61 பேர் முன்னெச்சரிக்கை நடவடிக்கையாகக் கைது செய்யப்பட்டனர். மேலும் 23 பேரிடம் நன்னடத்தை பிணை பெறப்பட்டது. போதைப் பொருள் விற்பனை தொடர்பாக 11 கஞ்சா வழக்குகள் பதியப்பட்டு 15 பேர் மற்றும் தலைமறைவாக இருந்த 4 பேர் என மொத்தம் 19 பேர் கைது செய்யப்பட்டனர். இவர்களிடம் இருந்து 19 கிலோ கஞ்சா, 60 கிராம் மெத்தம்பெட்டமைன் மற்றும் 2 இருசக்கர வாகனங்கள் பறிமுதல் செய்யப்பட்டன.\n\n📍 இடம்: ஆவடி, செங்குன்றம், சென்னை மாவட்டம்\n🗓️ நாள்: கடந்த 3 நாட்கள்\n👮 நடவடிக்கை: 80 பேர் கைது, 19 கிலோ கஞ்சா பறிமுதல்\nℹ️ மக்கள் கவனத்திற்கு: குற்றச் செயல்கள் குறித்து போலீசாருக்குத் தகவல் தெரிவிக்கலாம்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nAvadi Red Hills rowdies arrest | Chennai crime news\n📍 ஆவடி, சென்னை | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Avadi #CrimeNews #சென்னை",
+   "prompts": "A group of Tamil Nadu police officers in khaki uniforms handcuff and lead away a line of men and boys, representing the bulk of the 80 arrests made in the three‑day special drive. The scene is set on a typical Avadi suburban street lined with low‑rise houses, a concrete curb and a few street trees, identifiable as the Avadi‑Red Hills area of Chennai. Police officers (about five) are seen from behind or side‑profile, while the arrested individuals (around ten visible) are shown from behind, wearing casual shirts and trousers, walking toward a police jeep. Parked nearby are two seized two‑wheelers, their colours not distinct, and a police jeep with flashing lights. The lighting is bright daylight with clear sky, typical of a Chennai afternoon. Shot at eye level with a 35 mm lens, wide enough to capture the street context and the procession. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of a metal table on the curb displaying the seized contraband: several tightly wrapped bundles of greenish ganja leaves and multiple sealed bags of white powder representing 60 kg of methamphetamine, alongside a police evidence tag. In the background, one of the two seized two‑wheelers is visible, its registration plate blurred, and a police officer in khaki stands with a hand on the table, his face turned away. The setting remains the same Avadi residential street, with the same daylight illumination and clear weather. The camera is positioned slightly higher than eye level, using a 35 mm lens to focus on the evidence while still showing the surrounding street and the parked vehicle, emphasizing the seized goods as the story’s key detail. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/ஆவடி-ஆணையரகத்தில்-80-ரௌடிகள்-கைது",
+   "published": "2026-11-17T19:26:47.805Z",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944420/chennaiminnal/wmzrfmkqzw6jbu3aqpqf.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944425/chennaiminnal/hstnwfjf09z5ysvdmx7x.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794956938/chennaiminnal/ezgzq6mw830m8nyk7uad.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794956971/chennaiminnal/ftzs6rw1xnswdznmkp9e.jpg"
    ]
   },
   {
-   "tamil_headline": "வள்ளூவர் நகரில் தாழ்வாக தொங்கும் மின் கம்பிகள்: உயிர் பலி அபாயம்",
-   "english_headline": "Low-hanging power lines in Valluvar Nagar, Chithalapakkam pose risk of death; residents urge raising lines or underground cabling",
-   "category": "Civic Issues",
-   "location": "Valluvar Nagar, Chithalapakkam, Parangimalai panchayat union, Chennai district",
+   "tamil_headline": "அக்வான் புயல் நாளை மறுநாள் கரையேறும்; சென்னையில் இன்று மழை",
+   "english_headline": "Cyclone Aquane to make landfall in Andhra Pradesh; rain expected in Chennai today",
+   "category": "Weather & Agriculture",
+   "location": "Chennai, Chennai district",
    "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மின்சாரம் அபாயம்",
-    "loc": "வள்ளூவர் நகர், சித்தாலப்பாக்கம்",
-    "hl1": "வள்ளூவர் நகரில் தாழ்வான மின் கம்பிகள்",
-    "hl2": "உயிர் பலி அபாயம்",
-    "slides": [
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "சித்தாலப்பாக்கம் ஊராட்சி, வள்ளூவர் நகர்",
-       "4வது மற்றும் 3வது தெருக்களில் மின் கம்பிகள் தாழ்வாக",
-       "பரங்கிமலை ஊராட்சி ஒன்றியத்துக்கு உட்பட்ட பகுதி"
-      ]
-     },
-     {
-      "title": "என்ன ஆபத்து?",
-      "lines": [
-       "சில இடங்களில் <b>8 அடி</b> உயரத்தில் கம்பிகள் தொங்குகின்றன",
-       "சில இடங்களில் கை எட்டும் தூரத்தில் கம்பிகள்",
-       "இரும்புப் பொருட்களைக் கையாளும்போது விபத்து ஏற்படலாம்"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "1,000க்கும் மேற்பட்ட வீடுகள் உள்ளன",
-       "மின் கம்பிகளை உயர்த்தி அமைக்க வேண்டும்",
-       "அல்லது புதைவட மின் இணைப்பு வழங்க வேண்டும்"
-      ]
-     },
-     {
-      "title": "மின் வாரியம்",
-      "lines": [
-       "மின் கம்பங்களுக்கு மேல் உயர் மின்னழுத்தக் கம்பிகள்",
-       "அதனால் கம்பிகளின் உயரத்தை அதிகரிக்க இயலாது",
-       "புதைவட மின் இணைப்பு வழங்க நடவடிக்கை எடுக்கப்படும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னை சித்தாலப்பாக்கம் ஊராட்சி வள்ளூவர் நகரில் மின் கம்பிகள் ஆபத்தான முறையில் தாழ்வாகத் தொங்குகின்றன. 4வது மற்றும் 3வது தெருக்களில் செல்லும் மின் கம்பிகள் சில இடங்களில் 8 அடி உயரத்தில் உள்ளன. வேறு சில இடங்களில் கை எட்டும் தூரத்தில் தொங்குகின்றன. இரும்புப் பொருட்களைக் கையாளும்போது கவனக்குறைவாக இருந்தால் பெரிய விபத்து அல்லது உயிர் பலி ஏற்படும் அபாயம் உள்ளது. இந்தப் பகுதியில் 1,000க்கும் மேற்பட்ட வீடுகள் அமைந்துள்ளன. பரங்கிமலை ஊராட்சி ஒன்றியம் சித்தாலப்பாக்கம் ஊராட்சிக்கு உட்பட்ட இந்தப் பகுதி மக்கள், மின் கம்பிகளை உயர்த்தி அமைக்கவோ அல்லது புதைவட மின் இணைப்பு வழங்கவோ நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை விடுத்துள்ளனர். இதுகுறித்து மின் வாரிய அதிகாரிகள், மின் கம்பங்களுக்கு மேல் உயர் மின்னழுத்தக் கம்பிகள் செல்வதால் கம்பிகளின் உயரத்தை அதிகரிக்க இயலாது என்று தெரிவித்துள்ளனர். எனவே புதைவட மின் இணைப்பு வழங்க நடவடிக்கை எடுக்கப்படும் என அவர்கள் கூறியுள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ சித்தாலப்பாக்கம் வள்ளூவர் நகரில் தாழ்வான மின் கம்பிகள்: உயிர் பலி அபாயம்\n\n📰 முழு விவரம்:\nசித்தாலப்பாக்கம் ஊராட்சிக்கு உட்பட்ட வள்ளூவர் நகரில் மின் கம்பிகள் ஆபத்தான முறையில் தாழ்வாகத் தொங்குகின்றன. 4வது மற்றும் 3வது தெருக்களில் சில இடங்களில் 8 அடி உயரத்தில் கம்பிகள் உள்ளன; வேறு சில இடங்களில் கை எட்டும் தூரத்தில் தொங்குகின்றன. இரும்புப் பொருட்களைக் கையாளும்போது கவனக்குறைவாக இருந்தால் பெரிய விபத்து அல்லது உயிர் பலி ஏற்படலாம் என மக்கள் அச்சப்படுகின்றனர். இப்பகுதியில் 1,000க்கும் மேற்பட்ட வீடுகள் உள்ளன. மின் கம்பிகளை உயர்த்தி அமைக்கவோ, புதைவட மின் இணைப்பு வழங்கவோ நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n🔎 மின் வாரிய அதிகாரிகள் கூறுகையில், மின் கம்பங்களுக்கு மேல் உயர் மின்னழுத்தக் கம்பிகள் செல்வதால் கம்பிகளின் உயரத்தை அதிகரிக்க இயலாது. எனவே புதைவட மின் இணைப்பு வழங்க நடவடிக்கை எடுக்கப்படும் என்று தெரிவித்துள்ளனர்.\n\nChithalapakkam Valluvar Nagar low power lines, risk of death | Chennai news\n📍 சித்தாலப்பாக்கம், சென்னை மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Chithalapakkam #மின்சாரம் #ChennaiNews",
-   "prompts": "A row of sagging overhead electricity wires hangs low across a narrow residential lane in Valluvar Nagar, Chithalapakkam, Chennai, so close to the ground that they look like clothes-drying lines strung between the houses. Two concrete electric poles lean at the sides of the quiet street, and the wires dip almost to head height in the middle of the lane. Small, low-rise tiled-roof and concrete houses of a dense Tamil Nadu colony line both sides of the road, with a few plastic water pots and a bicycle near a doorway. A couple of residents, seen from behind and far away, walk cautiously beneath the drooping cables, one holding an iron rod at a distance. The scene is in bright daylight with a clear sky and soft shadows on the dusty road. Camera at eye level, 35 mm, wide enough to show the wires, the poles and the houses together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an electricity wire sagging just above a rooftop and a concrete pole in a narrow Chennai residential lane, showing how low the line hangs at about eight feet. The thick black cable curves in a loose loop between the pole and a corrugated roof edge, with a few dusty tree leaves and a stray plastic bag caught near the pole base. Out of focus behind it, the blurred brick wall and doorway of a small house show the crowded colony. A residents' hand, seen only at the edge of the frame and slightly blurred, rests near a bamboo pole held at a safe distance. Bright daylight, slightly high camera angle, 35 mm, shallow depth of field to isolate the sagging wire. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/is-the-electric-wire-a-flag-that-hurts-clothes-the-people-of-valluvar-are-in-danger-of-losing-their-lives/4378899",
-   "published": "2026-11-17T19:25:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944439/chennaiminnal/gb5o4jegpiqmrpn5tvrr.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944441/chennaiminnal/o80jttwlhflj1oagbwut.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மடிப்பாக்கத்தில் கால்வாயில் தவறி விழுந்து இளைஞர் உயிரிழப்பு",
-   "english_headline": "Young man dies after falling into canal at Madipakkam",
-   "category": "Crime & Safety",
-   "location": "Madipakkam, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விபத்து",
-    "loc": "மடிப்பாக்கம், சென்னை",
-    "hl1": "மடிப்பாக்கத்தில் கால்வாயில் விழுந்து",
-    "hl2": "போலீஸ் வழக்குப் பதிவு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "மடிப்பாக்கம் கைவேலி பகுதியில் ஒருவர் கால்வாயில் விழுந்தார்",
-       "வீராங்கல் ஓடை ஓரம் நடந்து சென்றபோது நிலைதடுமாறினார்",
-       "பள்ளிக்கரணையைச் சேர்ந்த <b>விக்னேஷ் (39 வயது)</b>"
-      ]
-     },
-     {
-      "title": "மீட்பு",
-      "lines": [
-       "பொதுமக்களும் போலீசாரும் போராடி அவரை மீட்டனர்",
-       "ராயப்பேட்டை அரசு மருத்துவமனைக்கு அனுப்பப்பட்டார்",
-       "சிறிது நேரத்தில் சிகிச்சை பலனின்றி உயிரிழந்தார்"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "மடிப்பாக்கம் போலீசார் வழக்குப் பதிவு செய்தனர்",
-       "தொடர்ந்து விசாரணை நடந்து வருகிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "மடிப்பாக்கத்தில் கால்வாயில் தவறி விழுந்து 39 வயது இளைஞர் உயிரிழந்தார். பள்ளிக்கரணையைச் சேர்ந்த விக்னேஷ் என்பவர் மடிப்பாக்கம் கைவேலி பகுதியில் வீராங்கல் ஓடை ஓரம் நடந்து சென்றபோது நிலைதடுமாறி கால்வாயில் விழுந்தார். அங்கிருந்த பொதுமக்களும் தகவல் அறிந்து வந்த போலீசாரும் போராடி அவரை மீட்டனர். பின்னர் அவர் ராயப்பேட்டை அரசு மருத்துவமனைக்கு அனுப்பப்பட்டார். அங்கு சிறிது நேரத்தில் சிகிச்சை பலனின்றி அவர் உயிரிழந்தார். இது குறித்து மடிப்பாக்கம் போலீசார் வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 மடிப்பாக்கத்தில் கால்வாயில் விழுந்து இளைஞர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nபள்ளிக்கரணையைச் சேர்ந்த விக்னேஷ் (39 வயது), மடிப்பாக்கம் கைவேலி பகுதியில் வீராங்கல் ஓடை ஓரம் நடந்து சென்றபோது நிலைதடுமாறி கால்வாயில் விழுந்தார். பொதுமக்களும் போலீசாரும் போராடி அவரை மீட்டு ராயப்பேட்டை அரசு மருத்துவமனைக்கு அனுப்பினர். சிறிது நேரத்தில் அவர் உயிரிழந்தார். மடிப்பாக்கம் போலீசார் வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: மடிப்பாக்கம் கைவேலி, வீராங்கல் ஓடை ஓரம்\n👮 நடவடிக்கை: மடிப்பாக்கம் போலீசார் வழக்குப் பதிவு செய்து விசாரணை\n\nYoung man dies after falling into canal, Madipakkam | Chennai news\n📍 மடிப்பாக்கம், சென்னை மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Madipakkam #ChennaiNews #சென்னை",
-   "prompts": "A group of local residents and two Tamil Nadu police in khaki uniform stand in a tense huddle on the concrete bank of an open urban canal in Madipakkam, Chennai, while a rescue has just ended. The canal is a wide, murky concrete-lined odai with dark, slow-moving water, and a narrow footpath runs along its edge lined with a low railing, scattered plastic bags and a few parked two-wheelers beyond. The people are seen from behind and at a distance: men in shirts and veshti, one in a dhoti, one officer in khaki trousers and cap, all with their attention on the water. Wet footprints mark the concrete where the rescue took place. It is daylight under an overcast sky, with flat, subdued light. Camera at eye level, 35 mm, wide enough to show the canal bank and the surrounding urban street, with the figures small in the frame. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of the edge of a concrete-lined urban canal in Madipakkam, Chennai, where a man slipped. The murky, dark water of the odai sits just below a crumbling concrete lip, with a rusted metal railing post and scattered plastic litter caught against the bank. Wet, slippery concrete shows fresh water marks and a muddy footprint, and a faded tyre track runs along the path edge. No people are visible, only the hands of a police officer in khaki sleeve entering the frame at the far edge, slightly blurred. Overcast daylight gives flat, even light. Camera low and close, 50 mm, shallow depth of field, focusing on the slippery edge and the dark water beyond. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/கால்வாயில்-தவறி-விழுந்து-இளைஞா்-பலி",
-   "published": "2026-11-17T19:21:49.416Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944449/chennaiminnal/c4zfniiktsg2ue0xih2z.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944452/chennaiminnal/psmuhugp1o6yz19fsgsy.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தண்ணீர் லாரி ஏறி பீஹார் தொழிலாளி இறந்தாரா? போலீஸ் விசாரணை",
-   "english_headline": "Bihar worker found dead in Kovilambakkam; police probe whether a water lorry ran over him",
-   "category": "Crime & Safety",
-   "location": "Kovilambakkam, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விசாரணை",
-    "loc": "கோவிலம்பாக்கம், சென்னை",
-    "hl1": "கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்",
-    "hl2": "தண்ணீர் லாரி ஓட்டுநரிடம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலமாக மீட்பு",
-       "நவ. 17 காலை 9 மணிக்கு மேடவாக்கம் போலீசுக்குத் தகவல்",
-       "தலையில் காயம், முதுகில் லாரி சக்கரம் ஏறிய அடையாளம்"
-      ]
-     },
-     {
-      "title": "யார் அவர்?",
-      "lines": [
-       "இறந்தவர் கவுரி ரான் (40 வயது), பீஹார் மாநிலத்தவர்",
-       "கோவிலம்பாக்கத்தில் தங்கி மெட்ரோ ரயில் ஒப்பந்தத் தொழிலாளி",
-       "எஸ். கொளத்தூர் பிரதான சாலை, ஹார்டுவேர்ஸ் கடை எதிரே"
-      ]
-     },
-     {
-      "title": "விசாரணை",
-      "lines": [
-       "நேற்று இரவு கிணற்றில் நீர் எடுக்க வந்த லாரி நின்றது",
-       "விழுப்புரத்தைச் சேர்ந்த லாரி ஓட்டுநர் திருமூர்த்தி, 40",
-       "சந்தேகத்தில் ஓட்டுநரைக் காவல் நிலையம் அழைத்து விசாரணை"
-      ]
-     },
-     {
-      "title": "அடுத்து?",
-      "lines": [
-       "லாரி ஏறித்தான் இறந்தாரா என பள்ளிக்கரணை புலனாய்வுப் பிரிவு",
-       "உடல் தாம்பரம் அரசு மருத்துவமனையில் பிரேத பரிசோதனைக்கு",
-       "விசாரணை தொடர்கிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலமாகக் கிடந்தார். இவர் லாரி ஏறி இறந்தாரா என போலீசார் விசாரித்து வருகின்றனர். இன்று நவம்பர் 17ஆம் தேதி காலை 9 மணிக்கு, எஸ். கொளத்தூர் பிரதான சாலையில் ஹார்டுவேர்ஸ் கடை எதிரே ஒருவர் காயத்துடன் கிடப்பதாக மேடவாக்கம் காவல் நிலையத்துக்கு மக்கள் தகவல் தெரிவித்தனர். போலீசார் சென்று பார்த்தபோது, அவர் தலையில் காயங்களுடன் இறந்து கிடந்தார். அவரது முதுகில் லாரி சக்கரம் ஏறிய அடையாளம் இருந்தது. பள்ளிக்கரணை புலனாய்வுப் பிரிவு போலீசார், அருகிலுள்ள கிணற்றில் நீர் எடுக்க வந்த லாரி ஓட்டுநர்களிடம் விசாரித்தனர். விழுப்புரத்தைச் சேர்ந்த லாரி ஓட்டுநர் திருமூர்த்தி (40 வயது), நேற்று இரவு கிணற்றில் நீர் எடுக்க லாரியை நிறுத்தியபோது ஒருவர் மயங்கிக் கிடந்ததாகத் தெரிவித்தார். அவர் போதையில் இருப்பதாக நினைத்து கடையின் வாசலில் தூக்கி வைத்ததாகக் கூறினார். அப்பகுதியில் சிசிடிவி கேமரா இல்லாததால், சந்தேகத்தின் அடிப்படையில் லாரி ஓட்டுநர் காவல் நிலையம் அழைத்துச் செல்லப்பட்டு விசாரிக்கப்பட்டார். இறந்தவர் பீஹார் மாநிலத்தைச் சேர்ந்த கவுரி ரான் (40 வயது), என்றும், கோவிலம்பாக்கத்தில் தங்கி மெட்ரோ ரயில் ஒப்பந்தத் தொழிலாளியாக வேலை செய்தார் என்றும் தெரியவந்துள்ளது. உடல் தாம்பரம் அரசு மருத்துவமனைக்கு பிரேத பரிசோதனைக்கு அனுப்பப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை\n\n📰 முழு விவரம்:\nகோவிலம்பாக்கம் எஸ். கொளத்தூர் பிரதான சாலையில் ஹார்டுவேர்ஸ் கடை எதிரே, 40 வயது பீஹார் தொழிலாளி தலையில் காயங்களுடன் இறந்து கிடந்தார். அவரது முதுகில் லாரி சக்கரம் ஏறிய அடையாளம் இருந்தது. நவ. 17 காலை 9 மணிக்கு அப்பகுதி மக்கள் மேடவாக்கம் காவல் நிலையத்துக்குத் தகவல் தெரிவித்தனர்.\nபள்ளிக்கரணை புலனாய்வுப் பிரிவு போலீசார் கிணற்றில் நீர் எடுக்க வந்த லாரி ஓட்டுநர்களிடம் விசாரித்தனர். விழுப்புரத்தைச் சேர்ந்த லாரி ஓட்டுநர் திருமூர்த்தி (40 வயது), நேற்று இரவு ஒருவர் மயங்கிக் கிடந்ததாகவும், அவரை போதையில் இருப்பதாக நினைத்து கடை வாசலில் தூக்கி வைத்ததாகவும் தெரிவித்தார். சிசிடிவி கேமரா இல்லாததால் அவர் காவல் நிலையம் அழைத்துச் செல்லப்பட்டு விசாரிக்கப்பட்டார்.\n📍 இடம்: கோவிலம்பாக்கம், எஸ். கொளத்தூர் பிரதான சாலை\n🕘 நேரம்: நவ. 17 காலை 9 மணி\n👮 நடவடிக்கை: உடல் மீட்கப்பட்டு, பிரேத பரிசோதனைக்காக தாம்பரம் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது. இறந்தவர் பீஹார் மாநிலத்தைச் சேர்ந்த கவுரி ரான் (40 வயது), கோவிலம்பாக்கத்தில் தங்கி மெட்ரோ ரயில் ஒப்பந்தத் தொழிலாளியாக வேலை செய்தவர் என தெரியவந்துள்ளது.\nℹ️ லாரி ஏறித்தான் இறந்தாரா என்பது விசாரணையில் உள்ளது.\n\nBihar worker found dead in Kovilambakkam, lorry probe | Chennai news\n📍 கோவிலம்பாக்கம், சென்னை மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kovilambakkam #போலீஸ் #ChennaiNews",
-   "prompts": "A Tamil Nadu police team in khaki stands beside a parked white water lorry on a narrow tarred road in Kovilambakkam, Chennai, as a police constable in khaki and a few local residents in shirts and veshti stand at a distance near a hardware shop front with shuttered shutters. Behind the group, a yellow-painted mini van and a two-wheeler are parked at the roadside, and a line of plain, low-rise shops with tin awnings lines the street. A white cloth sheet covers a shape on the pavement near the shop doorway, seen from far away and partially blurred so no body detail is visible. It is early morning, around 9 am, with soft daylight and a light haze after a night of rain. Two police officers in khaki are seen from behind as they question the lorry driver who stands with his hands folded. Camera at eye level, 35 mm lens, wide enough to show the road, the lorry, the shop front and the police group together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a dark, wet tarred road surface beside a concrete drain at the edge of a hardware shop, with a large white water lorry tyre tread mark visible on the wet ground and a small patch of dried water pooled near a metal well cover. Police shoes in khaki trousers stand at the edge of the frame, partly cut off, and a plastic bucket and a coil of hose lie beside the well. The scene is dim and overcast with early morning light, giving the road a grey, damp look. Camera slightly high, 50 mm lens, focusing on the tyre mark and wet ground with the police feet and the well cover softly blurred in the background. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/bihar-labourer-killed-by-lorry---water-lorry-driver-questioned/4379005",
-   "published": "2026-11-17T20:39:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 16 ('விசாரணையில், விழுப்புரத்தைச் சேர்ந்த திருமூர்த்தி,40, என்பவர')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944458/chennaiminnal/dne5otfo4kein5ibwgrx.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944461/chennaiminnal/gaupzjhxf81i4dpl6ltl.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் சாலைப் பள்ளங்கள் சீரமைப்பு தீவிரம்: பல வார்டுகளில் பணி",
-   "english_headline": "Chennai Corporation intensifies repair of potholes on many roads ahead of northeast monsoon",
-   "category": "Civic Issues",
-   "location": "Chennai Corporation area, Chennai district",
-   "importance": "Medium",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை பணி",
-    "loc": "சென்னை மாநகராட்சி",
-    "hl1": "சென்னையில் சாலைப் பள்ளங்கள் சீரமைப்பு",
-    "hl2": "பருவமழைக்கு முன் நடவடிக்கை",
+    "cat": "புயல் எச்சரிக்கை",
+    "loc": "சென்னை, திருவள்ளூர்",
+    "hl1": "அக்வான் புயல் நாளை மறுநாள் கரையேறும்",
+    "hl2": "சென்னையில் இன்று மழை",
     "slides": [
      {
-      "title": "என்ன பணி?",
+      "title": "புயல் நிலைமை",
       "lines": [
-       "வடகிழக்குப் பருவமழை முன்னெச்சரிக்கை நடவடிக்கை",
-       "சாலைப் பள்ளங்களைச் சீரமைக்கும் பணி தீவிரம்",
-       "சென்னை மாநகராட்சி இப்பணியை மேற்கொள்கிறது"
+       "அக்வான் புயல் நேற்று தீவிர புயலாக வலுவடைந்தது",
+       "இது வடமேற்கு திசையில் ஆந்திரா நோக்கி நகர்கிறது"
       ]
      },
      {
-      "title": "எந்தப் பகுதிகள்?",
+      "title": "மழை எச்சரிக்கை",
       "lines": [
-       "மாதவரம், தண்டையார்பேட்டை, அம்பத்தூர் மண்டலங்கள்",
-       "கோடம்பாக்கம், வளசரவாக்கம், பெருங்குடி மண்டலங்கள்",
-       "பல வார்டுகளின் பல சாலைகளில் பணி நடைபெறுகிறது"
+       "சென்னை, திருவள்ளூரில் இன்று மிதமான மழை",
+       "நாளை இடி மின்னலுடன் கனமழை பெய்ய வாய்ப்புள்ளது"
       ]
      },
      {
-      "title": "எப்படிச் சீர்",
+      "title": "கடல் எச்சரிக்கை",
       "lines": [
-       "தார்க் கலவை, சிமெண்ட் கலவையால் பள்ளங்கள் நிரப்பப்படுகின்றன",
-       "17.11.2026 அன்று பணி மேற்கொள்ளப்பட்டது",
-       "பணி தொடர்ந்து தீவிரமாக நடைபெற்று வருகிறது"
+       "மணிக்கு 60 கி.மீ. வேகத்தில் காற்று வீசக்கூடும்",
+       "மீனவர்கள் கடலுக்கு செல்ல வேண்டாம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை மாநகராட்சிப் பகுதிகளில் சாலைப் பள்ளங்களைச் சீரமைக்கும் பணி தீவிரமாக நடைபெற்று வருகிறது. வடகிழக்குப் பருவமழை முன்னெச்சரிக்கை நடவடிக்கையாக இந்தப் பணி மேற்கொள்ளப்படுகிறது. நவம்பர் 17ஆம் தேதி, மாதவரம், தண்டையார்பேட்டை, அம்பத்தூர், கோடம்பாக்கம், வளசரவாக்கம், பெருங்குடி ஆகிய மண்டலங்களில் பள்ளங்கள் சீர் செய்யப்பட்டன. மேதா நகர் சாலை, கே கே டி நகர் 3ஆவது பிரதான சாலை, முத்தமிழ் நகர் மேற்கு அவென்யூ சாலை ஆகியவற்றிலும் பணி நடைபெற்றது. சிட்கோ 7ஆவது தெரு, என் எஸ் கே லேன், கிருஷ்ணா நகர் 27ஆவது தெரு, நேரு நகர் 1ஆவது குறுக்கு தெரு, வி ஜி பி 1ஆவது பிரதான சாலை ஆகிய சாலைகளிலும் பள்ளங்கள் நிரப்பப்பட்டன. பள்ளங்கள் தார்க் கலவை மற்றும் சிமெண்ட் கலவையால் சீர் செய்யப்படுகின்றன. இப்பணிகள் தொடர்ந்து தீவிரமாக நடைபெற்று வருகின்றன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 சென்னையில் சாலைப் பள்ளங்கள் சீரமைப்பு தீவிரம்: பருவமழைக்கு முன் நடவடிக்கை\n\n📰 முழு விவரம்:\nவடகிழக்குப் பருவமழை முன்னெச்சரிக்கை நடவடிக்கையாக, சென்னை மாநகராட்சிப் பகுதிகளில் சாலைப் பள்ளங்களைச் சீரமைக்கும் பணிகள் தீவிரமாக நடைபெற்று வருகின்றன.\nநவம்பர் 17ஆம் தேதி மாதவரம், தண்டையார்பேட்டை, அம்பத்தூர், கோடம்பாக்கம், வளசரவாக்கம், பெருங்குடி மண்டலங்களில் உள்ள பல சாலைகளில் பள்ளங்கள் தார்க் கலவை மற்றும் சிமெண்ட் கலவையால் சீர் செய்யப்பட்டன.\nமேதா நகர் சாலை, கே.கே.டி நகர் 3ஆவது பிரதான சாலை, முத்தமிழ் நகர் மேற்கு அவென்யூ சாலை, சிட்கோ 7ஆவது தெரு, என்.எஸ்.கே லேன், கிருஷ்ணா நகர் 27ஆவது தெரு, நேரு நகர் 1ஆவது குறுக்கு தெரு, வி.ஜி.பி 1ஆவது பிரதான சாலை உள்ளிட்ட சாலைகளும் இதில் அடங்கும்.\nஇப்பணிகள் தொடர்ந்து தீவிரமாக நடைபெற்று வருகின்றன.\n\nChennai road potholes repair before monsoon | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #ChennaiRain",
-   "prompts": "Two Chennai Corporation road workers in orange-and-grey work clothes stand on a potholed residential street in a Chennai neighbourhood, one shovelling fresh black tar-and-cement mix into a deep pit in the road while a second worker tamps it flat with a rammer. A corporation tipper lorry is parked at the kerb and a small heap of grey cement sits on a sheet beside the road. Narrow tar-road lane lined with low concrete houses, a few parked two-wheelers and a rain-stained wall. Daylight with soft overcast clouds, the pale sky suggesting the pre-monsoon season. The workers are seen from behind and at a distance, faces not visible. Camera at eye level, 35 mm, wide enough to show the whole stretch of road being repaired. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a freshly filled pothole on a Chennai street: dark, glossy tar-and-cement mix pressed flat into a jagged hole in the grey asphalt, with the edges of the old broken road still visible around it. A worker's shovel with fresh black mix rests on the edge of the patch, and a few scattered gravel pieces lie on the surface. A wet-looking sheen from recent water, a bicycle wheel and sandal-clad feet of a passer-by blurred at the frame edge. Bright daylight under overcast sky. Camera low and close, 50 mm, shallow depth of field, focused on the repaired patch. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/northeast-monsoon-warning-pothole-repair-work-in-full-swing-in-chennai",
-   "published": "2026-11-17T15:22:55Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 25 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 35 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 84 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 129 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 147 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "அக்வான் புயல் நாளை மறுநாள் ஆந்திராவில் கரையை கடக்கக்கூடும். வானிலை ஆய்வு மையம் இந்த எச்சரிக்கையை வெளியிட்டுள்ளது. தென்மேற்கு வங்கக்கடலில் நேற்று முன்தினம் மாலை புயல் உருவானது. நேற்று அக்வான் புயல் தீவிர புயலாக வலுவடைந்தது. இது வடமேற்கு திசையில் ஆந்திரா நோக்கி நகர்ந்து கொண்டிருக்கிறது. நவம்பர் 20ஆம் தேதி புயல் கரையை கடக்கக்கூடும். சென்னை, திருவள்ளூர், செங்கல்பட்டு மாவட்டங்களில் இன்று மழை பெய்யும். இடி மின்னல் மற்றும் பலத்த காற்றுடன் மிதமான மழை இருக்கும். நாளை இந்த மாவட்டங்களில் கனமழை பெய்ய வாய்ப்புள்ளது. தமிழ்நாடு வட கடலோர பகுதிகளில் காற்று வேகம் அதிகரிக்கும். மணிக்கு 50 கிலோமீட்டர் வேகத்தில் காற்று வீசக்கூடும். இடையிடையே மணிக்கு 60 கிலோமீட்டர் வேகத்தில் சூறாவளி காற்று இருக்கும். எனவே மீனவர்கள் கடலுக்கு செல்ல வேண்டாம். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌀 அக்வான் புயல் நாளை மறுநாள் கரையேறும்; சென்னையில் இன்று மழை\n\n📰 முழு விவரம்:\nவங்கக்கடலில் உருவாகியுள்ள அக்வான் புயல், நாளை மறுநாள் ஆந்திராவில் கரையை கடக்கக்கூடும் என வானிலை ஆய்வு மையம் தெரிவித்துள்ளது. தென்மேற்கு வங்கக்கடல் பகுதியில் நேற்று முன்தினம் மாலை ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம், அக்வான் புயலாக வலுவடைந்தது. நேற்று இந்த புயல் தீவிர புயலாக வலுவடையும் நிலையில் இருந்தது. இது வடமேற்கு திசையில் ஆந்திரா நோக்கி நகர்ந்து, நவம்பர் 20ஆம் தேதி கரையை கடக்கக்கூடும். சென்னை, திருவள்ளூர், செங்கல்பட்டு மாவட்டங்களில் இன்று இடி மின்னல் மற்றும் பலத்த காற்றுடன் மிதமான மழை பெய்ய வாய்ப்புள்ளது. நாளை இந்த மாவட்டங்களில் சில இடங்களில் இடி மின்னலுடன் கனமழை பெய்ய வாய்ப்புள்ளது. தமிழ்நாடு வட கடலோர பகுதிகளில் இன்றும் நாளும் மணிக்கு 50 கிலோமீட்டர் வேகத்திலும், இடையிடையே 60 கிலோமீட்டர் வேகத்திலும் சூறாவளி காற்று வீசக்கூடும். எனவே மீனவர்கள் கடலுக்கு செல்ல வேண்டாம்.\n\n📍 இடம்: சென்னை, திருவள்ளூர், செங்கல்பட்டு\n🗓️ நாள்: நவம்பர் 20ஆம் தேதி (கரையேற்றம்)\n🕘 நேரம்: இன்று முதல் மழை\n👮 நடவடிக்கை: மீனவர்களுக்கு கடலுக்கு செல்ல வேண்டாம் என எச்சரிக்கை\nℹ️ மக்கள் கவனத்திற்கு: வட கடலோர பகுதிகளில் காற்று வேகம் அதிகரிக்கலாம்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nChennai Cyclone Aquane warning | Chennai rain today | Chennai news\n📍 Chennai, Chennai district | 18 November 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiRain #ChennaiNews #சென்னை",
+   "prompts": "A dramatic, photo-realistic wide shot of a dark, stormy sky over the Chennai coastline with heavy rain clouds rolling in. The sea is choppy with whitecaps, and distant lightning flashes illuminate the horizon. Silhouettes of palm trees bend in the strong wind. The atmosphere is tense and moody, capturing the arrival of a cyclone. No people are visible, focusing on the power of nature and the weather conditions described in the news. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of a traditional fishing boat anchored safely in a calm harbor area, with the hull visible and ropes tied tightly. In the background, a grey, overcast sky looms, suggesting impending bad weather. The water is slightly rippled but not stormy yet, indicating the warning phase before the cyclone hits. The scene conveys the instruction for fishermen to stay away from the sea. No text or logos are present, just the realistic maritime setting of Tamil Nadu. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/chennai-receives-first-rain-today-cyclone-aquana-to-make-landfall-the-next-day/4379257",
+   "published": "2026-11-18T01:59:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சென்னை' and the news itself, e.g. 'சென்னை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944510/chennaiminnal/ugusb89q0yc7cdbmpqnw.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944515/chennaiminnal/ibzzhvwiqo96cydokmg8.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் நாளை மறுதினம் காலை 10 முதல் மதியம் 3 மணி வரை மின் தடை",
-   "english_headline": "Power cut in several Chennai areas on 19 Nov from 10 AM to 3 PM for line maintenance",
-   "category": "மின் தடை",
-   "location": "K.K. Nagar and Palavakkam, Chennai district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மின் தடை",
-    "loc": "கே.கே.நகர், பாலவாக்கம்",
-    "hl1": "சென்னையில் நாளை மறுதினம் மின் தடை",
-    "hl2": "காலை 10 – மதியம் 3 மணி",
-    "slides": [
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "நாளை மறுதினம் <b>காலை 10 மணி</b> முதல் <b>பிற்பகல் 3 மணி</b> வரை",
-       "மின் வழித்தட பராமரிப்புப் பணிக்காக மின் தடை",
-       "சில இடங்களில் மட்டும் மின் தடை அறிவிப்பு"
-      ]
-     },
-     {
-      "title": "கே.கே.நகர் பகுதி",
-      "lines": [
-       "காந்தி நகர், சஞ்சய் காந்தி நகர், இளங்கோ நகர்",
-       "இந்திரா நகர், பெரியார் நகர், எம்ஜிஆர் தெரு",
-       "நெற்குன்றம் பிரதான சாலை, காமராஜர் சாலை உள்ளிட்ட பகுதிகள்"
-      ]
-     },
-     {
-      "title": "பாலவாக்கம் பகுதி",
-      "lines": [
-       "பி.ஆர்.எஸ். நகர், பாரதி நகர், அம்பேத்கர் தெரு",
-       "பள்ளித் தெரு, மசூதி தெரு, பாஸ் அவென்யூ",
-       "ஜெயசங்கர் நகர் உள்ளிட்ட பகுதிகள்"
-      ]
-     },
-     {
-      "title": "கவனத்திற்கு",
-      "lines": [
-       "மின் தடை நேரத்துக்கு முன் மொபைல் சார்ஜ் செய்யுங்கள்",
-       "குடிநீர், அத்தியாவசியப் பொருட்களை முன்கூட்டியே தயார்",
-       "முழுப் பட்டியலை மின் வாரிய அறிவிப்பில் பாருங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் நாளை மறுதினம் காலை 10 மணி முதல் பிற்பகல் 3 மணி வரை மின் தடை. மின் வழித்தட பராமரிப்புப் பணிக்காக சில இடங்களில் மின் தடை அறிவிக்கப்பட்டுள்ளது. கே கே நகரில் காந்தி நகர், சஞ்சய் காந்தி நகர், இளங்கோ நகர், இந்திரா நகர், பெரியார் நகர், எம்ஜிஆர் தெரு, நெற்குன்றம் பிரதான சாலை உள்ளிட்ட பல பகுதிகளில் மின் விநியோகம் இருக்காது. பாலவாக்கத்தில் பி ஆர் எஸ் நகர், பாரதி நகர், அம்பேத்கர் தெரு, பள்ளித் தெரு, மசூதி தெரு, பாஸ் அவென்யூ, ஜெயசங்கர் நகர் உள்ளிட்ட பகுதிகளிலும் மின் தடை இருக்கும். மின் தடை நேரத்துக்கு முன் மொபைல் போன்களை சார்ஜ் செய்து கொள்ளுங்கள். குடிநீர் போன்ற அத்தியாவசியப் பொருட்களையும் முன்கூட்டியே தயார் செய்யுங்கள். முழுப் பட்டியலை மின் வாரிய அறிவிப்பில் பார்க்கலாம். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ சென்னையில் நாளை மறுதினம் காலை 10 – மதியம் 3 மணி வரை மின் தடை\n\n📰 முழு விவரம்:\nமின் வழித்தட பராமரிப்புப் பணிக்காக சென்னையில் சில இடங்களில் மின் தடை அறிவிக்கப்பட்டுள்ளது. நாளை மறுதினம் காலை 10 மணி முதல் பிற்பகல் 3 மணி வரை மின் விநியோகம் இருக்காது.\n📍 இடங்கள்: கே.கே.நகர் (காந்தி நகர், சஞ்சய் காந்தி நகர், இளங்கோ நகர், இந்திரா நகர், பெரியார் நகர், எம்ஜிஆர் தெரு, நெற்குன்றம் பிரதான சாலை, காமராஜர் சாலை உள்ளிட்ட பல தெருக்கள்); பாலவாக்கம் (பி.ஆர்.எஸ். நகர், பாரதி நகர், அம்பேத்கர் தெரு, பள்ளித் தெரு, மசூதி தெரு, பாஸ் அவென்யூ, ஜெயசங்கர் நகர் உள்ளிட்ட பல தெருக்கள்)\n🕘 நேரம்: காலை 10 மணி முதல் பிற்பகல் 3 மணி வரை\nℹ️ மக்கள் கவனத்திற்கு: மொபைல் போன்களை முன்கூட்டியே சார்ஜ் செய்துகொள்ளுங்கள்; குடிநீர் போன்ற அத்தியாவசியப் பொருட்களை தயார் வையுங்கள். முழுப் பட்டியலை மின் வாரிய அறிவிப்பில் பார்க்கலாம்.\n\nChennai power cut day after tomorrow 10 AM to 3 PM | Chennai news\n📍 கே.கே.நகர், பாலவாக்கம் - சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #KKNagar #ChennaiPowerCut #சென்னை",
-   "prompts": "A TNEB lineman in a blue uniform and safety helmet climbs a ladder against a concrete electricity pole on a narrow residential street in K.K. Nagar, Chennai, repairing overhead power lines as part of the scheduled maintenance. The street is lined with low-rise tiled-roof and terrace houses, a few small shops with their shutters half open, and a parked two-wheeler along the kerb. Several overhead cables and a transformer hang above the lane. Two residents stand at a distance in a doorway, one in a cotton saree and one in a shirt with veshti, watching quietly, seen from behind and slightly blurred. A couple of ceiling fans and a shop's dark interior hint at the power cut. It is mid-morning daylight, around 10 AM, with a clear sky and soft shadows. Shot at eye level, 35 mm, wide enough to show the whole street and the pole with the lineman. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a concrete electricity pole with a transformer box and bundled overhead cables on a Chennai residential lane, with a TNEB lineman's tool bag, insulated gloves and a coil of wire resting at its base. Behind it, a shop front has its shutter partly lifted and a single light bulb is switched off, showing the power cut. A small handwritten-style notice board is mounted on the wall but its text is not readable. The pole's rough concrete surface and the hanging wires are sharp in focus, while the background of terraced houses and a parked two-wheeler is softly blurred. Bright mid-morning daylight, around 10 AM, with a clear sky casting sharp shadows. Shot at slightly high angle, 35 mm, focused on the pole and tools. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/power-outage-in-chennai-tomorrow/4379067",
-   "published": "2026-11-17T22:24:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; hl1 (the first headline on screen) must name the place 'கே.கே.நகர்', e.g. 'கே.கே.நகர்: ...' or 'கே.கே.நகர்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944522/chennaiminnal/e10kd8fwfaz1tk7llbge.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794944529/chennaiminnal/gywrtvp07qqxiu8lhrjq.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794957009/chennaiminnal/vghbm8mpyvpevloasuvf.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794957013/chennaiminnal/tar7zjjop5ljyead02n9.jpg"
    ]
   }
  ]
