@@ -82,34 +82,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-16 | `ac81bb0` | Leave out one school / club's own event on both pages (owner 16 Nov: 'how can other people connect with this') |
-| 2026-11-16 | `8314b2f` | powercut: notices written |
-| 2026-11-16 | `9e143f7` | district powercut: notices found |
-| 2026-11-16 | `7fad5d0` | powercut: notices written |
-| 2026-11-16 | `94b507a` | facebook RN-64 |
-| 2026-11-16 | `986806c` | powercut: notices written |
-| 2026-11-16 | `4c28292` | powercut: notices written |
-| 2026-11-16 | `c0605ad` | facebook RN-48 |
-| 2026-11-16 | `ccb0544` | pick: written and posted |
-| 2026-11-16 | `3ba9719` | facebook RN-69 |
-| 2026-11-16 | `2c6acce` | powercut: notices written |
-| 2026-11-16 | `d97b03a` | facebook RN-68 |
-| 2026-11-16 | `3ac6a47` | powercut: notices written |
-| 2026-11-16 | `57090df` | pick: picked news saved |
-| 2026-11-16 | `68fad4a` | pick: picked news saved |
-| 2026-11-16 | `af95237` | pick: list sent |
-| 2026-11-16 | `f411076` | facebook RN-65 |
-| 2026-11-16 | `710cd7f` | pick: written and posted |
-| 2026-11-16 | `5692f0a` | Chennai = Chennai setup (owner 16 Nov: 'same setup, only the news varies'): same round hours, same score |
-| 2026-11-16 | `baeae56` | facebook RN-66 |
-| 2026-11-16 | `1a7dcfb` | Pick review fixes (owner 16 Nov): 01:00 no extras, extras 11+ one a round, steady nightly skip list, Chennai first round 06:00 |
-| 2026-11-16 | `f73f235` | powercut: notices written |
-| 2026-11-16 | `cd3f791` | Learn every night from both pages: our reels + the reference page's published insights (owner 16 Nov) |
-| 2026-11-16 | `bc39b6f` | district powercut: notices found |
-| 2026-11-16 | `a92633c` | powercut: notices written |
-| 2026-11-16 | `9b5e150` | Token with the insights permission as GitHub secret IG_SYSTEM_TOKEN (owner 16 Nov: views must be read again, no Apps Script step) |
-| 2026-11-16 | `f143853` | Reach map: temple news stays (reference page temple reels 913-1,782 views); education / sports still left out |
-| 2026-11-16 | `c3a7bf3` | facebook RN-61 |
-| 2026-11-16 | `6c50e8d` | Reach map on both pages (owner 16 Nov): low-reach types left out, up to 3 strong news a day beyond the 14 |
-| 2026-11-16 | `437ba61` | Reel top strip: category / date / source on one line, place pin a little lower (owner 16 Nov: the source made the row wrap onto the pin) |
+| 2026-11-17 | `d2a1deb` | Same code as Kovai Minnal 63c34e7e Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
+| 2026-11-17 | `93e18cb` | facebook RN-48 |
+| 2026-11-17 | `afb96db` | powercut: notices written |
+| 2026-11-17 | `be13faf` | stories shared |
+| 2026-11-17 | `2b9057e` | Chennai Minnal live (owner 17 Nov) |
+| 2026-11-17 | `593847e` | Chennai Minnal: refreshed copy of Kovai Minnal (cb585c89) with the latest Chennai power-cut / Facebook state |
+| 2026-11-17 | `d3d653c` | Chennai Minnal: refreshed copy of Kovai Minnal (12cb54fe) - shop names rule, gold rate reel live |
+| 2026-11-17 | `4526686` | Chennai Minnal: refreshed copy of Kovai Minnal (1a398477) - gold rate reel music only |
+| 2026-11-17 | `c18c361` | Chennai Minnal: refreshed copy of Kovai Minnal (6daa3efd) - gold rate reel only, 10 s |
+| 2026-11-17 | `9e979c9` | Chennai Minnal: refreshed copy of Kovai Minnal (kovaiminnal-autopost 6611b53b) - insights ours first + reference live, own-city gold rate, gold design + rate reel |
+| 2026-11-17 | `7dd1fca` | Chennai Minnal: copy of Kovai Minnal (kovaiminnal-autopost ee6d7eb4) made by tools/make_page.py chennai - only the district's words and values differ |
 <!-- recent-changes:end -->
