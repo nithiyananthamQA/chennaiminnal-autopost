@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T01:00+05:30",
- "posts_measured": 38,
+ "updated": "2026-11-18T02:10+05:30",
+ "posts_measured": 42,
  "topic_weight": {
-  "accident": 0.59,
+  "accident": -0.09,
   "civic": -0.01,
-  "crime": -0.13,
+  "crime": -0.23,
   "education": -0.5,
   "politics": -0.5,
   "poultry_agri": -0.37,
@@ -15,8 +15,8 @@
  },
  "topic_n": {
   "politics": 17,
-  "accident": 23,
-  "crime": 19,
+  "accident": 5,
+  "crime": 21,
   "weather": 9,
   "power_cut": 26,
   "civic": 50,
@@ -37,18 +37,18 @@
   "🌧️ சென்னையில் நாளை மிக கனமழை: ஆரஞ்ச் அலர்ட்",
   "🚨 சென்னையில் 22 கிலோ கஞ்சா பறிமுதல்: 2 பேர் கைது"
  ],
- "avg_watch_s": 5.4,
+ "avg_watch_s": 5.2,
  "best_topics": [
   "weather",
   "power_cut",
-  "accident"
+  "civic"
  ],
  "weak_topics": [
   "education",
   "politics"
  ],
  "topic_source": {
-  "accident": "reference",
+  "accident": "ours",
   "civic": "reference",
   "crime": "ours",
   "education": "reference",
