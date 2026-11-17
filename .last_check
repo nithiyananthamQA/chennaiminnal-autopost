@@ -1,36 +1,26 @@
-18:15:57 real photo step skipped: RN-13 real photos switched off
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-18:16:09 automatic images queued: RN-13 2
-18:16:09 real photo step skipped: RN-14 real photos switched off
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-18:16:20 automatic images queued: RN-14 2
-18:16:23 SKIP RN-1 stale: published 11 Nov, older than yesterday
-18:16:23 SKIP RN-11 stale: published 14 Nov, older than yesterday
-18:16:23 SKIP RN-13 stale: published 14 Nov, older than yesterday
-18:16:23 SKIP RN-14 stale: published 14 Nov, older than yesterday
-18:16:23 SKIP RN-17 stale: published 15 Nov, older than yesterday
-18:16:23 SKIP RN-19 stale: published 15 Nov, older than yesterday
-18:16:23 SKIP RN-24 stale: published 15 Nov, older than yesterday
-18:16:23 SKIP RN-33 duplicate of RN-22
-18:16:23 SKIP RN-40 held: fact-check problems - fact-check: The caption body states the 65-year-old's age in brackets as "(65 வயது)" which is fine, but the caption also adds "🗓️ நாள்: 14ஆம் தேதி மாட்டு விபத்து" and "👤 புகார்: எம்.ரங்கநாதன், 65" whi
+18:33:16 SKIP RN-1 stale: published 11 Nov, older than yesterday
+18:33:16 SKIP RN-11 stale: published 14 Nov, older than yesterday
+18:33:16 SKIP RN-13 stale: published 14 Nov, older than yesterday
+18:33:16 SKIP RN-14 stale: published 14 Nov, older than yesterday
+18:33:16 SKIP RN-17 stale: published 15 Nov, older than yesterday
+18:33:16 SKIP RN-19 stale: published 15 Nov, older than yesterday
+18:33:16 SKIP RN-24 stale: published 15 Nov, older than yesterday
+18:33:16 SKIP RN-33 duplicate of RN-22
+18:33:16 SKIP RN-40 held: fact-check problems - fact-check: The caption body states the 65-year-old's age in brackets as "(65 வயது)" which is fine, but the caption also adds "🗓️ நாள்: 14ஆம் தேதி மாட்டு விபத்து" and "👤 புகார்: எம்.ரங்கநாதன், 65" whi
 ::warning title=Held from posting RN-40::held: fact-check problems - fact-check: The caption body states the 65-year-old's age in brackets as "(65 வயது)" which is fine, but the caption also adds "🗓️ நாள்: 14ஆம் தேதி மாட்டு விபத்து" and "👤 புகார்: எம்.ரங்கநாதன், 65" whi
-18:16:28 story catch-up chennai: quota 11/50, 37 recent posts, 3 live stories, owner ids ['17841452418440882']
-18:16:28 11 stories in the queue, ready to post: 2
-18:16:28   keys: ['batch', 'caption', 'category', 'coimbatore_link', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-18:16:28    RN-1 review= 'Auto' images= 201 spec= 616 pages= ['chennai'] links= None '' age_h= 91.9 ready= False set_started= True
-18:16:28    RN-11 review= 'Auto' images= 201 spec= 551 pages= ['chennai'] links= None '' age_h= 59.9 ready= False set_started= True
-18:16:28    RN-13 review= 'Auto' images= 205 spec= 637 pages= ['chennai'] links= None '' age_h= 59.5 ready= False set_started= True
-18:16:28    RN-14 review= 'Auto' images= 205 spec= 953 pages= ['chennai'] links= None '' age_h= 59.4 ready= False set_started= True
-18:16:28    RN-17 review= 'Auto' images= 201 spec= 729 pages= ['chennai'] links= None '' age_h= 55.7 ready= False set_started= True
-18:16:28    RN-19 review= 'Auto' images= 201 spec= 859 pages= ['chennai'] links= None '' age_h= 55.7 ready= False set_started= True
-18:16:28    RN-24 review= 'Auto' images= 201 spec= 660 pages= ['chennai'] links= None '' age_h= 46.7 ready= False set_started= True
-18:16:28    RN-33 review= 'Auto' images= 201 spec= 899 pages= ['chennai'] links= None '' age_h= 31.8 ready= False set_started= True
-18:16:28    RN-40 review= 'Auto' images= 201 spec= 915 pages= ['chennai'] links= None '' age_h= 12.1 ready= False set_started= True
-18:16:28    RN-47 review= 'Auto' images= 201 spec= 887 pages= ['chennai'] links= None '' age_h= 0.9 ready= True set_started= True
-18:16:28    RN-48 review= 'Auto' images= 201 spec= 728 pages= ['chennai'] links= None '' age_h= 0.7 ready= True set_started= True
-18:16:30 publishing quota chennai: 11/50
-18:16:31 instagram duplicate check chennai: 37 recent posts read
-18:16:31    RN-47 skipped: already on Instagram ['chennai']
+18:33:20 story catch-up chennai: quota 12/50, 38 recent posts, 3 live stories, owner ids ['17841452418440882']
+18:33:20 10 stories in the queue, ready to post: 1
+18:33:20   keys: ['batch', 'caption', 'category', 'coimbatore_link', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+18:33:20    RN-1 review= 'Auto' images= 201 spec= 616 pages= ['chennai'] links= None '' age_h= 92.1 ready= False set_started= True
+18:33:20    RN-11 review= 'Auto' images= 201 spec= 551 pages= ['chennai'] links= None '' age_h= 60.2 ready= False set_started= True
+18:33:20    RN-13 review= 'Auto' images= 205 spec= 637 pages= ['chennai'] links= None '' age_h= 59.8 ready= False set_started= True
+18:33:20    RN-14 review= 'Auto' images= 205 spec= 953 pages= ['chennai'] links= None '' age_h= 59.6 ready= False set_started= True
+18:33:20    RN-17 review= 'Auto' images= 201 spec= 729 pages= ['chennai'] links= None '' age_h= 56.0 ready= False set_started= True
+18:33:20    RN-19 review= 'Auto' images= 201 spec= 859 pages= ['chennai'] links= None '' age_h= 56.0 ready= False set_started= True
+18:33:20    RN-24 review= 'Auto' images= 201 spec= 660 pages= ['chennai'] links= None '' age_h= 47.0 ready= False set_started= True
+18:33:20    RN-33 review= 'Auto' images= 201 spec= 899 pages= ['chennai'] links= None '' age_h= 32.1 ready= False set_started= True
+18:33:20    RN-40 review= 'Auto' images= 201 spec= 915 pages= ['chennai'] links= None '' age_h= 12.4 ready= False set_started= True
+18:33:20    RN-47 review= 'Auto' images= 201 spec= 887 pages= ['chennai'] links= None '' age_h= 1.2 ready= True set_started= True
+18:33:21 publishing quota chennai: 12/50
+18:33:23 instagram duplicate check chennai: 38 recent posts read
+18:33:23    RN-47 skipped: already on Instagram ['chennai']
