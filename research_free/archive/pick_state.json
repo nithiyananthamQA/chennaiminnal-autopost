@@ -43,7 +43,8 @@
    "score": 10.87,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T05:02:00.822293+05:30"
+   "picked_at": "2026-11-18T05:02:00.822293+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "Ce6e1cf0": {
    "id": "Ce6e1cf0",
@@ -68,7 +69,8 @@
    "score": 10.87,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T05:02:00.822294+05:30"
+   "picked_at": "2026-11-18T05:02:00.822294+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C89b5540": {
    "id": "C89b5540",
@@ -81,7 +83,8 @@
    "score": 10.87,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T05:02:00.822295+05:30"
+   "picked_at": "2026-11-18T05:02:00.822295+05:30",
+   "posted": true
   },
   "Cab676a9": {
    "id": "Cab676a9",
@@ -106,7 +109,8 @@
    "score": 10.87,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T05:02:00.822289+05:30"
+   "picked_at": "2026-11-18T05:02:00.822289+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C306f09c": {
    "id": "C306f09c",
@@ -119,7 +123,8 @@
    "score": 10.87,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T05:02:00.822291+05:30"
+   "picked_at": "2026-11-18T05:02:00.822291+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C4965b01": {
    "id": "C4965b01",
@@ -1093,7 +1098,13 @@
     "C89b5540",
     "Ca040ead",
     "Cf2390e7"
-   ]
+   ],
+   "refused": {
+    "Ca040ead": "not filed: all free models failed: no usable answer from the models",
+    "Cf2390e7": "not filed: all free models failed: no usable answer from the models",
+    "C306f09c": "not filed: all free models failed: no usable answer from the models",
+    "C4fd0874": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
