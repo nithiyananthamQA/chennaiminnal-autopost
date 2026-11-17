@@ -1,0 +1,434 @@
+writing [N]: தனியாா் நிறுவனத்தில் ரூ.1 கோடி ஆன்லைன் மோசடி: சைபா் குற்றப்ப
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: கைதானவரை ஆஜர்படுத்தாத போலீசார்மீது நீதிபதி அதிருப்தி
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+writing [N]: சைக்கிள் மீது லாரி மோதி முதியவர் பலி
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+ok groq/qwen/qwen3.8-27b (4s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 2 problems
+  Added the time 'இரவு' (night) in the reel_script, slides_spec, and caption, which is not mentioned in the article (the article only says 'இன்று' / today).
+  Added the year '2026' in the caption, which is not present in the article.
+attempt 1 groq/qwen/qwen3.8-27b: 2 problems
+  fact-check: Added the time 'இரவு' (night) in the reel_script, slides_spec, and caption, which is not mentioned in the article (the article only says 'இன்று' / today).
+  fact-check: Added the year '2026' in the caption, which is not present in the article.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 6 problems
+  The slides_spec 'hl2' claims 'லாரி ஓட்டுநர் கைது' and the slides say the driver was arrested, which matches the article; however the caption adds a claim of '(48 வயது)' age tied to arrest, which is in the article, so no issue there.
+  The reel_script says 'போலீசார் அவரைக் கைது செய்தனர்' and the slides say 'கைது' — consistent with the article.
+  The slides_spec 'loc' field says 'தரமணி, சென்னை' — 'சென்னை' is not stated in the article; the article only says 'தரமணி', so the city detail is an addition.
+  The caption tag line 'Taramani lorry accident elderly cyclist dies | Chennai news' is part of the footer and not a claim to check, so it is not a problem.
+  The reel_script states the victim is 'முதியவர்' aged 60 and calls him 'உயிரிழந்தார்', which matches the article; no problem there.
+  The caption's safety line 'மக்கள் கவனத்திற்கு: சாலையில் சைக்கிள், வாகனங்களை கவனமாக ஓட்டுங்கள்' is an invented advisory not present in the article.
+claude rewrite 1 anthropic/claude-haiku-5-5: 6 problems
+  fact-check: The slides_spec 'hl2' claims 'லாரி ஓட்டுநர் கைது' and the slides say the driver was arrested, which matches the article; however the caption adds a claim of '(48 வயது)' age tied to arrest, which is in the article, so no issue there.
+  fact-check: The reel_script says 'போலீசார் அவரைக் கைது செய்தனர்' and the slides say 'கைது' — consistent with the article.
+  fact-check: The slides_spec 'loc' field says 'தரமணி, சென்னை' — 'சென்னை' is not stated in the article; the article only says 'தரமணி', so the city detail is an addition.
+  fact-check: The caption tag line 'Taramani lorry accident elderly cyclist dies | Chennai news' is part of the footer and not a claim to check, so it is not a problem.
+  fact-check: The reel_script states the victim is 'முதியவர்' aged 60 and calls him 'உயிரிழந்தார்', which matches the article; no problem there.
+  fact-check: The caption's safety line 'மக்கள் கவனத்திற்கு: சாலையில் சைக்கிள், வாகனங்களை கவனமாக ஓட்டுங்கள்' is an invented advisory not present in the article.
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+free models unavailable: no free model answered: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read t
+ok anthropic/claude-haiku-5-5
+real photo step skipped for 'Elderly cyclist killed after water tanke': real photos switched off
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 99 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+images made: 2 for 'Elderly cyclist killed after water tanke'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-0109","first":"RN-49"}
+ok anthropic/claude-haiku-5-5
+posting job started at once
+real photo step skipped for 'Rs 1 crore online fraud at a private fir': real photos switched off
+writing [N]: புழல் சிறைக்குள் கஞ்சா கடத்திய ஆண் செவிலியா் கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The reel_script and caption say the arrest took place in Thiruvarur on Nov 15 and that the man was produced before Thiruvarur Town police station; the article says he was arrested in Thiruvarur and produced at Town police station, which matches, so no issue there. However, the reel_script states the judge inspected Manali police station and found Sivaraman there but the draft also says the lawyers' protest concerns 'விதிமீறல்' without the article naming the lawyer group leader Thondan Subramani, which is a missing key fact (who led the protest).
+  The reel_script and slides say the lawyers 'முற்றுகையிட்டு போராட்டம்' over 'விதிமீறல்' - the article says the protest was led by Thondan Subramani, a detail omitted from the reel_script.
+  The caption and reel_script state Sivaraman was produced at Thiruvarur Town police station before being brought to Manali, which is in the article, but the reel_script omits that he had been held at Manali police station for two days without being produced in court, which is the central fact the headline is about and is only implied.
+  The caption adds the English line 'Manali police not producing arrested man in court, judge unhappy | Chennai news' and the Tamil caption claims the judge's action will be taken as 'நடவடிக்கை எடுக்கப்படும்' which is in the article; the English line is an unnecessary addition but not a factual error.
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The reel_script and caption say the arrest took place in Thiruvarur on Nov 15 and that the man was produced before Thiruvarur Town police station; the article says he was arrested in Thiruvarur and produced at Town police station, which matches, so no issue there. However, the reel_script states the judge inspected Manali police station and found Sivaraman there but the draft also says the lawyers' protest concerns 'விதிமீறல்' without the article naming the lawyer group leader Thondan Subramani, which is a missing key fact (who led the protest).
+  fact-check: The reel_script and slides say the lawyers 'முற்றுகையிட்டு போராட்டம்' over 'விதிமீறல்' - the article says the protest was led by Thondan Subramani, a detail omitted from the reel_script.
+  fact-check: The caption and reel_script state Sivaraman was produced at Thiruvarur Town police station before being brought to Manali, which is in the article, but the reel_script omits that he had been held at Manali police station for two days without being produced in court, which is the central fact the headline is about and is only implied.
+  fact-check: The caption adds the English line 'Manali police not producing arrested man in court, judge unhappy | Chennai news' and the Tamil caption claims the judge's action will be taken as 'நடவடிக்கை எடுக்கப்படும்' which is in the article; the English line is an unnecessary addition but not a factual error.
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  reel_script must have no English letters (write English words and abbreviations in Tamil script)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Rs 1 crore online fraud at a private fir'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-0109","first":"RN-50"}
+writing [N]: லாரி ஏறி பீஹார் தொழிலாளி பலியா? - தண்ணீர் லாரி ஓட்டுநரிடம் வ
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The draft names the accused as 'சி.கே.கனகராஜ்' — the article names him, so this is acceptable; no problem with that name. However, the caption and reel_script describe him as 'செவிலியர் உதவியாளர்' consistent with the article — no issue there.
+  The draft says the pouch was handed over 'to the arrested person' at a bus stop framed so that the handover was to the accused's contacts is fine, but the reel_script says he was asked to hand the parcel 'to some prisoners in Block 4' — the article says he was told to hand it to some inmates in Block 4, which matches.
+  The caption omits the 'வாசனை திரவிய பாட்டில்' detail inconsistently? — it is included, so no issue.
+  Caption says 'திங்கள்கிழமை சிறைக்குள் செல்லும்போது சோதனை செய்யப்பட்டார்' — consistent with the article.
+  Slide 3 'சிறைக் காவலர்கள்... புகார்' sentence in the reel_script is consistent with the article.
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The draft names the accused as 'சி.கே.கனகராஜ்' — the article names him, so this is acceptable; no problem with that name. However, the caption and reel_script describe him as 'செவிலியர் உதவியாளர்' consistent with the article — no issue there.
+  fact-check: The draft says the pouch was handed over 'to the arrested person' at a bus stop framed so that the handover was to the accused's contacts is fine, but the reel_script says he was asked to hand the parcel 'to some prisoners in Block 4' — the article says he was told to hand it to some inmates in Block 4, which matches.
+  fact-check: The caption omits the 'வாசனை திரவிய பாட்டில்' detail inconsistently? — it is included, so no issue.
+  fact-check: Caption says 'திங்கள்கிழமை சிறைக்குள் செல்லும்போது சோதனை செய்யப்பட்டார்' — consistent with the article.
+  fact-check: Slide 3 'சிறைக் காவலர்கள்... புகார்' sentence in the reel_script is consistent with the article.
+ok anthropic/claude-haiku-5-5
+writing [N]: மின் கம்பியா... துணி காய போடும் கொடியா? உயிர் பலி அபாயத்தில்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 2 problems
+  The caption's '📍 நாள்: நவம்பர் 17, 2026' posting-date line is excluded, but the reel_script and slides_spec do not invent new facts; however, the draft's reel_script names the victim 'கவுரி ரான்' and the article gives that name, so that is fine. Problem: the draft's reel_script and slides_spec say the lorry driver 'thought the victim was drunk and placed him at a shop doorway' — the article says he 'placed him at the entrance of a shop nearby' which matches, but the reel_script says the driver 'தன்னிடம் இருந்த அவரை' which is an ungrammatical/meaningless Tamil sentence with no clear meaning.
+  The reel_script says the body was found 'ஒருவர் காயத்துடன் கிடப்பதாக' and the article says 'போதையில் மயங்கி கிடப்பதாக' (drunk and unconscious); the draft omits the drunkenness report, which is an important detail of who reported what, and the reel_script also omits that the victim was unidentified at first (it appears only in slides).
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  fact-check: The caption's '📍 நாள்: நவம்பர் 17, 2026' posting-date line is excluded, but the reel_script and slides_spec do not invent new facts; however, the draft's reel_script names the victim 'கவுரி ரான்' and the article gives that name, so that is fine. Problem: the draft's reel_script and slides_spec say the lorry driver 'thought the victim was drunk and placed him at a shop doorway' — the article says he 'placed him at the entrance of a shop nearby' which matches, but the reel_script says the driver 'தன்னிடம் இருந்த அவரை' which is an ungrammatical/meaningless Tamil sentence with no clear meaning.
+  fact-check: The reel_script says the body was found 'ஒருவர் காயத்துடன் கிடப்பதாக' and the article says 'போதையில் மயங்கி கிடப்பதாக' (drunk and unconscious); the draft omits the drunkenness report, which is an important detail of who reported what, and the reel_script also omits that the victim was unidentified at first (it appears only in slides).
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 3 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+real photo step skipped for 'Male nurse's assistant arrested for smug': real photos switched off
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The reel_script and slides say the wires are at 8 feet height in some places, but the article only says the wires hang at about 8 feet in some places in the context of wires being low; the article states "சில இடங்களில் 8 அடி உயரத்திலும்" which matches, so this is acceptable. However the slides say "சில இடங்களில் 8 அடி உயரத்தில் மட்டுமே கம்பிகள் உள்ளன" and the reel says "சில இடங்களில் கம்பிகள் 8 அடி உயரத்திலேயே உள்ளன" which slightly distorts the article's meaning by implying the wires sit only at that height.
+  The reel_script states that the wires are "மின் கம்பிகள்" along the 3rd and 4th streets, but the article says the wires on those streets run over some places at 8 feet and some within reach; the reel_script also omits the important fact that the electricity board officials said heightening is not possible due to high-voltage lines, though it is included later, so no omission there.
+  The caption says "சிறு கவனக்குறைவால் இரும்புப் பொருட்கள் பட்டாலும்" which is a grammatically awkward and slightly unclear rendering of the article's statement that careless handling of iron items could cause accidents.
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The reel_script and slides say the wires are at 8 feet height in some places, but the article only says the wires hang at about 8 feet in some places in the context of wires being low; the article states "சில இடங்களில் 8 அடி உயரத்திலும்" which matches, so this is acceptable. However the slides say "சில இடங்களில் 8 அடி உயரத்தில் மட்டுமே கம்பிகள் உள்ளன" and the reel says "சில இடங்களில் கம்பிகள் 8 அடி உயரத்திலேயே உள்ளன" which slightly distorts the article's meaning by implying the wires sit only at that height.
+  fact-check: The reel_script states that the wires are "மின் கம்பிகள்" along the 3rd and 4th streets, but the article says the wires on those streets run over some places at 8 feet and some within reach; the reel_script also omits the important fact that the electricity board officials said heightening is not possible due to high-voltage lines, though it is included later, so no omission there.
+  fact-check: The caption says "சிறு கவனக்குறைவால் இரும்புப் பொருட்கள் பட்டாலும்" which is a grammatically awkward and slightly unclear rendering of the article's statement that careless handling of iron items could cause accidents.
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The caption's 'Bihar worker found dead Kovilambakkam, lorry probe | Chennai news' line is an English addition, but the draft is a Tamil page; this is minor and not a factual problem, so the main issues are below.
+  The reel_script states the deceased is 'கவுரி ரான், 40' (name Gowri Ran) and the slides and caption also name him; the article does name him, so this is acceptable.
+  The reel_script says 'லாரி ஏறித்தான் இறந்தாரா' and the headline says 'தொழிலாளி சடலம் மீட்பு' - the article says the body was recovered, so this is consistent.
+  The caption says 'நவம்பர் 17, 2026' as the date, which is the posting date and allowed as a footer, but the caption's 'நாள்' line is part of the body and presents the posting date as the event date, which may mislead readers.
+  The reel_script omits that the lorry driver Thirumoorthy was taken to the police station for questioning; it mentions the driver only indirectly, and the caption/slides do name him, so this is a partial omission of an important action (the driver being taken to the station for questioning).
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The caption's 'Bihar worker found dead Kovilambakkam, lorry probe | Chennai news' line is an English addition, but the draft is a Tamil page; this is minor and not a factual problem, so the main issues are below.
+  fact-check: The reel_script states the deceased is 'கவுரி ரான், 40' (name Gowri Ran) and the slides and caption also name him; the article does name him, so this is acceptable.
+  fact-check: The reel_script says 'லாரி ஏறித்தான் இறந்தாரா' and the headline says 'தொழிலாளி சடலம் மீட்பு' - the article says the body was recovered, so this is consistent.
+  fact-check: The caption says 'நவம்பர் 17, 2026' as the date, which is the posting date and allowed as a footer, but the caption's 'நாள்' line is part of the body and presents the posting date as the event date, which may mislead readers.
+  fact-check: The reel_script omits that the lorry driver Thirumoorthy was taken to the police station for questioning; it mentions the driver only indirectly, and the caption/slides do name him, so this is a partial omission of an important action (the driver being taken to the station for questioning).
+images made: 2 for 'Male nurse's assistant arrested for smug'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-0110","first":"RN-51"}
+writing [N]: கால்வாயில் தவறி விழுந்து இளைஞா் பலி
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+real photo step skipped for 'Low-hanging power lines in Valluvar Naga': real photos switched off
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 16 ('விசாரணையில், விழுப்புரத்தைச் சேர்ந்த திருமூர்த்தி,40, என்பவர')
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+images made: 2 for 'Low-hanging power lines in Valluvar Naga'
+ok anthropic/claude-haiku-5-5
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-0110","first":"RN-52"}
+real photo step skipped for 'Young man dies after falling into canal ': real photos switched off
+writing [N]: தீவிரம் அடையும் ‘அக்வான்’ புயல்: நவ.19-ல் சென்னை, திருவள்ளூர
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Young man dies after falling into canal '
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  caption talks about the article instead of the news (குறிப்பிடப்படவில்லை) - if the article has no real news, return an empty reel_script
+  reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('புதுடெல்லி: அக்வான் புயல் தீவிரமடைந்து வரும் நிலையில், நாளை '); 3 ('புதுடெல்லி: அக்வான் புயல் தீவிரமடைந்து வரும் நிலையில், நாளை '); 660 ('தொலைவிலும், ஆந்திரப் பிரதேசத்தின் மசூலிப்பட்டினத்துக்கு தென்')
+  known issue meta_article: caption talks about the article instead of the news ('குறிப்பிடப்படவில்லை') - rewrite so it does not happen again
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-0110","first":"RN-53"}
+real photo step skipped for 'Bihar worker found dead in Kovilambakkam': real photos switched off
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Bihar worker found dead in Kovilambakkam'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-0111","first":"RN-54"}
+writing [N]: வடகிழக்குப் பருவமழை முன்னெச்சரிக்கை: சென்னையில் சாலை பள்ளங்க
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 93 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+writing [N]: சென்னையில் நாளை மறுதினம் மின் தடை
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 25 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 35 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 84 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 129 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 147 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 182 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர')
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'கே.கே.நகர்', e.g. 'கே.கே.நகர்: ...' or 'கே.கே.நகர்-இல் ...' - viewers share news of their own area
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('புதுடெல்லி: அக்வான் புயல் தீவிரமடைந்து வரும் நிலையில், நாளை '); 3 ('புதுடெல்லி: அக்வான் புயல் தீவிரமடைந்து வரும் நிலையில், நாளை '); 660 ('தொலைவிலும், ஆந்திரப் பிரதேசத்தின் மசூலிப்பட்டினத்துக்கு தென்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 8 problems
+  The reel_script says the work was on 'நவம்பர் 17ஆம் தேதி', which is the date of the article (17.11.2026); this is consistent, so no problem there.
+  The reel_script says Kodambakkam, Valasaravakkam and Perungudi zones; the article lists these zones correctly, so no problem.
+  slides_spec 'பல வார்டுகளின் பல சாலைகளில் பணி நடைபெற்றது' is fine.
+  slides_spec third slide 'முத்தமிழ் நகர், என்.எஸ்.கே லேன் உள்ளிட்ட சாலைகளிலும் பணி' is a grouping rather than a factual error, but the reel_script attributes 'சிட்கோ 7ஆவது தெரு, என் எஸ் கே லேன், கிருஷ்ணா நகர் 27ஆவது தெரு' to the same sentence group as Sitco and Krishna Nagar; the article lists these correctly.
+  slides_spec slide 3 states 'நேரு நகர், வி.ஜி.பி 1ஆவது பிரதான சாலையிலும் பணி', which is consistent with the article.
+  The reel_script omits that the work was carried out by Chennai Corporation? It says 'சென்னை மாநகராட்சி இந்தப் பணியை மேற்கொள்கிறது', consistent with the article.
+  The reel_script says 'பள்ளங்கள் சீர் செய்யப்பட்டன' for Medha Nagar etc., which matches the article's report of work carried out.
+  The reel_script's phrase 'மேதா நகர் சாலை, கே கே டி நகர் 3ஆவது பிரதான சாலை, முத்தமிழ் நகர் மேற்கு அவென்யூ சாலை ஆகியவற்றில் பள்ளங்கள் சீர் செய்யப்பட்டன' is consistent with the article.
+claude rewrite 2 anthropic/claude-haiku-5-5: 8 problems
+  fact-check: The reel_script says the work was on 'நவம்பர் 17ஆம் தேதி', which is the date of the article (17.11.2026); this is consistent, so no problem there.
+  fact-check: The reel_script says Kodambakkam, Valasaravakkam and Perungudi zones; the article lists these zones correctly, so no problem.
+  fact-check: slides_spec 'பல வார்டுகளின் பல சாலைகளில் பணி நடைபெற்றது' is fine.
+  fact-check: slides_spec third slide 'முத்தமிழ் நகர், என்.எஸ்.கே லேன் உள்ளிட்ட சாலைகளிலும் பணி' is a grouping rather than a factual error, but the reel_script attributes 'சிட்கோ 7ஆவது தெரு, என் எஸ் கே லேன், கிருஷ்ணா நகர் 27ஆவது தெரு' to the same sentence group as Sitco and Krishna Nagar; the article lists these correctly.
+  fact-check: slides_spec slide 3 states 'நேரு நகர், வி.ஜி.பி 1ஆவது பிரதான சாலையிலும் பணி', which is consistent with the article.
+  fact-check: The reel_script omits that the work was carried out by Chennai Corporation? It says 'சென்னை மாநகராட்சி இந்தப் பணியை மேற்கொள்கிறது', consistent with the article.
+  fact-check: The reel_script says 'பள்ளங்கள் சீர் செய்யப்பட்டன' for Medha Nagar etc., which matches the article's report of work carried out.
+  fact-check: The reel_script's phrase 'மேதா நகர் சாலை, கே கே டி நகர் 3ஆவது பிரதான சாலை, முத்தமிழ் நகர் மேற்கு அவென்யூ சாலை ஆகியவற்றில் பள்ளங்கள் சீர் செய்யப்பட்டன' is consistent with the article.
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  reel_script and slides_spec give the date as நவம்பர் 19 (Nov 19), but the article only says 'நாளை மறுதினம்' (day after tomorrow) with no calendar date
+  caption includes a 'Chennai news' English line and an extra advice line (குடிநீர்) not in the article: the article gives no drinking-water advice
+  slides_spec adds 'குடிநீர், முக்கிய வேலைகளை முன்கூட்டியே முடித்துக்கொள்ளுங்கள்', an advice not stated in the article
+  caption's K.K. Nagar list omits 'சாதிக் பாஷா நகர' - no, it includes it; but the caption omits 'சித்திரை... ' no; the caption list drops 'சாய் நகர' duplicate handling is fine; however reel_script 'பி ஆர் எஸ் நகர' etc. are consistent - no further issue
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: reel_script and slides_spec give the date as நவம்பர் 19 (Nov 19), but the article only says 'நாளை மறுதினம்' (day after tomorrow) with no calendar date
+  fact-check: caption includes a 'Chennai news' English line and an extra advice line (குடிநீர்) not in the article: the article gives no drinking-water advice
+  fact-check: slides_spec adds 'குடிநீர், முக்கிய வேலைகளை முன்கூட்டியே முடித்துக்கொள்ளுங்கள்', an advice not stated in the article
+  fact-check: caption's K.K. Nagar list omits 'சாதிக் பாஷா நகர' - no, it includes it; but the caption omits 'சித்திரை... ' no; the caption list drops 'சாய் நகர' duplicate handling is fine; however reel_script 'பி ஆர் எஸ் நகர' etc. are consistent - no further issue
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 25 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 35 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 84 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 129 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர'); 147 ('இது தொடர்பாக தமிழக அரசு வெளியிட்டுள்ள செய்திக்குறிப்பில் தெர')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  reel_script has 81 words; need 87-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'கே.கே.நகர்', e.g. 'கே.கே.நகர்: ...' or 'கே.கே.நகர்-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+real photo step skipped for 'Chennai Corporation intensifies repair o': real photos switched off
+ok anthropic/claude-haiku-5-5
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Chennai Corporation intensifies repair o'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-0111","first":"RN-55"}
+real photo step skipped for 'Power cut in several Chennai areas on 19': real photos switched off
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Power cut in several Chennai areas on 19'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-0112","first":"RN-56"}
+earlier stories still waiting for images: []
+instagram check: 38 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/power-outage-in-chennai-tomorrow/4379067
+manual link added: https://www.dailythanthi.com/news/tamilnadu/northeast-monsoon-warning-pothole-repair-work-in-full-swing-in-chennai
+manual link added: https://www.hindutamil.in/news/india/cyclone-akvan-update-likely-to-intensify-into-a-very-severe-cyclonic-storm-by-november-19
+manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/கால்வாயில்-தவறி-விழுந்து-இளைஞா்-பலி
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/is-the-electric-wire-a-flag-that-hurts-clothes-the-people-of-valluvar-are-in-danger-of-losing-their-lives/4378899
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/bihar-labourer-killed-by-lorry---water-lorry-driver-questioned/4379005
+manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/புழல்-சிறைக்குள்-கஞ்சா-கடத்திய-ஆண்-செவிலியா்-கைது
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/the-judge-was-unhappy-with-the-police-for-not-producing-the-detainee/4379103
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-man-killed-as-lorry-hits-bike/4378737
+manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/தனியாா்-நிறுவனத்தில்-ரூ1-கோடி-ஆன்லைன்-மோசடி-சைபா்-குற்றப்பிரிவு-விசாரணை
+candidate filter: collected=10
+to write: 10 Chennai district candidates (max 10 stories)
+round: top 10 of 10 candidates
+candidates waiting: 10 Chennai; time left 79 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+NOT filed (N) கைதானவரை ஆஜர்படுத்தாத போலீசார்மீது நீதிபதி அதிருப்: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+try (N) manual=True: https://www.hindutamil.in/news/india/cyclone-akvan-update-li
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/northeast-monsoo
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+NOT filed (N) தீவிரம் அடையும் ‘அக்வான்’ புயல்: நவ.19-ல் சென்னை, : duplicate after write
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 16})
+candidate loop ended: left 0, tried={'N': 10}, done={'N': 8}, time left 75 min
+filed: 8 Chennai district stories (target 10), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":10,"updated":0} 
+stories: 8
