@@ -19,8 +19,8 @@ import allnews      # noqa: E402
 # ---- the only part that differs between the Chennai and the Namakkal copy of this file
 QUERIES = ["சென்னை மின்தடை", "சென்னை மின்தடை", "நாளைய மின்தடை சென்னை", "சென்னை மின்தடை", "சென்னை மின்தடை",
            "சூலூர் மின்தடை", "அன்னூர் மின்தடை", "சென்னை மின் நிறுத்தம்"]
-SITES = ("dinamani.com", "dinamalar.com", "covaimail.com")      # order = preference when two papers print the same cut
-DISTRICT_URL = ("district-news-chennai", "edition-chennai", "covaimail.com")      # a link of the district's own page
+SITES = ("dinamani.com", "dinamalar.com")      # order = preference when two papers print the same cut
+DISTRICT_URL = ("district-news-chennai", "edition-chennai")      # a link of the district's own page
 PAGE_KEY = "chennai"      # the Instagram page these cuts post on
 # ----
 # owner 13 Nov: the daily STATE-WIDE lists name every district's areas - a cut is often printed only there. Only OUR district's part
