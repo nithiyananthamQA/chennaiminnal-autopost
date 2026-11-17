@@ -35,6 +35,7 @@ LIVE_INPUTS = {
     "rasipalan.yml": {"dry": "0", "date": "", "repost": "0"},
     "insights.yml": {},
     "cloudclean.yml": {"keep_hours": "48", "dry": "false"},      # 17 Nov: the reference's clean-up (manual default = count only)
+    "goldrate.yml": {"dry": "0", "date": ""},      # owner 17 Nov: the gold & silver rate reel, every morning
 }
 
 
