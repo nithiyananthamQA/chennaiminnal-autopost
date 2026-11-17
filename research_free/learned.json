@@ -1,64 +1,64 @@
 {
- "updated": "2026-11-17T12:41+00:00",
- "posts_measured": 0,
+ "updated": "2026-11-17T19:01+05:30",
+ "posts_measured": 38,
  "topic_weight": {
-  "accident": 0.68,
-  "civic": -0.05,
-  "crime": 0.19,
+  "accident": 0.67,
+  "civic": 0.14,
+  "crime": -0.1,
   "education": -0.5,
   "politics": -0.5,
   "poultry_agri": -0.33,
-  "power_cut": 1.33,
+  "power_cut": 1.42,
   "sports_culture": -0.03,
-  "temple": -0.33,
-  "weather": 0.07
+  "temple": -0.31,
+  "weather": 1.5
  },
  "topic_n": {
-  "accident": 22,
-  "civic": 49,
-  "crime": 58,
-  "education": 41,
   "politics": 17,
+  "accident": 22,
+  "crime": 19,
+  "weather": 9,
+  "power_cut": 25,
+  "civic": 49,
+  "education": 41,
   "poultry_agri": 16,
-  "power_cut": 23,
   "sports_culture": 3,
-  "temple": 20,
-  "weather": 42
+  "temple": 22
  },
+ "best_hours_ist": [
+  17,
+  6,
+  19,
+  7
+ ],
+ "top_openings": [
+  "🚨 சென்னையில் ரூ.1 கோடி மதிப்பிலான போதை மூலப்பொருள் பறிமுதல் – தந்தை, மகன் உள்பட ",
+  "🌀 நாளை சென்னை, திருவள்ளூர், செங்கல்பட்டில் கனமழை: அக்வான் புயல் உருவாகிறது",
+  "🌧️ சென்னையில் நாளை மிக கனமழை: ஆரஞ்ச் அலர்ட்",
+  "🚨 சென்னையில் 22 கிலோ கஞ்சா பறிமுதல்: 2 பேர் கைது"
+ ],
+ "avg_watch_s": 5.3,
+ "best_topics": [
+  "weather",
+  "power_cut",
+  "accident"
+ ],
+ "weak_topics": [
+  "education",
+  "politics"
+ ],
  "topic_source": {
   "accident": "reference",
   "civic": "reference",
-  "crime": "reference",
+  "crime": "ours",
   "education": "reference",
   "politics": "reference",
   "poultry_agri": "reference",
   "power_cut": "reference",
   "sports_culture": "reference",
   "temple": "reference",
-  "weather": "reference"
+  "weather": "ours"
  },
- "best_hours_ist": [
-  0,
-  4,
-  10,
-  11
- ],
- "top_openings": [
-  "🌿 காரமடை பரளிக்காடு: பழங்குடியினரால் இயங்கும் சூழல் சுற்றுலா",
-  "🏆 கோவை நவக்கரையில் ஏ.ஜே.கே. விளையாட்டு திருவிழா 2026: வரும் 16 முதல் 23 வரை",
-  "🔪 மேட்டுப்பாளையத்தில் சமாதானம் செய்தவருக்கு கத்திக்குத்து: இருவர் கைது",
-  "⚡ தடாகம் அருகே சார்ஜர் இணைத்தபோது மின்சாரம் பாய்ந்து தொழிலாளி உயிரிழப்பு"
- ],
- "avg_watch_s": 7.8,
- "best_topics": [
-  "power_cut",
-  "accident",
-  "crime"
- ],
- "weak_topics": [
-  "education",
-  "politics"
- ],
- "reference_posts_measured": 350,
- "reference_updated": "2026-11-17T10:46+05:30"
+ "reference_posts_measured": 357,
+ "reference_updated": "2026-11-17T18:26+05:30"
 }
