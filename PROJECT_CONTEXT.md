@@ -82,6 +82,27 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-18 | `1014841` | Same code as Kovai Minnal 0691bd3d Power cuts: a list for our district only is kept whole (17 Nov: Chennai never posted a power cut - ABP's Chennai-only list was cut to 0 words); covaimail.com is Kovai's paper only |
+| 2026-11-18 | `152ae1f` | pick state in the shape pick.py works with (the empty {} crashed the 21:00 round) |
+| 2026-11-18 | `2a519cb` | Same code as Kovai Minnal eb19a89e pick: a new page's empty state file no longer crashes the round (17 Nov: Chennai's 21:00 round failed - KeyError 'rounds' - no news since 18:26) |
+| 2026-11-17 | `54c361c` | Heartbeat |
+| 2026-11-17 | `e330840` | Heartbeat |
+| 2026-11-17 | `7d5301c` | Heartbeat |
+| 2026-11-17 | `3677222` | powercut: notices written |
+| 2026-11-17 | `f1de531` | powercut: notices written |
+| 2026-11-17 | `de8a7c4` | powercut: notices written |
+| 2026-11-17 | `d7a3dec` | pick: written and posted |
+| 2026-11-17 | `ff73e26` | pick: list sent |
+| 2026-11-17 | `1cc7966` | powercut: notices written |
+| 2026-11-17 | `ed2f221` | powercut: notices written |
+| 2026-11-17 | `2927890` | powercut: notices written |
+| 2026-11-17 | `c4560a5` | powercut: notices written |
+| 2026-11-17 | `17c6795` | Same code as Kovai Minnal e26df7a1 GITHUB SAFE MODE until the Cloudflare Workers timer (owner 17 Nov: a friend's account was suspended for this Actions load) |
+| 2026-11-17 | `69fdea0` | Same code as Kovai Minnal a5d72b43 Names as the newspaper gives them; never a minor or a sexual-offence victim (owner 17 Nov: 'if newspaper do then post that') |
+| 2026-11-17 | `18ca401` | Same code as Kovai Minnal 9178cd37 Fact-check reports a named accused / victim / minor / private person, so the draft is rewritten (17 Nov: Chennai's first reel named an accused driver) |
+| 2026-11-17 | `48f024d` | powercut: notices written |
+| 2026-11-17 | `dd02c3e` | Same code as Kovai Minnal 84f4641e Writer: the article's facts, our own sentences (owner 17 Nov: 'is it legal to take news from Dinamalar ... fix the gap') |
+| 2026-11-17 | `3684c4a` | powercut: notices written |
 | 2026-11-17 | `d2a1deb` | Same code as Kovai Minnal 63c34e7e Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
 | 2026-11-17 | `93e18cb` | facebook RN-48 |
 | 2026-11-17 | `afb96db` | powercut: notices written |
@@ -91,6 +112,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-17 | `d3d653c` | Chennai Minnal: refreshed copy of Kovai Minnal (12cb54fe) - shop names rule, gold rate reel live |
 | 2026-11-17 | `4526686` | Chennai Minnal: refreshed copy of Kovai Minnal (1a398477) - gold rate reel music only |
 | 2026-11-17 | `c18c361` | Chennai Minnal: refreshed copy of Kovai Minnal (6daa3efd) - gold rate reel only, 10 s |
-| 2026-11-17 | `9e979c9` | Chennai Minnal: refreshed copy of Kovai Minnal (kovaiminnal-autopost 6611b53b) - insights ours first + reference live, own-city gold rate, gold design + rate reel |
-| 2026-11-17 | `7dd1fca` | Chennai Minnal: copy of Kovai Minnal (kovaiminnal-autopost ee6d7eb4) made by tools/make_page.py chennai - only the district's words and values differ |
 <!-- recent-changes:end -->
