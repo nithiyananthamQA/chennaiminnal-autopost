@@ -82,6 +82,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-17 | `98fd5f6` | facebook RN-51 |
+| 2026-11-18 | `cb8ac21` | Same code as Kovai Minnal b9ee38d2 Kovai end card: FOLLOW @kovai_minnal, the real username (every Kovai reel showed @kovaiminnal - a handle nobody could find) |
+| 2026-11-17 | `f1d351c` | facebook RN-52 |
+| 2026-11-17 | `4b1cf83` | facebook RN-50 |
 | 2026-11-17 | `128d0e8` | pick: picked news saved |
 | 2026-11-18 | `36bc3c8` | Same code as Kovai Minnal 510ab882 Posting chain: the Cloudflare Worker waits, not a GitHub machine (owner 18 Nov: 'safe from ban?') |
 | 2026-11-17 | `af89d47` | pick: picked news saved |
@@ -108,8 +112,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-17 | `18ca401` | Same code as Kovai Minnal 9178cd37 Fact-check reports a named accused / victim / minor / private person, so the draft is rewritten (17 Nov: Chennai's first reel named an accused driver) |
 | 2026-11-17 | `48f024d` | powercut: notices written |
 | 2026-11-17 | `dd02c3e` | Same code as Kovai Minnal 84f4641e Writer: the article's facts, our own sentences (owner 17 Nov: 'is it legal to take news from Dinamalar ... fix the gap') |
-| 2026-11-17 | `3684c4a` | powercut: notices written |
-| 2026-11-17 | `d2a1deb` | Same code as Kovai Minnal 63c34e7e Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
-| 2026-11-17 | `93e18cb` | facebook RN-48 |
-| 2026-11-17 | `afb96db` | powercut: notices written |
 <!-- recent-changes:end -->
