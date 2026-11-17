@@ -6,7 +6,7 @@
 > Setup from zero: `docs/SETUP_CHENNAI_MINNAL.md`.
 
 Automatic Chennai-district news reels for the Instagram page **சென்னை மின்னல்** (`@chennaiminnal`, hashtag `#ChennaiMinnal`).
-Copied on 11 Nov 2026 from the friend's working project news360-tn/chennai360-autopost (Chennai 360): its own GitHub repository, its own Google account,
+Copied on 11 Nov 2026 from the friend's working project news360-tn/coimbatore360-autopost (Chennai 360): its own GitHub repository, its own Google account,
 Sheet and Apps Script, its own Instagram token, Cloudinary account and free API keys. Nothing here touches Namakkal 360.
 Everything runs on GitHub Actions; the Google Sheet (through the Apps Script bridge) is the working store.
 Owner rules, main files and recent changes: see `PROJECT_CONTEXT.md`.

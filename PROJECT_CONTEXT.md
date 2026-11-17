@@ -2,7 +2,7 @@
 
 Automatic Chennai-district news reels for the Instagram page **சென்னை மின்னல்** (`@chennaiminnal`; hashtag `#ChennaiMinnal`;
 `post_to` value in the Sheet: `Chennai Minnal`), also shared to its Facebook Page. Copied on 11 Nov 2026 from the friend's working
-project github.com/news360-tn/chennai360-autopost (page "Chennai 360") as it ran that day, with our name, images and accounts.
+project github.com/news360-tn/coimbatore360-autopost (page "Chennai 360") as it ran that day, with our name, images and accounts.
 Internal page key stays `chennai` and the file structure / function names are unchanged, so upstream fixes can be ported by diff.
 Everything runs on GitHub Actions; the Google Sheet (through the Apps Script bridge) is the working store.
 Setup from zero: `docs/SETUP_CHENNAI_MINNAL.md`. Brand images: `python3 tools/make_brand.py`.
