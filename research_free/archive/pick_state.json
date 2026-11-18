@@ -1011,7 +1011,8 @@
    "alts": [
     "https://www.hindutamil.in/news/tamilnadu/those-from-tvk-who-opened-the-sothuparai-dam-must-be-arrested-anbumani-ramadoss"
    ],
-   "listed_at": "2026-11-18T21:01:07.735740+05:30"
+   "listed_at": "2026-11-18T21:01:07.735740+05:30",
+   "picked_at": "2026-11-18T21:04:17.572215+05:30"
   },
   "C411a520": {
    "id": "C411a520",
@@ -1023,7 +1024,8 @@
    "category": "குற்றம்",
    "score": 11.71,
    "power_cut": false,
-   "listed_at": "2026-11-18T21:01:07.735740+05:30"
+   "listed_at": "2026-11-18T21:01:07.735740+05:30",
+   "picked_at": "2026-11-18T21:04:17.572218+05:30"
   },
   "C92b71e5": {
    "id": "C92b71e5",
@@ -1035,7 +1037,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-18T21:01:07.735740+05:30"
+   "listed_at": "2026-11-18T21:01:07.735740+05:30",
+   "picked_at": "2026-11-18T21:04:17.572220+05:30"
   },
   "Cd6d83d2": {
    "id": "Cd6d83d2",
@@ -1047,7 +1050,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-18T21:01:07.735740+05:30"
+   "listed_at": "2026-11-18T21:01:07.735740+05:30",
+   "picked_at": "2026-11-18T21:04:17.572221+05:30"
   },
   "C56154f2": {
    "id": "C56154f2",
@@ -2206,8 +2210,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-18T22:01:07.735740+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 4 of 93 by insights",
+    "ids": [
+     "C0744da1",
+     "C411a520",
+     "C92b71e5",
+     "Cd6d83d2"
+    ],
+    "at": "2026-11-18T21:04:17.572203+05:30"
+   },
+   "written": [
+    "C0744da1",
+    "C411a520",
+    "C92b71e5",
+    "Cd6d83d2"
+   ]
   }
  },
  "retry": {}
