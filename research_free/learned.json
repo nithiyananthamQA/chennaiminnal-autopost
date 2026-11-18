@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-18T17:01+05:30",
- "posts_measured": 57,
+ "updated": "2026-11-18T21:01+05:30",
+ "posts_measured": 62,
  "topic_weight": {
-  "accident": 0.01,
-  "civic": 0.05,
-  "crime": -0.24,
+  "accident": 0.17,
+  "civic": -0.01,
+  "crime": -0.29,
   "education": -0.5,
   "politics": -0.5,
-  "poultry_agri": -0.32,
-  "power_cut": 1.38,
+  "poultry_agri": -0.2,
+  "power_cut": 1.25,
   "sports_culture": -0.07,
-  "temple": -0.33,
-  "weather": 1.5
+  "temple": -0.39,
+  "weather": 0.99
  },
  "topic_n": {
   "politics": 17,
   "accident": 7,
-  "crime": 26,
-  "weather": 11,
-  "power_cut": 27,
+  "crime": 29,
+  "weather": 12,
+  "power_cut": 29,
   "civic": 51,
-  "education": 41,
-  "poultry_agri": 19,
+  "education": 42,
+  "poultry_agri": 21,
   "temple": 23,
   "sports_culture": 3
  },
@@ -35,13 +35,13 @@
   "🚨 புழல் சிறைக்குள் கஞ்சா கடத்தல்: செவிலியர் உதவியாளர் கைது",
   "🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை",
   "🚨 சென்னையில் ரூ.1 கோடி மதிப்பிலான போதை மூலப்பொருள் பறிமுதல் – தந்தை, மகன் உள்பட ",
-  "🚨 ஆவடியில் ரூ.2 கோடி மதிப்பிலான நிலத்தை போலி ஆவணங்கள் மூலம் அபகரித்த வழக்கில் 3 "
+  "🚨 மடிப்பாக்கத்தில் கால்வாயில் விழுந்து இளைஞர் உயிரிழப்பு"
  ],
- "avg_watch_s": 5.9,
+ "avg_watch_s": 6.0,
  "best_topics": [
-  "weather",
   "power_cut",
-  "civic"
+  "weather",
+  "accident"
  ],
  "weak_topics": [
   "education",
@@ -59,6 +59,6 @@
   "temple": "reference",
   "weather": "ours"
  },
- "reference_posts_measured": 375,
- "reference_updated": "2026-11-18T10:09+05:30"
+ "reference_posts_measured": 382,
+ "reference_updated": "2026-11-18T17:16+05:30"
 }
