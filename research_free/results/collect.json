@@ -3,193 +3,268 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/a-thorough-investigation-should-be-conducted-into-the-death-of-a-tamil-nadu-youth-who-died-in-singapore-seeman-insists",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/senthil-balaji-files-petition-in-chennai-special-court-seeking-release-from-case",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/சென்னையில்-10-மாதங்களில்-சேகரித்த-210-டன்-கழிவுகள்-தனியாக-எரியூட்டல்",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/former-dmk-minister-duraimurugan-tops-list-of-24-accused-in-sand-mining-case/4379229",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/recovery-of-temple-site-worth-rs-75-lakh/4378966",
-  "candidate filter: collected=5",
-  "to write: 5 Chennai district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/former-dmk-mi",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "NOT filed (N) திமுக ஆட்சியில் நடந்த மணல் கொள்ளை வழக்கில் 24 பேர்: all free models failed: no usable answer from the models",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/senthil-balaji-f",
-  "NOT filed (N) வழக்கில் இருந்து விடுவிக்க கோரி  செந்தில் பாலாஜி ச: all free models failed: no usable answer from the models",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/a-thorough-inves",
-  "NOT filed (N) சிங்கப்பூரில் உயிரிழந்த தமிழக இளைஞர் மரணம் குறித்த: all free models failed: no usable answer from the models",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/mosquito-eradication-work-in-full-swing-across-chennai-municipal-corporation-action",
+  "manual link added: https://www.polimernews.com/justnownews/case-registered-against-ntk-functionary-sattai-durai-murugan-under-three-sections-12819180",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chief-minister-vijay-inspects-108-emergency-medical-call-center",
+  "candidate filter: collected=3",
+  "to write: 3 Chennai district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chief-minister-v",
+  "try (N) manual=True: https://www.polimernews.com/justnownews/case-registered-agai",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/mosquito-eradica",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 2}, time left 78 min",
-  "filed: 2 Chennai district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
+  "filed: 3 Chennai district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (34s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok gemini/gemini-3-flash-preview (22s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஓட்டேரியில் ரூ.75 லட்சம் மதிப்புள்ள கோவில் இடம் மீட்பு",
-   "english_headline": "Chennai Hindu Religious Endowments Dept recovers temple land worth Rs 75 lakh in Othakkal",
-   "category": "Government & Services",
-   "location": "Othakkal, Chennai district",
+   "tamil_headline": "சென்னை முழுவதும் கொசு ஒழிப்பு பணிகள் தீவிரம்: வீடுகளில் புகை, வடிகால்களில் மருந்து",
+   "english_headline": "Chennai Corporation steps up mosquito control across the city: smoke fogging in homes, spraying in stormwater drains",
+   "category": "Civic Issues",
+   "location": "Chennai city, Chennai district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பொது சுகாதாரம்",
+    "loc": "சென்னை மாநகராட்சி",
+    "hl1": "சென்னை முழுவதும் கொசு ஒழிப்புப் பணிகள்",
+    "hl2": "வீடுகளில் புகை, வடிகாலில்",
+    "slides": [
+     {
+      "title": "என்ன பணி?",
+      "lines": [
+       "வீடுகள்தோறும் கொசு ஒழிப்புப் புகை பரப்பும் பணி",
+       "மழைநீர் வடிகால்களில் கொசு மருந்து தெளிப்பு",
+       "கொசுக்கள், கொசுப்புழுக்களை கட்டுப்படுத்த நடவடிக்கை"
+      ]
+     },
+     {
+      "title": "எங்கே நடந்தது?",
+      "lines": [
+       "திருவொற்றியூர், மணலி, மாதவரம் மண்டலங்கள்",
+       "அண்ணாநகர், தேனாம்பேட்டை, கோடம்பாக்கம் மண்டலங்கள்",
+       "அடையாறு, பெருங்குடி, சோழிங்கநல்லூர் மண்டலங்கள்"
+      ]
+     },
+     {
+      "title": "மாநகராட்சி தகவல்",
+      "lines": [
+       "இன்று பல்வேறு மண்டலங்களில் பணிகள் மேற்கொள்ளப்பட்டன",
+       "பெருநகர சென்னை மாநகராட்சி அறிக்கை வெளியிட்டுள்ளது",
+       "பணிகள் தொடர்ந்து தீவிரமாக நடைபெறுகின்றன"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னை முழுவதும் வீடுகள்தோறும் கொசு ஒழிப்புப் புகை பரப்பும் பணி நடைபெறுகிறது. மழைநீர் வடிகால்களில் கொசு மருந்து தெளிக்கும் பணியும் தீவிரமாக நடக்கிறது. கொசுக்கள் மற்றும் கொசுப்புழுக்களைக் கட்டுப்படுத்துவதே இதன் நோக்கம். இன்று பல்வேறு மண்டலங்களில் இந்தப் பணிகள் மேற்கொள்ளப்பட்டன. திருவொற்றியூர், மணலி, மாதவரம், அண்ணாநகர், தேனாம்பேட்டை, கோடம்பாக்கம், அடையாறு, பெருங்குடி, சோழிங்கநல்லூர் ஆகிய மண்டலங்களில் பல வார்டுகளில் பணிகள் நடைபெற்றன. கங்கை நகர், பாரதியார் தெரு, ஸ்ரீ லட்சுமி நகர், திருவள்ளுவர் சாலை, ராஜீவ் காந்தி நகர், ஆர் கே சாலை, மடிப்பாக்கம், ராம் நகர் உள்ளிட்ட பகுதிகளிலும் புகை பரப்பும் பணியும் மருந்து தெளிப்பும் நடந்தன. இந்தத் தகவலைப் பெருநகர சென்னை மாநகராட்சி அறிக்கையில் வெளியிட்டுள்ளது. பணிகள் தொடர்ந்து தீவிரமாக நடைபெறுவதால் பொதுமக்கள் தங்கள் பகுதியில் ஒத்துழைப்புத் தர வேண்டும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🦟 சென்னை முழுவதும் கொசு ஒழிப்புப் பணிகள் தீவிரம்: வீடுகளில் புகை, வடிகால்களில் மருந்து\n\n📰 முழு விவரம்:\nவீடுகள்தோறும் கொசு ஒழிப்புப் புகை பரப்பும் பணியும், மழைநீர் வடிகால்களில் கொசு மருந்து தெளிக்கும் பணியும் தீவிரமாக நடைபெறுகின்றன. கொசுக்கள் மற்றும் கொசுப்புழுக்களைக் கட்டுப்படுத்துவதே இதன் நோக்கம்.\nஇன்று பல்வேறு மண்டலங்களில் கொசு ஒழிப்புப் பணிகள் மேற்கொள்ளப்பட்டன.\n🗺️ இடங்கள்: திருவொற்றியூர் (வார்டு 8, 22), மணலி (வார்டு 18), மாதவரம் (வார்டு 31, 29), அண்ணாநகர் (வார்டு 92, 94), தேனாம்பேட்டை (வார்டு 121, 13), கோடம்பாக்கம் (வார்டு 147), அடையாறு (வார்டு 174), பெருங்குடி (வார்டு 187, 188), சோழிங்கநல்லூர் (வார்டு 151).\n📍 பகுதிகள்: கங்கை நகர், வேதகிரி குறுக்குத் தெரு, பாரதியார் தெரு, ஸ்ரீ லட்சுமி நகர் பிரதான சாலை, சாந்தி காலனி, திருவள்ளுவர் சாலை, ராஜீவ் காந்தி நகர் (4, 5ஆவது தெரு), திருவீதி அம்மன் தெரு, ஆர்.கே. சாலை, பத்மநாபா தெரு, சேஷாசலம் தெரு, ஸ்ரீனிவாச நகர் 1ஆவது தெரு, ஜீவரத்தினம் நகர் பிரதான சாலை, மடிப்பாக்கம் கோபால் தெரு, ராம் நகர் 8ஆவது தெரு, அன்னை சத்தியா நகர் பிரதான சாலை.\n👮 நடவடிக்கை: பெருநகர சென்னை மாநகராட்சி வெளியிட்ட அறிக்கையில் இந்தத் தகவல் தெரிவிக்கப்பட்டுள்ளது.\nℹ️ மக்கள் கவனத்திற்கு: உங்கள் பகுதியில் பணி நடக்கும்போது ஒத்துழைப்புத் தாருங்கள். தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்.\n\nChennai mosquito control drive | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #கொசு",
+   "prompts": "A Greater Chennai Corporation fogging worker in a khaki uniform pushes a mosquito fogging machine that releases a thick white cloud of insecticide smoke along a narrow residential street in a Chennai city neighbourhood. Low concrete houses with tiled roofs and small front verandas line both sides, and a few residents stand at their doorways watching from a distance, seen from behind or slightly blurred. Another worker follows with a spray tank on his back, and a rainwater drain runs along the kerb. It is daytime in soft natural daylight, with a light haze of smoke hanging in the air. Taken at eye level with a 35 mm lens, wide enough to show the full street and houses. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a fogging machine nozzle spraying a dense white plume of mosquito-control smoke into an open rainwater stormwater drain channel on a Chennai city street, with the concrete drain walls and a little stagnant water visible at the edges. A corporation worker's gloved hand and rubber boot are seen at the frame edge, slightly out of focus, and a few plastic water pots sit on a doorstep in the background. Daylight, slightly hazy from the smoke. Shot slightly high at about 35 mm to show the nozzle, the drain and the spreading smoke clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/mosquito-eradication-work-in-full-swing-across-chennai-municipal-corporation-action",
+   "published": "2026-11-18T05:46:40Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 93 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); reel_script must tell how the story ENDED, as the article's last lines say ('சென்னை முழுவதும் கொசு ஒழிப்பு பணிகள் தீவிரம் - மாநகராட்சி நடவடிக்கை') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794987333/chennaiminnal/o9ywzhfxonw2txb8sfvq.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794987337/chennaiminnal/scae63tow3hpngvxzvvq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பரங்கிமலை போலீசார் சாட்டை துரைமுருகன் மீது 3 பிரிவுகளில் வழக்குப்பதிவு",
+   "english_headline": "Parankimalai police register case under 3 sections against Chatai Duraimurugan",
+   "category": "Crime & Safety",
+   "location": "Parankimalai, Chennai district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அறநிலை",
-    "loc": "ஓட்டேரி, சென்னை",
-    "hl1": "ஓட்டேரியில் கோவில் இடம் மீட்பு",
-    "hl2": "மதிப்பு ரூ.75 லட்சம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது",
-      "lines": [
-       "ஓட்டேரி சந்தியப்பன் 3வது தெருவில் நிலம்",
-       "<b>1,287</b> சதுர அடி பரப்பு கொண்ட இடம்",
-       "கோவிலுக்கு சொந்தமான நிலம்"
-      ]
-     },
-     {
-      "title": "வழக்கு விவரம்",
-      "lines": [
-       "ரங்கநாதன் வாடகைக்கு குடியிருந்தார்",
-       "பல ஆண்டுகளாக வாடகை செலுத்தவில்லை",
-       "கோவில் நிர்வாகம் நீதிமன்றத்தில் வழக்கு"
-      ]
-     },
-     {
-      "title": "மீட்பு நடவடிக்கை",
-      "lines": [
-       "நீதிமன்ற உத்தரவுப்படி நிலம் மீட்கப்பட்டது",
-       "உதவி ஆணையர் புவனேஸ்வரி தலைமையில்",
-       "நிலத்தின் மதிப்பு <b>75</b> லட்சம் ரூபாய்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ரூ.75 லட்சம் மதிப்புள்ள கோவில் இடம் ஓட்டேரியில் மீட்கப்பட்டது. ஓட்டேரி – குன்னூர் நெடுஞ்சாலை பகுதியில் செல்லப்பிள்ளை ராயர் பெருமாள் கோவில் உள்ளது. இந்த கோவிலுக்கு சொந்தமான இடம் ஓட்டேரி சந்தியப்பன் 3வது தெருவில் அமைந்துள்ளது. 1,287 சதுர அடி பரப்பு கொண்ட இந்த இடத்தில் ரங்கநாதன் வாடகைக்கு குடியிருந்துள்ளார். பல ஆண்டுகளாக ரங்கநாதன் வாடகை செலுத்தாததால் கோவில் நிர்வாகம் நீதிமன்றத்தில் வழக்கு தொடுத்தது. நீதிமன்றம் கோவிலுக்கு சொந்தமான இடத்தை மீட்க ஆணை பிறப்பித்தது. சென்னை மண்டலம் 1 இணை ஆணையர் உத்தரவின்படி நடவடிக்கை எடுக்கப்பட்டது. ஹிந்து சமய அறநிலையத்துறை உதவி ஆணையர் புவனேஸ்வரி உள்ளிட்டோர் நேற்று நிலத்தை மீட்டனர். மீட்கப்பட்ட இடத்தின் மதிப்பு 75 லட்சம் ரூபாய் ஆகும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ ஓட்டேரியில் ரூ.75 லட்சம் மதிப்புள்ள கோவில் இடம் மீட்பு\n\n📰 முழு விவரம்:\nஓட்டேரி – குன்னூர் நெடுஞ்சாலை பகுதியில் ஹிந்து சமய அறநிலையத்துறைக்கு சொந்தமான செல்லப்பிள்ளை ராயர் பெருமாள் கோவில் உள்ளது. இந்த கோவிலுக்கு சொந்தமான இடம் ஓட்டேரி சந்தியப்பன் 3வது தெருவில் அமைந்துள்ளது. 1,287 சதுர அடி பரப்பு கொண்ட இந்த இடத்தில் ரங்கநாதன் வாடகைக்கு குடியிருந்துள்ளார். பல ஆண்டுகளாக ரங்கநாதன் வாடகை செலுத்தாததால் கோவில் நிர்வாகம் நீதிமன்றத்தில் வழக்கு தொடுத்தது. நீதிமன்றம் கோவிலுக்கு சொந்தமான இடத்தை மீட்க ஆணை பிறப்பித்தது. சென்னை மண்டலம் 1 இணை ஆணையர் உத்தரவின்படி ஹிந்து சமய அறநிலையத்துறை உதவி ஆணையர் புவனேஸ்வரி உள்ளிட்டோர் நேற்று நிலத்தை மீட்டனர். மீட்கப்பட்ட இடத்தின் மதிப்பு 75 லட்சம் ரூபாய் ஆகும்.\n\n📍 இடம்: ஓட்டேரி சந்தியப்பன் 3வது தெரு, சென்னை\n🗓️ நாள்: நேற்று (நவம்பர் 16, 2026)\nℹ️ மக்கள் கவனத்திற்கு: கோவிலுக்கு சொந்தமான நிலம் மீட்கப்பட்டுள்ளது.\n\nChennai temple land recovery | Othakkal news\n📍 Othakkal, Chennai | 17 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Othakkal #ChennaiNews #சென்னை",
-   "prompts": "A photo-realistic wide shot of a narrow residential street in Othakkal, Chennai, during the day. In the center, a group of government officials in formal attire, including a woman identified as an Assistant Commissioner, are standing near a small, traditional Hindu temple structure. The temple has a simple gopuram and a red flag. The officials are inspecting a piece of land adjacent to the temple, which is marked with boundary stones. The street is lined with typical South Indian residential buildings with tiled roofs. The lighting is bright natural daylight, casting soft shadows. The atmosphere is serious and official. No text, logos, or close-up faces are visible. The scene captures the moment of land recovery by the Hindu Religious Endowments Department. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot focusing on the specific plot of land being recovered in Othakkal, Chennai. The land is 1,287 square feet, enclosed by a low brick wall or boundary markers. In the foreground, a government official is pointing towards the land, explaining the details to a colleague. In the background, the small Sillappillai Rayer Perumal Temple is visible, with its distinct architectural features. The surrounding area shows typical Chennai residential architecture with balconies and windows. The sky is clear blue. The image emphasizes the legal and administrative nature of the event, showing the interaction between the officials and the property. No text, watermarks, or identifiable faces are present. The perspective is from a slight distance to show the context of the location. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/recovery-of-temple-site-worth-rs-75-lakh/4378966",
-   "published": "2026-11-17T19:54:41+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: source/outlet name or link appears: the hindu; caption copies the article word for word (21 words in a row, 39% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794976730/chennaiminnal/c74xgn3otn15ciolzecs.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794976735/chennaiminnal/klp8wnxguoz0jfullcpl.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் 10 மாதங்களில் சேகரிக்கப்பட்ட 210 டன் டயப்பர்கள் எரியூட்டி அழிப்பு",
-   "english_headline": "210 tons of diaper waste collected over 10 months in Chennai incinerated at Kodungaiyur plant",
-   "category": "Civic Issues",
-   "location": "Kodungaiyur, Chennai district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கழிவு மேலாண்மை",
-    "loc": "கொடுங்கையூர், சென்னை",
-    "hl1": "சென்னையில் 210 டன் கழிவுகள் அழிப்பு",
-    "hl2": "கொடுங்கையூரில் எரியூட்டல்",
+    "cat": "வழக்குப்பதிவு",
+    "loc": "பரங்கிமலை, சென்னை",
+    "hl1": "பரங்கிமலை: சாட்டை துரைமுருகன் மீது",
+    "hl2": "3 பிரிவுகளில் வழக்குப்பதிவு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கடந்த 10 மாதங்களில் <b>210 டன்</b> கழிவுகள் சேகரிப்பு",
-       "டயப்பர்கள் உள்ளிட்ட கழிவுகள் எரியூட்டி அழிப்பு",
-       "கொடுங்கையூர் வளாகத்தில் நடவடிக்கை"
+       "நாம் தமிழர் கட்சி நிர்வாகி சாட்டை துரைமுருகன் மீது வழக்கு",
+       "சென்னை பரங்கிமலை போலீசார் <b>3 பிரிவுகளில்</b> வழக்குப்பதிவு",
+       "யூடியூப் வீடியோவில் தவெக குறித்து அவதூறு கருத்து என புகார்"
       ]
      },
      {
-      "title": "எரியூட்டல் மையம்",
+      "title": "புகார் என்ன?",
       "lines": [
-       "தினமும் <b>50 டன்</b> கழிவுகளை அழிக்கும் திறன்",
-       "செவ்வாய்க்கிழமை அன்று எரியூட்டப்பட்டது",
-       "அறிவியல் ரீதியாக பாதுகாப்பாக அழிப்பு"
+       "<b>நவம்பர் 14</b> அன்று பதிவேற்றிய வீடியோவில் பேச்சு",
+       "மதுரை நகைக்கடை கொள்ளை வழக்கில் கைதான மீனாட்சி தவெக ஆதரவாளர்",
+       "மீனாட்சிக்கும் தவெகவுக்கும் தொடர்பு இல்லை"
       ]
      },
      {
-      "title": "மக்கள் கவனத்திற்கு",
+      "title": "யார் புகார்?",
       "lines": [
-       "டயப்பர்களை காகிதத்தில் சுற்றி வழங்கவும்",
-       "தூய்மைப் பணியாளர்களிடம் தனியாக ஒப்படைக்கவும்",
-       "திடக்கழிவுகளுடன் கலக்க வேண்டாம்"
+       "ஆலந்தூரைச் சேர்ந்த தவெக நிர்வாகி நந்தகுமார் புகார்",
+       "கட்சிக்கு அவப்பெயர் ஏற்படுத்த வதந்தி",
+       "புகார் அடிப்படையில் வழக்குப்பதிவு"
+      ]
+     },
+     {
+      "title": "என்ன பிரிவுகள்?",
+      "lines": [
+       "கலவரத்தை ஏற்படுத்தும் நோக்கத்துடன் ஆத்திரமூட்டும் பேச்சு",
+       "பொது அமைதிக்கு குந்தகம் விளைவித்தல்",
+       "உள்ளிட்ட <b>3 பிரிவுகளில்</b> வழக்குப்பதிவு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் கடந்த 10 மாதங்களில் சேகரிக்கப்பட்ட 210 டன் டயப்பர்கள் உள்ளிட்ட கழிவுகள் எரியூட்டி அழிக்கப்பட்டுள்ளன. சென்னை மாநகராட்சியில் கடந்த ஜனவரி மாதம் முதல் நவம்பர் 15ஆம் தேதி வரை இந்த கழிவுகள் தனியாக சேகரிக்கப்பட்டன. இவை திடக்கழிவுகளுடன் கலந்துவிடாத வகையில் கொடுங்கையூர் குப்பை கொட்டும் வளாகத்தில் பாதுகாப்பாக வைக்கப்பட்டிருந்தன. கொடுங்கையூரில் உள்ள 50 டன் திறன் கொண்ட எரியூட்டல் மையத்தில் செவ்வாய்க்கிழமை அன்று இந்த 210 டன் கழிவுகளும் அறிவியல் ரீதியாக எரியூட்டப்பட்டன. வீடுகளில் பயன்படுத்தப்படும் டயப்பர்கள் மற்றும் சானிட்டரி நாப்கின்களை காகித உறைகளில் சுற்றி தூய்மைப் பணியாளர்களிடம் தனியாக ஒப்படைக்க வேண்டும் என்று சென்னை மாநகராட்சி அறிவுறுத்தியுள்ளது. இவற்றை மற்ற குப்பைகளுடன் கலக்காமல் வழங்குவது அவசியம் என்று தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗑️ சென்னையில் 10 மாதங்களில் சேகரிக்கப்பட்ட 210 டன் டயப்பர்கள் எரியூட்டி அழிப்பு!\n\n📰 முழு விவரம்:\nசென்னை மாநகராட்சியில் கடந்த ஜனவரி முதல் நவம்பர் 15 வரை சேகரிக்கப்பட்ட 210 டன் டயப்பர்கள் மற்றும் சானிட்டரி நாப்கின்கள் அறிவியல் ரீதியாக எரியூட்டி அழிக்கப்பட்டுள்ளன. கொடுங்கையூர் குப்பை கொட்டும் வளாகத்தில் உள்ள 50 டன் திறன் கொண்ட எரியூட்டல் மையத்தில் செவ்வாய்க்கிழமை இந்த நடவடிக்கை மேற்கொள்ளப்பட்டது. திடக்கழிவுகளுடன் இவை கலந்துவிடாத வகையில் தனியாக சேகரிக்கப்பட்டு இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.\n\n📍 இடம்: கொடுங்கையூர் குப்பை கொட்டும் வளாகம், சென்னை\n🗓️ நாள்: 17 நவம்பர் 2026 (செவ்வாய்க்கிழமை)\nℹ️ மக்கள் கவனத்திற்கு: வீடுகளில் பயன்படுத்திய டயப்பர்கள், சானிட்டரி நாப்கின்களை காகித உறைகளில் சுற்றி தூய்மைப் பணியாளர்களிடம் தனியாக ஒப்படைக்க வேண்டும். இவற்றை மற்ற திடக்கழிவுகளுடன் கலக்க வேண்டாம் என சென்னை மாநகராட்சி கேட்டுக்கொண்டுள்ளது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nChennai corporation incinerates 210 tons of diaper waste at Kodungaiyur | Chennai news\n📍 கொடுங்கையூர், சென்னை | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kodungaiyur #ChennaiNews #சென்னை",
-   "prompts": "A wide shot of the Kodungaiyur waste management facility in Chennai, showing a modern industrial incineration plant with a tall chimney, large trucks unloading segregated waste, sanitation workers in green uniforms seen from a distance, overcast morning sky, industrial setting with waste processing units, realistic Chennai atmosphere, wide eye-level view. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of a Chennai Corporation sanitation worker in a green reflective vest holding a segregated waste bin on a residential street in Chennai, compound walls and trees in the background, the worker receiving a small paper-wrapped parcel from a resident, morning light, focus on the process of waste segregation, no faces visible, 35 mm lens. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/சென்னையில்-10-மாதங்களில்-சேகரித்த-210-டன்-கழிவுகள்-தனியாக-எரியூட்டல்",
-   "published": "2026-11-17T22:38:00.000Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "பரங்கிமலையில் நாம் தமிழர் கட்சி நிர்வாகி சாட்டை துரைமுருகன் மீது 3 பிரிவுகளில் வழக்குப்பதிவு செய்யப்பட்டுள்ளது. பிரபல யூடியூபரான சாட்டை துரைமுருகன் மீது சென்னை பரங்கிமலை போலீசார் இந்த வழக்கைப் பதிவு செய்துள்ளனர். கடந்த நவம்பர் 14ஆம் தேதி அவர் தனது யூடியூப் பக்கத்தில் பதிவேற்றிய வீடியோவில் தமிழக வெற்றிக் கழகம் குறித்து அவதூறான கருத்துகளைப் பேசியதாகப் புகார் கூறப்பட்டுள்ளது. மதுரை தனிஷ்க் நகைக்கடையில் நடைபெற்ற கொள்ளை வழக்கில் கைது செய்யப்பட்ட மீனாட்சி என்பவர் தவெக ஆதரவாளர் என அவர் பேசியதாகப் புகாரில் தெரிவிக்கப்பட்டுள்ளது. மீனாட்சிக்கும் தவெகவுக்கும் எந்தத் தொடர்பும் இல்லை என்றும், கட்சிக்கு அவப்பெயர் ஏற்படுத்தும் வகையில் வதந்தி பரப்பப்படுவதாகவும் புகாரில் குறிப்பிடப்பட்டுள்ளது. ஆலந்தூரைச் சேர்ந்த தவெக நிர்வாகி நந்தகுமார் அளித்த புகாரின் அடிப்படையில் போலீசார் வழக்குப்பதிவு செய்துள்ளனர். கலவரத்தை ஏற்படுத்தும் நோக்கத்துடன் ஆத்திரமூட்டும் வகையில் பேசுதல், பொது அமைதிக்கு குந்தகம் விளைவித்தல் உள்ளிட்ட 3 பிரிவுகளின் கீழ் வழக்குப்பதிவு செய்யப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பரங்கிமலை: சாட்டை துரைமுருகன் மீது 3 பிரிவுகளில் வழக்குப்பதிவு\n\n📰 முழு விவரம்:\nநாம் தமிழர் கட்சி நிர்வாகியும் யூடியூபருமான சாட்டை துரைமுருகன் மீது சென்னை பரங்கிமலை போலீசார் 3 பிரிவுகளின் கீழ் வழக்குப்பதிவு செய்துள்ளனர். நவம்பர் 14ஆம் தேதி அவர் தனது யூடியூப் பக்கத்தில் பதிவேற்றிய வீடியோவில் தமிழக வெற்றிக் கழகம் குறித்து அவதூறான கருத்துகளைப் பேசியதாக புகார் கூறப்பட்டுள்ளது. மதுரை தனிஷ்க் நகைக்கடை கொள்ளை வழக்கில் கைதான மீனாட்சி தவெக ஆதரவாளர் என அவர் பேசியதாக புகாரில் தெரிவிக்கப்பட்டுள்ளது. மீனாட்சிக்கும் தவெகவுக்கும் எந்தத் தொடர்பும் இல்லை என்றும், கட்சிக்கு அவப்பெயர் ஏற்படுத்த வதந்தி பரப்பப்படுவதாகவும் புகாரில் குறிப்பிடப்பட்டுள்ளது.\n📍 இடம்: பரங்கிமலை, சென்னை\n🗓️ நாள்: நவம்பர் 14 வீடியோ, நவம்பர் 18 வழக்குப்பதிவு\n👮 நடவடிக்கை: ஆலந்தூர் தவெக நிர்வாகி நந்தகுமார் அளித்த புகாரின் அடிப்படையில் பரங்கிமலை போலீசார் 3 பிரிவுகளில் வழக்குப்பதிவு\nℹ️ மக்கள் கவனத்திற்கு: பொது அமைதிக்கு குந்தகம் விளைவிக்கும் கருத்துகளைத் தவிர்க்கவும்.\n\nChatai Duraimurugan case Parankimalai | Chennai news\n📍 பரங்கிமலை, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Parankimalai #ChennaiNews #சென்னை",
+   "prompts": "A police officer in khaki uniform stands at the entrance of a Tamil Nadu police station in Parankimalai, Chennai, while a few men in shirts and trousers wait near a wooden bench, seen from behind and far away. A two-wheeler is parked by the roadside and a plain concrete wall with a closed metal gate forms the background. Daylight falls evenly on the scene, suggesting a midday hour. The police station is an ordinary low single-storey building with a tiled roof and a small verandah. A complaint file rests on a table inside the open doorway, visible but unreadable. Camera at eye level, 35 mm, wide enough to show the station entrance, the officers and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a smartphone resting on a wooden desk, its screen showing a paused video thumbnail with no readable text, placed beside a stack of official police complaint papers and a black pen. A hand in a khaki shirt sleeve rests near the papers, with the blurred shape of a police table and a ceiling fan behind. The light is soft daylight from a window. The mobile phone represents the YouTube video at the centre of the complaint. Camera close and slightly high, 50 mm, shallow depth of field so the papers and phone are sharp and the background softly blurred. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.polimernews.com/justnownews/case-registered-against-ntk-functionary-sattai-durai-murugan-under-three-sections-12819180",
+   "published": "2026-11-18T10:51:59+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794976745/chennaiminnal/joimfolefum1zuozezwa.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794976779/chennaiminnal/imrkjvfuvlijyhgxe1h5.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794987347/chennaiminnal/bhduclf2z5jchmljn4wv.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794987352/chennaiminnal/xrw64uv25jdohmgkums3.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னையில் 108 அவசர அழைப்பு மையத்தில் முதல்-அமைச்சர் விஜய் ஆய்வு: கூடுதலாக 100 ஆம்புலன்ஸ்கள் வாங்க உத்தரவு",
+   "english_headline": "CM Vijay inspects 108 Emergency Call Centre in Chennai; orders procurement of 100 new ambulances",
+   "category": "Government & Services",
+   "location": "DMS Campus, Chennai town, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு செய்தி",
+    "loc": "சென்னை",
+    "hl1": "சென்னையில் முதல்-அமைச்சர் விஜய் ஆய்வு",
+    "hl2": "108 அவசர அழைப்பு மையம்",
+    "slides": [
+     {
+      "title": "நேரில் ஆய்வு",
+      "lines": [
+       "சென்னை <b>டி.எம்.எஸ்.</b> வளாகத்தில் முதல்-அமைச்சர் <b>விஜய்</b> ஆய்வு",
+       "<b>108</b> அவசரகால மருத்துவ உதவி அழைப்பு மையத்தைப் பார்வையிட்டார்",
+       "நவம்பர் 17ஆம் தேதி இந்த ஆய்வு நடைபெற்றது"
+      ]
+     },
+     {
+      "title": "முன்னெச்சரிக்கை",
+      "lines": [
+       "பருவமழை, வெள்ளக் கால முன்னேற்பாடுகள்",
+       "மீட்புக் கருவிகள் மற்றும் மருத்துவ உபகரணங்களை ஆய்வு செய்தார்",
+       "<b>ஜி.பி.எஸ்.</b> மூலம் ஆம்புலன்ஸ் அனுப்பும் முறை"
+      ]
+     },
+     {
+      "title": "புதிய அறிவிப்பு",
+      "lines": [
+       "கூடுதலாக <b>100</b> புதிய 108 ஆம்புலன்ஸ்கள் வாங்க உத்தரவு",
+       "<b>104, 102, 14416</b> ஆகிய உதவி எண்களின் சேவைகள் குறித்து ஆய்வு",
+       "உயிரிழப்புகளைக் குறைக்க அதிகாரிகளுக்கு அறிவுறுத்தினார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் உள்ள 108 அவசர அழைப்பு மையத்தில் தமிழ்நாடு முதல்-அமைச்சர் ச. ஜோசப் விஜய் ஆய்வு மேற்கொண்டார். சென்னை டி எம் எஸ் வளாகத்தில் செயல்பட்டு வரும் இந்த மையத்திற்கு நவம்பர் 17ஆம் தேதி முதல்-அமைச்சர் நேரில் சென்றார். அங்கு பொதுமக்களுக்காக இயக்கப்படும் பல்வேறு வகையான அவசரகால ஊர்திகளை அவர் பார்வையிட்டார். வரவிருக்கும் பருவமழை மற்றும் வெள்ளக் காலங்களில் மேற்கொள்ள வேண்டிய பாதுகாப்பு நடவடிக்கைகள் குறித்து அதிகாரிகளிடம் கேட்டறிந்தார். ஆம்புலன்ஸ்களில் உள்ள மருத்துவ உபகரணங்கள் மற்றும் மீட்புக் கருவிகளையும் அவர் ஆய்வு செய்தார். ஜி பி எஸ் தொழில்நுட்பம் மூலம் ஆம்புலன்ஸ்கள் ஒதுக்கீடு செய்யப்படும் முறையை முதல்-அமைச்சர் பார்வையிட்டார். மேலும் 104 சுகாதார உதவி எண் மற்றும் 102 பிரசவ கால சேவை குறித்தும் அவர் கேட்டறிந்தார். அவசர மருத்துவச் சேவைகளை மேம்படுத்தி உயிரிழப்புகளைக் குறைக்க அதிகாரிகளுக்கு அறிவுறுத்தினார். கூடுதலாக 100 புதிய 108 ஆம்புலன்ஸ்களை விரைவாகக் கொள்முதல் செய்ய முதல்-அமைச்சர் உத்தரவிட்டுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னையில் 108 அவசர அழைப்பு மையத்தில் முதல்-அமைச்சர் விஜய் ஆய்வு - 100 புதிய ஆம்புலன்ஸ்கள் வாங்க உத்தரவு\n\n📰 முழு விவரம்:\nதமிழ்நாடு முதல்-அமைச்சர் ச. ஜோசப் விஜய், சென்னை டி.எம்.எஸ். வளாகத்தில் உள்ள 108 அவசரகால மருத்துவ உதவி அழைப்பு மையத்தில் (நவம்பர் 17) நேரில் ஆய்வு நடத்தினார். பருவமழை மற்றும் வெள்ளக் காலங்களில் அவசரகால சேவைகளை வழங்க எடுக்கப்பட்டுள்ள முன்னேற்பாடுகள் குறித்து அதிகாரிகளிடம் கேட்டறிந்தார். \n🚑 108 ஆம்புலன்ஸ்களில் உள்ள மருத்துவ மற்றும் மீட்பு உபகரணங்களை அவர் பார்வையிட்டார். \n🛰️ ஜி.பி.எஸ். தொழில்நுட்பம் மூலம் அவசர ஊர்திகள் அனுப்பப்படும் நடைமுறை மற்றும் 104, 102, 14416, 155377 ஆகிய உதவி எண்களின் செயல்பாடுகள் குறித்து ஆய்வு செய்தார். \n🏥 மாநிலம் முழுவதும் 132 மையங்களில் செயல்படும் அவசர மருத்துவ முன்னெடுப்புத் திட்டம் (TAEI) குறித்தும் கேட்டறிந்தார். \n✨ கூடுதலாக 100 புதிய 108 ஆம்புலன்ஸ்களை விரைவாகக் கொள்முதல் செய்து மக்கள் பயன்பாட்டிற்குக் கொண்டு வர முதல்-அமைச்சர் உத்தரவிட்டுள்ளார்.\n\nCM Vijay inspects 108 emergency call centre in Chennai | Chennai news\n📍 சென்னை | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #TNGovt #108Ambulance #சென்னை",
+   "prompts": "A group of officials and emergency call-centre staff gather around a senior leader inside a bright government call centre on the DMS campus in Chennai, as he inspects the 108 ambulance dispatch operation. Rows of desks hold computer monitors showing a map with GPS dots for ambulances across the city, and staff in plain shirts and sarees wear headsets while taking calls. Through a large window behind them, several white and red 108 emergency ambulances are parked on the campus driveway under a clear daylight sky, with Chennai's low office blocks and palm trees in the distance. The Chief Minister stands at the front in a white shirt and dark trousers, seen from behind or in soft focus, with an Emergency Response Officer in a dark shirt pointing at a screen. The room is clean and air-conditioned, with a fluorescent-lit ceiling and pale grey walls. Shot at eye level, 35 mm, wide enough to show the full room and the ambulances outside. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a row of emergency medical equipment laid out on a table in the 108 ambulance section: a folded stretcher, a portable oxygen cylinder with a mask, a first-aid kit, a rescue rope bag and a hand-held flood-rescue lifebuoy, arranged neatly. Behind them, a white 108 ambulance's open rear door reveals its metal interior and medical cabinets, with a pair of staff gloves and a clipboard nearby. Blurred staff in plain uniforms stand a few steps away, seen from behind. Daylight from a nearby window falls across the metal and the orange-and-white equipment. Shot at slightly high angle, 35 mm, close enough to show the equipment in clear detail. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/chief-minister-vijay-inspects-108-emergency-medical-call-center",
+   "published": "2026-11-17T12:17:22Z",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: numbers not found in the article: 100; caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('ஜோசப் விஜய் இன்று (17.11.2026) சென்னை, டி.எம்.எஸ்.'); 38 ('இத்திட்டத்தின் கீழ், 38 அரசு மருத்துவக் கல்லூரி மருத்துவமனைக')",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794987360/chennaiminnal/n0wyw0stur1vhw3md2rz.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1794987366/chennaiminnal/sjd4abouoq10av3wpjuc.jpg"
    ]
   }
  ]
