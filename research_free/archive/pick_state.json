@@ -380,7 +380,8 @@
    "score": 9.05,
    "power_cut": false,
    "listed_at": "2026-11-18T17:01:03.755336+05:30",
-   "picked_at": "2026-11-19T05:02:28.840614+05:30"
+   "picked_at": "2026-11-19T05:02:28.840614+05:30",
+   "refused": "not filed: not news: draft not grounded in the article (only 43% of its words come from it) - likely made up"
   },
   "Caa59410": {
    "id": "Caa59410",
@@ -728,7 +729,8 @@
    "score": 9.71,
    "power_cut": false,
    "listed_at": "2026-11-18T21:01:07.735740+05:30",
-   "picked_at": "2026-11-19T05:02:28.840616+05:30"
+   "picked_at": "2026-11-19T05:02:28.840616+05:30",
+   "posted": true
   },
   "Cc94d392": {
    "id": "Cc94d392",
@@ -753,7 +755,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-18T21:01:07.735740+05:30",
-   "picked_at": "2026-11-19T05:02:28.840621+05:30"
+   "picked_at": "2026-11-19T05:02:28.840621+05:30",
+   "posted": true
   },
   "C208c962": {
    "id": "C208c962",
@@ -766,7 +769,8 @@
    "score": 7.99,
    "power_cut": false,
    "listed_at": "2026-11-18T21:01:07.735740+05:30",
-   "picked_at": "2026-11-19T05:02:28.840618+05:30"
+   "picked_at": "2026-11-19T05:02:28.840618+05:30",
+   "posted": true
   },
   "Cfb6890e": {
    "id": "Cfb6890e",
@@ -1141,7 +1145,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-19T01:01:14.789473+05:30",
-   "picked_at": "2026-11-19T05:02:28.840620+05:30"
+   "picked_at": "2026-11-19T05:02:28.840620+05:30",
+   "posted": true
   },
   "C9555417": {
    "id": "C9555417",
@@ -2537,7 +2542,10 @@
     "C56154f2",
     "C9ba3656",
     "Ca702701"
-   ]
+   ],
+   "refused": {
+    "C1e86005": "not filed: not news: draft not grounded in the article (only 43% of its words come from it) - likely made up"
+   }
   }
  },
  "retry": {}
