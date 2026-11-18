@@ -1041,7 +1041,8 @@
    "category": "மழை / வானிலை",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-18T17:01:03.755336+05:30"
+   "listed_at": "2026-11-18T17:01:03.755336+05:30",
+   "picked_at": "2026-11-18T17:04:46.784993+05:30"
   },
   "C29fbe41": {
    "id": "C29fbe41",
@@ -1057,7 +1058,8 @@
     "https://www.maalaimalar.com/news/tamilnadu/anbil-mahesh-custody-extended",
     "https://www.hindutamil.in/news/tamilnadu/judicial-custody-of-anbil-mahesh-extended-until-december-2"
    ],
-   "listed_at": "2026-11-18T17:01:03.755336+05:30"
+   "listed_at": "2026-11-18T17:01:03.755336+05:30",
+   "picked_at": "2026-11-18T17:04:46.784998+05:30"
   },
   "C67eb836": {
    "id": "C67eb836",
@@ -1069,7 +1071,8 @@
    "category": "குற்றம்",
    "score": 11.76,
    "power_cut": false,
-   "listed_at": "2026-11-18T17:01:03.755336+05:30"
+   "listed_at": "2026-11-18T17:01:03.755336+05:30",
+   "picked_at": "2026-11-18T17:04:46.785002+05:30"
   },
   "C824d28f": {
    "id": "C824d28f",
@@ -1081,7 +1084,8 @@
    "category": "பொது",
    "score": 11.76,
    "power_cut": false,
-   "listed_at": "2026-11-18T17:01:03.755336+05:30"
+   "listed_at": "2026-11-18T17:01:03.755336+05:30",
+   "picked_at": "2026-11-18T17:04:46.785005+05:30"
   },
   "Cec95543": {
    "id": "Cec95543",
@@ -1093,7 +1097,8 @@
    "category": "குற்றம்",
    "score": 10.76,
    "power_cut": false,
-   "listed_at": "2026-11-18T17:01:03.755336+05:30"
+   "listed_at": "2026-11-18T17:01:03.755336+05:30",
+   "picked_at": "2026-11-18T17:04:46.785008+05:30"
   },
   "Cafab737": {
    "id": "Cafab737",
@@ -2151,8 +2156,24 @@
    ],
    "sent": false,
    "deadline": "2026-11-18T18:01:03.755336+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 98 by insights",
+    "ids": [
+     "Cfe59b66",
+     "C29fbe41",
+     "C67eb836",
+     "C824d28f",
+     "Cec95543"
+    ],
+    "at": "2026-11-18T17:04:46.784973+05:30"
+   },
+   "written": [
+    "C29fbe41",
+    "C67eb836",
+    "C824d28f",
+    "Cec95543",
+    "Cfe59b66"
+   ]
   }
  },
  "retry": {}
