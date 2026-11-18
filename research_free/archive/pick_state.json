@@ -127,7 +127,8 @@
    "alts": [
     "https://www.polimernews.com/tamilnadunews/chief-minister-vijay-visits-the-108-emergency-medical-services-call-centre-12817354"
    ],
-   "listed_at": "2026-11-18T01:00:54.800182+05:30"
+   "listed_at": "2026-11-18T01:00:54.800182+05:30",
+   "picked_at": "2026-11-18T13:03:22.395614+05:30"
   },
   "C08663e9": {
    "id": "C08663e9",
@@ -953,7 +954,8 @@
    "category": "மாநகராட்சி",
    "score": 10.05,
    "power_cut": false,
-   "listed_at": "2026-11-18T13:01:18.374133+05:30"
+   "listed_at": "2026-11-18T13:01:18.374133+05:30",
+   "picked_at": "2026-11-18T13:03:22.395611+05:30"
   },
   "C65b383f": {
    "id": "C65b383f",
@@ -965,7 +967,8 @@
    "category": "குற்றம்",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-18T13:01:18.374133+05:30"
+   "listed_at": "2026-11-18T13:01:18.374133+05:30",
+   "picked_at": "2026-11-18T13:03:22.395613+05:30"
   },
   "C3748e65": {
    "id": "C3748e65",
@@ -1732,8 +1735,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-18T14:01:18.374133+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 75 by insights",
+    "ids": [
+     "Cd77d644",
+     "C65b383f",
+     "C6d51f59"
+    ],
+    "at": "2026-11-18T13:03:22.395602+05:30"
+   },
+   "written": [
+    "C65b383f",
+    "C6d51f59",
+    "Cd77d644"
+   ]
   }
  },
  "retry": {}
