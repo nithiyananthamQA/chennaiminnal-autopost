@@ -1,167 +1,102 @@
-writing [N]: ரூ.1 கோடி 10 டன் குட்கா அழிப்பு
-writing [N]: கணவனை இழந்த பெண்ணிடம் திருமண  ஆசை வார்த்தை கூறி ரூ. 21 லட்சம
-writing [N]: செய்திகள் சில வரிகளில்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+writing [N]: அமலாக்கத்துறை அலுவலகத்தில் சி.விஜயபாஸ்கர் ஆஜர்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-switching away from gemini/gemini-3.6-flash for 10 min
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-switching away from gemini/gemini-3.5-flash for 10 min
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-ok gemini/gemini-3-flash-preview (14s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 8 ('ஆவடியைச் சேர்ந்த 40 வயது பெண், கணவர் இறந்த நிலையில், 16 வயது')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (21s)
-attempt 1 gemini/gemini-3-flash-preview: 1 problems
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok gemini/gemini-3-flash-preview (14s)
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+writing [N]: மின் திருட்டில் ஈடுபட்டவர்களிடம் ரூ.55 லட்சம் இழப்பீட்டு தொக
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+writing [N]: போதை மாத்திரை, ஊசி விற்பனை :2 சமையலர் உட்பட 3 பேர் கைது
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok groq/openai/gpt-oss-120b (3s)
-factcheck by groq/openai/gpt-oss-120b: 0 problems
-attempt 1 gemini/gemini-3-flash-preview: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (4s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/qwen/qwen3.8-27b (0s)
-factcheck by groq/qwen/qwen3.8-27b: 0 problems
-attempt 2 groq/qwen/qwen3.8-27b: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/openai/gpt-oss-120b (6s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-ok groq/qwen/qwen3.8-27b (1s)
-factcheck by groq/qwen/qwen3.8-27b: 2 problems
-  Caption states the action was carried out 'under the leadership' (முன்னிலையில்) of Tamil Selvan, whereas the article states he 'participated' (பங்கேற்றனர்) along with others; the article does not specify he led the operation.
-  Reel script and slides imply or state that people were arrested as a result of the specific destruction event or in a way that conflates the ongoing weekly raids with the specific event, but more critically, the caption's phrasing 'Tamil Selvan முன்னிலையில்' is a factual deviation from 'participated'.
-proofread rejected (2 problems)
-  fact-check: Caption states the action was carried out 'under the leadership' (முன்னிலையில்) of Tamil Selvan, whereas the article states he 'participated' (பங்கேற்றனர்) along with others; the article does not specify he led the operation.
-  fact-check: Reel script and slides imply or state that people were arrested as a result of the specific destruction event or in a way that conflates the ongoing weekly raids with the specific event, but more critically, the caption's phrasing 'Tamil Selvan முன்னிலையில்' is a factual deviation from 'participated'.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/openai/gpt-oss-120b (6s)
-proofread rejected (3 problems)
-  missing key: reel_script
-  missing key: caption
-  missing key: scenes
+ok groq/qwen/qwen3.8-27b (7s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/qwen/qwen3.8-27b (4s)
-real photo step skipped for '10 tons of seized Gutkha worth ₹1 crore ': real photos switched off
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-ok groq/qwen/qwen3.8-27b (2s)
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The draft says he appeared on "18ம் தேதி (இன்று)" in the slides and caption, but the article says the summons was for the 17th ("17-ம் தேதி (அதாவது இன்று)"), so the date of appearance is inconsistent with the source.
+  The reel_script says the ED case is a 'வழக்கு பதிவு செய்யப்பட்டது' after 2021 change, but also places the 2021 ruling-change as the trigger; the article attributes the Lanchaozhippu (anti-corruption police) case to the 2021 change, not the ED case, so the reel_script wording mixes the two cases' origins.
+  The reel_script says 'சென்னையில் முன்னாள் அமைச்சர் ... ஆஜரானார்' and the slides say 'வழக்கு உள்ளது' for the wife, which the article supports, but the reel_script says 'சென்னை அலுவலகத்தில் வந்தார்' while the article says he appeared at the Chennai ED office; the reel says 'இன்று அவர் சென்னை அலுவலகத்தில் வந்தார்' which is acceptable, however the reel_script omits that the summons was addressed to both him and his wife Ramya, an important element of the case.
+attempt 1 groq/qwen/qwen3.8-27b: 3 problems
+  fact-check: The draft says he appeared on "18ம் தேதி (இன்று)" in the slides and caption, but the article says the summons was for the 17th ("17-ம் தேதி (அதாவது இன்று)"), so the date of appearance is inconsistent with the source.
+  fact-check: The reel_script says the ED case is a 'வழக்கு பதிவு செய்யப்பட்டது' after 2021 change, but also places the 2021 ruling-change as the trigger; the article attributes the Lanchaozhippu (anti-corruption police) case to the 2021 change, not the ED case, so the reel_script wording mixes the two cases' origins.
+  fact-check: The reel_script says 'சென்னையில் முன்னாள் அமைச்சர் ... ஆஜரானார்' and the slides say 'வழக்கு உள்ளது' for the wife, which the article supports, but the reel_script says 'சென்னை அலுவலகத்தில் வந்தார்' while the article says he appeared at the Chennai ED office; the reel says 'இன்று அவர் சென்னை அலுவலகத்தில் வந்தார்' which is acceptable, however the reel_script omits that the summons was addressed to both him and his wife Ramya, an important element of the case.
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('போதை மாத்திரை, ஊசி விற்பனை :2 சமையலர் உட்பட 3 பேர் கைது')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 9
+  slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  reel_script copies the article word for word (20 words in a row, 52% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  caption copies the article word for word (19 words in a row, 44% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  hl1 (the first headline on screen) must name the place 'அமைந்தகரை', e.g. 'அமைந்தகரை: ...' or 'அமைந்தகரை-இல் ...' - viewers share news of their own area
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  reel_script says Rajeshkumar was arrested 'பருத்திப்பட்டு பகுதியைச் சேர்ந்த' implicitly tied to the 45 age phrasing is fine, but the caption states the 16-year-old son and 8-year-old daughter of the victim, which reveals minors' family details (children's ages) of the rape/sexual-offence-adjacent victim, identifying her household; the article does not present this as a sexual offence case per se, so this is not a name leak, but it is an unnecessary identifying detail
-  caption says the address was changed to his wife's address ('அந்த முகவரியை தன் மனைவியின் முகவரியாக மாற்றினார்'), but the article says the Aadhaar card was sent to his wife's address, not that he changed the address to it
-  caption claims the victim was 'கணவனைப் பிரிந்த' women targeted; article says women separated from husbands and widows were targeted, which is roughly consistent, but the reel_script omits the important fact that he is alleged to have defrauded a Poonamallee woman of Rs 40 lakh via online trading, which is an important fact missing from the reel_script
-  reel_script says 'அவரிடமிருந்து மாருதி பிரான்ஸ் கார்' seized, but the article says the car was seized; fine. However the reel_script wording 'நேற்று முன்தினம் ராஜேஷ்குமார் கைது' and caption wording are consistent, but the reel_script says the victim was 'அடித்து மிரட்டினார்' while the article says he beat her and threatened her - acceptable
-  caption English line 'Avadi widow Rs 21 lakh fraud, man arrested' is an English translation of the headline, not a Tamil claim, but it describes the victim as a widow who is fine
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: reel_script says Rajeshkumar was arrested 'பருத்திப்பட்டு பகுதியைச் சேர்ந்த' implicitly tied to the 45 age phrasing is fine, but the caption states the 16-year-old son and 8-year-old daughter of the victim, which reveals minors' family details (children's ages) of the rape/sexual-offence-adjacent victim, identifying her household; the article does not present this as a sexual offence case per se, so this is not a name leak, but it is an unnecessary identifying detail
-  fact-check: caption says the address was changed to his wife's address ('அந்த முகவரியை தன் மனைவியின் முகவரியாக மாற்றினார்'), but the article says the Aadhaar card was sent to his wife's address, not that he changed the address to it
-  fact-check: caption claims the victim was 'கணவனைப் பிரிந்த' women targeted; article says women separated from husbands and widows were targeted, which is roughly consistent, but the reel_script omits the important fact that he is alleged to have defrauded a Poonamallee woman of Rs 40 lakh via online trading, which is an important fact missing from the reel_script
-  fact-check: reel_script says 'அவரிடமிருந்து மாருதி பிரான்ஸ் கார்' seized, but the article says the car was seized; fine. However the reel_script wording 'நேற்று முன்தினம் ராஜேஷ்குமார் கைது' and caption wording are consistent, but the reel_script says the victim was 'அடித்து மிரட்டினார்' while the article says he beat her and threatened her - acceptable
-  fact-check: caption English line 'Avadi widow Rs 21 lakh fraud, man arrested' is an English translation of the headline, not a Tamil claim, but it describes the victim as a widow who is fine
-images made: 2 for '10 tons of seized Gutkha worth ₹1 crore '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2106","first":"RN-73"}
-posting job started at once
-real photo step skipped for 'Special police team raids Adambakkam: 3 ': real photos switched off
-writing [N]: சோத்துப்பாறை அணையை திறந்து விட்ட தவெகவினரை கைது செய்ய வேண்டு
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  reel_script writes ages as newspaper shorthand (இழப்பீடும், 34,, இழப்பீடும், 97,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  numbers not found in the article: 9
+  hl1 (the first headline on screen) must name the place 'அம்பத்தூர்', e.g. 'அம்பத்தூர்: ...' or 'அம்பத்தூர்-இல் ...' - viewers share news of their own area
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The draft says the ED summons was for 17 (which is correct per article) but the reel_script says he 'arrived' for questioning — acceptable; however the draft states the ED raid of 2024 was at 'his house' (அவரது வீடு), while the article says raids were at Vijayabaskar and places connected to him, not specifically his house — an invented detail
+  The reel_script and caption say the ED summons was sent to him and his wife, but the article says the summons was for Vijayabaskar and his wife Ramya to appear on 17th — consistent; no issue there
+  The caption says the 2024 ED search was conducted at 'his house and other places' — the article does not mention his house specifically, so this is an invented detail
+  The caption's 'Former minister C Vijayabaskar appears at ED office Chennai | Chennai news' appended text is an English line not in the article's Tamil draft framing; it is not a factual claim issue but adds untranslated content
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The draft says the ED summons was for 17 (which is correct per article) but the reel_script says he 'arrived' for questioning — acceptable; however the draft states the ED raid of 2024 was at 'his house' (அவரது வீடு), while the article says raids were at Vijayabaskar and places connected to him, not specifically his house — an invented detail
+  fact-check: The reel_script and caption say the ED summons was sent to him and his wife, but the article says the summons was for Vijayabaskar and his wife Ramya to appear on 17th — consistent; no issue there
+  fact-check: The caption says the 2024 ED search was conducted at 'his house and other places' — the article does not mention his house specifically, so this is an invented detail
+  fact-check: The caption's 'Former minister C Vijayabaskar appears at ED office Chennai | Chennai news' appended text is an English line not in the article's Tamil draft framing; it is not a factual claim issue but adds untranslated content
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  reel_script copies the article word for word (15 words in a row, 16% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 30, ('விசாரணையில் அவர்கள், நேபாளத்தைச் சேர்ந்த அஜய், 30, மேற்கு வங'); 35, ('விசாரணையில் அவர்கள், நேபாளத்தைச் சேர்ந்த அஜய், 30, மேற்கு வங'); 2 ('போதை மாத்திரை, ஊசி விற்பனை :2 சமையலர் உட்பட 3 பேர் கைது')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 16 ('ஆவடியைச் சேர்ந்த 40 வயது பெண், கணவர் இறந்த நிலையில், 16 வயது'); 8 ('ஆவடியைச் சேர்ந்த 40 வயது பெண், கணவர் இறந்த நிலையில், 16 வயது')
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 91 words; need 99-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 18 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  hl1 (the first headline on screen) must name the place 'பெரியகுளம்', e.g. 'பெரியகுளம்: ...' or 'பெரியகுளம்-இல் ...' - viewers share news of their own area
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  reel_script writes ages as newspaper shorthand (இழப்பீடும், 34,, இழப்பீடும், 97,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  hl1 (the first headline on screen) must name the place 'சென்னை புறநகர்', e.g. 'சென்னை புறநகர்: ...' or 'சென்னை புறநகர்-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
@@ -169,50 +104,83 @@ gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemin
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has 95 words; need 99-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  reel_script has 77 words; need 78-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Special police team raids Adambakkam: 3 '
 ok anthropic/claude-haiku-5-5
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2107","first":"RN-74"}
-real photo step skipped for 'Avadi man arrested for cheating widow of': real photos switched off
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+real photo step skipped for 'Chennai suburbs: Rs 55 lakh compensation': real photos switched off
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 72 words; need 78-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+writing [N]: 9 மீனவர் குடும்பங்களுக்கு தலா ரூ.1.50 லட்சம் வழங்க உயர் நீதி
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'காசிமேடு', e.g. 'காசிமேடு: ...' or 'காசிமேடு-இல் ...' - viewers share news of their own area
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Chennai suburbs: Rs 55 lakh compensation'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2213","first":"RN-76"}
+posting job started at once
+real photo step skipped for 'Former minister C. Vijayabaskar appears ': real photos switched off
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script copies the article word for word (16 words in a row, 17% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 20 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  hl1 (the first headline on screen) must name the place 'பெரியகுளம்', e.g. 'பெரியகுளம்: ...' or 'பெரியகுளம்-இல் ...' - viewers share news of their own area
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'காசிமேடு', e.g. 'காசிமேடு: ...' or 'காசிமேடு-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+images made: 2 for 'Former minister C. Vijayabaskar appears '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2214","first":"RN-77"}
+real photo step skipped for 'Madras High Court orders boat owner to p': real photos switched off
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Avadi man arrested for cheating widow of'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2107","first":"RN-75"}
+images made: 2 for 'Madras High Court orders boat owner to p'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2215","first":"RN-78"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dailythanthi.com/news/tamilnadu/sothuparai-dam-illegal-water-release
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/avadi-man-cheated-rs-21-lakh-by-promising-to-marry-a-woman-who-has-lost-her-husband-arrested/4379536
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-10-million-tons-of-gutkha-destroyed/4379723
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/news-in-a-few-lines/4379732
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/9-fishermen-families-to-be-given-rs-150-lakh-each-by-high-court/4380089
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/3-people-including-2-cook-selling-drug-injections-arrested/4380092
+manual link added: https://www.dailythanthi.com/news/tamilnadu/%E0%AE%85%E0%AE%AE%E0%AE%B2%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B1%E0%AF%88-%E0%AE%85%E0%AE%B2%E0%AF%81%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%9C%E0%AE%AF%E0%AE%AA%E0%AE%BE%E0%AE%B8%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D-%E0%AE%86%E0%AE%9C%E0%AE%B0%E0%AF%8D-c-vijayabaskar-appears-at-the-enforcement-directorate-office
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-55-lakh-compensation-collected-for-those-involved-in-power-theft/4379967
 candidate filter: collected=4
 to write: 4 Chennai district candidates (max 4 stories)
 round: top 4 of 4 candidates
 candidates waiting: 4 Chennai; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/%E0%AE%85%E0%AE%
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+NOT filed (N) போதை மாத்திரை, ஊசி விற்பனை :2 சமையலர் உட்பட 3 பேர்: duplicate after write
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/sothuparai-dam-i
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-NOT filed (N) சோத்துப்பாறை அணையை திறந்து விட்ட தவெகவினரை கைது செ: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)
-candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 76 min
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 77 min
 filed: 3 Chennai district stories (target 4), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":4,"updated":0} 
