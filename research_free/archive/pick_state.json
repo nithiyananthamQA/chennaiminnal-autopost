@@ -593,7 +593,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-18T17:01:03.755336+05:30",
-   "picked_at": "2026-11-18T22:12:19.773273+05:30"
+   "picked_at": "2026-11-18T22:12:19.773273+05:30",
+   "posted": true
   },
   "C1e86005": {
    "id": "C1e86005",
@@ -965,7 +966,8 @@
    "score": 9.71,
    "power_cut": false,
    "listed_at": "2026-11-18T21:01:07.735740+05:30",
-   "picked_at": "2026-11-18T22:12:19.773274+05:30"
+   "picked_at": "2026-11-18T22:12:19.773274+05:30",
+   "posted": true
   },
   "Cc94d392": {
    "id": "Cc94d392",
@@ -1266,7 +1268,8 @@
    "score": 10.71,
    "power_cut": false,
    "listed_at": "2026-11-18T22:11:12.847750+05:30",
-   "picked_at": "2026-11-18T22:12:19.773272+05:30"
+   "picked_at": "2026-11-18T22:12:19.773272+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "Cf87c8ac": {
    "id": "Cf87c8ac",
@@ -1279,7 +1282,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-18T22:11:12.847750+05:30",
-   "picked_at": "2026-11-18T22:12:19.773270+05:30"
+   "picked_at": "2026-11-18T22:12:19.773270+05:30",
+   "posted": true
   },
   "C4f936c7": {
    "id": "C4f936c7",
@@ -2370,7 +2374,10 @@
     "Cd667e3f",
     "Cf87c8ac",
     "Cfef3614"
-   ]
+   ],
+   "refused": {
+    "Cfef3614": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
