@@ -111,7 +111,8 @@
    "score": 10.5,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T10:08:16.814940+05:30"
+   "picked_at": "2026-11-18T10:08:16.814940+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C6d51f59": {
    "id": "C6d51f59",
@@ -139,7 +140,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T10:08:16.814937+05:30"
+   "picked_at": "2026-11-18T10:08:16.814937+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C15b270c": {
    "id": "C15b270c",
@@ -152,7 +154,8 @@
    "score": 9.67,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T10:08:16.814941+05:30"
+   "picked_at": "2026-11-18T10:08:16.814941+05:30",
+   "posted": true
   },
   "Cd5bfae5": {
    "id": "Cd5bfae5",
@@ -645,7 +648,8 @@
     "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/17/%E0%AE%9A%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-10-%E0%AE%AE%E0%AE%BE%E0%AE%A4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%9A%E0%AF%87%E0%AE%95%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4-210-%E0%AE%9F%E0%AE%A9%E0%AF%8D-%E0%AE%95%E0%AE%B4%E0%AE%BF%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95-%E0%AE%8E%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B2%E0%AF%8D"
    ],
    "listed_at": "2026-11-18T04:35:03.005302+05:30",
-   "picked_at": "2026-11-18T10:08:16.814938+05:30"
+   "picked_at": "2026-11-18T10:08:16.814938+05:30",
+   "posted": true
   },
   "C14bb093": {
    "id": "C14bb093",
@@ -955,7 +959,8 @@
    "score": 10.01,
    "power_cut": false,
    "listed_at": "2026-11-18T10:07:34.446882+05:30",
-   "picked_at": "2026-11-18T10:08:16.814934+05:30"
+   "picked_at": "2026-11-18T10:08:16.814934+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "Cdd60a83": {
    "id": "Cdd60a83",
@@ -1458,7 +1463,12 @@
     "C15b270c",
     "C4965b01",
     "Cd7807f9"
-   ]
+   ],
+   "refused": {
+    "C4965b01": "not filed: all free models failed: no usable answer from the models",
+    "C08663e9": "not filed: all free models failed: no usable answer from the models",
+    "C107edca": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
