@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-19T01:01+05:30",
- "posts_measured": 68,
+ "updated": "2026-11-19T02:11+05:30",
+ "posts_measured": 70,
  "topic_weight": {
-  "accident": 0.25,
-  "civic": 0.01,
-  "crime": -0.23,
+  "accident": 0.23,
+  "civic": 0.6,
+  "crime": -0.18,
   "education": -0.5,
   "politics": -0.5,
   "poultry_agri": -0.2,
   "power_cut": 1.3,
   "sports_culture": -0.18,
   "temple": -0.4,
-  "weather": 1.08
+  "weather": 1.03
  },
  "topic_n": {
   "politics": 17,
@@ -19,7 +19,7 @@
   "crime": 32,
   "weather": 12,
   "power_cut": 30,
-  "civic": 52,
+  "civic": 5,
   "education": 44,
   "poultry_agri": 21,
   "temple": 23,
@@ -37,11 +37,11 @@
   "🚨 மடிப்பாக்கத்தில் கால்வாயில் விழுந்து இளைஞர் உயிரிழப்பு",
   "🚨 தரமணியில் சைக்கிள் மீது லாரி மோதி முதியவர் பலி"
  ],
- "avg_watch_s": 6.2,
+ "avg_watch_s": 6.4,
  "best_topics": [
   "power_cut",
   "weather",
-  "accident"
+  "civic"
  ],
  "weak_topics": [
   "education",
@@ -49,7 +49,7 @@
  ],
  "topic_source": {
   "accident": "ours",
-  "civic": "reference",
+  "civic": "ours",
   "crime": "ours",
   "education": "reference",
   "politics": "reference",
