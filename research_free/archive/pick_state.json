@@ -83,7 +83,8 @@
    "score": 10.87,
    "power_cut": false,
    "listed_at": "2026-11-18T01:00:54.800182+05:30",
-   "picked_at": "2026-11-18T09:02:43.302116+05:30"
+   "picked_at": "2026-11-18T09:02:43.302116+05:30",
+   "posted": true
   },
   "C4fd0874": {
    "id": "C4fd0874",
@@ -814,7 +815,8 @@
    "score": 10.79,
    "power_cut": false,
    "listed_at": "2026-11-18T09:00:58.809946+05:30",
-   "picked_at": "2026-11-18T09:02:43.302109+05:30"
+   "picked_at": "2026-11-18T09:02:43.302109+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C5d300fb": {
    "id": "C5d300fb",
@@ -827,7 +829,8 @@
    "score": 10.79,
    "power_cut": false,
    "listed_at": "2026-11-18T09:00:58.809946+05:30",
-   "picked_at": "2026-11-18T09:02:43.302112+05:30"
+   "picked_at": "2026-11-18T09:02:43.302112+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C5c5bf2e": {
    "id": "C5c5bf2e",
@@ -840,7 +843,8 @@
    "score": 10.79,
    "power_cut": false,
    "listed_at": "2026-11-18T09:00:58.809946+05:30",
-   "picked_at": "2026-11-18T09:02:43.302113+05:30"
+   "picked_at": "2026-11-18T09:02:43.302113+05:30",
+   "posted": true
   },
   "C87a3f3f": {
    "id": "C87a3f3f",
@@ -853,7 +857,8 @@
    "score": 10.79,
    "power_cut": false,
    "listed_at": "2026-11-18T09:00:58.809946+05:30",
-   "picked_at": "2026-11-18T09:02:43.302115+05:30"
+   "picked_at": "2026-11-18T09:02:43.302115+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "Cbe1862d": {
    "id": "Cbe1862d",
@@ -1363,7 +1368,12 @@
     "C5d300fb",
     "C87a3f3f",
     "Cab676a9"
-   ]
+   ],
+   "refused": {
+    "C87a3f3f": "not filed: all free models failed: no usable answer from the models",
+    "C5d300fb": "not filed: all free models failed: no usable answer from the models",
+    "C41aef1a": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
