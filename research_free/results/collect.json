@@ -3,30 +3,27 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinakaran.com/news/during-the-rainy-season-onion-tomato-prices-high-food-minister-venkatramanan",
-  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/18/anbil-maheshs-judicial-custody-extended-until-dec-2",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/cheating-of-crores-of-rupees-without-payment-of-fees-alleged-at-sholinganallur-zonal-meeting/4379457",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/tambaram-police-commissioner-inspects-suburban-police-stations/4379461",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-12-lakh-foreign-currency-rs-6-42-lakh-gang-trying-to-smuggle-hawala-money-to-malaysia-arrested/4379494",
-  "candidate filter: collected=5",
-  "to write: 5 Chennai district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Chennai; time left 79 min",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/sothuparai-dam-illegal-water-release",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/avadi-man-cheated-rs-21-lakh-by-promising-to-marry-a-woman-who-has-lost-her-husband-arrested/4379536",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-10-million-tons-of-gutkha-destroyed/4379723",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/news-in-a-few-lines/4379732",
+  "candidate filter: collected=4",
+  "to write: 4 Chennai district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Chennai; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/18/anbil-maheshs",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/sothuparai-dam-i",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinakaran.com/news/during-the-rainy-season-onion",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Chennai district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "NOT filed (N) சோத்துப்பாறை அணையை திறந்து விட்ட தவெகவினரை கைது செ: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 76 min",
+  "filed: 3 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -35,86 +32,70 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (35s)",
+  "ok gemini/gemini-3-flash-preview (21s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3.6-flash (35s)",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "ok groq/openai/gpt-oss-120b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (6s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "ok groq/openai/gpt-oss-120b (2s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (50s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (2s)",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -125,316 +106,200 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சோழிங்கநல்லூர் மண்டல கூட்டத்தில் பரபரப்பு: சாலை துண்டிப்பு கட்டணத்தில் பல கோடி ரூபாய் மோசடி புகார்",
-   "english_headline": "Sholinganallur zonal meeting: Allegations of crores in road cutting fee fraud and officials' negligence",
-   "category": "Civic Issues",
-   "location": "Sholinganallur, Chennai district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மண்டல கூட்டம்",
-    "loc": "சோழிங்கநல்லூர், சென்னை",
-    "hl1": "சோழிங்கநல்லூர் மண்டல கூட்டத்தில்",
-    "hl2": "பல கோடி ரூபாய் மோசடி புகார்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "சாலை துண்டிப்பு கட்டணம் செலுத்தாமல் <b>பல கோடி ரூபாய்</b> மோசடி",
-       "மாநகராட்சிக்கு பெரும் நிதி இழப்பு",
-       "மண்டலத் தலைவர் மதியழகன் தலைமையில் இன்று கூட்டம் நடந்தது"
-      ]
-     },
-     {
-      "title": "முக்கிய புகார்கள்",
-      "lines": [
-       "பனையூரில் கொசுத் தொல்லையால் மர்மக் காய்ச்சல் அதிகரிப்பு",
-       "காரப்பாக்கம் அரசு பள்ளி தடுப்புச் சுவர் இடிந்ததால்",
-       "அதிகாரிகள் 'ரீல்ஸ்' எடுக்கச் செல்வதாகக் கவுன்சிலர்கள் புகார்"
-      ]
-     },
-     {
-      "title": "குளங்கள் மேம்பாடு",
-      "lines": [
-       "5 ஆண்டுகளில் <b>100 கோடி ரூபாய்</b> செலவில் குளங்கள் மேம்பாடு",
-       "198வது வார்டில் 5 குளங்களைச் சீரமைக்க <b>47 முறை</b> கோரிக்கை",
-       "நிதி ஒதுக்காததால் கவுன்சிலர்கள் கூட்டத்தில் அதிருப்தி"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சோழிங்கநல்லூர் மண்டல கூட்டத்தில் பல கோடி ரூபாய் மோசடி புகார் எழுந்துள்ளது. மண்டலத் தலைவர் மதியழகன் தலைமையில் இன்று நவம்பர் 18ஆம் தேதி இந்தக் கூட்டம் நடைபெற்றது. குடிநீர் மற்றும் கழிவுநீர் குழாய் பதிக்கத் தோண்டப்பட்ட சாலைகளுக்குக் கட்டணம் செலுத்தாமல் மோசடி நடந்துள்ளதாகக் கவுன்சிலர்கள் குற்றம் சாட்டினர். இதனால் சென்னை மாநகராட்சிக்கு பல கோடி ரூபாய் இழப்பு ஏற்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டது. பனையூர் பகுதியில் கொசு மருந்து அடிக்காததால் மர்மக் காய்ச்சல் பரவி வருவதாகவும் புகார் கூறப்பட்டது. கடந்த 5 ஆண்டுகளில் 100 கோடி ரூபாய் செலவில் பல குளங்கள் மேம்படுத்தப்பட்டுள்ளன. ஆனால் 198வது வார்டில் உள்ள 5 குளங்களைச் சீரமைக்க 47 முறை கோரியும் நிதி ஒதுக்கப்படவில்லை. காரப்பாக்கத்தில் வடிகால் பணியால் இடிந்து விழுந்த அரசு பள்ளி தடுப்புச் சுவர் இன்னும் கட்டப்படவில்லை. அதிகாரிகள் மக்கள் பணிகளைப் புறக்கணித்துவிட்டு அரசியல் கட்சியினருடன் ரீல்ஸ் எடுக்கச் செல்வதாகக் கவுன்சிலர்கள் அதிருப்தி தெரிவித்தனர். கூட்டத்தில் மொத்தம் 27 தீர்மானங்கள் நிறைவேற்றப்பட்டன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சோழிங்கநல்லூர் மண்டல கூட்டத்தில் பரபரப்பு: பல கோடி ரூபாய் சாலை துண்டிப்பு கட்டண மோசடி புகார்!\n\n📰 முழு விவரம்:\nசோழிங்கநல்லூர் மண்டலக் குழு கூட்டம் இன்று (நவ. 18) மண்டலத் தலைவர் மதியழகன் தலைமையில் நடைபெற்றது. இதில் குடிநீர் மற்றும் கழிவுநீர் குழாய் பதிக்கத் தோண்டப்பட்ட சாலைகளுக்கு ஒப்பந்த நிறுவனங்கள் முறையாகக் கட்டணம் செலுத்தாமல் பல கோடி ரூபாய் மோசடி செய்துள்ளதாகக் கவுன்சிலர்கள் குற்றம் சாட்டினர். இதனால் மாநகராட்சிக்கு பெரும் நிதி இழப்பு ஏற்பட்டுள்ளது.\n📍 பனையூரில் கொசு மருந்து அடிக்காததால் மர்மக் காய்ச்சல் அதிகரித்து வருகிறது.\n📍 மண்டலத்தில் 5 ஆண்டுகளில் ரூ. 100 கோடி செலவில் குளங்கள் மேம்படுத்தப்பட்ட நிலையில், 198வது வார்டில் உள்ள 5 குளங்களைச் சீரமைக்க 47 முறை கோரியும் நிதி ஒதுக்கப்படவில்லை.\n📍 காரப்பாக்கத்தில் வடிகால் பணியால் இடிந்த அரசு பள்ளி தடுப்புச் சுவர் இன்னும் சீரமைக்கப்படவில்லை.\n📍 அதிகாரிகள் மக்கள் பணிகளைச் செய்யாமல் 'ரீல்ஸ்' எடுக்கச் செல்வதாகக் கவுன்சிலர்கள் புகார் தெரிவித்தனர். கூட்டத்தில் 27 தீர்மானங்கள் நிறைவேற்றப்பட்டன.\n\nSholinganallur zonal meeting news | Chennai corporation road cutting fee fraud\n📍 சோழிங்கநல்லூர், சென்னை | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Sholinganallur #ChennaiNews #சென்னை",
-   "prompts": "A group of councilors and municipal officials sit around a long wooden table, loudly pointing at a stack of sealed folders as they allege a multi‑crore road‑cutting fee fraud. The scene is set inside a modest community hall in Sholinganallur, with plain concrete walls and a ceiling fan visible. Councilors in khaki shirts and white shirts stand or sit, some with hands raised, while two officials in khaki uniforms listen from the opposite side, their backs to the camera. On the table lie several thick folders, a ledger book, and a few pens; no readable text is visible. The meeting takes place in bright daylight streaming through high windows, casting even light. Shot at eye level with a 35 mm lens, framing the hall and participants. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of a stack of sealed municipal folders lying on the meeting table, the top folder slightly ajar to reveal a stamped seal and a few pages of printed numbers, suggesting financial records. The wooden tabletop shows subtle grain, and a brass pen rests beside the folders. The background is out of focus, hinting at the hall’s plain walls and a glimpse of a khaki‑uniformed official’s hand reaching for a folder. The lighting is soft, natural daylight from the hall’s windows, highlighting the textures of paper and wood. Captured from a slightly high angle with a 35 mm lens, the image isolates the documents that symbolize the alleged fraud. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/cheating-of-crores-of-rupees-without-payment-of-fees-alleged-at-sholinganallur-zonal-meeting/4379457",
-   "published": "2026-11-18T16:22:02+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001783/chennaiminnal/ewj2f2qcoqyjlcesr8n2.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001786/chennaiminnal/ctnhpqjj0bgi8yvripkx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தாம்பரம் போலீஸ் கமிஷனர் புறநகர் காவல் நிலையங்களில் திடீர் ஆய்வு",
-   "english_headline": "Tambaram police commissioner Najmul Hoda makes surprise inspection of suburban police stations",
-   "category": "Government & Services",
-   "location": "Tambaram, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "காவல் ஆய்வு",
-    "loc": "தாம்பரம், சென்னை",
-    "hl1": "தாம்பரம் போலீஸ் கமிஷனர் திடீர் ஆய்வு",
-    "hl2": "5 காவல் நிலையங்களில் ஆய்வு",
-    "slides": [
-     {
-      "title": "யார்? எங்கே?",
-      "lines": [
-       "தாம்பரம் போலீஸ் கமிஷனர் நஜ்முல் ஹோடா",
-       "புறநகர் காவல் நிலையங்களில் திடீர் ஆய்வு",
-       "நவ. <b>18</b> அன்று இன்று ஆய்வு நடந்தது"
-      ]
-     },
-     {
-      "title": "எந்த நிலையங்கள்?",
-      "lines": [
-       "பல்லாவரம், குரோம்பேட்டை, தாம்பரம்",
-       "பீர்க்கன்காரணை, கிளாம்பாக்கம் காவல் நிலையங்கள்",
-       "குற்றவாளிகள், ரவுடியிசம் பற்றி கேட்டறிந்தார்"
-      ]
-     },
-     {
-      "title": "வேறு ஆய்வுகள்",
-      "lines": [
-       "மேற்கு தாம்பரத்தில் நடக்கும் கட்டடப் பணி ஆய்வு",
-       "கிளாம்பாக்கம் பேருந்து நிலையத்திலும் ஆய்வு",
-       "நேற்று (நவ. <b>17</b>) பள்ளிக்கரணை மாவட்டத்தில் ஆய்வு"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "போலீஸ் துணையோடு நடக்கும் காட்டன் சூதாட்டத்தை ஒடுக்க வேண்டும்",
-       "இதை பொதுமக்கள் கோரிக்கையாக வைத்துள்ளனர்",
-       "புதிய கமிஷனர் கடுமையாக நடவடிக்கை எடுக்க எதிர்பார்ப்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தாம்பரம் போலீஸ் கமிஷனர் நஜ்முல் ஹோடா புறநகர் காவல் நிலையங்களில் திடீர் ஆய்வு நடத்தினார். அவர் சமீபத்தில் பதவியேற்ற பிறகு இரண்டு நாட்களாக காவல் நிலையங்களில் ஆய்வு செய்து வருகிறார். நேற்று நவம்பர் 17ஆம் தேதி பள்ளிக்கரணை காவல் மாவட்டத்தில் ஆய்வு நடந்தது. இன்று நவம்பர் 18ஆம் தேதி காலை தாம்பரம் காவல் மாவட்டத்தில் உள்ள ஐந்து காவல் நிலையங்களில் ஆய்வு செய்தார். பல்லாவரம், குரோம்பேட்டை, தாம்பரம், பீர்க்கன்காரணை, கிளாம்பாக்கம் ஆகிய காவல் நிலையங்களில் இந்த ஆய்வு நடந்தது. ஒவ்வொரு நிலையத்திலும் குற்றவாளிகளின் விவரம், முக்கியப் பிரச்னைகள், ரவுடியிசம், பொதுமக்கள் பிரச்னைகள் பற்றி கேட்டறிந்தார். பின்னர் மேற்கு தாம்பரத்தில் நடந்து வரும் காவல் ஆணையரக கட்டடப் பணிகளையும், கிளாம்பாக்கம் பேருந்து நிலையத்தையும் ஆய்வு செய்தார். இதற்கிடையே, போலீஸ் துணையோடு நடக்கும் காட்டன் சூதாட்டத்தை புதிய கமிஷனர் கடுமையாக ஒடுக்க வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தாம்பரம் போலீஸ் கமிஷனர் புறநகர் காவல் நிலையங்களில் திடீர் ஆய்வு\n\n📰 முழு விவரம்:\nதாம்பரம் போலீஸ் கமிஷனர் நஜ்முல் ஹோடா இன்று (நவ. 18) புறநகர் காவல் நிலையங்களில் திடீர் ஆய்வு மேற்கொண்டார். சமீபத்தில் பதவியேற்ற அவர் இரண்டு நாட்களாக காவல் நிலையங்களில் ஆய்வு நடத்தி வருகிறார். நேற்று (நவ. 17) பள்ளிக்கரணை காவல் மாவட்டத்தில் ஆய்வு செய்தார்.\nஇன்று காலை தாம்பரம் காவல் மாவட்டத்தின் பல்லாவரம், குரோம்பேட்டை, தாம்பரம், பீர்க்கன்காரணை, கிளாம்பாக்கம் காவல் நிலையங்களில் ஆய்வு செய்தார். ஒவ்வொரு நிலையத்திலும் குற்றவாளிகளின் விவரம், முக்கியப் பிரச்னைகள், ரவுடியிசம், பொதுமக்கள் பிரச்னைகள் பற்றி கேட்டறிந்தார்.\nபின்னர் மேற்கு தாம்பரத்தில் நடந்து வரும் காவல் ஆணையரக கட்டடப் பணிகள் மற்றும் கிளாம்பாக்கம் பேருந்து நிலையத்தையும் ஆய்வு செய்தார்.\n🙏 தாம்பரம் காவல் மாவட்டத்தில் போலீஸ் துணையோடு நடக்கும் காட்டன் சூதாட்டத்தை புதிய கமிஷனர் இரும்புக்கரம் கொண்டு ஒடுக்க வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\nTambaram police commissioner surprise inspection | Chennai news\n📍 தாம்பரம், சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tambaram #ChennaiNews #சென்னை",
-   "prompts": "A senior Tamil Nadu police commissioner in a crisp khaki uniform walks through a suburban police station in Tambaram, Chennai, during a surprise morning inspection. Behind him, several subordinate police officers in khaki follow, and a few residents wait near the station counter, seen from behind. The station is a plain low-rise government building with a tiled verandah, a wooden reception desk and a stack of paper files and registers on a table. Daylight comes through open doors and windows. Two-wheelers are parked outside the gate and a police jeep stands nearby. Shot at eye level, 35 mm, wide enough to show the station interior, the officers and the building, with a calm, official mood. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official case registers and paper files lying open on a wooden table in a Tamil Nadu police station, with a khaki uniform sleeve of a police officer resting beside them. Morning daylight falls across the pages, showing ruled columns and handwritten entries without any readable text in focus. In the soft background, a window frames a view of a suburban street with a parked two-wheeler and a pedestrian seen from behind. The image signals record-checking and station review. Shot at slightly high angle, 35 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/tambaram-police-commissioner-inspects-suburban-police-stations/4379461",
-   "published": "2026-11-18T16:22:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (18 words in a row, 26% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001854/chennaiminnal/ohlrsys0mnr9fkxginxc.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001857/chennaiminnal/eblffyf2dzwzyw3awflj.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "எண்ணூரில் ஹவாலா பணம், வெளிநாட்டு கரன்சி கடத்திய 5 பேர் கைது",
-   "english_headline": "Five arrested in Ennore for trying to smuggle hawala cash, foreign currency and ganja to Malaysia",
+   "tamil_headline": "சென்னையில் ரூ.1 கோடி மதிப்பிலான 10 டன் குட்கா அழிப்பு: கொடுங்கையூர் குப்பை கிடங்கில் நடவடிக்கை",
+   "english_headline": "10 tons of seized Gutkha worth ₹1 crore destroyed at Kodungaiyur dump yard in Chennai",
    "category": "Crime & Safety",
-   "location": "Ennore, Chennai district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "எண்ணூர், சென்னை",
-    "hl1": "எண்ணூரில் மலேஷியாவுக்கு பணம் கடத்தல்: 5",
-    "hl2": "ரூ. 18 லட்சம் பறிமுதல்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "ஹவாலா பணம், வெளிநாட்டு கரன்சி, கஞ்சா கடத்த முயன்ற கும்பல்",
-       "சென்னை செங்குன்றத்தில் இருந்து பெங்களூரு வழியாகக் கடத்த",
-       "எண்ணூர் தனிப்படை போலீசார் கைது செய்தனர்"
-      ]
-     },
-     {
-      "title": "எங்கே பிடித்தனர்?",
-      "lines": [
-       "செங்குன்றம் – காந்தி நகரில் இனோவா காரை நிறுத்தி விசாரித்தனர்",
-       "முன்னுக்குப் பின் முரணாகப் பதில் அளித்ததால் சோதனை",
-       "காரில் இருந்த 5 பேரிடம் விசாரணை"
-      ]
-     },
-     {
-      "title": "என்ன பறிமுதல்?",
-      "lines": [
-       "கணக்கில் வராத ஹவாலா பணம் <b>6.42 லட்சம்</b> ரூபாய்",
-       "இங்கிலாந்து கரன்சி நோட்டுகள் <b>12 லட்சம்</b> ரூபாய் மதிப்பு",
-       "600 கிராம் உயர் ரக கஞ்சா, 6 லட்சம் ரூபாய் மதிப்பு"
-      ]
-     },
-     {
-      "title": "யார் கைது?",
-      "lines": [
-       "அபுபக்கர், முகமது இஸ்மாயில், உசாமா ஆகிய மூவரும்",
-       "சிவகங்கை, திருச்சி, தஞ்சாவூர் பகுதி நபர்கள்",
-       "ஐந்து பேரையும் கைது செய்து விசாரணை தொடர்கிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "எண்ணூரில் பணம், கஞ்சா கடத்திய ஐந்து பேர் கும்பல் கைது. சென்னை செங்குன்றத்தில் இருந்து காரில் பெங்களூரு வழியாக மலேஷியாவுக்கு ஹவாலா பணம், வெளிநாட்டு கரன்சி, உயர் ரக கஞ்சாவை கடத்த முயன்றதாகப் போலீசாருக்குத் தகவல் கிடைத்தது. எண்ணூர் உதவி கமிஷனர் வெங்கட குமார் தலைமையிலான தனிப்படை போலீசார் நேற்று முன்தினம் மாலை, செங்குன்றம் – காந்தி நகரில் இருந்து பெங்களூரு நோக்கிச் சென்ற இனோவா காரை நிறுத்தி விசாரித்தனர். காரில் இருந்தவர்கள் முன்னுக்குப் பின் முரணாகப் பதில் அளித்ததால் சோதனை நடத்தப்பட்டது. அதில் கணக்கில் வராத ஹவாலா பணம் 6.42 லட்சம் ரூபாய், 12 லட்சம் ரூபாய் மதிப்பிலான இங்கிலாந்து கரன்சி நோட்டுகள் ஆகியவை பறிமுதல் செய்யப்பட்டன. 6 லட்சம் ரூபாய் மதிப்பிலான 600 கிராம் உயர் ரக கஞ்சாவும் கைப்பற்றப்பட்டது. சிவகங்கை மாவட்டம் இளையான்குடியைச் சேர்ந்த ஆஷிக் அலி, அபுபக்கர் சித்திக், உசாமா, திருச்சி உறையூரைச் சேர்ந்த முகமது இஸ்மாயில், தஞ்சாவூரைச் சேர்ந்த ஷேக் அப்துல்லா ஆகிய ஐந்து பேரிடம் விசாரணை நடத்தப்பட்டது. விசாரணையில் அபுபக்கர், முகமது இஸ்மாயில், உசாமா ஆகிய மூவரும் குருவியாகச் செயல்பட்டு, பணம், கரன்சி, கஞ்சாவை மலேஷியாவுக்குக் கடத்த இருந்தது தெரியவந்தது. ஐந்து பேரையும் நேற்று கைது செய்த போலீசார் தொடர்ந்து விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 எண்ணூரில் மலேஷியாவுக்கு பணம், கஞ்சா கடத்த முயன்ற 5 பேர் கைது\n\n📰 முழு விவரம்:\nஹவாலா பணம், வெளிநாட்டு கரன்சி, உயர் ரக கஞ்சாவை மலேஷியாவுக்கு கடத்த முயன்ற ஐந்து பேர் கும்பலை எண்ணூர் தனிப்படை போலீசார் கைது செய்தனர். சென்னை செங்குன்றத்தில் இருந்து பெங்களூரு வழியாகக் கடத்தப்படுவதாக உதவி கமிஷனர் வெங்கட குமார் தலைமையிலான தனிப்படைக்குத் தகவல் கிடைத்தது. நேற்று முன்தினம் மாலை செங்குன்றம் – காந்தி நகரில் இனோவா காரை நிறுத்தி சோதனையிட்டதில் பணம், கரன்சி, கஞ்சா சிக்கின.\n📍 இடம்: செங்குன்றம் – காந்தி நகர், எண்ணூர்\n🗓️ நாள்: நேற்று முன்தினம் மாலை\n💰 பறிமுதல்: ஹவாலா பணம் 6.42 லட்சம் ரூபாய், இங்கிலாந்து கரன்சி 12 லட்சம் ரூபாய் மதிப்பு, 600 கிராம் கஞ்சா 6 லட்சம் ரூபாய் மதிப்பு\n👮 நடவடிக்கை: ஐந்து பேரும் கைது; அபுபக்கர், முகமது இஸ்மாயில், உசாமா குருவியாகச் செயல்பட்டது தெரியவந்தது; விசாரணை தொடர்கிறது.\n\nEnnore 5 arrested smuggling cash ganja to Malaysia | Chennai news\n📍 எண்ணூர், சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Ennore #ChennaiNews #சென்னை",
-   "prompts": "A row of Tamil Nadu police in khaki stands beside a silver Innova car parked on the side of a wide Chennai road in Ennore, its doors open after a late-evening stop. Behind the car, five young men in shirts and trousers sit on the roadside kerb under police watch, seen from a distance and from behind, their faces not visible. Two-wheelers and an autorickshaw pass slowly on the road, and street lights are just coming on as dusk settles over the Ennore industrial-edge streets. The camera is at eye level, about 35 mm, wide enough to show the car, the police and the roadside, with the evening sky and the flat, dusty stretch of the road in the background. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up on a police table in an Ennore police station room, showing seized bundles of Indian currency and a stack of British pound notes, next to small plastic packets of dried green ganja and a few folded silk bags. A khaki-uniformed officer's sleeve and hand rest at the edge of the frame, with a steel tiffin and a plain wooden table surface beneath a tube light. The objects are arranged neatly on the table, lit by overhead fluorescent light with a slightly warm tone, shot at close range with a 50 mm lens and shallow depth of field so the seized goods are sharp and the background officers are soft and out of focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-12-lakh-foreign-currency-rs-6-42-lakh-gang-trying-to-smuggle-hawala-money-to-malaysia-arrested/4379494",
-   "published": "2026-11-18T16:46:30+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 29, ('காரில் இருந்த சிவகங்கை மாவட்டம், இளையான்குடியை சேர்ந்த ஆஷிக்'); 21, ('காரில் இருந்த சிவகங்கை மாவட்டம், இளையான்குடியை சேர்ந்த ஆஷிக்'); 24, ('காரில் இருந்த சிவகங்கை மாவட்டம், இளையான்குடியை சேர்ந்த ஆஷிக்'); 19, ('காரில் இருந்த சிவகங்கை மாவட்டம், இளையான்குடியை சேர்ந்த ஆஷிக்'); 22 ('காரில் இருந்த சிவகங்கை மாவட்டம், இளையான்குடியை சேர்ந்த ஆஷிக்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001882/chennaiminnal/cp1moty1ngot78b2tfrq.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001884/chennaiminnal/usmph0aabgttztm6prdr.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை: அன்பில் மகேஸின் நீதிமன்றக் காவல் டிசம்பர் 2 வரை நீட்டிப்பு",
-   "english_headline": "Chennai: Anbil Mahesh's judicial custody extended till 2 December in the ₹400 crore private school fee case",
-   "category": "Crime & Safety",
-   "location": "Chennai, Chennai district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நீதிமன்றம்",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: அன்பில் மகேஸ் காவல் நீட்டிப்பு",
-    "hl2": "டிசம்பர் 2 வரை",
-    "slides": [
-     {
-      "title": "என்ன உத்தரவு?",
-      "lines": [
-       "அன்பில் மகேஸின் நீதிமன்றக் காவல் <b>டிசம்பர் 2</b> வரை நீட்டிப்பு",
-       "சென்னை ஊழல் தடுப்பு சிறப்பு நீதிமன்றம் உத்தரவு",
-       "இன்று <b>நவ. 18</b> புழல் சிறையிலிருந்து காணொலி மூலம் ஆஜர்"
-      ]
-     },
-     {
-      "title": "வழக்கின் பின்னணி",
-      "lines": [
-       "1,000-க்கும் மேற்பட்ட தனியார் பள்ளிகளுக்கு அனுமதி",
-       "<b>ரூ. 400 கோடிக்கு</b> மேல் சட்டவிரோதமாக வசூல் என புகார்",
-       "சென்னை மத்திய குற்றப் பிரிவு போலீசார் வழக்குப் பதிவு"
-      ]
-     },
-     {
-      "title": "கைது விவரம்",
-      "lines": [
-       "அன்பில் மகேஸ் <b>அக். 26</b> அன்று கைது",
-       "புழல் சிறையில் அடைக்கப்பட்டார்",
-       "15 நாள் காவல் இன்று நிறைவடைந்தது"
-      ]
-     },
-     {
-      "title": "அடுத்தது என்ன?",
-      "lines": [
-       "பிணை கோரிய மனு விசாரணை <b>நவ. 24</b>க்கு ஒத்திவைப்பு",
-       "சென்னை உயர் நீதிமன்றம் இதை விசாரிக்கும்",
-       "மேலும் தகவல்களுக்கு பின்தொடருங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் முன்னாள் அமைச்சர் அன்பில் மகேஸின் நீதிமன்றக் காவல் டிசம்பர் 2ஆம் தேதி வரை நீட்டிக்கப்பட்டுள்ளது. சென்னை ஊழல் தடுப்பு சிறப்பு நீதிமன்றம் இந்த உத்தரவை பிறப்பித்தது. முந்தைய திமுக ஆட்சிக் காலத்தில் 1,000-க்கும் மேற்பட்ட தனியார் பள்ளிகளுக்கு அங்கீகாரம் மற்றும் அனுமதி பெற்றுத் தருவதாகக் கூறி, ரூ. 400 கோடிக்கு மேல் சட்டவிரோதமாக வசூலித்ததாக புகார் அளிக்கப்பட்டது. இந்தப் புகாரின் அடிப்படையில் சென்னை மத்திய குற்றப் பிரிவு போலீசார் வழக்குப் பதிவு செய்தனர். அக்டோபர் 26ஆம் தேதி அன்பில் மகேஸ் கைது செய்யப்பட்டு புழல் சிறையில் அடைக்கப்பட்டார். முதலில் நவம்பர் 6ஆம் தேதி வரை நீதிமன்றக் காவலில் வைக்க உத்தரவிடப்பட்டிருந்தது. 15 நாள் நீதிமன்றக் காவல் இன்றுடன் நிறைவடைந்ததால், இன்று நவம்பர் 18ஆம் தேதி புழல் மத்திய சிறையிலிருந்து காணொலி வாயிலாக அவர் ஆஜரானார். நீதிபதி எல் எஸ் சத்தியமூர்த்தி முன்னிலையில் நடந்த விசாரணையில், காவல் டிசம்பர் 2ஆம் தேதி வரை நீட்டிக்கப்பட்டது. பிணை கோரிய மனு மீதான விசாரணையை நவம்பர் 24ஆம் தேதிக்கு சென்னை உயர் நீதிமன்றம் ஒத்திவைத்துள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை: அன்பில் மகேஸின் நீதிமன்றக் காவல் டிசம்பர் 2 வரை நீட்டிப்பு\n\n📰 முழு விவரம்:\nமுன்னாள் அமைச்சர் அன்பில் மகேஸின் நீதிமன்றக் காவலை டிசம்பர் 2ஆம் தேதி வரை நீட்டித்து சென்னை ஊழல் தடுப்பு சிறப்பு நீதிமன்றம் உத்தரவிட்டுள்ளது. முந்தைய திமுக ஆட்சிக் காலத்தில் 1,000-க்கும் மேற்பட்ட தனியார் பள்ளிகளுக்கு அங்கீகாரம், அனுமதிகள் பெற்றுத் தருவதாகக் கூறி ரூ. 400 கோடிக்கு மேல் சட்டவிரோதமாக வசூலித்ததாகப் புகார் அளிக்கப்பட்டது. இந்தப் புகாரின் அடிப்படையில் சென்னை மத்திய குற்றப் பிரிவு போலீசார் அன்பில் மகேஸ், தனியார் பள்ளிகள் சங்கத் தலைவர் பி.டி. அரசகுமார், முன்னாள் சட்டப் பேரவை உறுப்பினர் முத்துகுமார் உள்ளிட்டோர் மீது வழக்குப் பதிவு செய்தனர்.\n📅 அக். 26ஆம் தேதி அன்பில் மகேஸ் கைது செய்யப்பட்டு புழல் சிறையில் அடைக்கப்பட்டார்.\n⚖️ முதலில் நவ. 6ஆம் தேதி வரை நீதிமன்றக் காவலில் சிறையில் அடைக்க உத்தரவிடப்பட்டிருந்தது.\n🕘 15 நாள் நீதிமன்றக் காவல் இன்றுடன் நிறைவடைந்ததையொட்டி, இன்று (நவ. 18) புழல் மத்திய சிறையிலிருந்து காணொலி வாயிலாக அவர் ஆஜரானார்.\n✅ நீதிபதி எல்.எஸ். சத்தியமூர்த்தி முன்னிலையில் காவல் டிசம்பர் 2ஆம் தேதி வரை நீட்டிக்கப்பட்டது.\n🗓️ பிணை கோரிய மனு மீதான விசாரணையை நவ. 24ஆம் தேதிக்கு சென்னை உயர் நீதிமன்றம் ஒத்திவைத்துள்ளது.\n\nChennai Anbil Mahesh custody extended | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #நீதிமன்றம்",
-   "prompts": "A row of Tamil Nadu police in khaki stand guard at the entrance of the Chennai anti-corruption special court building as a white police van waits at the gate on a bright daytime in Chennai city. Lawyers in black coats and white shirts carry bundles of court files past the stone pillars and a wooden notice board area of the courthouse. Court staff in plain shirts and trousers walk along a corridor, seen from behind and far away, with no faces visible. The scene is in a government court compound with concrete steps and a wide verandah, the sky overcast and the light soft and natural. Camera at eye level, 35 mm, wide enough to show the courthouse facade, the police van and the people, the mood calm and procedural. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden court table in a Chennai special court hall, covered with stacks of thick legal files tied with string and a few loose papers, beside a flat-screen monitor showing a blurred video-conference feed of an empty chair. A police constable's khaki sleeve and cap edge are visible at the frame's edge, out of focus. Harsh tube-light and daylight from a high window fall across the paper stacks. Camera slightly high, 35 mm, shallow depth of field so the files are sharp and the background people are soft and unidentifiable. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/18/anbil-maheshs-judicial-custody-extended-until-dec-2",
-   "published": "2026-11-18T07:34:18.059Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption copies the article word for word (17 words in a row, 12% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001890/chennaiminnal/xoxg0nsbp1kgsoavogyj.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001892/chennaiminnal/i94fvlkom929mbpqtwjq.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வெங்காயம், தக்காளி விலை: அடுத்த 15 நாளில் படிப்படியாகக் குறையும்",
-   "english_headline": "Onion, tomato prices to fall gradually in 15 days, says food minister Venkatramanan",
-   "category": "Business & Prices",
-   "location": "Chennai, Chennai district",
+   "location": "Kodungaiyur, Chennai district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "விலைவாசி",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: வெங்காயம், தக்காளி விலை குறையும்",
-    "hl2": "அடுத்த 15 நாளில்",
+    "cat": "குட்கா அழிப்பு",
+    "loc": "கொடுங்கையூர், சென்னை",
+    "hl1": "சென்னையில் 10 டன் குட்கா அழிப்பு",
+    "hl2": "மதிப்பு ரூ.1 கோடி",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே?",
       "lines": [
-       "மழைக்காலத்தில் வெங்காய, தக்காளி விலை உயர்வது வழக்கம்",
-       "உணவுத்துறை அமைச்சர் வெங்கட்ரமணன் கூறினார்",
-       "விலை படிப்படியாகக் குறையும் என்றார்"
+       "சென்னை <b>கொடுங்கையூர்</b> குப்பை கிடங்கு",
+       "இன்று <b>நவம்பர் 18</b>-ம் தேதி நடவடிக்கை",
+       "10 டன் குட்கா பொருட்கள் அழிப்பு"
       ]
      },
      {
-      "title": "எப்போது குறையும்?",
+      "title": "பறிமுதல் விவரம்",
       "lines": [
-       "அடுத்த <b>15 நாட்களில்</b> விலை கட்டுக்குள் வரும்",
-       "விலைவாசி தினமும் கண்காணிக்கப்படுகிறது",
-       "தேவைப்பட்டால் பிற மாநிலங்களில் இருந்து கொள்முதல்"
+       "பறிமுதல் செய்யப்பட்ட குட்காவின் மதிப்பு <b>ரூ.1 கோடி</b>",
+       "பல்வேறு பகுதிகளில் அதிகாரிகள் பறிமுதல்",
+       "உணவு பாதுகாப்புத் துறை அதிகாரி பங்கேற்பு"
       ]
      },
      {
-      "title": "அரசின் நடவடிக்கை",
+      "title": "தொடர் சோதனை",
       "lines": [
-       "குறைந்த விலையில் பொருட்கள் வழங்கப்படும்",
-       "அத்தியாவசியப் பொருட்கள் கிடைக்க நடவடிக்கை",
-       "எதிர்க்கட்சிகள் விலை கட்டுப்படுத்தக் கோரின"
+       "சென்னையில் வாரந்தோறும் சிறப்பு சோதனை",
+       "பதுக்குவோர் மற்றும் விற்பனையாளர்கள் கைது",
+       "குட்கா விற்பனைக்கு எதிராகக் கடும் நடவடிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வெங்காயம், தக்காளி விலை அடுத்த 15 நாளில் படிப்படியாகக் குறையும் என அமைச்சர் தெரிவித்துள்ளார். மழைக்காலங்களில் வெங்காயம், தக்காளி உள்ளிட்ட காய்கறிகளின் விலை உயர்வது வழக்கமான ஒன்றுதான் என உணவுத்துறை அமைச்சர் வெங்கட்ரமணன் செய்தியாளர்களிடம் கூறினார். இந்த விலை உயர்வு படிப்படியாகக் குறைந்து, சுமார் 15 நாட்களில் கட்டுக்குள் வரும் என எதிர்பார்க்கப்படுகிறது. அத்தியாவசியப் பொருட்களின் விலை உயர்ந்த பகுதிகளில் தினந்தோறும் விலைவாசி நிலவரம் கண்காணிக்கப்படுகிறது. தேவைப்பட்டால் பிற மாநிலங்களில் இருந்து வெங்காயம், தக்காளி கொள்முதல் செய்யப்பட்டு, குறைந்த விலையில் பொதுமக்களுக்கு வழங்கப்படும். விலைவாசி உயர்வைக் கட்டுப்படுத்த வேண்டும் என எதிர்க்கட்சிகள் தொடர்ந்து வலியுறுத்தி வருகின்றன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧅 வெங்காயம், தக்காளி விலை அடுத்த 15 நாளில் குறையும்\n\n📰 முழு விவரம்:\nமழைக்காலங்களில் வெங்காயம், தக்காளி விலை உயர்வது வழக்கமானதுதான் என உணவுத்துறை அமைச்சர் வெங்கட்ரமணன் தெரிவித்துள்ளார். இந்த விலை உயர்வு படிப்படியாகக் குறைந்து, சுமார் 15 நாட்களில் கட்டுக்குள் வரும் என எதிர்பார்க்கப்படுகிறது. அத்தியாவசியப் பொருட்களின் விலை உயர்ந்த பகுதிகளில் தினந்தோறும் விலைவாசி நிலவரம் கண்காணிக்கப்பட்டு நடவடிக்கை எடுக்கப்படுகிறது.\n🛒 தேவைப்பட்டால் பிற மாநிலங்களில் இருந்து வெங்காயம், தக்காளி கொள்முதல் செய்யப்பட்டு, குறைந்த விலையில் பொதுமக்களுக்கு வழங்கப்படும்.\n⏳ கால அளவு: அடுத்த 15 நாட்கள்\n👮 நடவடிக்கை: விலைவாசி தினமும் கண்காணிப்பு\nஎதிர்க்கட்சிகள் விலைவாசி உயர்வைக் கட்டுப்படுத்த அரசு நடவடிக்கை எடுக்க வேண்டும் என தொடர்ந்து வலியுறுத்தி வருகின்றன.\n\nOnion tomato prices to fall in 15 days | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #விலைவாசி #சென்னை",
-   "prompts": "A row of street vegetable vendors sits behind heaps of red onions and tomatoes at a busy Chennai market, with shoppers in shirts, sarees and salwar walking past seen from behind and far away. The market lies on a wet, damp road after the rains, lined with low concrete shop fronts and a few parked two-wheelers and an MTC bus passing at the edge of the frame. Overcast rainy-season daylight gives soft, even light across the stalls. Shoppers hold cloth bags and look over the produce, suggesting prices are being watched closely. Camera at eye level, 35 mm lens, wide enough to show the whole market stretch and the vendors' stalls. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of heaps of fresh red onions and tomatoes piled in plastic crates and gunny sacks on a wooden vegetable stall, with a metal weighing scale resting on the edge and a few loose onions spilling onto the wet ground. Beside them, a vendor's bare hand and sleeve are visible, with no face shown, and the blurred backdrop of shoppers and passing two-wheelers in the rain. Soft overcast daylight highlights the glossy skins of the produce and the water droplets on the crates. Camera slightly high, 50 mm macro-style lens, shallow depth of field to keep the focus on the onions and tomatoes. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/during-the-rainy-season-onion-tomato-prices-high-food-minister-venkatramanan",
-   "published": "2026-11-18T15:13:37+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சென்னை' and the news itself, e.g. 'சென்னை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "reel_script": "சென்னையில் ஒரு கோடி ரூபாய் மதிப்பிலான 10 டன் குட்கா இன்று அழிக்கப்பட்டது. சென்னை கொடுங்கையூர் குப்பை கிடங்கில் இந்த குட்கா பொருட்கள் கொட்டி அழிக்கப்பட்டன. உணவு பாதுகாப்புத் துறை மற்றும் காவல் துறையினர் பல்வேறு பகுதிகளில் இவற்றை பறிமுதல் செய்திருந்தனர். இந்த நிகழ்வில் சென்னை மாவட்ட உணவுப் பாதுகாப்பு அதிகாரி தமிழ்ச்செல்வன் உள்ளிட்ட அதிகாரிகள் பங்கேற்றனர். சென்னையில் வாரந்தோறும் குட்கா பதுக்கல் மற்றும் விற்பனைக்கு எதிராகச் சிறப்பு சோதனைகள் நடத்தப்பட்டு வருகின்றன. குட்கா விற்பனை செய்பவர்கள் மற்றும் அவர்களுடன் தொடர்புடைய நபர்களைப் போலீசார் கைது செய்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னையில் ரூ.1 கோடி மதிப்பிலான 10 டன் குட்கா அழிப்பு - கொடுங்கையூர் குப்பை கிடங்கில் நடவடிக்கை\n\n📰 முழு விவரம்:\nசென்னையில் உணவு பாதுகாப்புத் துறை மற்றும் காவல் துறையினர் பல்வேறு பகுதிகளில் பறிமுதல் செய்த 10 டன் குட்கா புகையிலைப் பொருட்கள் இன்று (நவம்பர் 18) அழிக்கப்பட்டன. சென்னை கொடுங்கையூர் குப்பை கிடங்கில் இந்த பொருட்கள் கொட்டி அழிக்கப்பட்டன. சென்னை மாவட்ட உணவுப் பாதுகாப்பு அதிகாரி தமிழ்ச்செல்வன் முன்னிலையில் இந்த நடவடிக்கை மேற்கொள்ளப்பட்டது.\n📍 இடம்: கொடுங்கையூர் குப்பை கிடங்கு, சென்னை\n💰 மதிப்பு: சுமார் ரூ.1 கோடி\n👮 நடவடிக்கை: சென்னையில் குட்கா பதுக்கல் மற்றும் விற்பனையைத் தடுக்க வாரந்தோறும் சிறப்பு சோதனைகள் நடத்தப்பட்டு வருகின்றன. விற்பனையில் ஈடுபடுவோர் மற்றும் அவர்களுக்குத் துணையாக இருப்போர் மீது போலீசார் தொடர்ந்து நடவடிக்கை எடுத்து வருகின்றனர்.\n\n10 tons Gutkha destroyed in Chennai Kodungaiyur | Chennai news\n📍 கொடுங்கையூர், சென்னை | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kodungaiyur #CrimeNews #சென்னை",
+   "prompts": "A large pile of 10 tons of seized Gutkha tobacco products is being destroyed at the Kodungaiyur dump yard. The location is an open, dusty waste disposal area on the outskirts of Chennai, characterized by uneven ground and scattered debris typical of a municipal dump site. Several officials, including the District Food Safety Officer and police personnel in khaki uniforms, stand at a safe distance observing the process; they are seen from behind or at a distance, wearing formal shirts and trousers or police uniforms. The main subject is the massive heap of brown and yellow packaged tobacco goods, piled high and ready for incineration or burial. No specific vehicles are mentioned, but the scale of the 10-ton load dominates the frame. The scene is set in daylight with clear visibility. The camera is positioned at eye level, 35 mm lens, wide enough to capture the full extent of the garbage heap and the officials overseeing the destruction. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the seized Gutkha tobacco products piled on the ground at the Kodungaiyur dump yard. The focus is on the texture and volume of the 10 tons of tobacco, showing the brown and yellow packaging materials that make up the bulk of the contraband. The ground is dusty and littered with small fragments of the destroyed goods. In the blurred background, the legs of officials in khaki police uniforms and formal trousers are visible, standing near the edge of the pile. The lighting is natural daylight, highlighting the rough texture of the tobacco and the dust in the air. The camera is slightly high, looking down at the heap, using a 35 mm lens to emphasize the quantity and the nature of the seized items without showing any readable text or brand names on the packaging. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-10-million-tons-of-gutkha-destroyed/4379723",
+   "published": "2026-11-18T18:54:02+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795016190/chennaiminnal/nmk7nhsbdxnutdllea0m.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795016213/chennaiminnal/op6etxsqrmkw05d6mzf7.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது",
+   "english_headline": "Special police team raids Adambakkam: 3 fugitives arrested",
+   "category": "Crime & Safety",
+   "location": "Adambakkam, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் சோதனை",
+    "loc": "ஆதம்பாக்கம், சென்னை",
+    "hl1": "ஆதம்பாக்கத்தில் போலீஸ் அதிரடி சோதனை",
+    "hl2": "3 குற்றவாளிகள் கைது",
+    "slides": [
+     {
+      "title": "சோதனை நடப்பு",
+      "lines": [
+       "ஆதம்பாக்கம், இ.பி.காலனி, அம்பேத்கர் நகரில் சோதனை",
+       "தனிப்படை போலீசார் நடத்தினர்"
+      ]
+     },
+     {
+      "title": "கைது விவரம்",
+      "lines": [
+       "சூர்யா, அஜய், விக்னேஷ் ஆகிய 3 பேர் கைது",
+       "குற்ற வழக்குகளில் தலைமறைவாக இருந்தனர்"
+      ]
+     },
+     {
+      "title": "பறிமுதல்",
+      "lines": [
+       "390 வாகனங்கள் சோதனை, 32 வாகனங்கள் பறிமுதல்",
+       "35 பேர் விசாரணை, 21 பேர் விடுவிக்கப்பட்டனர்"
+      ]
+     },
+     {
+      "title": "சிறை அடைப்பு",
+      "lines": [
+       "3 குற்றவாளிகளும் சிறையில் அடைக்கப்பட்டனர்",
+       "சூர்யா மீது 43 குற்ற வழக்குகள் உள்ளன"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஆதம்பாக்கத்தில் 3 குற்றவாளிகள் கைது. தனிப்படை போலீசார் சோதனை நடத்தினர். இ பி காலனி, அம்பேத்கர் நகர் பகுதிகளில் இது நடந்தது. சூர்யா, அஜய், விக்னேஷ் ஆகிய 3 பேர் கைது செய்யப்பட்டனர். இவர்கள் குற்ற வழக்குகளில் தலைமறைவாக இருந்தனர். 390 வாகனங்கள் சோதனை செய்யப்பட்டன. 32 வாகனங்கள் பறிமுதல் செய்யப்பட்டன. 35 பேர் பிடித்து விசாரணை நடத்தப்பட்டது. 21 பேர் விடுவிக்கப்பட்டனர். சூர்யா மீது 43 குற்ற வழக்குகள் உள்ளன. கைது செய்யப்பட்ட 3 பேரும் சிறையில் அடைக்கப்பட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது\n\n📰 முழு விவரம்:\nஆதம்பாக்கம், இ.பி.காலனி, அம்பேத்கர் நகர் பகுதிகளில் தனிப்படை போலீசார் சோதனை நடத்தினர். குற்ற வழக்குகளில் தலைமறைவாக இருந்த சூர்யா (27 வயது), அஜய் (27 வயது), விக்னேஷ் (19 வயது) ஆகிய 3 பேர் கைது செய்யப்பட்டனர். 390 வாகனங்கள் சோதனை செய்யப்பட்டு, 32 வாகனங்கள் பறிமுதல் செய்யப்பட்டன. 35 பேர் பிடித்து விசாரணை நடத்தப்பட்டு, 21 பேர் விடுவிக்கப்பட்டனர். கைது செய்யப்பட்ட சூர்யா மீது 43 குற்ற வழக்குகள் உள்ளன. 3 குற்றவாளிகளும் சிறையில் அடைக்கப்பட்டனர்.\n\n📍 இடம்: ஆதம்பாக்கம், சென்னை\n👮 நடவடிக்கை: 3 குற்றவாளிகள் கைது, 32 வாகனங்கள் பறிமுதல்\nℹ️ மக்கள் கவனத்திற்கு: குற்றவாளிகள் சிறையில் அடைக்கப்பட்டனர்\n\nAdambakkam police raid | Chennai news\n📍 Adambakkam, Chennai | 18 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#ChennaiMinnal #Chennai #Adambakkam #ChennaiNews #சென்னை",
+   "prompts": "A special police team in khaki uniforms conducts a raid on a residential street in Adambakkam. The scene is set in the I.P. Colony area, characterized by narrow lanes and low-rise concrete buildings typical of Chennai's suburban districts. Several police officers are seen moving through the street, some standing near parked two-wheelers while others interact with residents. In the background, a line of vehicles, including autorickshaws and private cars, is visible, indicating the scale of the inspection. The atmosphere is tense but orderly, with police maintaining control of the area. Daylight illuminates the scene, casting sharp shadows from the buildings and vehicles. The camera is positioned at eye level, 35 mm, capturing the breadth of the street and the police activity without focusing on individual faces. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a row of seized vehicles parked on the side of the road in Adambakkam. The vehicles, a mix of two-wheelers and small cars, are lined up neatly, with police officers in khaki uniforms standing nearby, inspecting them. The focus is on the vehicles themselves, highlighting the scale of the seizure. The background shows the residential buildings of Ambedkar Nagar, with balconies and windows visible. The lighting is bright daylight, emphasizing the details of the vehicles and the uniforms of the police. The camera is slightly high, 35 mm, providing a clear view of the vehicles and the police activity without showing any readable text or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/news-in-a-few-lines/4379732",
+   "published": "2026-11-18T19:45:02+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795016219/chennaiminnal/ud2duvaxxw295yq6or56.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795016240/chennaiminnal/ln8w1d85yayfe7part9m.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கணவனை இழந்த பெண்ணிடம் ரூ.21 லட்சம் மோசடி: ஆவடி நபர் கைது",
+   "english_headline": "Avadi man arrested for cheating widow of Rs 21 lakh with false marriage promise",
+   "category": "Crime & Safety",
+   "location": "Avadi, Chennai district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மோசடி கைது",
+    "loc": "ஆவடி, சென்னை",
+    "hl1": "ஆவடியில் திருமண ஆசை கூறி ரூ.21 லட்சம்",
+    "hl2": "ஆவடி நபர் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஆவடியில் கணவனை இழந்த <b>40 வயது</b> பெண்ணிடம் மோசடி",
+       "திருமணம் செய்வதாகக் கூறி <b>ரூ.21 லட்சம்</b> பெற்றார்",
+       "ராஜேஷ்குமார், <b>45</b> வயது, போலீசார் கைது செய்தனர்"
+      ]
+     },
+     {
+      "title": "எப்படி",
+      "lines": [
+       "விவாகரத்து வழக்கு நிலுவையில் இருப்பதாகக் கூறினார்",
+       "வழக்கறிஞர், தொழிலதிபர் எனக் கூறி நம்பிக்கை பெற்றார்",
+       "நிதி நெருக்கடி எனக் கூறி பணம் கேட்டார்"
+      ]
+     },
+     {
+      "title": "புகார் மற்றும்",
+      "lines": [
+       "பெண் நகைகள், பணம், வீட்டை அடமானம் வைத்து பணம் கொடுத்தார்",
+       "ஆவடி மத்திய குற்றப்பிரிவில் <b>ஜூலை</b> மாதம் புகார்",
+       "காரு, ஐ-பேட், இரண்டு மொபைல் போன்கள் பறிமுதல்"
+      ]
+     },
+     {
+      "title": "மேலும் மோசடி",
+      "lines": [
+       "பூந்தமல்லி பெண்ணிடம் ஆன்லைன் டிரேடிங் பெயரில் <b>ரூ.40",
+       "கணவனை பிரிந்த, இழந்த பெண்களை குறி வைத்ததாகக் கூறப்படுகிறது",
+       "போலீசார் தொடர்ந்து விசாரிக்கின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஆவடியில் திருமண ஆசை கூறி 21 லட்சம் ரூபாய் மோசடி செய்த நபர் கைது செய்யப்பட்டுள்ளார். கணவனை இழந்த 40 வயது பெண்ணிடம் திருமணம் செய்வதாக ஆசை வார்த்தை கூறி ராஜேஷ்குமார், 45 வயது, பணம் பெற்றார். ஆவடி பருத்திப்பட்டு பகுதியைச் சேர்ந்த ராஜேஷ்குமார், 2025ஆம் ஆண்டு அந்தப் பெண்ணுக்கு அறிமுகமானார். அவர் தனியாக வசிப்பதாகவும், விவாகரத்து வழக்கு நிலுவையில் இருப்பதாகவும், வழக்கறிஞர் மற்றும் தொழிலதிபர் என்றும் கூறி நம்பிக்கை பெற்றார். பின்னர் நிதி நெருக்கடி, குடும்பச் செலவு எனக் கூறி பணம் கேட்டார். இதையடுத்து பெண் தன்னிடம் இருந்த நகைகள், பணம், வீட்டை அடமானம் வைத்து 21 லட்சம் ரூபாயைக் கொடுத்தார். மேலும், பெண்ணின் ஆதார் கார்டில் ராஜேஷ்குமார் திருத்தம் செய்து, அவர் தன் கணவர் எனக் கூறியதாகத் தெரிகிறது. பணத்தைக் கேட்டபோது அவர் அடித்துத் துன்புறுத்தி, அந்தரங்கப் புகைப்படங்களை வெளியிடுவதாக மிரட்டினார். ஆவடி மத்திய குற்றப்பிரிவில் ஜூலை மாதம் பெண் புகார் அளித்தார். போலீசார் விசாரித்து ராஜேஷ்குமாரைக் கைது செய்து, மாருதி பிரான்ஸ் கார், ஐ-பேட், இரண்டு மொபைல் போன்களைப் பறிமுதல் செய்தனர். பூந்தமல்லி பெண்ணிடம் ஆன்லைன் டிரேடிங் பெயரில் 40 லட்சம் ரூபாய் மோசடி செய்ததாகவும் கூறப்படுகிறது. போலீசார் தொடர்ந்து விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஆவடியில் திருமண ஆசை கூறி ரூ.21 லட்சம் மோசடி: நபர் கைது\n\n📰 முழு விவரம்:\nஆவடியைச் சேர்ந்த 40 வயது பெண், கணவர் இறந்த நிலையில், 16 வயது மகன், 8 வயது மகளுடன் வசித்து வருகிறார். இவரிடம் 2025ஆம் ஆண்டு பருத்திப்பட்டைச் சேர்ந்த ராஜேஷ்குமார், 45 வயது, அறிமுகமானார். தான் தனியாக வசிப்பதாகவும், விவாகரத்து வழக்கு நிலுவையில் இருப்பதாகவும், வழக்கறிஞர், தொழிலதிபர் என்றும் கூறி நம்பிக்கை ஏற்படுத்தினார். திருமணம் செய்வதாகக் கூறி நிதி நெருக்கடி எனப் பணம் கேட்டார். பெண் நகைகள், பணம், வீட்டை அடமானம் வைத்து 21 லட்சம் ரூபாயைக் கொடுத்தார். பின்னர் ஆதார் கார்டில் திருத்தம் செய்து, அவர் தன்னுடன் வசிப்பதாகப் பெண்ணைத் தொடர்பு கொண்டார். பணம் கேட்ட பெண்ணை அடித்துத் துன்புறுத்தி, அந்தரங்கப் புகைப்படங்களை வெளியிடுவதாக மிரட்டினார்.\n📅 ஜூலை மாதம் ஆவடி மத்திய குற்றப்பிரிவில் புகார் அளிக்கப்பட்டது.\n👮 நடவடிக்கை: நேற்று முன்தினம் ராஜேஷ்குமார் கைது. மாருதி பிரான்ஸ் கார், ஐ-பேட், இரண்டு மொபைல் போன்கள் பறிமுதல்.\nபூந்தமல்லி பெண்ணிடம் ஆன்லைன் டிரேடிங் பெயரில் 40 லட்சம் ரூபாய் மோசடி செய்ததாகவும், கணவனைப் பிரிந்த, இழந்த பெண்களை குறிவைத்ததாகவும் கூறப்படுகிறது. போலீசார் தொடர்ந்து விசாரிக்கின்றனர்.\n\nAvadi marriage promise cheating Rs 21 lakh arrest | Chennai news\n📍 ஆவடி, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Avadi #மோசடி #ChennaiNews",
+   "prompts": "A group of Tamil Nadu police in khaki uniform stands outside the Avadi crime branch office, seen from behind at a distance, beside a silver Maruti car parked on the road in front of a low concrete government building. On a folding table in the foreground, the seized items are laid out: two mobile phones and a tablet, with a stack of papers and a small bundle of cash-free documents. Avadi is a busy suburban town north-west of Chennai, with two-wheelers, a passing autorickshaw and a town bus on the road, and shop fronts of ordinary small-town architecture behind. The scene is in mid-morning daylight under a clear sky. The camera is at eye level, about 35 mm, wide enough to show the building, the car and the police group, with no readable signboards or number plates visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table in a police station office in Avadi, showing the seized items: a tablet (iPad-style), two mobile phones and an Aadhaar-style identity card placed on a stack of files. Beside them rests a car key on a plain surface, and a khaki-sleeved arm of a police officer is partly visible at the edge of the frame, seen from behind. Behind the table is a plain wall with a fan and a dim tube light, and the daylight comes softly through a window. The camera is slightly high, 35 mm, focusing on the objects so that the phones, tablet and card are clearly shown, with no readable text on any screen or card. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/avadi-man-cheated-rs-21-lakh-by-promising-to-marry-a-woman-who-has-lost-her-husband-arrested/4379536",
+   "published": "2026-11-18T17:16:36+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001899/chennaiminnal/hz3xymnlqdyjtn7euimq.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795001901/chennaiminnal/uyjqfdhdauxt17cdtogx.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795016256/chennaiminnal/mfik3p855jzwwwnvenxx.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795016258/chennaiminnal/ipuaq4ozcexzbxizxmkf.jpg"
    ]
   }
  ]
