@@ -82,34 +82,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-17 | `98fd5f6` | facebook RN-51 |
-| 2026-11-18 | `cb8ac21` | Same code as Kovai Minnal b9ee38d2 Kovai end card: FOLLOW @kovai_minnal, the real username (every Kovai reel showed @kovaiminnal - a handle nobody could find) |
-| 2026-11-17 | `f1d351c` | facebook RN-52 |
-| 2026-11-17 | `4b1cf83` | facebook RN-50 |
-| 2026-11-17 | `128d0e8` | pick: picked news saved |
-| 2026-11-18 | `36bc3c8` | Same code as Kovai Minnal 510ab882 Posting chain: the Cloudflare Worker waits, not a GitHub machine (owner 18 Nov: 'safe from ban?') |
-| 2026-11-17 | `af89d47` | pick: picked news saved |
-| 2026-11-17 | `e4b4619` | pick: list sent |
-| 2026-11-18 | `b969de4` | Same code as Kovai Minnal 60399b11 Chennai: its own areas, suburbs and city services; state politics stays out (owner 18 Nov: 'chennai is the most populated city ... add even more small areas') |
-| 2026-11-18 | `b9dd07a` | Same code as Kovai Minnal f829744d Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
-| 2026-11-18 | `1014841` | Same code as Kovai Minnal 0691bd3d Power cuts: a list for our district only is kept whole (17 Nov: Chennai never posted a power cut - ABP's Chennai-only list was cut to 0 words); covaimail.com is Kovai's paper only |
-| 2026-11-18 | `152ae1f` | pick state in the shape pick.py works with (the empty {} crashed the 21:00 round) |
-| 2026-11-18 | `2a519cb` | Same code as Kovai Minnal eb19a89e pick: a new page's empty state file no longer crashes the round (17 Nov: Chennai's 21:00 round failed - KeyError 'rounds' - no news since 18:26) |
-| 2026-11-17 | `54c361c` | Heartbeat |
-| 2026-11-17 | `e330840` | Heartbeat |
-| 2026-11-17 | `7d5301c` | Heartbeat |
-| 2026-11-17 | `3677222` | powercut: notices written |
-| 2026-11-17 | `f1de531` | powercut: notices written |
-| 2026-11-17 | `de8a7c4` | powercut: notices written |
-| 2026-11-17 | `d7a3dec` | pick: written and posted |
-| 2026-11-17 | `ff73e26` | pick: list sent |
-| 2026-11-17 | `1cc7966` | powercut: notices written |
-| 2026-11-17 | `ed2f221` | powercut: notices written |
-| 2026-11-17 | `2927890` | powercut: notices written |
-| 2026-11-17 | `c4560a5` | powercut: notices written |
-| 2026-11-17 | `17c6795` | Same code as Kovai Minnal e26df7a1 GITHUB SAFE MODE until the Cloudflare Workers timer (owner 17 Nov: a friend's account was suspended for this Actions load) |
-| 2026-11-17 | `69fdea0` | Same code as Kovai Minnal a5d72b43 Names as the newspaper gives them; never a minor or a sexual-offence victim (owner 17 Nov: 'if newspaper do then post that') |
-| 2026-11-17 | `18ca401` | Same code as Kovai Minnal 9178cd37 Fact-check reports a named accused / victim / minor / private person, so the draft is rewritten (17 Nov: Chennai's first reel named an accused driver) |
-| 2026-11-17 | `48f024d` | powercut: notices written |
-| 2026-11-17 | `dd02c3e` | Same code as Kovai Minnal 84f4641e Writer: the article's facts, our own sentences (owner 17 Nov: 'is it legal to take news from Dinamalar ... fix the gap') |
+| 2026-11-19 | `cf78b2e` | Same code as Kovai Minnal 0a18c576 No rasipalan post (owner 19 Nov: 'that rasipalan news we dont need') |
+| 2026-11-19 | `7fb751b` | pick: written and posted |
+| 2026-11-19 | `adfe431` | Same code as Kovai Minnal 19b5830a Same-cut check: the page's own city name never makes two power cuts one (Chennai: 'சென்னை' is in every notice) |
+| 2026-11-19 | `d9ca85e` | facebook RN-102 |
+| 2026-11-19 | `e5942b0` | powercut: notices written |
+| 2026-11-19 | `6d3316e` | pick: picked news saved |
+| 2026-11-19 | `9b8e830` | pick: picked news saved |
+| 2026-11-19 | `99fafc3` | pick: list sent |
+| 2026-11-19 | `6a0cafd` | powercut: notices written |
+| 2026-11-19 | `74f08eb` | Same code as Kovai Minnal 9f6335dc The right day: never 'நாளை' about a day that came; power cuts only before their day, first in the queue; party names spoken letter by letter (owner 19 Nov) |
+| 2026-11-19 | `eb856bc` | powercut: notices written |
+| 2026-11-19 | `11e8b4c` | powercut: notices written |
+| 2026-11-19 | `2f093b3` | facebook RN-100 |
+| 2026-11-19 | `e3c38dd` | pick: written and posted |
+| 2026-11-19 | `4f76ee4` | pick: picked news saved |
+| 2026-11-19 | `009eb12` | pick: picked news saved |
+| 2026-11-19 | `e63d9db` | pick: list sent |
+| 2026-11-19 | `1be6256` | pick: written and posted |
+| 2026-11-19 | `bb8d1b3` | powercut: notices written |
+| 2026-11-19 | `420aa78` | facebook RN-93 |
+| 2026-11-19 | `1f94860` | goldrate posted |
+| 2026-11-19 | `4d5aa12` | facebook RN-91 |
+| 2026-11-19 | `a838752` | facebook RN-94 |
+| 2026-11-19 | `c1d83c1` | facebook RN-92 |
+| 2026-11-19 | `69139c2` | powercut: notices written |
+| 2026-11-19 | `a9ab7c5` | pick: picked news saved |
+| 2026-11-19 | `b8e4877` | pick: picked news saved |
+| 2026-11-19 | `85e1c05` | pick: list sent |
+| 2026-11-19 | `ad580b6` | powercut: notices written |
+| 2026-11-19 | `841ba93` | pick: written and posted |
 <!-- recent-changes:end -->
