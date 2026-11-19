@@ -1,9 +1,12 @@
-writing [N]: தமிழக காவல் துறையில் புதிதாக இ-சிஎஸ்ஆர் வசதி அறிமுகம்: டிஜிப
-writing [N]: ஒரு பவுன் தங்கம் ரூ.97,720 ஆக சரிவு
+writing [N]: சென்னையில் 10 இடங்களில் போதைப்பொருள் தடுப்பு போலீசார் சோதனை.
+writing [N]: திசைகளும் சந்தைகளும் | விடுமுறை
+writing [N]: விலை குறைவால் மக்கள் மகிழ்ச்சி- சென்னையில் தங்கம் விற்பனை சூ
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
@@ -19,249 +22,127 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-dead for this round: groq/openai/gpt-oss-120b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-dead for this round: groq/openai/gpt-oss-120b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 dead for this round: groq/qwen/qwen3.8-27b
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-dead for this round: groq/qwen/qwen3.8-27b
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-writing [N]: எம்.எல்.ஏ.,வை ‘போஸ்டரில்’ தான் பார்க்க முடிகிறது ‘டெங்கு’ பர
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  numbers not found in the article: 12215
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 97 ('பவுனுக்கு ரூ.2,040 குறைந்து, ரூ.97 ஆயிரத்து 720-க்கு விற்​கப'); 720 ('பவுனுக்கு ரூ.2,040 குறைந்து, ரூ.97 ஆயிரத்து 720-க்கு விற்​கப'); 12 ('ஒரு கிராம் தங்​கம் ரூ.255 குறைந்து, ரூ.12 ஆயிரத்து 215-க்கு '); 215 ('ஒரு கிராம் தங்​கம் ரூ.255 குறைந்து, ரூ.12 ஆயிரத்து 215-க்கு ')
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  reel_script has English words (Complaint, Register, gov, in) - the voice cannot read them; write them in Tamil letters
-  reel_script must have no English letters (write English words and abbreviations in Tamil script)
-  hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,919 ('குண்டர் தடுப்புச் சட்டத்தின் கீழ் 1,919 பேர் மீது நடவடிக்கை '); 262 ('தமிழகத்தில் குற்றங்களை தடுக்கவும், பொதுமக்களின் பாதுகாப்பை உ')
-  known issue english_in_voice: voice script has English words the voice skips (Complaint, Register, gov, in) - rewrite so it does not happen again
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The reel_script and slides_spec give the young man's full name 'கவுதம்' (Gautam) and his age, but the article names him as Gautam, 21 - the name is in the article, so this is not a problem; however the caption states he is 'கவுதம்' as well, which matches the article.
-  The caption adds 'மக்கள் கூறுகின்றனர்' and 'அதிகாரிகள் உடனடி நடவடிக்கை' sentiment consistent with article; no issue there.
-  The caption adds a health advisory line 'காய்ச்சல் இருந்தால் உடனடியாக மருத்துவரை அணுகுங்கள்' which is not in the article (invented advice).
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: The reel_script and slides_spec give the young man's full name 'கவுதம்' (Gautam) and his age, but the article names him as Gautam, 21 - the name is in the article, so this is not a problem; however the caption states he is 'கவுதம்' as well, which matches the article.
-  fact-check: The caption adds 'மக்கள் கூறுகின்றனர்' and 'அதிகாரிகள் உடனடி நடவடிக்கை' sentiment consistent with article; no issue there.
-  fact-check: The caption adds a health advisory line 'காய்ச்சல் இருந்தால் உடனடியாக மருத்துவரை அணுகுங்கள்' which is not in the article (invented advice).
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 07 ('புதுக்கோட்டையில் வெள்ளிக்கிழமைக்குப் பதிலாக ஞாயிற்றுக்கிழமை ')
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  numbers not found in the article: 106600, 12215, 185000
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 97 ('பவுனுக்கு ரூ.2,040 குறைந்து, ரூ.97 ஆயிரத்து 720-க்கு விற்​கப'); 720 ('பவுனுக்கு ரூ.2,040 குறைந்து, ரூ.97 ஆயிரத்து 720-க்கு விற்​கப'); 12 ('ஒரு கிராம் தங்​கம் ரூ.255 குறைந்து, ரூ.12 ஆயிரத்து 215-க்கு '); 215 ('ஒரு கிராம் தங்​கம் ரூ.255 குறைந்து, ரூ.12 ஆயிரத்து 215-க்கு '); 85 ('இது போல, வெள்ளி கிராமுக்கு ரூ.5 குறைந்து ரூ.185 ஆகவும், கட்ட')
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has English words (Complaint, Register, gov, in) - the voice cannot read them; write them in Tamil letters
-  reel_script must have no English letters (write English words and abbreviations in Tamil script)
-  known issue english_in_voice: voice script has English words the voice skips (Complaint, Register, gov, in) - rewrite so it does not happen again
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
+  reel_script has 61 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 07 ('புதுக்கோட்டையில் வெள்ளிக்கிழமைக்குப் பதிலாக ஞாயிற்றுக்கிழமை ')
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  numbers not found in the article: 106600, 12215, 185000
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('இதற்​கிடை​யில், 11 மாதங்​களுக்​குப் பிறகு நேற்று முன்​தினம் '); 97 ('பவுனுக்கு ரூ.2,040 குறைந்து, ரூ.97 ஆயிரத்து 720-க்கு விற்​கப'); 720 ('பவுனுக்கு ரூ.2,040 குறைந்து, ரூ.97 ஆயிரத்து 720-க்கு விற்​கப'); 12 ('ஒரு கிராம் தங்​கம் ரூ.255 குறைந்து, ரூ.12 ஆயிரத்து 215-க்கு '); 215 ('ஒரு கிராம் தங்​கம் ரூ.255 குறைந்து, ரூ.12 ஆயிரத்து 215-க்கு '); 1 ('இது போல, வெள்ளி கிராமுக்கு ரூ.5 குறைந்து ரூ.185 ஆகவும், கட்ட')
+  reel_script has 64 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 07 ('புதுக்கோட்டையில் வெள்ளிக்கிழமைக்குப் பதிலாக ஞாயிற்றுக்கிழமை ')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The reel_script names the patient (கவுதம்), but the article is about a 21-year-old youth whose name is given; however the reel_script and slides also link the report to him — this is an adult named in the article, so the name itself is allowed; no violation there.
-  The reel_script omits the article's statement that the family/residents said the MLA is seen only on posters and the residents' complaint about the MLA; minor omission but an important stakeholder point is missing from the reel_script.
-  The caption's 'நாள்: 19 நவம்பர் 2026' is a posting date and is excluded from checking, so no issue there.
-  slides_spec 'சிகிச்சை நிலை' slide line 'நேற்று முன்தினம் வீடு திரும்பினார்' is accurate; no additional problem.
-  The reel_script states the residents' complaint about the sewage being 'அச்சம்' etc. — accurate.
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The reel_script names the patient (கவுதம்), but the article is about a 21-year-old youth whose name is given; however the reel_script and slides also link the report to him — this is an adult named in the article, so the name itself is allowed; no violation there.
-  fact-check: The reel_script omits the article's statement that the family/residents said the MLA is seen only on posters and the residents' complaint about the MLA; minor omission but an important stakeholder point is missing from the reel_script.
-  fact-check: The caption's 'நாள்: 19 நவம்பர் 2026' is a posting date and is excluded from checking, so no issue there.
-  fact-check: slides_spec 'சிகிச்சை நிலை' slide line 'நேற்று முன்தினம் வீடு திரும்பினார்' is accurate; no additional problem.
-  fact-check: The reel_script states the residents' complaint about the sewage being 'அச்சம்' etc. — accurate.
-ok anthropic/claude-haiku-5-5
+ok groq/openai/gpt-oss-120b (5s)
+proofread rejected (2 problems)
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 07 ('புதுக்கோட்டையில் வெள்ளிக்கிழமைக்குப் பதிலாக ஞாயிற்றுக்கிழமை ')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 6 problems
-  reel_script has English words (Complaint, Register, gov, in) - the voice cannot read them; write them in Tamil letters
-  reel_script must have no English letters (write English words and abbreviations in Tamil script)
-  source/outlet name or link appears: http, www.
-  hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,919 ('குண்டர் தடுப்புச் சட்டத்தின் கீழ் 1,919 பேர் மீது நடவடிக்கை '); 262 ('தமிழகத்தில் குற்றங்களை தடுக்கவும், பொதுமக்களின் பாதுகாப்பை உ')
-  known issue english_in_voice: voice script has English words the voice skips (Complaint, Register, gov, in) - rewrite so it does not happen again
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-real photo step skipped for 'Chennai gold drops: one pavun now Rs.97,': real photos switched off
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Chennai gold drops: one pavun now Rs.97,'
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 6 problems
-  The reel_script names the victim 'கவுதம்' (Gowtham) in full, which identifies the dengue patient, a 21-year-old; the article does name him, but the draft's caption also names him, and the prompt requires checking that the name is supported by the article, which it is — however the draft also adds 'முதலாவது பிரதான சாலையில் வசிக்கும்' which the article supports; no minor is involved, so the name itself is not a violation.
-  The caption states 'கவுதமுக்கு டெங்கு பாதிப்பு உறுதியானது' and the caption ties him to '21 வயது' — supported by article.
-  The reel_script says the dengue was 'உறுதியானது' at the workers' quarters area and 'அம்பத்தூர் ஓ டி அருகே உள்ள தனியார் மருத்துவமனையில் நடந்த ரத்தப் பரிசோதனையில்' — supported.
-  The caption adds an invented health advisory ('காய்ச்சல், உடல் வலி இருந்தால் உடனடியாக மருத்துவரை அணுகுங்கள்; வீட்டைச் சுற்றி தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.
-  The caption's English line 'Dengue in Ambattur workers' quarters amid sewage stagnation | Chennai news' is an addition outside the article's content and is not a Tamil sentence as required.
-  The reel_script's 'சட்டமன்ற உறுப்பினர்' and the article's 'எம்.எல்.ஏ.' are consistent, but the reel_script omits the article's point that the people said they could only see the MLA on posters — actually included; no omission found.
-claude rewrite 3 anthropic/claude-haiku-5-5: 6 problems
-  fact-check: The reel_script names the victim 'கவுதம்' (Gowtham) in full, which identifies the dengue patient, a 21-year-old; the article does name him, but the draft's caption also names him, and the prompt requires checking that the name is supported by the article, which it is — however the draft also adds 'முதலாவது பிரதான சாலையில் வசிக்கும்' which the article supports; no minor is involved, so the name itself is not a violation.
-  fact-check: The caption states 'கவுதமுக்கு டெங்கு பாதிப்பு உறுதியானது' and the caption ties him to '21 வயது' — supported by article.
-  fact-check: The reel_script says the dengue was 'உறுதியானது' at the workers' quarters area and 'அம்பத்தூர் ஓ டி அருகே உள்ள தனியார் மருத்துவமனையில் நடந்த ரத்தப் பரிசோதனையில்' — supported.
-  fact-check: The caption adds an invented health advisory ('காய்ச்சல், உடல் வலி இருந்தால் உடனடியாக மருத்துவரை அணுகுங்கள்; வீட்டைச் சுற்றி தண்ணீர் தேங்காமல் பார்த்துக்கொள்ளுங்கள்') that is not in the article.
-  fact-check: The caption's English line 'Dengue in Ambattur workers' quarters amid sewage stagnation | Chennai news' is an addition outside the article's content and is not a Tamil sentence as required.
-  fact-check: The reel_script's 'சட்டமன்ற உறுப்பினர்' and the article's 'எம்.எல்.ஏ.' are consistent, but the reel_script omits the article's point that the people said they could only see the MLA on posters — actually included; no omission found.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1004","first":"RN-96"}
-ok anthropic/claude-haiku-5-5
-posting job started at once
-real photo step skipped for 'Tamil Nadu police launch e-CSR: file com': real photos switched off
-writing [N]: GOLD PRICE TODAY: மளமளவென சரியும் தங்கம் விலை... நகை வாங்க இ
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+ok gemini/gemini-3.6-flash (44s)
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption copies the article word for word (16 words in a row, 21% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free models unavailable: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Tamil Nadu police launch e-CSR: file com'
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The caption's 'நடவடிக்கை' (action) line adds 'தாம்பரம் மாநகர காவல் ஆணையரகம் மற்றும் பள்ளிக்கரணை காவல் மாவட்டத்தில் சோதனை' — the article says the search covered areas within these jurisdictions, which is acceptable, but the reel_script says 'பள்ளிக்கரணை காவல் மாவட்ட எல்லைக்குட்பட்ட பகுதிகளில்' while the caption's 'ஈஸ்வரன் தலைமையில்... சோதனை' links the commissionerate and district together; no clear factual error here.
+  The reel_script states the 3 women and 5 people were arrested 'for possessing banned tablets' in the apartment context, merging the arrest with the Kannagi Nagar tablet seizure without the article specifying that the arrested people were linked to that seizure; the article says the 5 were arrested for holding banned tablets, which is accurate, but the sentence about the apartment building search is placed as a separate fact without stating the arrests came from it, mixing two facts.
+  The caption says '5 பேர் கைதாகினர்' and the caption adds the posting date 'நவம்பர் 19, 2026' is fine (exempt), but the caption states the searches were 'அதிகாலை முதல்' which matches the article.
+  The reel_script omits the article's fact that a woman was crying while being put into the police vehicle and family members wept on the second woman's arrest; this is an emotional detail, not essential, so it is not a required omission.
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The caption's 'நடவடிக்கை' (action) line adds 'தாம்பரம் மாநகர காவல் ஆணையரகம் மற்றும் பள்ளிக்கரணை காவல் மாவட்டத்தில் சோதனை' — the article says the search covered areas within these jurisdictions, which is acceptable, but the reel_script says 'பள்ளிக்கரணை காவல் மாவட்ட எல்லைக்குட்பட்ட பகுதிகளில்' while the caption's 'ஈஸ்வரன் தலைமையில்... சோதனை' links the commissionerate and district together; no clear factual error here.
+  fact-check: The reel_script states the 3 women and 5 people were arrested 'for possessing banned tablets' in the apartment context, merging the arrest with the Kannagi Nagar tablet seizure without the article specifying that the arrested people were linked to that seizure; the article says the 5 were arrested for holding banned tablets, which is accurate, but the sentence about the apartment building search is placed as a separate fact without stating the arrests came from it, mixing two facts.
+  fact-check: The caption says '5 பேர் கைதாகினர்' and the caption adds the posting date 'நவம்பர் 19, 2026' is fine (exempt), but the caption states the searches were 'அதிகாலை முதல்' which matches the article.
+  fact-check: The reel_script omits the article's fact that a woman was crying while being put into the police vehicle and family members wept on the second woman's arrest; this is an emotional detail, not essential, so it is not a required omission.
+fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+free models unavailable: no free model answered: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read t
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption copies the article word for word (22 words in a row, 25% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
 ok anthropic/claude-haiku-5-5
 claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 75 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  numbers not found in the article: 100320, 180000, 8320, 97720
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 34 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 400 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 1 ('ஆனால் பின்னர் விலை சற்று குறையத் தொடங்கி, ஆறுதலை கொடுத்தது..'); 11 ('இந்த தொடர் சரிவினால், கடந்த 11 மாதங்களாக ரூ.1 லட்சத்துக்கு க'); 1 ('இந்த தொடர் சரிவினால், கடந்த 11 மாதங்களாக ரூ.1 லட்சத்துக்கு க')
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1004","first":"RN-97"}
-real photo step skipped for 'Dengue confirmed in 21-year-old in Ambat': real photos switched off
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+  reel_script has 84 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  numbers not found in the article: 134400
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 34 ('கடந்த ஜனவரி மாதம் 29-ந்தேதி, வரலாற்றில் முதல் முறையாக தங்கம்'); 400 ('கடந்த ஜனவரி மாதம் 29-ந்தேதி, வரலாற்றில் முதல் முறையாக தங்கம்'); 20 ('அதன்பிறகு சவரன் ரூ.1 லட்சத்து 20 ஆயிரம் என்ற விலையிலேயே ஏற்ற'); 40 ('அதே நேரத்தில் விற்பனை அளவானது சிறிதளவு மட்டுமே உயர்ந்தது.பல '); 60 ('அதே நேரத்தில் விற்பனை அளவானது சிறிதளவு மட்டுமே உயர்ந்தது.பல '); 5 ('தங்கம் விலை குறைந்ததால் சில கடைகளில் பழைய தங்கத்தை மாற்றி வா')
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 87 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  numbers not found in the article: 110000, 12215, 134400, 16800, 180000, 8320
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 16 ('அந்தவகையில் கடந்த ஜனவரி மாதம் 29-ந்தேதி ஒரு கிராம் ரூ.16 ஆயி'); 800 ('அந்தவகையில் கடந்த ஜனவரி மாதம் 29-ந்தேதி ஒரு கிராம் ரூ.16 ஆயி'); 34 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 400 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 50 ('மேலும் விலை எகிறி ஒரு சவரன் ரூ.1 லட்சத்து 50 ஆயிரத்தையும் தொ'); 12 ('இதன் தொடர்ச்சியாக நேற்றும் தங்கம் விலையில் மாற்றம் காணப்பட்ட')
-images made: 2 for 'Dengue confirmed in 21-year-old in Ambat'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1004","first":"RN-98"}
-writing [N]: மழை பற்றாக்குறை? தமிழகத்தில் நிலத்தடி நீர்மட்டம் சரிவு
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  not grounded: location 'நகரம்' is not in the article
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
-  reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  numbers not found in the article: 100320, 110000, 12215, 12470, 134400, 14
-  reel_script copies the article word for word (15 words in a row, 11% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 800 ('அந்தவகையில் கடந்த ஜனவரி மாதம் 29-ந்தேதி ஒரு கிராம் ரூ.16 ஆயி'); 34 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 400 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 50 ('மேலும் விலை எகிறி ஒரு சவரன் ரூ.1 லட்சத்து 50 ஆயிரத்தையும் தொ'); 12 ('இதன் தொடர்ச்சியாக நேற்றும் தங்கம் விலையில் மாற்றம் காணப்பட்ட'); 470 ('இதன் தொடர்ச்சியாக நேற்றும் தங்கம் விலையில் மாற்றம் காணப்பட்ட')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('இதுபோல, பெரும்பாலான மாவட்டங்களில் நீா்மட்டம் 6 முதல் 9 மீட்ட'); 2 ('இதுபோல, பெரும்பாலான மாவட்டங்களில் நீா்மட்டம் 6 முதல் 9 மீட்ட'); 2 ('அதன்படி, திருவண்ணாமலை மாவட்டத்தில் 4.31 மீ., திருப்பத்தூா் -'); 89, ('அதன்படி, திருவண்ணாமலை மாவட்டத்தில் 4.31 மீ., திருப்பத்தூா் -'); 84 ('அதன்படி, திருவண்ணாமலை மாவட்டத்தில் 4.31 மீ., திருப்பத்தூா் -')
+real photo step skipped for 'Police raid over 10 places in Chennai ov': real photos switched off
 ok anthropic/claude-haiku-5-5
-real photo step skipped for 'Gold price falls Rs 1,880 per sovereign ': real photos switched off
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  reel_script has 87 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  numbers not found in the article: 120000, 134400
+  not grounded: location 'நகரம்' is not in the article
+  caption copies the article word for word (16 words in a row, 13% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 34 ('கடந்த ஜனவரி மாதம் 29-ந்தேதி, வரலாற்றில் முதல் முறையாக தங்கம்'); 400 ('கடந்த ஜனவரி மாதம் 29-ந்தேதி, வரலாற்றில் முதல் முறையாக தங்கம்'); 20 ('அதன்பிறகு சவரன் ரூ.1 லட்சத்து 20 ஆயிரம் என்ற விலையிலேயே ஏற்ற')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-images made: 2 for 'Gold price falls Rs 1,880 per sovereign '
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  reel_script says the 1.54 m fall was in Chennai alone and frames the rest of the state inconsistently: the article says Chennai's level fell from 3.55 m to 5.09 m (a 1.54 m drop), which the draft states correctly, but the reel_script's 'இந்த ஆண்டு அக்டோபரில் அது 5.09 மீட்டராகக் குறைந்துள்ளது' omits that the 1.54 m figure is the change, so the headline's '1.54 மீட்டர் குறைந்தது' is consistent; however the slides_spec 'எச்சரிக்கை' slide adds 'தண்ணீரை சிக்கனமாகப் பயன்படுத்துங்கள்' (use water sparingly), an advice not in the article
-  caption states 'சென்னையில் நீர்மட்டம் 3.55 மீட்டராக இருந்தது' and then says it fell to 5.09 m, which is an ungrammatical mix: the caption also says 'கோவையில் 2.89 மீட்டர்' is a year-on-year drop, correct per article, but the caption's 'கள்ளக்குறிச்சியில் 3.12 மீட்டர்' is correct too; the main issue is the caption's 'Chennai groundwater level falls 1.54 m' English line, which is not an error of fact
-  slides_spec 'மற்ற மாவட்டங்கள்' slide says 'கரூர், ஈரோடு, நாமக்கல், திண்டுக்கல் அதிக சரிவு', which conflates the year-on-year and October-depth figures from the article into one line without distinguishing them
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: reel_script says the 1.54 m fall was in Chennai alone and frames the rest of the state inconsistently: the article says Chennai's level fell from 3.55 m to 5.09 m (a 1.54 m drop), which the draft states correctly, but the reel_script's 'இந்த ஆண்டு அக்டோபரில் அது 5.09 மீட்டராகக் குறைந்துள்ளது' omits that the 1.54 m figure is the change, so the headline's '1.54 மீட்டர் குறைந்தது' is consistent; however the slides_spec 'எச்சரிக்கை' slide adds 'தண்ணீரை சிக்கனமாகப் பயன்படுத்துங்கள்' (use water sparingly), an advice not in the article
-  fact-check: caption states 'சென்னையில் நீர்மட்டம் 3.55 மீட்டராக இருந்தது' and then says it fell to 5.09 m, which is an ungrammatical mix: the caption also says 'கோவையில் 2.89 மீட்டர்' is a year-on-year drop, correct per article, but the caption's 'கள்ளக்குறிச்சியில் 3.12 மீட்டர்' is correct too; the main issue is the caption's 'Chennai groundwater level falls 1.54 m' English line, which is not an error of fact
-  fact-check: slides_spec 'மற்ற மாவட்டங்கள்' slide says 'கரூர், ஈரோடு, நாமக்கல், திண்டுக்கல் அதிக சரிவு', which conflates the year-on-year and October-depth figures from the article into one line without distinguishing them
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1004","first":"RN-99"}
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Police raid over 10 places in Chennai ov'
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 59, ('அதேபோல், கரூா் - 11.38, ஈரோடு - 9.70, நாமக்கல் - 9.59, திண்ட'); 08 ('அதேபோல், கரூா் - 11.38, ஈரோடு - 9.70, நாமக்கல் - 9.59, திண்ட'); 6 ('இதுபோல, பெரும்பாலான மாவட்டங்களில் நீா்மட்டம் 6 முதல் 9 மீட்ட'); 2 ('இதுபோல, பெரும்பாலான மாவட்டங்களில் நீா்மட்டம் 6 முதல் 9 மீட்ட'); 78, ('அதன்படி, திருவண்ணாமலை மாவட்டத்தில் 4.31 மீ., திருப்பத்தூா் -'); 12, ('அதன்படி, திருவண்ணாமலை மாவட்டத்தில் 4.31 மீ., திருப்பத்தூா் -')
+  numbers not found in the article: 26
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('தங்கம் விலை குறைந்ததால் சில கடைகளில் பழைய தங்கத்தை மாற்றி வா'); 51 ('தங்கம் விலை குறைந்ததால் சில கடைகளில் பழைய தங்கத்தை மாற்றி வா')
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1305","first":"RN-101"}
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+posting job started at once
 ok anthropic/claude-haiku-5-5
-real photo step skipped for 'Chennai groundwater level falls 1.54 m t': real photos switched off
+real photo step skipped for 'Chennai gold sales rise 15% after prices': real photos switched off
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Chennai groundwater level falls 1.54 m t'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1005","first":"RN-100"}
+images made: 2 for 'Chennai gold sales rise 15% after prices'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1305","first":"RN-102"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dailythanthi.com/news/tamilnadu/rain-shortage-groundwater-level-declines-in-tamil-nadu
-manual link added: https://www.maalaimalar.com/amp/story/news/business-and-gold-rate/today-gold-price-in-chennai-19-11-2026
-manual link added: https://www.hindutamil.in/news/business/gold-rate-down-by-rupees-97720-per-sovereign
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/in-the-mla-s-poster--he-can-see-the-tension-of-the-people-of-ambattur-due-to-the-spread-of-dengue-/4380087
-manual link added: https://www.hindutamil.in/news/tamilnadu/dgp-mahesh-kumar-aggarwal-launches-new-e-csr-facility-introduced-in-tn-police
-candidate filter: collected=5
-to write: 5 Chennai district candidates (max 5 stories)
-round: top 5 of 5 candidates
-candidates waiting: 5 Chennai; time left 79 min
-try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/dgp-mahesh-kumar-ag
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
-try (N) manual=True: https://www.hindutamil.in/news/business/gold-rate-down-by-ru
+manual link added: https://www.hindutamil.in/news/supplements/vazhvu-inithu/directions-and-markets
+manual link added: https://www.polimernews.com/video/anti-drug-police-conduct-raids-at-10-locations-in-chennai-12822435
+manual link added: https://www.maalaimalar.com/news/business-and-gold-rate/people-happy-over-price-drop-gold-sales-pick-up-in-chennai
+candidate filter: collected=3
+to write: 3 Chennai district candidates (max 3 stories)
+round: top 3 of 3 candidates
+candidates waiting: 3 Chennai; time left 79 min
+try (N) manual=True: https://www.maalaimalar.com/news/business-and-gold-rate/peop
+try (N) manual=True: https://www.polimernews.com/video/anti-drug-police-conduct-r
+try (N) manual=True: https://www.hindutamil.in/news/supplements/vazhvu-inithu/dir
+NOT filed (N) திசைகளும் சந்தைகளும் | விடுமுறை: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-try (N) manual=True: https://www.maalaimalar.com/amp/story/news/business-and-gold
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/rain-shortage-gr
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})
-candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min
-filed: 5 Chennai district stories (target 5), reels only
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 78 min
+filed: 2 Chennai district stories (target 3), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":5,"updated":0} 
-stories: 5
+All News sheet: {"ok":true,"added":3,"updated":0} 
+stories: 2
