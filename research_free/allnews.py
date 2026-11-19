@@ -538,6 +538,7 @@ def _place_norm(t):
     return (t or "").replace("\u0bc1\u0bbe", "\u0bc2").replace("ப்ப", "ப")      # மோகனுார் = மோகனூர், பள்ளிப்பாளையம் = பள்ளிபாளையம்
 
 
+OWN_NAMES = ('சென்னை', 'மெட்ராஸ்')      # Chennai Minnal: tools/make_page.py
 CANON_PLACES = [w for w in dict.fromkeys(COIMBATORE_WORDS + TOWNS) if not w.isascii() and w not in ("கோவை", "கோயம்புத்தூர்")]
 
 

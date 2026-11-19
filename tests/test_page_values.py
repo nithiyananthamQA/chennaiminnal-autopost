@@ -37,6 +37,12 @@ class PageValues(unittest.TestCase):
             self.assertTrue(allnews.statewide(t) or allnews.outside_district(t), t)
         self.assertTrue(allnews.other_district("செங்கல்பட்டு அருகே விபத்து"))      # the far town stays another district
         self.assertTrue(len(allnews.COIMBATORE_WORDS) > 150)
+        import sys as _s
+        _s.path.insert(0, str(ROOT / "poster"))
+        import freshness as F      # 19 Nov: the same cut from a second paper; the city name alone never makes two cuts one
+        a_h, a_s = "சென்னையில் நாளை மின்தடை", "நாளை (நவம்பர் 21) வேளச்சேரி, தரமணி, அடையாறு பகுதிகளில் மின்தடை."
+        self.assertTrue(F.same_cut_areas(a_h, a_s, "2026-11-20", "சென்னை: நாளை மின்தடை", "நாளை (நவம்பர் 21) அடையாறு, வேளச்சேரி பகுதிகள்.", "2026-11-20"))
+        self.assertFalse(F.same_cut_areas(a_h, a_s, "2026-11-20", "சென்னையில் நாளை மின்தடை", "நாளை (நவம்பர் 21) தாம்பரம், குரோம்பேட்டை பகுதிகளில் மின்தடை.", "2026-11-20"))
 
     def test_no_kovai_name_left_in_code(self):
         out = subprocess.run(["grep", "-rIlE", "Kovai Minnal|கோவை மின்னல்|kovai_minnal|KovaiMinnal|kovaiminnal", str(ROOT), "--include=*.py",
