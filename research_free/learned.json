@@ -1,36 +1,36 @@
 {
- "updated": "2026-11-19T21:01+05:30",
- "posts_measured": 91,
+ "updated": "2026-11-19T22:21+05:30",
+ "posts_measured": 96,
  "topic_weight": {
-  "accident": 0.14,
-  "civic": 0.54,
-  "crime": -0.16,
+  "accident": 0.13,
+  "civic": 0.76,
+  "crime": -0.2,
   "education": -0.5,
-  "jobs": -0.38,
+  "jobs": -0.37,
   "politics": -0.5,
-  "poultry_agri": -0.28,
-  "power_cut": 1.35,
+  "poultry_agri": -0.33,
+  "power_cut": 1.36,
   "sports_culture": -0.18,
-  "temple": -0.35,
-  "weather": 0.36
+  "temple": -0.3,
+  "weather": 0.8
  },
  "topic_n": {
   "politics": 18,
   "accident": 8,
-  "crime": 40,
-  "weather": 13,
+  "crime": 41,
+  "weather": 14,
   "power_cut": 31,
-  "civic": 8,
+  "civic": 10,
   "education": 44,
   "poultry_agri": 6,
-  "temple": 24,
+  "temple": 25,
   "jobs": 3,
   "sports_culture": 4
  },
  "best_hours_ist": [
   2,
-  1,
   21,
+  1,
   5
  ],
  "top_openings": [
@@ -39,11 +39,11 @@
   "🚨 புழல் சிறைக்குள் கஞ்சா கடத்தல்: செவிலியர் உதவியாளர் கைது",
   "🚨 மடிப்பாக்கத்தில் கால்வாயில் விழுந்து இளைஞர் உயிரிழப்பு"
  ],
- "avg_watch_s": 6.3,
+ "avg_watch_s": 6.1,
  "best_topics": [
   "power_cut",
-  "civic",
-  "weather"
+  "weather",
+  "civic"
  ],
  "weak_topics": [
   "education",
@@ -62,6 +62,6 @@
   "temple": "reference",
   "weather": "ours"
  },
- "reference_posts_measured": 407,
- "reference_updated": "2026-11-19T18:30+05:30"
+ "reference_posts_measured": 412,
+ "reference_updated": "2026-11-19T22:11+05:30"
 }
