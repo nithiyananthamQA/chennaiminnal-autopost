@@ -1,39 +1,39 @@
-09:41:10 SKIP RN-1 stale: published 11 Nov, older than yesterday
-09:41:10 SKIP RN-11 stale: published 14 Nov, older than yesterday
-09:41:10 SKIP RN-13 stale: published 14 Nov, older than yesterday
-09:41:10 SKIP RN-14 stale: published 14 Nov, older than yesterday
-09:41:10 SKIP RN-17 stale: published 15 Nov, older than yesterday
-09:41:10 SKIP RN-19 stale: published 15 Nov, older than yesterday
-09:41:10 SKIP RN-24 stale: published 15 Nov, older than yesterday
-09:41:10 SKIP RN-33 stale: published 16 Nov, older than yesterday
-09:41:10 SKIP RN-40 stale: published 16 Nov, older than yesterday
-09:41:10 SKIP RN-47 stale: published 17 Nov, older than yesterday
-09:41:11 SKIP RN-57 held: fact-check problems - numbers not found in the article: 7
-09:41:11 SKIP RN-67 held: fact-check problems - numbers not found in the article: 100
+09:45:47 SKIP RN-1 stale: published 11 Nov, older than yesterday
+09:45:47 SKIP RN-11 stale: published 14 Nov, older than yesterday
+09:45:47 SKIP RN-13 stale: published 14 Nov, older than yesterday
+09:45:47 SKIP RN-14 stale: published 14 Nov, older than yesterday
+09:45:47 SKIP RN-17 stale: published 15 Nov, older than yesterday
+09:45:47 SKIP RN-19 stale: published 15 Nov, older than yesterday
+09:45:47 SKIP RN-24 stale: published 15 Nov, older than yesterday
+09:45:47 SKIP RN-33 stale: published 16 Nov, older than yesterday
+09:45:47 SKIP RN-40 stale: published 16 Nov, older than yesterday
+09:45:47 SKIP RN-47 stale: published 17 Nov, older than yesterday
+09:45:48 SKIP RN-57 held: fact-check problems - numbers not found in the article: 7
+09:45:48 SKIP RN-67 held: fact-check problems - numbers not found in the article: 100
 ::warning title=Held from posting RN-67::held: fact-check problems - numbers not found in the article: 100
-09:41:11 SKIP RN-87 held: fact-check problems - not grounded: location 'உயர்நீதிமன்றம்' is not in the article
+09:45:48 SKIP RN-87 held: fact-check problems - not grounded: location 'உயர்நீதிமன்றம்' is not in the article
 ::warning title=Held from posting RN-87::held: fact-check problems - not grounded: location 'உயர்நீதிமன்றம்' is not in the article
-09:41:11 SKIP RN-95 held: fact-check problems - fact-check: Caption contains an English sentence ('Chennai Setthupattu man dies, son-in-law arrested in murder case | Chennai news') that is not part of the Tamil article content and is not a caption 
+09:45:48 SKIP RN-95 held: fact-check problems - fact-check: Caption contains an English sentence ('Chennai Setthupattu man dies, son-in-law arrested in murder case | Chennai news') that is not part of the Tamil article content and is not a caption 
 ::warning title=Held from posting RN-95::held: fact-check problems - fact-check: Caption contains an English sentence ('Chennai Setthupattu man dies, son-in-law arrested in murder case | Chennai news') that is not part of the Tamil article content and is not a caption 
-09:41:13 story catch-up chennai: quota 34/50, 40 recent posts, 3 live stories, owner ids ['17841452418440882']
-09:41:46 story catch-up chennai: post 18101533910556271 not shared (Instagram container 18023055260747282 ERROR) - tried again next run
-09:41:46 15 stories in the queue, ready to post: 1
-09:41:46   keys: ['batch', 'caption', 'category', 'coimbatore_link', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-09:41:46    RN-1 review= 'Auto' images= 201 spec= 616 pages= ['chennai'] links= None '' age_h= 131.3 ready= False set_started= True
-09:41:46    RN-11 review= 'Auto' images= 201 spec= 551 pages= ['chennai'] links= None '' age_h= 99.3 ready= False set_started= True
-09:41:46    RN-13 review= 'Auto' images= 205 spec= 637 pages= ['chennai'] links= None '' age_h= 98.9 ready= False set_started= True
-09:41:46    RN-14 review= 'Auto' images= 205 spec= 953 pages= ['chennai'] links= None '' age_h= 98.8 ready= False set_started= True
-09:41:46    RN-17 review= 'Auto' images= 201 spec= 729 pages= ['chennai'] links= None '' age_h= 95.1 ready= False set_started= True
-09:41:46    RN-19 review= 'Auto' images= 201 spec= 859 pages= ['chennai'] links= None '' age_h= 95.1 ready= False set_started= True
-09:41:46    RN-24 review= 'Auto' images= 201 spec= 660 pages= ['chennai'] links= None '' age_h= 86.1 ready= False set_started= True
-09:41:46    RN-33 review= 'Auto' images= 201 spec= 899 pages= ['chennai'] links= None '' age_h= 71.2 ready= False set_started= True
-09:41:46    RN-40 review= 'Auto' images= 201 spec= 915 pages= ['chennai'] links= None '' age_h= 51.5 ready= False set_started= True
-09:41:46    RN-47 review= 'Auto' images= 201 spec= 887 pages= ['chennai'] links= None '' age_h= 40.3 ready= False set_started= True
-09:41:46    RN-57 review= 'Auto' images= 205 spec= 834 pages= ['chennai'] links= None '' age_h= 30.3 ready= False set_started= True
-09:41:46    RN-67 review= 'Auto' images= 205 spec= 780 pages= ['chennai'] links= None '' age_h= 20.6 ready= False set_started= True
-09:41:46    RN-87 review= 'Auto' images= 205 spec= 935 pages= ['chennai'] links= None '' age_h= 2.8 ready= False set_started= True
-09:41:46    RN-93 review= 'Auto' images= 205 spec= 745 pages= ['chennai'] links= None '' age_h= 0.6 ready= True set_started= True
-09:41:46    RN-95 review= 'Auto' images= 205 spec= 887 pages= ['chennai'] links= None '' age_h= 0.6 ready= False set_started= True
-09:41:46 publishing quota chennai: 34/50
-09:41:47 instagram duplicate check chennai: 50 recent posts read
-09:41:47    RN-93 waits for the 12-minute gap after the last post on ['chennai']
+09:45:50 story catch-up chennai: quota 34/50, 40 recent posts, 3 live stories, owner ids ['17841452418440882']
+09:46:54 story catch-up chennai: post 18101533910556271 not shared (Instagram container 18023056841747282 ERROR) - tried again next run
+09:46:54 15 stories in the queue, ready to post: 1
+09:46:54   keys: ['batch', 'caption', 'category', 'coimbatore_link', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+09:46:54    RN-1 review= 'Auto' images= 201 spec= 616 pages= ['chennai'] links= None '' age_h= 131.4 ready= False set_started= True
+09:46:54    RN-11 review= 'Auto' images= 201 spec= 551 pages= ['chennai'] links= None '' age_h= 99.4 ready= False set_started= True
+09:46:54    RN-13 review= 'Auto' images= 205 spec= 637 pages= ['chennai'] links= None '' age_h= 99.0 ready= False set_started= True
+09:46:54    RN-14 review= 'Auto' images= 205 spec= 953 pages= ['chennai'] links= None '' age_h= 98.9 ready= False set_started= True
+09:46:54    RN-17 review= 'Auto' images= 201 spec= 729 pages= ['chennai'] links= None '' age_h= 95.2 ready= False set_started= True
+09:46:55    RN-19 review= 'Auto' images= 201 spec= 859 pages= ['chennai'] links= None '' age_h= 95.2 ready= False set_started= True
+09:46:55    RN-24 review= 'Auto' images= 201 spec= 660 pages= ['chennai'] links= None '' age_h= 86.2 ready= False set_started= True
+09:46:55    RN-33 review= 'Auto' images= 201 spec= 899 pages= ['chennai'] links= None '' age_h= 71.3 ready= False set_started= True
+09:46:55    RN-40 review= 'Auto' images= 201 spec= 915 pages= ['chennai'] links= None '' age_h= 51.6 ready= False set_started= True
+09:46:55    RN-47 review= 'Auto' images= 201 spec= 887 pages= ['chennai'] links= None '' age_h= 40.4 ready= False set_started= True
+09:46:55    RN-57 review= 'Auto' images= 205 spec= 834 pages= ['chennai'] links= None '' age_h= 30.3 ready= False set_started= True
+09:46:55    RN-67 review= 'Auto' images= 205 spec= 780 pages= ['chennai'] links= None '' age_h= 20.7 ready= False set_started= True
+09:46:55    RN-87 review= 'Auto' images= 205 spec= 935 pages= ['chennai'] links= None '' age_h= 2.8 ready= False set_started= True
+09:46:55    RN-93 review= 'Auto' images= 205 spec= 745 pages= ['chennai'] links= None '' age_h= 0.7 ready= True set_started= True
+09:46:55    RN-95 review= 'Auto' images= 205 spec= 887 pages= ['chennai'] links= None '' age_h= 0.7 ready= False set_started= True
+09:46:55 publishing quota chennai: 34/50
+09:46:56 instagram duplicate check chennai: 50 recent posts read
+09:46:56    RN-93 waits for the 12-minute gap after the last post on ['chennai']
