@@ -82,6 +82,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-19 | `372dcae` | Same code as Kovai Minnal 41fb7446 Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
+| 2026-11-19 | `8e5bc09` | powercut: notices written |
+| 2026-11-19 | `c39ec29` | powercut: notices written |
+| 2026-11-19 | `76d96c5` | powercut: notices written |
 | 2026-11-19 | `cf78b2e` | Same code as Kovai Minnal 0a18c576 No rasipalan post (owner 19 Nov: 'that rasipalan news we dont need') |
 | 2026-11-19 | `7fb751b` | pick: written and posted |
 | 2026-11-19 | `adfe431` | Same code as Kovai Minnal 19b5830a Same-cut check: the page's own city name never makes two power cuts one (Chennai: 'சென்னை' is in every notice) |
@@ -108,8 +112,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `c1d83c1` | facebook RN-92 |
 | 2026-11-19 | `69139c2` | powercut: notices written |
 | 2026-11-19 | `a9ab7c5` | pick: picked news saved |
-| 2026-11-19 | `b8e4877` | pick: picked news saved |
-| 2026-11-19 | `85e1c05` | pick: list sent |
-| 2026-11-19 | `ad580b6` | powercut: notices written |
-| 2026-11-19 | `841ba93` | pick: written and posted |
 <!-- recent-changes:end -->
