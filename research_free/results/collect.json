@@ -3,82 +3,88 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/visual-stories/2026/Nov/18/no-drinking-water-for-a-month-upset-people-chennai",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/t-velmurugan-demands-probe-into-accused-party-officials",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/removal-of-roadside-encroachments/4379544",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/18/vehicles-for-new-services-for-persons-with-disabilities-in-care-homes",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-collector-launches-2-new-service-vehicles-to-improve-the-livelihoods-of-differently-abled-people",
+  "manual link added: https://www.dailythanthi.com/business/chennai-petrol-diesel-price-update-4",
+  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/18/old-pension-scheme-for-8431-grade-ii-constables-what-is-tamil-nadu-governments-stand-high-court-asks",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/fifty-percent-beneficiaries-removed-in-magalir-urimai-thogai-second-phase-tn-state-clarifies",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/olympic-city-project-draft-begins-in-semmanchery/4380170",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/a-new-offer-for-gold-and-diamond-jewellery-has-been-announced-at-the-swarna-mahal-in-botis/4379963",
   "candidate filter: collected=5",
   "to write: 5 Chennai district candidates (max 5 stories)",
   "round: top 5 of 5 candidates",
   "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-collecto",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/fifty-percent-benef",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/t-velmurugan-demand",
+  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/18/old-pension-s",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.dailythanthi.com/business/chennai-petrol-diesel-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamani.com/visual-stories/2026/Nov/18/no-drink",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "NOT filed (N) ஒரு மாதமாக குடிநீர் வரவில்லை! கொந்தளித்த மக்கள்! |: not news: draft not grounded in the article (only 43% of its words come from it) - likely made up",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 75 min",
-  "filed: 4 Chennai district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
+  "filed: 5 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
@@ -86,39 +92,12 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -126,257 +105,310 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னையில் காப்பக மாற்றுத்திறனாளிகளுக்கு வாகனங்கள்: வீடு தோறும் சுத்தம், மளிகை விற்பனை",
-   "english_headline": "Chennai corporation hands vehicles to disabled residents of urban homeless shelters for cleaning and grocery sales businesses",
+   "tamil_headline": "செம்மஞ்சேரியில் ஒலிம்பிக் நகரம் திட்ட வரைவு பணி தொடக்கம்",
+   "english_headline": "Olympic City design work begins in Semmangery",
    "category": "Government & Services",
-   "location": "Chennai city (Ripon Buildings campus, Chennai Corporation), Chennai district",
-   "importance": "Medium",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு சேவை",
-    "loc": "சென்னை மாநகராட்சி",
-    "hl1": "சென்னையில் மாற்றுத்திறனாளிகளுக்கு புதிய",
-    "hl2": "தொழில் வாய்ப்பு உருவாக்கம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "நகர்ப்புற வீடற்றோர் காப்பகங்களில் உள்ள",
-       "சென்னை மாநகராட்சி அமைந்தகரை, எழும்பூர் காப்பகங்களில்"
-      ]
-     },
-     {
-      "title": "பயிற்சி",
-      "lines": [
-       "தனியார் தொண்டு நிறுவனம் மூலம் தொழில் பயிற்சி அளிக்கப்பட்டது",
-       "வாகனம் சுத்தம், மளிகைப் பொருள் விற்பனை பயிற்சிகள்",
-       "பேண்டு வாத்தியம் இசைக்கும் பயிற்சியும் பெற்றுள்ளனர்"
-      ]
-     },
-     {
-      "title": "வாகனங்கள்",
-      "lines": [
-       "வீடுதோறும் சென்று வாகனங்களைச் சுத்தம் செய்ய வாகனம்",
-       "குறிப்பிட்ட பகுதிகளில் மளிகைப் பொருள் விற்க வாகனம்",
-       "ரிப்பன் மாளிகை வளாகத்தில் புதன்கிழமை நிகழ்ச்சி நடைபெற்றது"
-      ]
-     },
-     {
-      "title": "தொடக்கம்",
-      "lines": [
-       "சென்னை மாவட்ட ஆட்சியர் மாலதி ஹெலன் கொடியசைத்து",
-       "மாற்றுத்திறனாளிக் குழந்தைகள் தயாரித்த பேக்கரி",
-       "இச்சேவை மூலம் தொழில்முனைவோராகும் வாய்ப்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் மாற்றுத்திறனாளிகளுக்கு தொழில் வாய்ப்பு உருவாக்கும் வகையில் 2 சேவைகளுக்கான வாகனங்கள் வழங்கப்பட்டுள்ளன. சென்னை மாநகராட்சி அமைந்தகரை மற்றும் எழும்பூரில் உள்ள நகர்ப்புற வீடற்றோர் காப்பகங்களில் 100-க்கும் மேற்பட்ட மாற்றுத்திறனாளிகள் தங்கியுள்ளனர். அவர்களுக்கு தனியார் தொண்டு நிறுவனம் மூலம் தொழில் பயிற்சி அளிக்கப்பட்டுள்ளது. வாகனங்களைச் சுத்தம் செய்தல், மளிகைப் பொருள்கள் விற்பனை ஆகிய பயிற்சிகள் ஏராளமானோருக்கு வழங்கப்பட்டுள்ளன. பேண்டு வாத்தியம் இசைக்கும் பயிற்சியையும் பெற்றுள்ளனர். இந்நிலையில், வீடுதோறும் சென்று வாகனங்களைச் சுத்தம் செய்யவும், குறிப்பிட்ட பகுதிகளில் மளிகைப் பொருள்கள் விற்கவும் வாகனங்கள் வழங்கப்பட்டன. சென்னை மாவட்ட ஆட்சியர் மாலதி ஹெலன் ரிப்பன் மாளிகை வளாகத்தில் புதன்கிழமை நடைபெற்ற நிகழ்ச்சியில் வாகனங்களைக் கொடியசைத்துத் தொடங்கி வைத்தார். மாற்றுத்திறனாளிக் குழந்தைகள் தயாரித்த பேக்கரி உணவுப் பொருள்களையும் அவர் பார்வையிட்டார். இச்சேவை மூலம் மாற்றுத்திறனாளிகள் தொழில்முனைவோராகும் வாய்ப்பு வழங்கப்பட்டுள்ளதாக அதிகாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "♿ சென்னையில் மாற்றுத்திறனாளிகளுக்கு தொழில் வாய்ப்புக்கான புதிய வாகனங்கள்\n\n📰 முழு விவரம்:\nநகர்ப்புற வீடற்றோர் காப்பகங்களில் தங்கியுள்ள மாற்றுத்திறனாளிகளுக்கு தொழில் வாய்ப்பு உருவாக்க 2 சேவைகளுக்கான வாகனங்கள் வழங்கப்பட்டுள்ளன. சென்னை மாநகராட்சி அமைந்தகரை, எழும்பூர் காப்பகங்களில் 100-க்கும் மேற்பட்ட மாற்றுத்திறனாளிகள் தங்கியுள்ளனர். தனியார் தொண்டு நிறுவனம் மூலம் வாகனம் சுத்தம் செய்தல், மளிகைப் பொருள் விற்பனை ஆகிய பயிற்சிகளும், பேண்டு வாத்தியம் இசைக்கும் பயிற்சியும் வழங்கப்பட்டுள்ளன. வீடுதோறும் சென்று வாகனங்களைச் சுத்தம் செய்யவும், குறிப்பிட்ட பகுதிகளில் மளிகைப் பொருள்கள் விற்கவும் வாகனங்கள் வழங்கப்பட்டன. புதன்கிழமை ரிப்பன் மாளிகை வளாகத்தில் நடைபெற்ற நிகழ்ச்சியில் சென்னை மாவட்ட ஆட்சியர் மாலதி ஹெலன் வாகனங்களைக் கொடியசைத்துத் தொடங்கி வைத்தார். மாற்றுத்திறனாளிக் குழந்தைகள் தயாரித்த பேக்கரி உணவுப் பொருள்களையும் அவர் பார்வையிட்டார். மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலர் சரவணக்குமார், தலைமை சமுதாய வளர்ச்சி அலுவலர் ராஜ்குமார் உள்ளிட்டோர் கலந்து கொண்டனர்.\n\nChennai vehicles for disabled shelter residents | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #மாற்றுத்திறனாளி",
-   "prompts": "Two service vehicles stand in the courtyard of the Ripon Buildings campus, the Greater Chennai Corporation headquarters, as a government official in a formal saree stands beside them and holds a flag, about to flag off the vehicles to disabled residents who will use them for door-to-door vehicle cleaning and grocery selling. The setting is the broad official compound with its large colonnaded government facade, a few parked white government vehicles at the edge, and a small group of shelter residents, some using wheelchairs and some with crutches, standing together at a distance seen from behind and slightly blurred. Men in shirts and trousers and women in sarees and salwars stand in the group, with a few corporation staff in formal dress nearby. It is bright daylight with soft natural light on the white building and the paved courtyard. Shot at eye level on a 35 mm lens, wide enough to show the full vehicles, the official building, and the group of people gathered for the handover. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the back of one of the two newly handed-over service vehicles, its cargo area opened and displayed with neatly arranged trays of bakery items such as cakes, biscuits and packed snacks made by disabled children, along with stacks of grocery packets set out on a low table beside it. A corporation staff member's hand rests lightly on the open tailgate, and a few shelter residents stand softly blurred in the background. Bright daylight falls on the goods and the vehicle's clean metal surface. Shot at close range on a 35 mm lens, slightly above the table height, with the vehicle and the displayed food sharp and the people in the background out of focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/18/vehicles-for-new-services-for-persons-with-disabilities-in-care-homes",
-   "published": "2026-11-18T19:20:04.388Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795044852/chennaiminnal/mwg2vixxwyr4zpgwyn6e.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795044882/chennaiminnal/ncsomfcb56qbasmgywex.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வேளச்சேரியில் சாலையோர ஆக்கிரமிப்புகள் அகற்றம்",
-   "english_headline": "Encroachments removed from roadside in Velachery to ease traffic",
-   "category": "Civic Issues",
-   "location": "Velachery, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ஆக்கிரமிப்பு அகற்றம்",
-    "loc": "வேளச்சேரி, சென்னை",
-    "hl1": "வேளச்சேரியில் சாலை ஆக்கிரமிப்பு அகற்றம்",
-    "hl2": "இன்று (நவ. 18) அகற்றம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "வேளச்சேரியில் சாலையோர ஆக்கிரமிப்புகள் அகற்றப்பட்டன",
-       "எம்.ஆர்.டி.எஸ். சாலையில் கடைகள் அதிகரித்து நெரிசல்",
-       "போக்குவரத்துக்கு இடையூறாக இருந்தன"
-      ]
-     },
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "கடை உரிமையாளர்களுக்கு முன்பே எச்சரிக்கை",
-       "ஆனாலும் ஆக்கிரமிப்பு அகற்றப்படவில்லை"
-      ]
-     },
-     {
-      "title": "நேற்று நடவடிக்கை",
-      "lines": [
-       "மாநகராட்சி அதிகாரிகள் முன்னிலையில்",
-       "<b>7</b> ஆக்கிரமிப்பு கடைகள் அகற்றம்"
-      ]
-     },
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "மீண்டும் ஆக்கிரமித்தால் உரிமம் ரத்து",
-       "அதிகாரிகள் கடை உரிமையாளர்களை எச்சரித்தனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வேளச்சேரியில் சாலையோரக் கடைகள் அகற்றப்பட்டு, போக்குவரத்து நெரிசல் குறைக்கப்பட்டது. அடையாறு மண்டலம், வேளச்சேரி எம் ஆர் டி எஸ் சாலையில் ஆக்கிரமிப்புக் கடைகள் அதிகரித்து வாகன நெரிசல் ஏற்பட்டது. கடை உரிமையாளர்களுக்கு முன்பே எச்சரிக்கை கொடுக்கப்பட்டும் ஆக்கிரமிப்புகள் அகற்றப்படவில்லை. நவம்பர் 18ஆம் தேதி இன்று ஆக்கிரமிப்புகள் அகற்றப்பட்டன. அதற்கு முந்தைய நாள், மாநகராட்சி அதிகாரிகள் முன்னிலையில் போக்குவரத்துக்கு இடையூறாக இருந்த 7 ஆக்கிரமிப்புக் கடைகள் அகற்றப்பட்டன. மீண்டும் ஆக்கிரமித்தால் உரிமம் ரத்து செய்யப்படும் என்று அதிகாரிகள் கடை உரிமையாளர்களை எச்சரித்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 வேளச்சேரியில் சாலையோர ஆக்கிரமிப்புகள் அகற்றம்\n\n📰 முழு விவரம்:\nவேளச்சேரியில் போக்குவரத்துக்கு இடையூறாக இருந்த சாலையோர ஆக்கிரமிப்புகள் இன்று (நவ. 18) அகற்றப்பட்டன. அடையாறு மண்டலம், வேளச்சேரி எம்.ஆர்.டி.எஸ். சாலையில் ஆக்கிரமிப்புக் கடைகள் அதிகரித்ததால் வாகன நெரிசல் ஏற்பட்டது. கடை உரிமையாளர்களுக்கு எச்சரிக்கை கொடுத்தும் ஆக்கிரமிப்புகள் அகற்றப்படவில்லை. நேற்று மாநகராட்சி அதிகாரிகள் முன்னிலையில் போக்குவரத்துக்கு இடையூறாக இருந்த 7 ஆக்கிரமிப்புக் கடைகள் அகற்றப்பட்டன. தொடர்ந்து ஆக்கிரமித்தால் உரிமம் ரத்து செய்யப்படும் என்று அதிகாரிகள் எச்சரித்துள்ளனர்.\n📍 இடம்: வேளச்சேரி, எம்.ஆர்.டி.எஸ். சாலை, அடையாறு மண்டலம்\n🗓️ நாள்: நவ. 18, 2026\n👮 நடவடிக்கை: 7 ஆக்கிரமிப்புக் கடைகள் அகற்றம்; உரிமம் ரத்து எச்சரிக்கை\n\nVelachery roadside encroachments removed | Chennai news\n📍 வேளச்சேரி, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Velachery #ChennaiNews #சென்னை",
-   "prompts": "A Greater Chennai Corporation work crew, in plain shirts and with officials in front, dismantles a row of roadside shop stalls on a busy Velachery road near the MRTS railway line in Chennai. Seven encroaching shops that were blocking traffic are being cleared; the stall roofs and wooden frames lie half-removed on the pavement, and a few shop owners stand at a distance, seen from behind. Two-wheelers and a few cars queue slowly on the narrowed road, and an elevated MRTS railway track runs along one side with concrete pillars overhead. Pedestrians walk along the freed pavement edge. Daylight, dry weather, slightly hazy sky. Camera at eye level, 35 mm, wide enough to show the full stretch of road, the railway pillars and the traffic. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a pavement where roadside shop stalls have just been removed: a heap of torn tarpaulin, bent steel rods, wooden planks and a broken plastic table lies piled against a concrete kerb. Behind it, the cleared pavement shows a corporation worker's bare feet and a broom leaning on a pillar, while a row of two-wheelers passes on the open road in soft focus. Daylight, dry road. Camera low and close, 50 mm, shallow depth of field, with the blurred MRTS concrete pillar in the background. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/removal-of-roadside-encroachments/4379544",
-   "published": "2026-11-18T17:18:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 7",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795044889/chennaiminnal/vlajgpotrihhs17t6zxa.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795044913/chennaiminnal/bgtat4c1f92hkjo6mmrl.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை மாவட்ட கலெக்டர் மாற்றுத்திறனாளிகளுக்கு 2 புதிய சேவை வாகனங்களைத் தொடங்கி வைத்தார்",
-   "english_headline": "Chennai District Collector flags off 2 new service vehicles to support differently-abled persons' livelihood",
-   "category": "Government & Services",
-   "location": "Ripon Buildings, Chennai, Chennai district",
+   "location": "Semmangery, Chennai district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு சேவை",
-    "loc": "ரிப்பன் கட்டடம், சென்னை",
-    "hl1": "ரிப்பன் கட்டடம்: மாற்றுத்திறனாளிகளுக்கு",
-    "hl2": "18.11.2026 அன்று தொடக்கம்",
+    "cat": "விளையாட்டு வளர்ச்சி",
+    "loc": "செம்மஞ்சேரி, சென்னை",
+    "hl1": "செம்மஞ்சேரியில் ஒலிம்பிக் நகரம் திட்டம்",
+    "hl2": "124 கோடி ரூபாய் ஒதுக்கீடு",
     "slides": [
      {
-      "title": "என்ன தொடக்கம்?",
+      "title": "திட்ட தொடக்கம்",
       "lines": [
-       "சென்னை மாவட்ட கலெக்டர் எஸ். மாலதி ஹெலன் இரண்டு புதிய சேவை",
-       "18.11.2026 அன்று ரிப்பன் கட்டட வளாகத்தில்",
-       "ஹோப் பப்ளிக் சேரிட்டபிள் டிரஸ்ட் அமைப்புடன் இணைந்து"
+       "செம்மஞ்சேரியில் ஒலிம்பிக் நகரம் திட்டம்",
+       "கட்டட வடிவமைப்பு பணி தொடங்கியது",
+       "ஆலோசனை நிறுவனம் தேர்வு செய்யப்படுகிறது"
       ]
      },
      {
-      "title": "இரண்டு சேவைகள்",
+      "title": "பின்னணி",
       "lines": [
-       "மொபைல் வாகன சுத்தம் மற்றும் பராமரிப்பு சேவை",
-       "நடமாடும் மளிகைப் பொருட்கள் விற்பனை அங்காடி",
-       "மாற்றுத்திறனாளிகளுக்கு தொழிற்பயிற்சி மற்றும் வருமானம்"
+       "தனியார் கல்லூரி நிலம் மீட்கப்பட்டது",
+       "முந்தைய ஆட்சியில் 124 கோடி ரூபாய் ஒதுக்கப்பட்டது",
+       "த.வெ.க. அரசு பொறுப்பேற்ற பிறகு டெண்டர் ரத்து"
       ]
      },
      {
-      "title": "யாருக்கு உதவி?",
+      "title": "அமைச்சர் விளக்கம்",
       "lines": [
-       "அமைந்தகரை, எழும்பூர் சிறப்பு வீடற்றோர் காப்பகங்களில்",
-       "சுமார் 60 பயனாளிகள் காப்பகங்களில் தங்கியுள்ளனர்",
-       "பாதுகாப்பான தங்குமிடம், மருத்துவ உதவி, உணவு பெறுகின்றனர்"
+       "விளையாட்டு துறை அமைச்சர் ஆதவ் அர்ஜுனா பேசினார்",
+       "ஒலிம்பிக் பயிற்சிக்கு நகரம் மேம்படுத்தப்படும்",
+       "புதிய டெண்டர் மூலம் கட்டுமானம் தொடங்கும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை மாவட்ட கலெக்டர் எஸ். மாலதி ஹெலன் இரண்டு புதிய சேவை வாகனங்களைத் தொடங்கி வைத்துள்ளார். 18.11.2026 அன்று ரிப்பன் கட்டட வளாகத்தில் கொடியசைத்துத் தொடங்கி வைக்கப்பட்டது. இந்த வாகனங்கள் மாற்றுத்திறனாளிகளின் வாழ்வாதார மேம்பாட்டுக்காக வழங்கப்பட்டுள்ளன. ஹோப் பப்ளிக் சேரிட்டபிள் டிரஸ்ட் அமைப்புடன் இணைந்து இத்திட்டம் செயல்படுத்தப்படுகிறது. முதல் சேவை, வாகன சுத்தம் மற்றும் பராமரிப்புக்கான தொழிற்பயிற்சி. இதன் மூலம் மாற்றுத்திறனாளிகள் வேலைவாய்ப்பும் வருமானமும் பெறலாம். இரண்டாவது சேவை, நடமாடும் மளிகைப் பொருட்கள் விற்பனை அங்காடி. இதன் மூலம் பொதுமக்களுக்கு அத்தியாவசிய பொருட்கள் வழங்கப்படும். மாற்றுத்திறனாளிகளுக்கு சுயதொழில் வாய்ப்பும் உருவாகும். அமைந்தகரை மற்றும் எழும்பூரில் உள்ள சிறப்பு பிரிவு நகர்ப்புற வீடற்றோர் காப்பகங்களில் சுமார் 60 பயனாளிகள் தங்கியுள்ளனர். அவர்களுக்குப் பாதுகாப்பான தங்குமிடம், மருத்துவ உதவி, உணவு ஆகியவை கிடைக்கின்றன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🤝 ரிப்பன் கட்டடம், சென்னை: மாற்றுத்திறனாளிகளுக்கு 2 புதிய சேவை வாகனங்கள் தொடக்கம்\n\n📰 முழு விவரம்:\nசென்னை மாவட்ட கலெக்டர் எஸ். மாலதி ஹெலன், இன்று (18.11.2026) ரிப்பன் கட்டட வளாகத்தில் கொடியசைத்து இரண்டு புதிய சேவை வாகனங்களைத் தொடங்கி வைத்தார். இவை மாற்றுத்திறனாளிகளின் வாழ்வாதார மேம்பாட்டுக்காக ஹோப் பப்ளிக் சேரிட்டபிள் டிரஸ்ட் அமைப்புடன் இணைந்து செயல்படுத்தப்படுகின்றன.\nவாகன சுத்தம் மற்றும் பராமரிப்பு சேவைக்கான தொழிற்பயிற்சியால் வேலைவாய்ப்பு மற்றும் வருமானம் உருவாகும்.\nநடமாடும் மளிகைப் பொருட்கள் விற்பனை அங்காடி மூலம் பொதுமக்களுக்கு அத்தியாவசியப் பொருட்கள் வழங்கப்படும்; மாற்றுத்திறனாளிகளுக்கு சுயதொழில் வாய்ப்பும் கிடைக்கும்.\nஅமைந்தகரை மற்றும் எழும்பூரில் உள்ள சிறப்பு பிரிவு நகர்ப்புற வீடற்றோர் காப்பகங்களில் சுமார் 60 பயனாளிகள் தங்கியுள்ளனர். அவர்களுக்குப் பாதுகாப்பான தங்குமிடம், மருத்துவ உதவி, உணவு, மறுவாழ்வு சேவைகள் வழங்கப்படுகின்றன.\nநிகழ்ச்சியில் மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலர் (வடக்கு) சரவணகுமார், தலைமை சமுதாய வளர்ச்சி அலுவலர் ராஜ்குமார், தொண்டு நிறுவனத்தின் இயக்குநர் நாகராணி உள்ளிட்ட பலர் கலந்து கொண்டனர்.\n\nChennai collector flags off 2 vehicles for differently-abled persons | Chennai news\n📍 ரிப்பன் கட்டடம், சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #மாற்றுத்திறனாளி",
-   "prompts": "A District Collector and senior officials stand beside two newly decorated service vehicles at the Ripon Buildings campus in Chennai, one of them raising a flag to flag off the vehicles as differently-abled trainees and charity staff gather around in the morning light. The setting is the open forecourt of the Ripon Buildings, the Greater Chennai Corporation headquarters, a colonial-era government complex with tall arched white-and-cream walls, large windows, and wide paved ground with a few parked two-wheelers and a row of government-style vehicles at the edge. The people are seen mostly from behind or at a distance: officials in formal shirts and trousers, women in cotton sarees, and men in shirts and veshti, standing in a loose group. The two service vehicles are small white vans, one with an open side showing shelves of grocery goods and the other fitted for vehicle cleaning equipment and buckets. The scene is shot in bright daylight with soft shadows, from eye level, at 35 mm, wide enough to show the building, the vehicles and the group together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a display vehicle with its side opened, showing neatly arranged trays of bakery items such as cakes, biscuits and packaged snacks, alongside handmade products on wooden shelves, to represent the goods made by differently-abled trainees. The shelves are lined with simple baskets and plain packets, and a hand in a cotton sari sleeve or a shirt cuff gently rests near the display, seen from the side and slightly blurred. Behind the display, the Ripon Buildings' cream arched wall and a patch of paved ground sit softly out of focus under daylight. The vehicle body is white with a clean metal edge and no readable lettering. The light is natural and even from the morning sky, the camera is at eye level with a shallow depth of field at 35 mm, and the composition focuses on the products and the trainees' work. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/chennai-collector-launches-2-new-service-vehicles-to-improve-the-livelihoods-of-differently-abled-people",
-   "published": "2026-11-18T15:06:22Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 91 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('மாலதி ஹெலன், இன்று (18.11.2026) ரிப்பன் கட்டட வளாகத்தில் கொட')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "செம்மஞ்சேரியில் ஒலிம்பிக் நகரம் அமைக்கும் திட்ட வரைவு பணி தொடங்கியுள்ளது. தனியார் கல்லூரி ஆக்கிரமிப்பில் இருந்து மீட்கப்பட்ட நிலத்தில் இந்த நகரம் அமைக்கப்படுகிறது. முந்தைய தி மு க ஆட்சியில் 124 கோடி ரூபாய் ஒதுக்கீடு செய்யப்பட்டது. த வெ க அரசு பொறுப்பேற்ற பிறகு, முந்தைய ஒப்பந்தம் ரத்து செய்யப்பட்டது. விளையாட்டு துறை அமைச்சர் ஆதவ் அர்ஜுனா, ஒலிம்பிக் பயிற்சிக்கு நகரம் மேம்படுத்தப்படும் என்று தெரிவித்தார். பொதுப்பணி துறை, கட்டட வடிவமைப்பு மற்றும் திட்ட மதிப்பீடு செய்ய ஆலோசகரை தேர்வு செய்யும் பணியை தொடங்கியுள்ளது. ஆலோசனை நிறுவனம் வாயிலாக திட்ட மதிப்பீடு தயார் செய்யப்படும். அதன்படி புதிய டெண்டர் கோரப்பட்டு கட்டுமான பணிகள் தொடங்கப்படும் என்று அதிகாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏟️ செம்மஞ்சேரியில் ஒலிம்பிக் நகரம் திட்ட வரைவு பணி தொடக்கம்\n\n📰 முழு விவரம்:\nசென்னை செம்மஞ்சேரியில் ஒலிம்பிக் நகரம் அமைப்பதற்கான கட்டட வடிவமைப்பு மற்றும் திட்ட மதிப்பீடு பணி தொடங்கியுள்ளது. தனியார் கல்லூரி ஆக்கிரமிப்பில் இருந்து மீட்கப்பட்ட நிலத்தில் இந்த நகரம் அமைக்கப்படுகிறது. முந்தைய தி.மு.க. ஆட்சியில் 124 கோடி ரூபாய் ஒதுக்கீடு செய்யப்பட்டது. த.வெ.க. அரசு பொறுப்பேற்ற பிறகு, முந்தைய ஒப்பந்தம் ரத்து செய்யப்பட்டது. விளையாட்டு துறை அமைச்சர் ஆதவ் அர்ஜுனா, ஒலிம்பிக் பயிற்சிக்கு நகரம் மேம்படுத்தப்படும் என்று தெரிவித்தார். பொதுப்பணி துறை, கட்டட வடிவமைப்பு மற்றும் திட்ட மதிப்பீடு செய்ய ஆலோசகரை தேர்வு செய்யும் பணியை தொடங்கியுள்ளது. ஆலோசனை நிறுவனம் வாயிலாக திட்ட மதிப்பீடு தயார் செய்யப்பட்டு, புதிய டெண்டர் மூலம் கட்டுமான பணிகள் தொடங்கப்படும்.\n\n📍 இடம்: செம்மஞ்சேரி, சென்னை\n💰 ஒதுக்கீடு: 124 கோடி ரூபாய்\n👤 அமைச்சர்: ஆதவ் அர்ஜுனா\nℹ️ மக்கள் கவனத்திற்கு: கட்டட வடிவமைப்பு மற்றும் திட்ட மதிப்பீடு பணி தொடங்கியுள்ளது.\n\nChennai Olympic City design work begins | Chennai news\n📍 Semmangery, Chennai | 18 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Semmangery #ChennaiNews #சென்னை",
+   "prompts": "A group of PWD engineers in shirts and trousers stands on an open reclaimed plot in Semmangery, Chennai, studying a large rolled-out architectural site plan spread across a folding table and weighed down by stones at the corners. Seen from behind at a slight distance, one officer points toward the open land where a future sports city and Olympic-standard training grounds are planned, with bare earth, a few small trees and a low boundary wall visible. Behind them a fenced plot stretches toward a row of low residential buildings and a faint suburban skyline under bright daylight. Two or three men in shirts with veshti and a woman in a cotton saree stand at the edge of the group, watching. The atmosphere is calm and official. Shot at eye level on a 35 mm lens, wide enough to show the open land, the tables and the surrounding buildings. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neatly bound project estimate file and a rolled architectural drawing resting on a government office table, with a tender document and a pen beside them, the paper edges slightly curled. Behind the table, out of focus, a khaki-free office setting with a plain wall, a wooden desk and a steel almirah. Soft daylight from a window falls across the papers, highlighting the grid lines of the building plan and the stacked sheets of the cost estimate. No readable text, numbers or logos are visible. Shallow depth of field, shot at a slightly high angle with a 50 mm lens, focused on the documents that represent the consultancy selection and budget preparation for the Semmangery project. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/olympic-city-project-draft-begins-in-semmanchery/4380170",
+   "published": "2026-11-18T23:50:29+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795044918/chennaiminnal/vsl8chtweusjkqczteuq.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795044964/chennaiminnal/yyaswzcu4xveasg6cgwa.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051510/chennaiminnal/w74lquug7seib0zktzu6.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051512/chennaiminnal/j4uhyxton3fmsaoc5ybk.jpg"
    ]
   },
   {
-   "tamil_headline": "தவெக நிர்வாகிகள் மீதான குற்றச்சாட்டுகளில் பாகுபாடின்றி விசாரணை: தவாக வலியுறுத்தல்",
-   "english_headline": "Tamil Vazhvurimai Katchi demands impartial probe into TVK functionaries facing allegations including sexual harassment",
+   "tamil_headline": "மகளிர் உரிமைத் தொகை: 50% பேர் நீக்கம் என்பது தவறு - அரசு மறுப்பு",
+   "english_headline": "Women's entitlement scheme: Tamil Nadu govt denies 50% of second-phase beneficiaries were removed",
    "category": "Government & Services",
    "location": "Chennai, Chennai district",
    "importance": "High",
-   "scope": "",
+   "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல் செய்தி",
+    "cat": "அரசு விளக்கம்",
     "loc": "சென்னை",
-    "hl1": "தவெக நிர்வாகிகள் மீது பாகுபாடின்றி",
-    "hl2": "தவாக தலைவர் வலியுறுத்தல்",
+    "hl1": "சென்னை: 50% பேர் நீக்கம் தவறு",
+    "hl2": "அரசு மறுப்பு",
     "slides": [
      {
-      "title": "யார் கோரிக்கை?",
+      "title": "அரசின் மறுப்பு",
       "lines": [
-       "தமிழக வாழ்வுரிமைக்கட்சி தலைவர் தி.வேல்முருகன்",
-       "குற்றச்சாட்டுகளுக்கு உள்ளான தவெக நிர்வாகிகள் மீது விசாரணை",
-       "எவ்விதப் பாகுபாடுமின்றி விசாரணை நடத்த வேண்டும்"
+       "இரண்டாம் கட்டத்தில் <b>50%</b> பேர் நீக்கம் என்பது தவறான செய்தி",
+       "தமிழக அரசு விளக்கம் அளித்துள்ளது",
+       "முதல், இரண்டாம் கட்ட பயனாளிகளுக்கு மாதம் <b>ரூ.1,000</b>"
       ]
      },
      {
-      "title": "என்ன",
+      "title": "நவம்பர் தொகை",
       "lines": [
-       "மதுரையில் <b>15 வயது</b> மாணவிக்குப் பாலியல் தொல்லை: நிர்வாகி கைது",
-       "சென்னை காசிமேட்டில் சிறுமிக்குப் பாலியல் தொல்லை",
-       "செங்கல்பட்டில் ஒப்பந்ததாரரிடம் <b>ரூ.1.30 லட்சம்</b>"
+       "ஒவ்வொரு மாதமும் <b>15ஆம் தேதி</b> தொகை வழங்கப்படுகிறது",
+       "நவம்பர் 2026 தொகை <b>14.11.2026</b> அன்று வரவு வைக்கப்பட்டது",
+       "மொத்தம் <b>1,29,97,568</b> பயனாளிகளுக்கு வரவு"
       ]
      },
      {
-      "title": "பிற சம்பவங்கள்",
+      "title": "சரிபார்ப்பு",
       "lines": [
-       "நாகப்பட்டினத்தில் <b>137 கிலோ</b> மெத்தம்பெட்டமைன்",
-       "கள்ளக்குறிச்சி ஆட்சியருக்கு ஆபாசச் குறுஞ்செய்தி: எம்எல்ஏ",
-       "தேசிய மகளிர் ஆணையம் <b>7 நாட்களில்</b> அறிக்கை கோரியது"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "பாதிக்கப்பட்டவர்களுக்குப் பாதுகாப்பும் நீதியும் வேண்டும்",
-       "கட்சியின் பிற பொறுப்பாளர்களையும் கண்காணிக்க வேண்டும"
+       "பல அரசுத் துறை தரவுத்தளங்களுடன் ஒப்பிட்டுச் சரிபார்ப்பு",
+       "இறந்தவர், தகுதியற்றவர், விலகியவர் பட்டியல் மாதந்தோறும்",
+       "இந்த நடைமுறை திட்டம் தொடங்கிய நாள் முதல் உள்ளது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தவெக நிர்வாகிகள் மீதான பல குற்றச்சாட்டுகளில் பாகுபாடின்றி விசாரணை நடத்த வேண்டும் என தவாக வலியுறுத்தியுள்ளது. தமிழக வாழ்வுரிமைக்கட்சித் தலைவர் தி.வேல்முருகன் இதை அறிக்கையில் தெரிவித்துள்ளார். ஆட்சிக்கு வந்த சில மாதங்களிலேயே தவெக நிர்வாகிகள் மீது தொடர்ந்து குற்றச்சாட்டுகள் எழுவதாக அவர் கவலை தெரிவித்தார். மதுரையில் 15 வயது பள்ளி மாணவிக்குப் பாலியல் தொல்லை கொடுத்த வழக்கில் தவெக நிர்வாகி கைது செய்யப்பட்டார். சென்னை காசிமேடு பகுதியில் சிறுமிக்குப் பாலியல் தொல்லை அளித்ததாக வார்டு பொறுப்பாளர் கைது செய்யப்பட்டார். செங்கல்பட்டு மாவட்டத்தில் ஒப்பந்ததாரரிடம் ரூ.1.30 லட்சம் பெற்றதாகப் புகாரில் தவெக மாவட்ட நிர்வாகி வீராசாமி கைது செய்யப்பட்டார். நாகப்பட்டினத்தில் 137 கிலோ மெத்தம்பெட்டமைன் போதைப்பொருள் பறிமுதல் வழக்கில் முன்னாள் நிர்வாகி பூபாலன் உள்ளிட்டோர் கைது செய்யப்பட்டுள்ளனர். கள்ளக்குறிச்சி ஆட்சியருக்கு ஆபாசமான வாட்ஸ்அப் செய்திகள் அனுப்பியதாக எம்எல்ஏ அருள் விக்னேஷ் மீது குற்றச்சாட்டு எழுந்துள்ளது. அவர் அதை மறுத்துள்ளார். தேசிய மகளிர் ஆணையம் இவ்விவகாரத்தை தாமாக முன்வந்து விசாரணைக்கு எடுத்து, தமிழக காவல்துறை தலைமை இயக்குநரிடம் 7 நாட்களுக்குள் நடவடிக்கை அறிக்கை கோரியுள்ளது. பாதிக்கப்பட்டவர்களுக்கு உரிய பாதுகாப்பும் நீதியும் கிடைக்க வேண்டும் என்றும் கட்சியின் பிற பொறுப்பாளர்களையும் கண்காணிக்க வேண்டும் என்றும் அவர் கோரியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தவெக நிர்வாகிகள் மீது பாகுபாடின்றி விசாரணை: தவாக வலியுறுத்தல்\n\n📰 முழு விவரம்:\nபாலியல் புகார் உள்ளிட்ட பல குற்றச்சாட்டுகளுக்கு உள்ளான தவெக நிர்வாகிகள் மீது பாகுபாடின்றி விசாரணை நடத்த வேண்டும் என தமிழக வாழ்வுரிமைக்கட்சித் தலைவர் தி.வேல்முருகன் வலியுறுத்தியுள்ளார்.\nமதுரையில் 15 வயது பள்ளி மாணவிக்குப் பாலியல் தொல்லை வழக்கில் நிர்வாகி கைது செய்யப்பட்டார். சென்னை காசிமேடு பகுதியில் சிறுமிக்குப் பாலியல் தொல்லை அளித்ததாக வார்டு பொறுப்பாளர் கைது செய்யப்பட்டார். தூத்துக்குடியில் பெண் நிர்வாகிக்கு ஆபாசக் குறுஞ்செய்திகள் அனுப்பியதாகப் புகாரில் கட்சி நிர்வாகிகள் மீது காவல்துறை நடவடிக்கை எடுத்துள்ளது. கோவையில் பெண் கட்சி நிர்வாகிக்குப் பாலியல் தொல்லை அளிக்கப்பட்டது. திருவள்ளூர் மாவட்டத்தில் பெண் நிர்வாகி அளித்த புகாரின் பேரில் பூந்தமல்லி தொகுதி வேட்பாளர் மீது வழக்குப்பதிவு செய்யப்பட்டது.\nசெங்கல்பட்டு மாவட்டத்தில் ஒப்பந்ததாரரிடம் ரூ.1.30 லட்சம் பெற்றதாகப் புகாரில் தவெக மாவட்ட நிர்வாகி வீராசாமி கைது செய்யப்பட்டார். நாகப்பட்டினத்தில் 137 கிலோ மெத்தம்பெட்டமைன் போதைப்பொருள் பறிமுதல் வழக்கில் முன்னாள் மாவட்டச் செயற்குழு உறுப்பினர் பூபாலன் உள்ளிட்டோர் கைது செய்யப்பட்டனர்.\nகள்ளக்குறிச்சி மாவட்ட ஆட்சியருக்கு ஆபாச வாட்ஸ்அப் செய்திகள் அனுப்பியதாக தவெக எம்எல்ஏ அருள் விக்னேஷ் மீது குற்றச்சாட்டு எழுந்துள்ளது; அவர் மறுத்துள்ளார். தேசிய மகளிர் ஆணையம் தாமாக முன்வந்து விசாரணைக்கு எடுத்து, தமிழக காவல்துறை தலைமை இயக்குநரிடம் 7 நாட்களுக்குள் நடவடிக்கை அறிக்கை கோரியுள்ளது.\nபாதிக்கப்பட்டவர்களுக்கு பாதுகாப்பும் நீதியும் கிடைக்க வேண்டும் என்றும், குற்றச்சாட்டுக்கு உள்ளானவர் அல்லாத கட்சி பொறுப்பாளர்களையும் கண்காணிக்க வேண்டும் என்றும் அவர் கோரியுள்ளார்.\n\nTVK functionaries allegations probe demand | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #தவெக",
-   "prompts": "A press conference in a Chennai party office hall where a political leader from behind, in a white shirt and veshti, reads a written statement at a table covered with microphones and papers, while a few reporters with notebooks sit in front of him. Seen from behind and far away, a row of plastic chairs faces the table, a framed portrait wall sits blank, and tube lights hang from a low ceiling. Ceiling fans turn overhead and the room is lit by daylight through open windows. Camera at eye level with a 35 mm lens, wide enough to show the whole room and the reporters' backs. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a stack of printed press statement pages and a row of microphones on a wooden table in a Chennai party office, with a steel water jug and glasses beside them. Papers are slightly curled at the edges, a pen rests across the top sheet, and the blurred shoulders of a seated official are visible at the edge of the frame. The surrounding room is out of focus, with daylight coming through a window and a fan blurred in the background. Camera slightly high, 35 mm, shallow depth of field to make the papers the clear subject. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/t-velmurugan-demands-probe-into-accused-party-officials",
-   "published": "2026-11-18T11:31:57Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
+   "reel_script": "சென்னையில் மகளிர் உரிமைத் தொகையின் இரண்டாம் கட்டத்தில் 50 சதவீதம் பேர் நீக்கப்பட்டதாக வெளியான செய்தி தவறானது என்று தமிழக அரசு தெரிவித்துள்ளது. இரண்டாம் கட்டத்தில் சேர்க்கப்பட்ட சுமார் 17 லட்சம் பயனாளிகளில் 50 சதவீதம் பேர் நீக்கப்பட்டதாகச் சொல்லப்படும் செய்தி முற்றிலும் தவறு என அரசு விளக்கியுள்ளது. இரண்டாம் கட்டப் பயனாளிகளை பெருமளவில் நீக்கும் நடவடிக்கை எதுவும் மேற்கொள்ளப்படவில்லை என்றும், அதற்கென எந்த சிறப்பு நீக்க நடவடிக்கையும் எடுக்கப்படவில்லை என்றும் அரசு கூறியுள்ளது. முதல் மற்றும் இரண்டாம் கட்டங்களில் சேர்க்கப்பட்ட தகுதியுள்ள அனைத்துப் பயனாளிகளுக்கும் மாதம் ரூ.1,000 நேரடியாக வங்கிக் கணக்கில் வரவு வைக்கப்படுகிறது. ஒவ்வொரு மாதமும் 15ஆம் தேதி இத்தொகை வழங்கப்படுகிறது. நவம்பர் 2026 மாதத்திற்கான தொகை 14.11.2026 அன்று மொத்தம் 1,29,97,568 பயனாளிகளின் வங்கிக் கணக்குகளில் வரவு வைக்கப்பட்டுள்ளது. பல்வேறு அரசுத் துறைகளின் தரவுத்தளங்களுடன் பயனாளிகளின் விவரங்கள் ஒப்பிட்டுச் சரிபார்க்கப்பட்டு, ஒவ்வொரு மாதமும் வழக்கமான புதுப்பித்தல் நடைபெறுகிறது. இறந்தவர்கள், தகுதியற்றவர்கள் அல்லது தாங்களாக விலக விரும்பியவர்கள் குறித்த விவரங்களின் அடிப்படையில் பட்டியல் புதுப்பிக்கப்படுகிறது என்றும் அரசு தெரிவித்துள்ளது. இந்த சரிபார்ப்பு நடைமுறை திட்டம் தொடங்கிய நாள் முதல் அனைவருக்கும் பொதுவாகப் பின்பற்றப்பட்டு வருகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ மகளிர் உரிமைத் தொகை: 50% பேர் நீக்கம் என்பது தவறு - அரசு மறுப்பு\n\n📰 முழு விவரம்:\nமகளிர் உரிமைத் தொகையின் இரண்டாம் கட்டத்தில் சேர்க்கப்பட்ட பயனாளிகளில் 50 சதவீதம் பேர் நீக்கப்பட்டதாக வெளியான செய்தி முற்றிலும் தவறு என தமிழக அரசு தெரிவித்துள்ளது. இரண்டாம் கட்டத்தில் புதிதாகச் சேர்க்கப்பட்ட 17 லட்சம் பயனாளிகளில் 50 சதவீதம் பேர் நீக்கப்பட்டதாகச் சொல்லப்படுவது உண்மையல்ல. பெருமளவில் நீக்கும் சிறப்பு நடவடிக்கை எதுவும் மேற்கொள்ளப்படவில்லை.\n💰 முதல் மற்றும் இரண்டாம் கட்டப் பயனாளிகள் அனைவருக்கும் மாதம் ரூ.1,000 வங்கிக் கணக்கில் நேரடியாக வரவு வைக்கப்படுகிறது. ஒவ்வொரு மாதமும் 15ஆம் தேதி தொகை வழங்கப்படுகிறது.\n📅 நவம்பர் 2026 தொகை 14.11.2026 அன்று மொத்தம் 1,29,97,568 பயனாளிகளின் கணக்குகளில் வரவு வைக்கப்பட்டுள்ளது.\n🔍 பல்வேறு அரசுத் துறைகளின் தரவுத்தளங்களுடன் ஒப்பிட்டுச் சரிபார்க்கப்பட்டு, இறந்தவர், தகுதியற்றவர், விலக விரும்பியவர் விவரங்களின் அடிப்படையில் பட்டியல் மாதந்தோறும் புதுப்பிக்கப்படுகிறது. இந்த நடைமுறை அனைத்துப் பயனாளிகளுக்கும் பொதுவானது.\n\nTamil Nadu women's entitlement scheme 50% removal false | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #அரசு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்",
+   "prompts": "A group of Tamil women in sarees and salwar, seen from behind, stand in a queue at a government service counter in a government hall in Chennai, holding folded papers and bank passport books, while a clerk in a shirt sits behind a wooden desk with a stack of files and a closed ledger. The hall has tiled floors, high ceilings with ceiling fans, and plain walls with no readable notices. Daylight comes through tall windows, suggesting late morning. Some women look at their mobile phones, as if checking bank messages. The scene conveys the government confirming that payments were made and that the scheme continues. Shot at eye level, 35 mm, wide enough to show the full hall and the queue. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of neatly arranged bank passbooks and a few folded paper documents on a wooden table, with a woman's hand in a bangle resting beside them. A mobile phone lies face down nearby. Soft daylight from a window falls across the table, with blurred government office desk and files in the background. No readable text, names, or logos are visible. The detail shows the monthly bank-account credit and document verification central to the government's clarification. Shot at slightly high angle, 50 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/tamilnadu/fifty-percent-beneficiaries-removed-in-magalir-urimai-thogai-second-phase-tn-state-clarifies",
+   "published": "2026-11-18T17:59:57Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051543/chennaiminnal/pvw7fanw9vakrq9hrefg.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051576/chennaiminnal/ikt7z5dwyh3noozccidc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "8,431 காவலர்களுக்கு பழைய ஓய்வூதியத் திட்டம்: தமிழக அரசின் நிலைப்பாடு என்ன? உயர்நீதிமன்றம் கேள்வி",
+   "english_headline": "Madras High Court asks Tamil Nadu govt its stand on giving old pension scheme to 8,431 second-grade constables",
+   "category": "Government & Services",
+   "location": "Chennai High Court, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு செய்தி",
+    "loc": "சென்னை உயர்நீதிமன்றம்",
+    "hl1": "8,431 காவலர்களுக்கு பழைய ஓய்வூதியம்?",
+    "hl2": "அரசின் நிலைப்பாடு கேள்வி",
+    "slides": [
+     {
+      "title": "வழக்கு என்ன?",
+      "lines": [
+       "8,431 இரண்டாம் நிலை காவலர்களுக்கு பழைய ஓய்வூதியத் திட்டம்",
+       "சென்னை உயர்நீதிமன்றத்தில் நடைபெறுகிறது",
+       "தமிழக அரசின் நிலைப்பாடு என்ன என நீதிபதிகள் கேள்வி"
+      ]
+     },
+     {
+      "title": "ஏன் சிக்கல்?",
+      "lines": [
+       "2003 ஏப்ரல் 1க்கு முன் சேர்ந்தவர்களுக்கு மட்டுமே பழைய",
+       "பின்னர் சேர்ந்த 8,431 காவலர்கள் புதிய திட்டத்தில்",
+       "புதிய திட்டம் அமலுக்கு வரும் முன் விண்ணப்பித்திருந்தனர்"
+      ]
+     },
+     {
+      "title": "நீதிமன்ற உத்தரவு",
+      "lines": [
+       "தனி நீதிபதி 8,431 பேரையும் பழைய திட்டத்தில் சேர்க்க உத்தரவு",
+       "இதை எதிர்த்து தமிழக அரசு மேல்முறையீடு செய்தது",
+       "விசாரணை டிசம்பர் 2ஆம் தேதிக்கு ஒத்திவைப்பு"
+      ]
+     },
+     {
+      "title": "மத்திய அரசு",
+      "lines": [
+       "மத்திய அரசு 2023 மார்ச் 3 சுற்றறிக்கையில் ஒருமுறை வாய்ப்பு",
+       "ஆந்திர அரசும் இதேபோல் உத்தரவிட்டுள்ளது",
+       "தமிழக அரசும் சாதகமான முடிவெடுக்க வேண்டும் என வாதம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "8,431 இரண்டாம் நிலை காவலர்களுக்கு பழைய ஓய்வூதியத் திட்டம் வழங்கப்படுமா என்பது கேள்விக்குறியாகியுள்ளது. இது தொடர்பான வழக்கில் தமிழக அரசின் நிலைப்பாடு என்ன என்று சென்னை உயர்நீதிமன்றம் கேள்வி எழுப்பியுள்ளது. 2003 ஏப்ரல் 1ஆம் தேதிக்கு முன்பு அரசுப் பணியில் சேர்ந்தவர்களுக்கு மட்டுமே பழைய ஓய்வூதியத் திட்டம் பொருந்தும் என அரசாணை அமலில் உள்ளது. புதிய ஓய்வூதியத் திட்டம் அமலுக்கு வருவதற்கு முன்பே காவல் துறைக்கு விண்ணப்பித்திருந்த 8,431 இரண்டாம் நிலை காவலர்கள், அதன்பிறகு பணியில் சேர்ந்ததால் புதிய திட்டத்தின் கீழ் கொண்டு வரப்பட்டனர். இதையடுத்து தங்களையும் பழைய திட்டத்தில் சேர்க்க வேண்டும் எனக் காவலர்கள் வழக்கு தொடர்ந்தனர். தனி நீதிபதி 8,431 பேரையும் பழைய திட்டத்தில் சேர்க்க உத்தரவிட்டார். இதை எதிர்த்து தமிழக அரசு மேல்முறையீடு செய்தது. விசாரணையின்போது, மத்திய அரசு 2023 மார்ச் 3ஆம் தேதி வெளியிட்ட சுற்றறிக்கையில் ஒருமுறை வாய்ப்பு அளித்துள்ளதாகவும், ஆந்திர அரசும் இதேபோல் உத்தரவிட்டுள்ளதாகவும் காவலர்கள் தரப்பு வாதிட்டது. நீதிபதிகள் தமிழக அரசின் நிலைப்பாடு என்ன என்று கேள்வி எழுப்பினர். அரசுத் தரப்பு பதிலளிக்க அவகாசம் கோரியது. அதை ஏற்ற நீதிபதிகள் விசாரணையை டிசம்பர் 2ஆம் தேதிக்கு ஒத்திவைத்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 8,431 காவலர்களுக்கு பழைய ஓய்வூதியம்: தமிழக அரசின் நிலைப்பாடு என்ன? உயர்நீதிமன்றம் கேள்வி\n\n📰 முழு விவரம்:\n2003 ஏப்ரல் 1ஆம் தேதிக்கு முன் அரசுப் பணியில் சேர்ந்தவர்களுக்கு மட்டுமே பழைய ஓய்வூதியத் திட்டம் பொருந்தும் என அரசாணை உள்ளது. புதிய திட்டம் அமலுக்கு வருவதற்கு முன் விண்ணப்பித்திருந்த 8,431 இரண்டாம் நிலை காவலர்கள், பின்னர் பணியில் சேர்ந்ததால் புதிய திட்டத்தின் கீழ் கொண்டு வரப்பட்டனர். இதையடுத்து காவலர்கள் வழக்கு தொடர்ந்தனர். தனி நீதிபதி 8,431 பேரையும் பழைய திட்டத்தில் சேர்க்க உத்தரவிட்டார். தமிழக அரசு இதை எதிர்த்து மேல்முறையீடு செய்தது.\n⚖️ நீதிபதிகள் ஜி.ஜெயச்சந்திரன், இ.மனோகரன் அமர்வில் விசாரணை நடந்தது. அரசு தரப்பு பதிலளிக்க அவகாசம் கோரியது. விசாரணை டிசம்பர் 2ஆம் தேதிக்கு ஒத்திவைக்கப்பட்டது.\n📜 மத்திய அரசு 2023 மார்ச் 3 சுற்றறிக்கையில், 2003 டிசம்பர் 22க்கு முன் விண்ணப்பித்திருந்த ஊழியர்களுக்கு ஒருமுறை வாய்ப்பு அளித்துள்ளதாகவும், ஆந்திர அரசும் இதேபோல் உத்தரவிட்டுள்ளதாகவும் காவலர்கள் தரப்பு வாதிட்டது.\n\nMadras High Court old pension 8,431 constables | Tamil Nadu news\n📍 சென்னை உயர்நீதிமன்றம், சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #அரசு #சென்னை",
+   "prompts": "Inside the Madras High Court courtroom in Chennai, black-robed lawyers stand before a raised bench as a bench of judges hears a case on pensions for second-grade police constables. Behind the lawyers, a row of constables in khaki uniform sits quietly on wooden benches, seen from behind and far away. The high-ceilinged colonial-era hall has tall arched windows letting in daylight, and stacks of case files and bundles of legal papers sit on the long wooden tables in the foreground. Several government lawyers in black coats and bands confer with each other near the lectern while court staff move in the background. The atmosphere is formal and attentive, with daylight streaming through the windows and soft shadows on the polished wooden floor. Camera at eye level, 35 mm, wide enough to show the full courtroom and the judges' bench. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a stack of legal case files and loose bundles of papers resting on a polished wooden table inside the Madras High Court in Chennai. A black lawyer's gown and band are draped over the back of a chair beside the papers, and a wooden gavel-style desk and a brass water jug sit softly out of focus behind them. Daylight from a tall arched window falls across the documents, creating gentle shadows on the pages and the grain of the wood. In the blurred background, a few khaki-uniformed constables sit on a wooden bench, seen from behind. The mood is quiet and procedural, emphasising the paperwork of the pension case. Camera slightly high, 35 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/18/old-pension-scheme-for-8431-grade-ii-constables-what-is-tamil-nadu-governments-stand-high-court-asks",
+   "published": "2026-11-18T23:00:42.818Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'உயர்நீதிமன்றம்' is not in the article; hl1 (the first headline on screen) must name the place 'சென்னை உயர்நீதிமன்றம்', e.g. 'சென்னை உயர்நீதிமன்றம்: ...' or 'சென்னை உயர்நீதிமன்றம்-இல் ...' - viewers share news of their own area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795045000/chennaiminnal/m41kvwg5lefpoir2niiw.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795045036/chennaiminnal/essnecyge80agrxtmsvp.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051581/chennaiminnal/bk9pc2iuwsxyi9ck2ehe.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051584/chennaiminnal/jlgdg8jqw8fct7iirpg9.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "போத்தீஸ் ஸ்வர்ண மஹாலில் நோ ஜி.எஸ்.டி. மேளா: தங்கம், வைர நகைகளுக்கு சிறப்புச் சலுகை",
+   "english_headline": "Pothys Swarna Mahal announces No GST Mela with gold and diamond jewellery discounts until the 22nd",
+   "category": "Business & Prices",
+   "location": "Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வணிகச் சலுகை",
+    "loc": "சென்னை",
+    "hl1": "சென்னையில் நகைக் கடையில் நோ ஜி.எஸ்.டி.",
+    "hl2": "22ம் தேதி வரை",
+    "slides": [
+     {
+      "title": "என்ன அறிவிப்பு?",
+      "lines": [
+       "போத்தீஸ் ஸ்வர்ண மஹால் 10வது ஷோரூம் திறப்பை கொண்டாடுகிறது",
+       "தங்கம், வைரம், பிளாட்டினம், வெள்ளி நகைகளுக்கு <b>நோ",
+       "வரும் <b>22ம் தேதி</b> வரை சலுகை"
+      ]
+     },
+     {
+      "title": "ஜி.எஸ்.டி. யார்",
+      "lines": [
+       "ஜி.எஸ்.டி. செலவை போத்தீஸ் ஸ்வர்ண மஹாலே ஏற்கிறது",
+       "வாங்கும் நகைகளுக்கு ஜி.எஸ்.டி. தொகை செலுத்த தேவையில்லை"
+      ]
+     },
+     {
+      "title": "தங்க, வைர சலுகை",
+      "lines": [
+       "தங்க நகைக்கு சவரனுக்கு <b>2,000 ரூபாய்</b> தள்ளுபடி",
+       "வைர நகைக்கு ஒரு காரட்டுக்கு <b>12,000 ரூபாய்</b> தள்ளுபடி",
+       "பிளாட்டினம் நகை செய்கூலியில் <b>15%</b> தள்ளுபடி"
+      ]
+     },
+     {
+      "title": "வெள்ளி சலுகை",
+      "lines": [
+       "ஆன்டிக் வெள்ளிப் பொருட்களின் செய்கூலியில் <b>25%</b> தள்ளுபடி",
+       "பிளைன் வெள்ளிப் பொருட்கள், கொலுசுகளுக்கு செய்கூலி, சேதாரம்",
+       "விலை நிர்ணயிக்கப்பட்ட வெள்ளி நகைக்கு <b>10%</b> தள்ளுபடி"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் போத்தீஸ் ஸ்வர்ண மஹாலில் ஜி எஸ் டி இல்லாத சிறப்பு மேளா அறிவிக்கப்பட்டுள்ளது. தங்கம், வைரம், பிளாட்டினம், வெள்ளி நகைகளுக்கு இந்தச் சலுகை பொருந்தும். இந்தச் சலுகை வரும் 22ஆம் தேதி வரை நடைபெறும். கடையின் 10வது ஷோரூம் திறப்பை கொண்டாடும் வகையில் இந்த மேளா நடத்தப்படுகிறது. நகைகளுக்கான ஜி எஸ் டி செலவை போத்தீஸ் ஸ்வர்ண மஹாலே ஏற்றுக்கொள்கிறது. தங்க நகைக்கு சவரனுக்கு 2,000 ரூபாய் தள்ளுபடி வழங்கப்படுகிறது. வைர நகைக்கு ஒரு காரட்டுக்கு 12,000 ரூபாய் தள்ளுபடி வழங்கப்படுகிறது. பிளாட்டினம் நகைகளின் செய்கூலியில் 15 சதவீதம் தள்ளுபடி உண்டு. ஆன்டிக் வெள்ளிப் பொருட்களின் செய்கூலியில் 25 சதவீதம் தள்ளுபடி கிடைக்கும். பிளைன் வெள்ளிப் பொருட்கள், கொலுசுகளுக்கு செய்கூலி, சேதாரம், ஜி எஸ் டி எதுவும் இல்லை. விலை நிர்ணயிக்கப்பட்ட வெள்ளி நகைகளுக்கு 10 சதவீதம் தள்ளுபடி அளிக்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛍️ சென்னையில் போத்தீஸ் ஸ்வர்ண மஹாலில் நோ ஜி.எஸ்.டி. மேளா: 22ம் தேதி வரை சலுகை\n\n📰 முழு விவரம்:\nபோத்தீஸ் ஸ்வர்ண மஹால் தனது 10வது ஷோரூம் திறப்பை கொண்டாடும் வகையில் தங்கம், வைரம், பிளாட்டினம், வெள்ளி நகைகளுக்கு 'நோ ஜி.எஸ்.டி. மேளா'வை அறிவித்துள்ளது. இந்தச் சலுகை வரும் 22ம் தேதி வரை நடைபெறும். ஜி.எஸ்.டி. செலவை கடையே ஏற்றுக்கொள்கிறது. வாங்கும் நகைகளுக்கு ஜி.எஸ்.டி. தொகை செலுத்த தேவையில்லை.\n🥇 தங்க நகைக்கு சவரனுக்கு 2,000 ரூபாய் தள்ளுபடி\n💎 வைர நகைக்கு ஒரு காரட்டுக்கு 12,000 ரூபாய் தள்ளுபடி\n⚪ பிளாட்டினம் நகை செய்கூலியில் 15% தள்ளுபடி\n🥈 ஆன்டிக் வெள்ளிப் பொருட்களின் செய்கூலியில் 25% தள்ளுபடி\n🪙 பிளைன் வெள்ளிப் பொருட்கள், கொலுசுகளுக்கு செய்கூலி, சேதாரம், ஜி.எஸ்.டி. இல்லை\n🏷️ விலை நிர்ணயிக்கப்பட்ட வெள்ளி நகைகளுக்கு 10% தள்ளுபடி, ஜி.எஸ்.டி. இல்லை\n\nஇதுவரை இல்லாத அளவில் பிரம்மாண்ட சலுகை என்று போத்தீஸ் குழும நிர்வாக இயக்குனர் சடையாண்டி ரமேஷ் தெரிவித்துள்ளார்.\n\nPothys Swarna Mahal No GST Mela Chennai | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #வணிகம்",
+   "prompts": "A customer in a saree stands at a glass display counter in a bright Chennai jewellery showroom, looking down at gold necklaces and bangles laid out on dark velvet trays while a female sales assistant in a saree leans across to show a piece. The showroom is a spacious multi-storey retail floor with polished floors, soft ceiling spotlights and rows of glass display cabinets glowing with gold, diamond and platinum jewellery. Other shoppers, a man in a shirt and a woman in a salwar, browse at a distance, seen from behind and slightly blurred. A store manager in a formal shirt stands near the back counter. The mood is festive, with the sale in progress and daylight coming through the front glass windows. Camera at eye level, 35 mm lens, wide enough to show the full showroom floor and the counters. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open velvet tray on a glass counter holding gold bangles, a diamond necklace and a pair of silver anklets, with a set of gold sovereign coins and a small weighing scale beside them. Soft spotlights make the gold and diamonds sparkle against the dark tray, and a sales assistant's hand in a bangle rests at the edge of the frame. The background is blurred showroom lighting and other glass display cases. No readable price tags or labels are visible. Camera close to the tray at a slightly high angle, 50 mm macro-style lens with shallow depth of field, warm indoor light. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/a-new-offer-for-gold-and-diamond-jewellery-has-been-announced-at-the-swarna-mahal-in-botis/4379963",
+   "published": "2026-11-18T20:24:58+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (16 words in a row, 16% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051590/chennaiminnal/bo5thvmubhqag85gck2c.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051595/chennaiminnal/uqgmrhc4a9quor6bi9gz.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னையில் இன்று பெட்ரோல் லிட்டர் ரூ.107.77, டீசல் ரூ.99.55",
+   "english_headline": "Chennai petrol at Rs 107.77 and diesel at Rs 99.55 per litre today; CNG at Rs 97.50 per kg",
+   "category": "Business & Prices",
+   "location": "Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பெட்ரோல் டீசல் விலை",
+    "loc": "சென்னை",
+    "hl1": "சென்னையில் இன்று பெட்ரோல் விலை நிலவரம்",
+    "hl2": "பெட்ரோல் ரூ.107.77",
+    "slides": [
+     {
+      "title": "இன்றைய விலை",
+      "lines": [
+       "ஒரு லிட்டர் பெட்ரோல் <b>ரூ.107.77</b>",
+       "ஒரு லிட்டர் டீசல் <b>ரூ.99.55</b>",
+       "இன்று (19.11.2026, வியாழக்கிழமை) விற்பனை விலை"
+      ]
+     },
+     {
+      "title": "இயற்கை எரிவாயு",
+      "lines": [
+       "இயற்கை எரிவாயு (CNG) ஒரு கிலோ <b>ரூ.97.50</b>",
+       "சென்னையில் இன்று விற்பனை செய்யப்படுகிறது",
+       "விலையை எண்ணெய் நிறுவனங்கள் நிர்ணயிக்கின்றன"
+      ]
+     },
+     {
+      "title": "விலையை பாதிப்பது",
+      "lines": [
+       "கச்சா எண்ணெய் விலை மாற்றம்",
+       "டாலருக்கு நிகரான இந்திய ரூபாயின் மதிப்பு",
+       "இவை இரண்டும் விலையை நிர்ணயிக்கும் முக்கியக் காரணிகள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் இன்று பெட்ரோல் லிட்டர் ரூ.107.77க்கு விற்பனையாகிறது. டீசல் லிட்டர் ரூ.99.55க்கும், இயற்கை எரிவாயு ஒரு கிலோ ரூ.97.50க்கும் விற்பனை செய்யப்படுகிறது. இன்று நவம்பர் 19ஆம் தேதி, வியாழக்கிழமை இந்த விலை நிலவரம் பொருந்தும். பெட்ரோல், டீசல் விலையை எண்ணெய் நிறுவனங்கள் நிர்ணயம் செய்கின்றன. கச்சா எண்ணெய் விலை மற்றும் டாலருக்கு நிகரான இந்திய ரூபாயின் மதிப்பு ஆகியவை விலையை பாதிக்கும் முக்கியக் காரணிகள் ஆகும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⛽ சென்னையில் இன்று பெட்ரோல் ரூ.107.77, டீசல் ரூ.99.55\n\n📰 முழு விவரம்:\nசென்னையில் இன்று (19.11.2026, வியாழக்கிழமை) ஒரு லிட்டர் பெட்ரோல் ரூ.107.77க்கும், டீசல் ரூ.99.55க்கும் விற்பனை செய்யப்படுகிறது.\nஇயற்கை எரிவாயு (CNG) ஒரு கிலோ ரூ.97.50க்கு விற்பனை செய்யப்படுகிறது.\nகச்சா எண்ணெய் விலை, டாலருக்கு நிகரான இந்திய ரூபாயின் மதிப்பு உள்ளிட்ட காரணிகளின் அடிப்படையில் எண்ணெய் நிறுவனங்கள் விலையை நிர்ணயம் செய்கின்றன.\n\nChennai petrol diesel price today | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #பெட்ரோல்",
+   "prompts": "A fuel station attendant in a shirt and trousers stands beside a row of petrol and diesel pumps at a busy Chennai petrol bunk as a two-wheeler and a car are being refuelled. Behind the pumps, a price display board is lit up with the day's rates, showing petrol at Rs 107.77 and diesel at Rs 99.55 in a red-and-white design, though no text is readable at this distance. The setting is a roadside fuel station on a Chennai city road with a concrete canopy overhead, a few parked two-wheelers, an autorickshaw waiting at the edge and passing traffic beyond. It is bright daylight on a clear Thursday morning. Shot at eye level with a 35 mm lens, wide enough to show the pumps, the canopy and the street, with the attendant seen from behind and slightly out of focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the nozzle of a petrol pump at a Chennai fuel station, held in a worker's gloved hand as it fills the tank of a two-wheeler, with the metallic pump body and its digital display in sharp focus. The fuel flows steadily into the tank and a few drops glisten on the pump's concrete base. In the background, a blurred row of other pumps and a CNG dispensing unit stand under the bright daytime light of the fuel station canopy. The setting is a city petrol bunk in Chennai with a tiled floor and a painted kerb. Taken in clear morning daylight. Shot close with a 35 mm lens at slightly high angle, the display blurred so no numbers or text are readable. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/business/chennai-petrol-diesel-price-update-4",
+   "published": "2026-11-19T00:40:37Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051604/chennaiminnal/ffajjt11ntwsuqfoxqgm.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795051607/chennaiminnal/pstlxy0zmqglkiwf8nd4.jpg"
    ]
   }
  ]
