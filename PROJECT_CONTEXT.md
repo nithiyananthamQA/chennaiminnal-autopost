@@ -82,6 +82,20 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-19 | `557e67a` | Same code as Kovai Minnal 372461bc PAGE_SETUP: power-cut page in one day - the full Salem runbook + the mistakes not to repeat (owner 19 Nov) |
+| 2026-11-19 | `1357fe1` | powercut: notices written |
+| 2026-11-19 | `451e172` | pick: written and posted |
+| 2026-11-19 | `1ac740e` | facebook RN-104 |
+| 2026-11-19 | `0ca7827` | powercut: notices written |
+| 2026-11-19 | `8f1b2ca` | facebook RN-107 |
+| 2026-11-19 | `f6b332c` | facebook RN-105 |
+| 2026-11-19 | `9b6f53e` | facebook RN-106 |
+| 2026-11-19 | `1f29f6c` | facebook RN-103 |
+| 2026-11-19 | `97b1166` | pick: picked news saved |
+| 2026-11-19 | `85650b7` | pick: picked news saved |
+| 2026-11-19 | `4c0034d` | pick: list sent |
+| 2026-11-19 | `2ed68f3` | powercut: notices written |
+| 2026-11-19 | `90446ff` | comments: normal comments recorded (not e-mailed) |
 | 2026-11-19 | `372dcae` | Same code as Kovai Minnal 41fb7446 Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
 | 2026-11-19 | `8e5bc09` | powercut: notices written |
 | 2026-11-19 | `c39ec29` | powercut: notices written |
@@ -98,18 +112,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `74f08eb` | Same code as Kovai Minnal 9f6335dc The right day: never 'நாளை' about a day that came; power cuts only before their day, first in the queue; party names spoken letter by letter (owner 19 Nov) |
 | 2026-11-19 | `eb856bc` | powercut: notices written |
 | 2026-11-19 | `11e8b4c` | powercut: notices written |
-| 2026-11-19 | `2f093b3` | facebook RN-100 |
-| 2026-11-19 | `e3c38dd` | pick: written and posted |
-| 2026-11-19 | `4f76ee4` | pick: picked news saved |
-| 2026-11-19 | `009eb12` | pick: picked news saved |
-| 2026-11-19 | `e63d9db` | pick: list sent |
-| 2026-11-19 | `1be6256` | pick: written and posted |
-| 2026-11-19 | `bb8d1b3` | powercut: notices written |
-| 2026-11-19 | `420aa78` | facebook RN-93 |
-| 2026-11-19 | `1f94860` | goldrate posted |
-| 2026-11-19 | `4d5aa12` | facebook RN-91 |
-| 2026-11-19 | `a838752` | facebook RN-94 |
-| 2026-11-19 | `c1d83c1` | facebook RN-92 |
-| 2026-11-19 | `69139c2` | powercut: notices written |
-| 2026-11-19 | `a9ab7c5` | pick: picked news saved |
 <!-- recent-changes:end -->
