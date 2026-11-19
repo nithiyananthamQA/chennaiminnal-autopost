@@ -3,35 +3,38 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/tamil-nadu-has-turned-into-a-place-where-extreme-crimes-take-place-mk-stalin",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/rs-700-crore-worth-drugs-seized-2-arrested-in-madhavaram",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/5-women-arrested-for-smuggling-narcotic-pills",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/extortion-of-money-from-a-young-man",
-  "manual link added: https://www.dinamalar.com/news/india-tamil-news/chennai-man-beaten-to-death-on-way-to-meet-woman-celebrity/4380365",
-  "candidate filter: collected=5",
-  "to write: 5 Chennai district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/india-tamil-news/chennai-man-",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/extortion-of-mone",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/5-women-arrested-",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/municipal-corporation-commissioner-samiran-warns-of-action-against-those-who-do-not-install-rainwater-harvesting-infrastructure/4380588",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/water-board-informs-green-tribunal-of-closure-of-chembarambakkam-lake-canals/4380823",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/corporation-opens-dialysis-unit-at-gandhi-hospital/4380859",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-23-million-gold-smuggled-from-abu-dhabi-seized/4380534",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/3195-special-buses-to-operate-for-the-weekend",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/new-building-regulations-fees-instructions-from-housing-and-municipal-administration-departments",
+  "candidate filter: collected=6",
+  "to write: 6 Chennai district candidates (max 6 stories)",
+  "round: top 6 of 6 candidates",
+  "candidates waiting: 6 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/new-building-regula",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/3195-special-bus",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/rs-700-crore-wort",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/tamil-nadu-has-turn",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Chennai district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 6}, time left 76 min",
+  "filed: 6 Chennai district stories (target 6), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -39,435 +42,451 @@
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (38s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3.6-flash (55s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (1s)"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கிழக்கு கடற்கரை சாலையில் போதை மாத்திரை கடத்தல்: 5 பெண்கள் கைது",
-   "english_headline": "5 women arrested for smuggling banned drug tablets in OMR and ECR areas during early-morning police raids",
+   "tamil_headline": "அபுதாபியில் இருந்து கடத்திய ரூ.2.3 கோடி தங்கம் பறிமுதல்: சென்னையில் பயணி கைது",
+   "english_headline": "₹2.3 crore worth of gold smuggled from Abu Dhabi seized at Chennai Airport; passenger arrested",
    "category": "Crime & Safety",
-   "location": "OMR and ECR areas, Chennai district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போதை கைது",
-    "loc": "ஓ.எம்.ஆர், ஈ.சி.ஆர்",
-    "hl1": "ஓ.எம்.ஆர், ஈ.சி.ஆர். சாலையில் போதை",
-    "hl2": "5 பெண்கள் கைது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "போதை மாத்திரை கடத்தியதாக <b>5 பெண்கள்</b> கைது",
-       "தாம்பரம் போலீஸ் கமிஷனர் உத்தரவின் பேரில் அதிகாலையில் சோதனை",
-       "தடை செய்யப்பட்ட போதை மாத்திரைகள் கைப்பற்றப்பட்டன"
-      ]
-     },
-     {
-      "title": "எங்கே சோதனை?",
-      "lines": [
-       "ஓ.எம்.ஆர், ஈ.சி.ஆர் மற்றும் சுற்று வட்டாரப் பகுதிகள்",
-       "பள்ளிக்கரணை காவல் மாவட்டத்தின் <b>10</b> காவல் நிலைய",
-       "சோழிங்கநல்லூர் உள்ளிட்ட ஆண்கள் விடுதிகளிலும் சோதனை"
-      ]
-     },
-     {
-      "title": "எவ்வளவு போலீஸ்?",
-      "lines": [
-       "பள்ளிக்கரணை துணை கமிஷனர் ஈஸ்வரன் தலைமையில் சோதனை",
-       "<b>2,500</b>க்கும் மேற்பட்ட போலீசார் குழுக்களாகப் பிரிந்தனர்",
-       "கஞ்சா, போதை மாத்திரைகள் பெருமளவில் பறிமுதல்"
-      ]
-     },
-     {
-      "title": "தொடர் விசாரணை",
-      "lines": [
-       "சென்னை கண்ணகி நகர் குடியிருப்புப் பகுதியில் ஒரு சோதனை",
-       "கைதானோர் மீது போலீசார் விசாரணை நடத்தி வருகின்றனர்",
-       "போதைப்பொருள் நடமாட்டம் குறித்து கவனமாக இருங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஓ எம் ஆர், ஈ சி ஆர் பகுதிகளில் போதை மாத்திரை கடத்திய 5 பெண்கள் கைது செய்யப்பட்டனர். தாம்பரம் போலீஸ் கமிஷனர் நஜ்மல் ஹோடாவின் உத்தரவின் பேரில் இன்று அதிகாலை சிறப்புச் சோதனை நடைபெற்றது. தடை செய்யப்பட்ட போதைப்பொருட்கள் கடத்தப்படுகின்றனவா என்பதைக் கண்டறிவதே இதன் நோக்கம். பள்ளிக்கரணை காவல் மாவட்டத்தின் 10 காவல் நிலைய எல்லைகளில் இந்தச் சோதனை நடைபெற்றது. பள்ளிக்கரணை துணை கமிஷனர் ஈஸ்வரன் தலைமையில் 2,500க்கும் மேற்பட்ட போலீசார் குழுக்களாகப் பிரிந்து ஈடுபட்டனர். சோழிங்கநல்லூர் உள்ளிட்ட பகுதிகளில் கல்லூரி மாணவர்கள், ஐ.டி ஊழியர்கள் தங்கியுள்ள ஆண்கள் விடுதிகளிலும் சோதனை நடத்தப்பட்டது. சென்னை கண்ணகி நகர் குடியிருப்புப் பகுதியில் நடந்த சோதனையில் தடை செய்யப்பட்ட போதை மாத்திரைகள் கைப்பற்றப்பட்டன. இதுதொடர்பாக 5 பெண்களையும் போலீசார் கைது செய்து விசாரித்து வருகின்றனர். பல்வேறு இடங்களில் கஞ்சா மற்றும் போதை மாத்திரைகள் பெருமளவில் பறிமுதல் செய்யப்பட்டுள்ளன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஓ.எம்.ஆர், ஈ.சி.ஆர் பகுதியில் போதை மாத்திரை கடத்தல்: 5 பெண்கள் கைது\n\n📰 முழு விவரம்:\nதாம்பரம் போலீஸ் கமிஷனர் உத்தரவின் பேரில் ஓ.எம்.ஆர், ஈ.சி.ஆர் மற்றும் சுற்று வட்டாரப் பகுதிகளில் இன்று அதிகாலையில் அதிரடி சோதனை நடைபெற்றது. தடை செய்யப்பட்ட போதை மாத்திரைகள் கடத்தப்படுகின்றனவா என்பதே நோக்கம். பள்ளிக்கரணை காவல் மாவட்டத்தின் 10 காவல் நிலைய எல்லைகளில் சோதனை நடந்தது. சென்னை கண்ணகி நகர் குடியிருப்புப் பகுதியில் போதை மாத்திரைகள் கைப்பற்றப்பட்டு 5 பெண்கள் கைது செய்யப்பட்டனர். பல்வேறு இடங்களில் கஞ்சா, போதை மாத்திரைகள் பெருமளவில் பறிமுதல் செய்யப்பட்டன.\n📍 இடம்: ஓ.எம்.ஆர், ஈ.சி.ஆர் மற்றும் சுற்று வட்டாரப் பகுதிகள்\n🗓️ நாள்: 19 நவம்பர் 2026\n👮 நடவடிக்கை: பள்ளிக்கரணை துணை கமிஷனர் ஈஸ்வரன் தலைமையில் 2,500க்கும் மேற்பட்ட போலீசார் சோதனை\nℹ️ மக்கள் கவனத்திற்கு: போதைப்பொருள் நடமாட்டம் குறித்து தகவல் இருந்தால் போலீசுக்கு தெரிவியுங்கள்.\n\nChennai drug tablets seized OMR ECR, 5 women arrested | Chennai news\n📍 ஓ.எம்.ஆர், ஈ.சி.ஆர், சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #OMR #ChennaiNews #சென்னை",
-   "prompts": "A group of Tamil Nadu police officers in khaki uniforms conduct a search operation in a residential area. The scene is set in the Kankanakunagaram locality along the OMR corridor, characterized by modern apartment blocks and hostels. Five women, seen from behind or at a distance, are being escorted by officers, their faces obscured or blurred to protect identity. The police force is large, with hundreds of officers in khaki visible in the background, creating a sense of a major crackdown. The area is quiet, with early morning light casting long shadows on the paved roads. No specific vehicles are clearly identifiable in the immediate foreground, but the presence of a large police contingent suggests multiple police vans or jeeps are nearby. The atmosphere is tense but orderly, focusing on the law enforcement activity rather than the individuals' identities. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a table covered with a white cloth, displaying the seized contraband. On the table, there are numerous small packets of banned drug tablets and bundles of ganja (cannabis) arranged neatly. The items are the central focus, highlighting the scale of the smuggling operation. In the blurred background, the legs of police officers in khaki trousers are visible, standing guard over the evidence. The lighting is bright, likely from early morning daylight or strong artificial light, ensuring the details of the seized goods are clear. The setting appears to be an open area or a courtyard of a building where the initial sorting of evidence takes place. The focus remains strictly on the objects to illustrate the crime without showing any faces or sensitive details. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/5-women-arrested-for-smuggling-narcotic-pills",
-   "published": "2026-11-19T08:27:37Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('பள்ளிக்கரணை துணை கமிஷனர் ஈஸ்வரன் தலைமையில், 3 உதவி ஆணையர்கள்'); 30 ('பள்ளிக்கரணை துணை கமிஷனர் ஈஸ்வரன் தலைமையில், 3 உதவி ஆணையர்கள்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088191/chennaiminnal/wlqjooa2igkijjal6hxe.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088194/chennaiminnal/js77wal0sujiptd5wlxw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சூளைமேடு: பைக்டாக்சி வாலிபரிடம் நூதன முறையில் பணம் பறிப்பு; 2 பேர் கைது",
-   "english_headline": "Soolaimedu: Bike taxi youth robbed through a trick; 2 arrested",
-   "category": "Crime & Safety",
-   "location": "Soolaimedu, Namachivayapuram, Chennai district",
+   "location": "Chennai Airport, Chennai district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "சூளைமேடு, சென்னை",
-    "hl1": "சூளைமேடு: பைக்டாக்சி வாலிபரிடம் பணம்",
-    "hl2": "2 பேர் கைது",
+    "cat": "தங்கம் பறிமுதல்",
+    "loc": "சென்னை விமான நிலையம்",
+    "hl1": "சென்னை விமான நிலையத்தில் தங்கம் பறிமுதல்",
+    "hl2": "ரூ.2.3 கோடி மதிப்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "பைக்டாக்சி ஓட்டுநர் லோகேஸ்வரனிடம் நூதன முறையில் பணம் பறிப்பு",
-       "பயணி தேவா ரூ.1400 கூகுள் பே மூலம் அனுப்பச் சொன்னார்",
-       "ரூ.2 ஆயிரம் தருவதாகக் கூறி பணம் பெற்றார்"
-      ]
-     },
-     {
-      "title": "எப்படி நடந்தது?",
-      "lines": [
-       "பணம் அனுப்பிய பின் தேவா ஆட்டோவில்",
-       "லோகேஸ்வரன் மோட்டார் சைக்கிளில் துரத்திச் சென்றார்",
-       "சைதாப்பேட்டை அருகே மற்றொரு ஆட்டோவில் தேவா தப்பினார்"
-      ]
-     },
-     {
-      "title": "தாக்குதல்",
-      "lines": [
-       "அசோக் நகர் 2-வது அவின்யூ பகுதியில் ஆட்டோ நின்றது",
-       "கத்தி முனையில் மிரட்டிய தேவாவும் நண்பரும்",
-       "லோகேஸ்வரன் விரட்டி அடிக்கப்பட்டார்"
-      ]
-     },
-     {
-      "title": "கைது",
-      "lines": [
-       "புகாரின் பேரில் அசோக் நகர் போலீசார் வழக்குப்பதிவு செய்தனர்",
-       "தேவா மற்றும் அவரது நண்பர் சிலம்பரசன் ஆகிய இருவர் கைது",
-       "சூளைமேடு பகுதியில் ஆன்லைன் பைக்டாக்சி பயணத்தில் கவனம் தேவை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சூளைமேடு பகுதியில் பைக்டாக்சி ஓட்டுநரிடம் நூதன முறையில் பணம் பறிக்கப்பட்டது, இருவர் கைது செய்யப்பட்டனர். சூளைமேடு நமச்சிவாயபுரத்தைச் சேர்ந்த லோகேஸ்வரன் ஆன்லைன் செயலி மூலம் பைக்டாக்சி ஓட்டி வருகிறார். கே.கே நகரைச் சேர்ந்த வாலிபர் தேவா, சூளைமேட்டில் இருந்து தி.நகர் செல்ல செயலியில் முன்பதிவு செய்தார். லோகேஸ்வரன் அவரை மோட்டார் சைக்கிளில் ஏற்றிச் சென்றார். வழியில் நண்பர் பணத்துடன் வருவதாகக் கூறிய தேவா, கூகுள் பே மூலம் ரூ.1400 அனுப்பினால் ரூ.2 ஆயிரம் தருவதாகச் சொன்னார். அதை நம்பிய லோகேஸ்வரன் பணத்தை அனுப்பினார். பணம் அனுப்பிய பின் தேவா ஆட்டோவில் தாவிக் குதித்துத் தப்பினார். லோகேஸ்வரன் மோட்டார் சைக்கிளில் அவரைத் துரத்திச் சென்றார். சைதாப்பேட்டை அருகே ஆட்டோவை மறித்தபோது, தேவா மற்றொரு ஆட்டோவில் ஏறித் தப்பினார். அசோக் நகர் 2-வது அவின்யூ பகுதியில் ஆட்டோ நின்றபோது, தேவாவும் அவரது நண்பரும் கத்தி முனையில் மிரட்டி லோகேஸ்வரனைத் தாக்கி விரட்டி அடித்தனர். இது குறித்த புகாரின் பேரில் அசோக் நகர் போலீசார் வழக்குப்பதிவு செய்தனர். தேவாவும், அவரது நண்பர் சிலம்பரசனும் கைது செய்யப்பட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சூளைமேடு: பைக்டாக்சி வாலிபரிடம் நூதன முறையில் பணம் பறிப்பு; 2 பேர் கைது\n\n📰 முழு விவரம்:\nசூளைமேடு, நமச்சிவாயபுரத்தைச் சேர்ந்த பைக்டாக்சி ஓட்டுநர் லோகேஸ்வரனிடம் பயணி தேவா நூதன முறையில் பணம் பறித்தார். கூகுள் பே மூலம் ரூ.1400 அனுப்பினால் ரூ.2 ஆயிரம் தருவதாகக் கூறி பணம் பெற்றார். பணம் அனுப்பிய பின் ஆட்டோவில் தாவிக் குதித்துத் தப்பினார். லோகேஸ்வரன் துரத்திச் சென்றபோது, அசோக் நகர் 2-வது அவின்யூ பகுதியில் தேவாவும் அவரது நண்பரும் கத்தி முனையில் மிரட்டித் தாக்கி விரட்டினர்.\n👮 நடவடிக்கை: புகாரின் பேரில் அசோக் நகர் போலீசார் வழக்குப்பதிவு செய்து தேவா, நண்பர் சிலம்பரசன் ஆகிய இருவரையும் கைது செய்தனர்.\nℹ️ மக்கள் கவனத்திற்கு: ஆன்லைன் பைக்டாக்சி பயணத்தின் போது அறிமுகம் இல்லாதவர்களின் பணப் பரிமாற்றக் கோரிக்கைகளில் எச்சரிக்கையாக இருங்கள்.\n\nBike taxi robbery Soolaimedu, 2 arrested | Chennai news\n📍 சூளைமேடு, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Soolaimedu #ChennaiNews #சென்னை",
-   "prompts": "A police officer in khaki uniform stands near a parked autorickshaw on a narrow residential street in Ashok Nagar, Chennai. The scene captures the aftermath of a robbery where a bike taxi driver was targeted. Two young men, seen from behind and slightly blurred, are being escorted by police away from the vehicle. The street is lined with typical Chennai residential buildings and parked two-wheelers. The atmosphere is tense but controlled. Daylight illuminates the scene, casting sharp shadows. The camera is at eye level, 35 mm, wide enough to show the police interaction and the surrounding neighborhood context. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a mobile phone lying on the asphalt road next to a discarded autorickshaw. The screen is dark, but the context implies the digital transaction that led to the crime. In the background, slightly out of focus, a police jeep is parked with officers standing nearby. The road surface shows signs of wear typical of Chennai streets. The focus is on the object that facilitated the fraud, highlighting the modern aspect of the crime. Daylight, clear weather. Camera is slightly high, 35 mm, focusing on the phone and the immediate vicinity to tell the story of the digital robbery. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/extortion-of-money-from-a-young-man",
-   "published": "2026-11-19T09:18:08Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088224/chennaiminnal/sndcl835bu5v557eilly.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088228/chennaiminnal/lml0dcpbckqcizpgqjcx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "டில்லியில் பெண் பிரபலத்தை பார்க்கச் வந்த சென்னை நபர் அடித்து கொலை",
-   "english_headline": "Chennai man beaten to death in Delhi after visiting social media influencer",
-   "category": "Crime & Safety",
-   "location": "Delhi, Delhi",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "டில்லி",
-    "hl1": "டில்லியில் சென்னை நபர் அடித்துக் கொலை",
-    "hl2": "பெண்ணின் குடும்பத்தார் கைது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "சென்னையை சேர்ந்த ஒரு நபர் டில்லியில் அடித்துக் கொலை",
-       "சமூக ஊடகப் பிரபலப் பெண்ணை நேரில் பார்க்க வந்தார்",
-       "தாக்குதலில் படுகாயமடைந்து சிகிச்சை பலனின்றி இறந்தார்"
-      ]
-     },
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "நவம்பர் <b>7</b> ஆம் தேதி டில்லிக்கு வந்தார்",
-       "பெண்ணின் வீட்டுக்குள் நுழைய முயன்றார்",
-       "வீட்டினருடன் மோதல் ஏற்பட்டது"
-      ]
-     },
-     {
-      "title": "தாக்கியது யார்?",
-      "lines": [
-       "பெண்ணின் குடும்பத்தாரும் அண்டை வீட்டினரும் தாக்கினர்",
-       "லால் பகதூர் சாஸ்திரி மருத்துவமனையில் சேர்ப்பு",
-       "பின்னர் இரண்டு மருத்துவமனைகளுக்கு மாற்றப்பட்டார்"
-      ]
-     },
-     {
-      "title": "நடவடிக்கை",
-      "lines": [
-       "நேற்று சிகிச்சை பலனின்றி இறந்தார்",
-       "பெண்ணின் சகோதரர், தந்தை, அண்டை வீட்டார் கைது",
-       "சந்தேக நபர்களை அடையாளம் காண விசாரணை நடக்கிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "டில்லியில் சென்னையை சேர்ந்த ஒருவர் தாக்கப்பட்டு உயிரிழந்தார். சமூக ஊடகத்தில் பிரபலமான ஒரு பெண்ணை நேரில் சந்திக்க அவர் சென்னையில் இருந்து டில்லிக்கு வந்தார். சென்னையை சேர்ந்த அந்த நபர் தனியார் நிறுவனத்தில் வேலை பார்த்தவர். அந்தப் பெண்ணை ஒருதலையாக காதலித்ததாகவும் கூறப்படுகிறது. நவம்பர் 7ஆம் தேதி அவர் டில்லி வந்து பெண்ணின் வீட்டுக்குள் நுழைய முயன்றார். அப்போது வீட்டினருக்கும் அவருக்கும் இடையே மோதல் ஏற்பட்டது. பெண்ணின் குடும்பத்தாரும் அண்டை வீட்டினரும் அவரை சரமாரியாக தாக்கினர். படுகாயமடைந்த அவரை போலீசார் மீட்டு லால் பகதூர் சாஸ்திரி மருத்துவமனையில் சேர்த்தனர். உடல்நிலை மோசமானதால் குருதேக் பகதூர் மருத்துவமனைக்கும், பின்னர் இன்னொரு மருத்துவமனைக்கும் மாற்றப்பட்டார். அங்கு நேற்று சிகிச்சை பலனின்றி உயிரிழந்தார். இதையடுத்து மனு விகார் போலீசார் கொலை வழக்குப் பதிவு செய்தனர். பெண்ணின் சகோதரர், தந்தை, அண்டை வீட்டார் ஒருவர் ஆகியோர் கைது செய்யப்பட்டுள்ளனர். மற்ற சந்தேக நபர்களை அடையாளம் காண விசாரணை நடந்து வருகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 டில்லியில் பெண் பிரபலத்தை பார்க்கச் சென்ற சென்னை நபர் அடித்துக் கொலை\n\n📰 முழு விவரம்:\nசமூக ஊடகத்தில் பிரபலமான டில்லி பெண்ணை நேரில் பார்க்க சென்னையில் இருந்து வந்த தனியார் நிறுவன ஊழியர் தாக்கப்பட்டார். நவம்பர் 7ஆம் தேதி வீட்டுக்குள் நுழைய முயன்றபோது மோதல் ஏற்பட்டது. பெண்ணின் குடும்பத்தாரும் அண்டை வீட்டினரும் அவரை சரமாரியாகத் தாக்கினர். லால் பகதூர் சாஸ்திரி மருத்துவமனை, குருதேக் பகதூர் மருத்துவமனை வழியாக மாற்றப்பட்டும் சிகிச்சை பலனின்றி நேற்று உயிரிழந்தார். மனு விகார் போலீசார் கொலை வழக்குப் பதிவு செய்து பெண்ணின் சகோதரர், தந்தை, அண்டை வீட்டார் ஒருவரை கைது செய்துள்ளனர். மற்ற சந்தேக நபர்களை அடையாளம் காண விசாரணை நடக்கிறது.\n\nChennai man beaten to death in Delhi | Chennai news\n📍 டில்லி | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #குற்றம் #சென்னை",
-   "prompts": "A pair of Delhi police in khaki uniform stand guard at the gate of a narrow residential lane in Delhi, where a house door is partly open and a police jeep is parked by the kerb. Behind the police, two or three neighbours in ordinary shirts and salwar kameez stand at a distance, seen from behind, speaking quietly among themselves. The lane is a typical Delhi residential street with plastered brick walls, electric wires overhead and a few parked two-wheelers. Daylight, slightly overcast, late morning. Camera at eye level, 35 mm, wide enough to show the house, the police and the lane, with no readable signboards or faces. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a police constable's hand holding a clipboard or case file on top of a plain wooden table in a police station room, with a few seized mobile phone cases and a dark cloth bundle placed beside it. Behind the table a blurred police officer in khaki stands with his back turned. The room has a tubelight, a grey wall and a metal almirah. Daylight from a window at the side, neutral and calm. Camera slightly high, 35 mm, focusing on the file and the objects, with no readable text, names or labels visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/india-tamil-news/chennai-man-beaten-to-death-on-way-to-meet-woman-celebrity/4380365",
-   "published": "2026-11-19T15:12:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('பெண் பிரபலத்தை பார்க்க வந்த சென்னை நபர் அடித்து கொலை') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088235/chennaiminnal/nnvmx0byalxtzrkbyvis.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088238/chennaiminnal/g5fdne5vnrxdkhcnwvtz.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை மாதவரத்தில் ஐஸ்கிரீம் வண்டியில் ரூ.700 கோடி மதிப்பிலான 70 கிலோ ஹெராயின் பறிமுதல்",
-   "english_headline": "70 kg heroin worth Rs 700 crore seized from an ice cream van in Madhavaram, Chennai; two arrested",
-   "category": "Crime & Safety",
-   "location": "Madhavaram, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போதைப்பொருள் பறிமுதல்",
-    "loc": "மாதவரம், சென்னை",
-    "hl1": "மாதவரத்தில் ஐஸ்கிரீம் வண்டியில் ரூ.700",
-    "hl2": "70 கிலோ பறிமுதல், இருவர்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "மாதவரத்தில் நடமாடும் ஐஸ்கிரீம் வண்டியில் 70 கிலோ ஹெராயின்",
-       "சர்வதேச மதிப்பு சுமார் <b>ரூ.700 கோடி</b>",
-       "வருவாய் புலனாய்வுப் பிரிவு அதிகாரிகள் நடவடிக்கை"
+       "அபுதாபியில் இருந்து சென்னை வந்த விமானத்தில் தங்கம் கடத்தல்",
+       "<b>ரூ.2.3 கோடி</b> மதிப்புள்ள தங்கம் பறிமுதல்",
+       "மத்திய வருவாய் புலனாய்வுத் துறை அதிரடி"
       ]
      },
      {
       "title": "யார் கைது?",
       "lines": [
-       "அப்துல் ஷூக்கூர், ஷபிக் அகமது ஆகிய இருவர் கைது",
-       "இருவரும் தென் மாவட்டத்தைச் சேர்ந்தவர்கள்",
-       "வெளிமாநிலத்தில் இருந்து கடத்தி வந்துள்ளனர்"
+       "சென்னையைச் சேர்ந்த ஆண் பயணி கைது",
+       "சுற்றுலாப் பயணியாக அபுதாபி சென்று திரும்பியவர்",
+       "உடமைகளைச் சோதித்தபோது சிக்கிய தங்கம்"
       ]
      },
      {
-      "title": "அடுத்து என்ன?",
+      "title": "கடத்தல் முறை",
       "lines": [
-       "இருவரும் <b>நேற்று மாலை</b> கோர்ட்டில் ஆஜர், சிறையில் அடைப்பு",
-       "சென்னையைச் சேர்ந்த ஒருவரிடம் ஒப்படைக்க கொண்டு சென்றனர்",
-       "பின்னணி குறித்து விசாரணை தீவிரம்"
+       "வெள்ளி முலாம் பூசிய <b>3 தங்கக் கட்டிகள்</b> பறிமுதல்",
+       "<b>1.6 கிலோ</b> எடையுள்ள 24 காரட் தங்கம்",
+       "பயணி சிறையில் அடைப்பு; விசாரணை தீவிரம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை மாதவரத்தில் ஐஸ்கிரீம் வண்டியில் 70 கிலோ ஹெராயின் பறிமுதல் செய்யப்பட்டது. இதன் சர்வதேச மதிப்பு சுமார் ரூ.700 கோடி என தகவல் வெளியாகியுள்ளது. மாதவரம் மேம்பால பகுதியில் வருவாய் புலனாய்வுப் பிரிவு அதிகாரிகள் ரகசிய கண்காணிப்பில் ஈடுபட்டனர். ஐஸ்கிரீம் தயாரிக்கும் தொழிற்சாலை அருகே நின்றிருந்த வண்டியை அதிகாரிகள் சோதனை செய்தனர். வண்டியை ஓட்டி வந்த அப்துல் ஷூக்கூர், ஷபிக் அகமது ஆகிய இருவரும் கைது செய்யப்பட்டனர். வண்டிக்குள் ஹெராயின் பாக்கெட்டுகள் வரிசையாக அடுக்கி வைக்கப்பட்டிருந்தன. ஹெராயின் ஒரு கிலோ ரூ.2 கோடி முதல் ரூ.10 கோடி வரை மதிப்புள்ளது என அதிகாரிகள் தெரிவித்துள்ளனர். கைதான இருவரும் தென் மாவட்டத்தைச் சேர்ந்தவர்கள். வெளிமாநிலத்தில் இருந்து போதைப்பொருளை கடத்தி வந்ததாக விசாரணையில் தெரியவந்துள்ளது. சென்னையைச் சேர்ந்த ஒருவரிடம் ஒப்படைக்கக் கொண்டு சென்றதும் தெரியவந்துள்ளது. இருவரும் நேற்று மாலை கோர்ட்டில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டனர். அந்த நபர் யார், பின்னணியில் யார் உள்ளனர் என்பது குறித்து விசாரணை நடைபெற்று வருகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 மாதவரத்தில் ஐஸ்கிரீம் வண்டியில் ரூ.700 கோடி ஹெராயின் பறிமுதல்: இருவர் கைது\n\n📰 முழு விவரம்:\nசென்னை மாதவரத்தில் நடமாடும் ஐஸ்கிரீம் வண்டியில் 70 கிலோ ஹெராயின் பறிமுதல் செய்யப்பட்டது. இதன் சர்வதேச மதிப்பு சுமார் ரூ.700 கோடி என தகவல் வெளியாகியுள்ளது. வருவாய் புலனாய்வுப் பிரிவு அதிகாரிகள் மாதவரம் மேம்பால பகுதியில் ரகசிய கண்காணிப்பில் ஈடுபட்டனர். ஐஸ்கிரீம் தயாரிக்கும் தொழிற்சாலை அருகே நின்றிருந்த வண்டியை சோதனை செய்தபோது, வண்டியை ஓட்டி வந்த அப்துல் ஷூக்கூர், ஷபிக் அகமது ஆகிய இருவரும் கைது செய்யப்பட்டனர். வண்டிக்குள் ஹெராயின் பாக்கெட்டுகள் வரிசையாக அடுக்கி வைக்கப்பட்டிருந்தன; அவற்றை அதிகாரிகள் பறிமுதல் செய்தனர்.\n🧪 ஹெராயின் ஒரு கிலோ ரூ.2 கோடி முதல் ரூ.10 கோடி வரை மதிப்புள்ளது என்றும், பிடிபட்ட ஹெராயின் மதிப்பு ரூ.10 கோடி என்றும் அதிகாரிகள் தெரிவித்துள்ளனர்.\n🚚 கைதான இருவரும் தென் மாவட்டத்தைச் சேர்ந்தவர்கள். வெளிமாநிலத்தில் இருந்து போதைப்பொருளை கடத்தி வந்துள்ளனர். சென்னையைச் சேர்ந்த ஒருவரிடம் போதைப்பொருளை ஒப்படைப்பதற்காக கொண்டு சென்றது தெரியவந்துள்ளது.\n⚖️ கைதான 2 பேரையும் வருவாய் புலனாய்வுப் பிரிவு அதிகாரிகள் நேற்று மாலை கோர்ட்டில் ஆஜர்படுத்தி சிறையில் அடைத்தனர்.\n🔍 அந்த நபர் யார், பின்னணியில் இருப்பவர்கள் யார், போதைப்பொருளை யாரிடம் இருந்து வாங்கினர் என்பது குறித்து விசாரணை தீவிரமாக நடைபெற்று வருகிறது.\n👮 போதைப்பொருள் தடுப்பு நடவடிக்கைகளில் தீவிரம் காட்ட டி.ஜி.பி. மகேஷ் குமார் அகர்வாலும், சென்னை மாநகர கமிஷனர் அமல்ராஜும் உத்தரவிட்டுள்ளனர்.\n\nChennai Madhavaram heroin seized in ice cream van | Chennai news\n📍 மாதவரம், சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Madhavaram #போதைப்பொருள் #ChennaiNews",
-   "prompts": "Revenue Investigation Department officers in khaki uniforms stand around a parked ice cream van on a narrow street in Madhavaram, Chennai. The van is stationary near an industrial area with low-rise factory buildings in the background. Two men, the arrested suspects, are seen from behind, standing with their hands raised or being escorted by the officers. The officers are inspecting the open rear compartment of the van. The street is lined with typical Chennai residential and commercial structures, with power lines overhead. Daylight illuminates the scene, casting sharp shadows. The camera is at eye level, 35 mm, capturing the full width of the van and the surrounding officers to show the scale of the operation. No readable text or logos are visible on the van or uniforms. The focus is on the interaction between the law enforcement officers and the vehicle, highlighting the seizure event. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view inside the open rear compartment of the ice cream van, revealing rows of white packets stacked neatly in the ice cream storage box. The packets are uniform in size and shape, representing the 70 kg of seized heroin. A gloved hand of a Revenue Investigation Department officer is visible, pointing towards or holding one of the packets to indicate the contraband. The interior of the van is metallic and utilitarian, with visible insulation material. The lighting is bright, likely from daylight entering the open back, highlighting the texture of the packets. The background is slightly blurred, focusing attention on the stacked goods. The camera is slightly high, looking down into the box, 35 mm lens, ensuring the quantity and arrangement of the packets are clearly visible without showing any readable labels or brand names. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/rs-700-crore-worth-drugs-seized-2-arrested-in-madhavaram",
-   "published": "2026-11-19T08:16:41Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "சென்னை விமான நிலையத்தில் 2.3 கோடி ரூபாய் மதிப்புள்ள கடத்தல் தங்கம் பறிமுதல் செய்யப்பட்டுள்ளது. அபுதாபியில் இருந்து சென்னை வந்த தனியார் விமானத்தில் தங்கம் கடத்தப்படுவதாக மத்திய வருவாய் புலனாய்வுத் துறைக்கு ரகசிய தகவல் கிடைத்தது. இதன் அடிப்படையில் அதிகாரிகள் தீவிர கண்காணிப்பில் ஈடுபட்டனர். அப்போது அபுதாபிக்கு சுற்றுலா சென்று திரும்பிய சென்னையைச் சேர்ந்த ஆண் பயணி மீது அதிகாரிகளுக்கு சந்தேகம் ஏற்பட்டது. அவரை தனி அறைக்கு அழைத்துச் சென்று சோதனையிட்டபோது, அவரது உடமைகளில் வெள்ளி முலாம் பூசப்பட்ட 3 தங்கக் கட்டிகள் இருந்தன. இவை 24 காரட் சுத்த தங்கம் என்பது சோதனையில் உறுதியானது. மொத்தம் 1.6 கிலோ எடையுள்ள இந்த தங்கத்தின் சர்வதேச மதிப்பு 2.3 கோடி ரூபாய் ஆகும். அந்தப் பயணியை கைது செய்த அதிகாரிகள், அவரை சிறையில் அடைத்தனர். அவர் ஒரு குருவியாகச் செயல்பட்டு தங்கம் கடத்தியது விசாரணையில் தெரியவந்துள்ளது. அவரை கடத்தலில் ஈடுபட வைத்தது யார் என்பது குறித்து அதிகாரிகள் தொடர்ந்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னை விமான நிலையத்தில் ரூ.2.3 கோடி தங்கம் பறிமுதல்: பயணி கைது\n\n📰 முழு விவரம்:\nஅபுதாபியில் இருந்து சென்னை வந்த தனியார் விமானத்தில் தங்கம் கடத்தப்படுவதாகக் கிடைத்த ரகசிய தகவலின் பேரில் மத்திய வருவாய் புலனாய்வுத் துறை அதிகாரிகள் சோதனை நடத்தினர். அபுதாபிக்குச் சுற்றுலா சென்று திரும்பிய சென்னையைச் சேர்ந்த ஒரு பயணியின் உடமைகளைச் சோதித்தபோது, வெள்ளி முலாம் பூசப்பட்ட 3 தங்கக் கட்டிகள் கண்டறியப்பட்டன. இவை 1.6 கிலோ எடையுள்ள 24 காரட் தங்கம் ஆகும். ஆய்வு செய்ததில் இவை வெள்ளி முலாம் பூசிய 24 காரட் தங்க கட்டிகள் என்பது கண்டுபிடிக்கப்பட்டது. இதன் சர்வதேச மதிப்பு ரூ.2.3 கோடி. அந்தப் பயணியைக் கைது செய்த அதிகாரிகள், அவரைச் சிறையில் அடைத்தனர். அவர் ஒரு குருவியாகச் செயல்பட்டது விசாரணையில் தெரியவந்துள்ளது.\n\n📍 இடம்: சென்னை சர்வதேச விமான நிலையம்\n🗓️ நாள்: 19 நவம்பர் 2026\n👮 நடவடிக்கை: தங்கம் பறிமுதல், ஒருவர் கைது\nℹ️ மக்கள் கவனத்திற்கு: வெளிநாடுகளில் இருந்து தங்கம் கடத்துவது சட்டப்படி குற்றமாகும்.\n\nGold smuggling bust at Chennai Airport | Chennai news\n📍 Chennai Airport, Chennai | 19 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiAirport #தங்கம் #ChennaiNews",
+   "prompts": "CIB officials in khaki uniforms stand around an open suitcase on a metal table in the Chennai Airport customs hall, examining three silver-coated bars. The location is the sterile arrival area with tiled floors and security barriers visible in the background. One male passenger, seen from behind in a shirt and trousers, stands slightly apart while officers inspect his luggage. The suitcase is open, revealing the three distinct silver lumps that are actually gold bars. Daylight filters through the airport windows, illuminating the scene. The camera is at eye level, 35 mm, capturing the interaction between the officers and the seized goods without showing faces clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of the three silver-coated gold bars resting on a white cloth on a metal inspection table. The bars are rectangular and shiny, reflecting the airport lights, with one bar slightly tilted to show its weight and texture. In the blurred background, the khaki-clad legs of CIB officers are visible, standing guard. The surface of the table is clean and metallic. The lighting is bright and even, typical of an indoor government facility. The camera is slightly high, 35 mm, focusing entirely on the seized objects to highlight their value and the nature of the crime, with no readable text or labels visible on the bars. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-23-million-gold-smuggled-from-abu-dhabi-seized/4380534",
+   "published": "2026-11-19T17:42:38+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088258/chennaiminnal/qtb6buszqpzwepv4a5uk.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088262/chennaiminnal/xdpkuvjsxofaid8siuhl.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102585/chennaiminnal/eg2xekxaxfsbqrmhrtz1.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102589/chennaiminnal/jccprbtxm6t94zto76mg.jpg"
    ]
   },
   {
-   "tamil_headline": "தவெக ஆட்சியில் தமிழகம் ‘Vice City’ ஆகிவிட்டதாக ஸ்டாலின் குற்றச்சாட்டு",
-   "english_headline": "Stalin says Tamil Nadu has become 'Vice City' under TVK rule, questions state police over Rs 700 crore heroin seizure by DRI in Chennai",
-   "category": "Crime & Safety",
+   "tamil_headline": "வார இறுதியை முன்னிட்டு 3,195 சிறப்பு பேருந்துகள் இயக்கம்",
+   "english_headline": "3,195 special buses to run from Chennai for the weekend, with 875 more on Sunday for return travel",
+   "category": "Roads & Transport",
+   "location": "Chennai, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சிறப்பு பேருந்து",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: வார இறுதிக்கு 3,195 சிறப்பு",
+    "hl2": "20, 21 தேதிகளில் இயக்கம்",
+    "slides": [
+     {
+      "title": "எத்தனை",
+      "lines": [
+       "தமிழ்நாடு அரசு போக்குவரத்துக் கழகங்கள் மூலம் <b>3,195</b>",
+       "வார இறுதி நாட்களுக்காக இயக்கப்படுகின்றன",
+       "சென்னை கிளாம்பாக்கத்தில் இருந்து <b>1,540</b> பேருந்துகள்"
+      ]
+     },
+     {
+      "title": "பிற இடங்கள்",
+      "lines": [
+       "கோயம்பேட்டில் இருந்து <b>390</b> பேருந்துகள்",
+       "மாதவரத்தில் இருந்து <b>290</b> பேருந்துகள்",
+       "பெங்களூரு, திருப்பூர், ஈரோடு, கோயம்புத்தூரில் இருந்து"
+      ]
+     },
+     {
+      "title": "ஞாயிறு பயணம்",
+      "lines": [
+       "ஞாயிற்றுக்கிழமை <b>22</b> ஆம் தேதி <b>875</b> சிறப்பு பேருந்துகள்",
+       "சொந்த ஊர்களில் இருந்து சென்னை, பெங்களூரு திரும்ப",
+       "பயணிகளின் தேவைக்கு ஏற்ப இயக்கம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையிலிருந்து வார இறுதிக்கு 3,195 சிறப்பு பேருந்துகள் இயக்கப்படுகின்றன. இந்தப் பேருந்துகள் அக்டோபர் 20, 21ஆம் தேதிகளில் இயக்கப்படும். சென்னை கிளாம்பாக்கத்தில் இருந்து திருவண்ணாமலை, திருச்சி, மதுரை, கோயம்புத்தூர் உள்ளிட்ட ஊர்களுக்கு 1,540 பேருந்துகள் இயக்கப்படும். கோயம்பேட்டில் இருந்து நாகை, வேளாங்கண்ணி, ஓசூர், பெங்களூரு செல்ல 390 பேருந்துகள் இயக்கப்படும். மாதவரத்தில் இருந்து வேலூர், ஓசூர், புதுச்சேரி உள்ளிட்ட ஊர்களுக்கு 290 பேருந்துகள் இயக்கப்படும். பெங்களூரு, திருப்பூர், ஈரோடு, கோயம்புத்தூரில் இருந்து பல்வேறு ஊர்களுக்கு 100 சிறப்பு பேருந்துகள் இயக்கப்படும். ஞாயிற்றுக்கிழமை சொந்த ஊர்களில் இருந்து சென்னை, பெங்களூரு திரும்ப வசதியாக 875 சிறப்பு பேருந்துகள் இயக்கப்படும். பயணிகளின் தேவைக்கு ஏற்ப அனைத்து இடங்களில் இருந்தும் இவை இயக்கப்படும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 சென்னை: வார இறுதிக்கு 3,195 சிறப்பு பேருந்துகள் இயக்கம்\n\n📰 முழு விவரம்:\nவார இறுதி நாட்களை முன்னிட்டு தமிழ்நாடு அரசு போக்குவரத்துக் கழகங்கள் மூலம் மொத்தம் 3,195 சிறப்பு பேருந்துகள் இயக்கப்பட உள்ளன. அக்டோபர் 20, 21ஆம் தேதிகளில் சென்னை கிளாம்பாக்கத்தில் இருந்து திருவண்ணாமலை, திருச்சி, கும்பகோணம், மதுரை, திருநெல்வேலி, நாகர்கோவில், கன்னியாகுமரி, தூத்துக்குடி, கோயம்புத்தூர், சேலம், ஈரோடு, திருப்பூர் ஆகிய ஊர்களுக்கு 1,540 பேருந்துகள் இயக்கப்படும்.\nகோயம்பேட்டில் இருந்து நாகை, வேளாங்கண்ணி, ஓசூர், பெங்களூரு செல்ல 390 பேருந்துகள் இயக்கப்படும்.\nமாதவரத்தில் இருந்து திருவண்ணாமலை, திருச்சி, கும்பகோணம், வேலூர், ஓசூர், புதுச்சேரி ஆகிய ஊர்களுக்கு 290 பேருந்துகள் இயக்கப்படும்.\nபெங்களூரு, திருப்பூர், ஈரோடு, கோயம்புத்தூரில் இருந்து பல்வேறு ஊர்களுக்கு 100 சிறப்பு பேருந்துகள் இயக்கப்படும்.\nஞாயிற்றுக்கிழமை (22ஆம் தேதி) சொந்த ஊர்களில் இருந்து சென்னை, பெங்களூரு திரும்ப வசதியாக 875 சிறப்பு பேருந்துகள் இயக்கப்படும்.\n\nChennai special buses for weekend 3195 | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Koyambedu #ChennaiNews #சென்னை",
+   "prompts": "A long line of Tamil Nadu state transport corporation buses stands in a row at the Kilambakkam bus terminus in Chennai, their doors open as passengers with rolling suitcases, cloth bundles and shoulder bags climb the steps to board for the weekend journey. The terminus is a wide, busy concrete bay with multiple platforms, covered shelters and a tall departure hall in the background, and the buses are the familiar large white and red intercity coaches. Conductors in dark uniforms stand near the doorways with ticket pouches, while a few drivers lean from their cabins. Men in shirts and trousers and women in sarees and salwar carry bags, some families with children walking beside them, all seen from behind or from a distance. It is daytime under bright, clear sky with soft sunlight across the concrete, and the crowd moves in a steady stream. Shot at eye level, 35 mm, wide enough to show the full row of buses and the terminus platform. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of luggage and travel bags stacked beside a state transport bus at the boarding bay, with a rolled bedding bundle, a cloth sack, a steel tiffin carrier and a rolling suitcase resting on the concrete floor just below the bus door. A conductor's hand holds a small bundle of bus tickets at the step, slightly out of focus, while the bus's side panel and rounded window frames fill the background. The bags show worn fabric and handles, suggesting weekend travellers heading home. Daylight falls softly on the platform surface and the metal steps, with a blurred crowd of passengers behind. Shot at close range, 35 mm, with shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/3195-special-buses-to-operate-for-the-weekend",
+   "published": "2026-11-19T09:43:21Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('சென்னை, வார இறுதி நாட்களை முன்னிட்டு தமிழ்நாடு அரசு போக்குவர')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102642/chennaiminnal/gxl88ew0cjqzlbjgfxvx.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102648/chennaiminnal/ygx56sczy56rxsgojxvc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "புதிய கட்டிட விதிகளால் கூடுதல் பரப்புக்கு மட்டும் கட்டணம்: அரசு அறிவுறுத்தல்",
+   "english_headline": "New building rules: fees charged only on extra built-up area; housing and municipal departments issue instructions",
+   "category": "Government & Services",
    "location": "Chennai, Chennai district",
    "importance": "High",
    "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல் குற்றச்சாட்டு",
-    "loc": "சென்னை, சென்னை மாவட்டம்",
-    "hl1": "சென்னையில் ரூ.700 கோடி ஹெராயின் பறிமுதல்",
-    "hl2": "ஸ்டாலின் அரசை சாடல்",
+    "cat": "அரசு அறிவிப்பு",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: கூடுதல் பரப்புக்கு மட்டும்",
+    "hl2": "அக். 26-க்கு முன் அனுமதி",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "புதிய உயர வரம்பு",
       "lines": [
-       "சென்னையில் ரூ.<b>700 கோடி</b> மதிப்பிலான ஹெராயின் பறிமுதல்",
-       "ஒன்றிய அரசின் வருவாய்ப் புலனாய்வுத் துறை (DRI) பறிமுதல்",
-       "கடந்த மாதம் நாகையில் ரூ.<b>270 கோடி</b> போதைப் பொருள் பிடிபட்டது"
+       "அக். 26க்கு முன் வரைபட அனுமதி பெற்ற கட்டிடங்களுக்கு",
+       "அதிகபட்ச உயரம் 18.3 மீட்டரில் இருந்து <b>19.50 மீட்டர்</b> வரை",
+       "தனி அனுமதி தேவையில்லை"
       ]
      },
      {
-      "title": "ஸ்டாலின்",
+      "title": "உயர வரம்பு கவனம்",
       "lines": [
-       "தவெக ஆட்சியில் தமிழகம் ‘Vice City’ ஆகிவிட்டதாக ஸ்டாலின்",
-       "மாநில காவல் துறையால் ஏன் போதைப் பொருளைப் பிடிக்க",
-       "போதைக் கடத்தலைத் தடுக்க அமைக்கப்பட்ட <b>65</b> சிறப்பு"
+       "கட்டிட உயரம் <b>19.50 மீட்டருக்கு</b> மேல் உயரக்கூடாது",
+       "டிடிசிபி ஆணையர், சிஎம்டிஏ உறுப்பினர் செயலருக்கு கடிதம்",
+       "வீட்டுவசதி, நகராட்சி நிர்வாகத் துறை செயலர் அனுப்பியது"
       ]
      },
      {
-      "title": "பிற",
+      "title": "கட்டணம் எப்படி?",
       "lines": [
-       "சட்டம் - ஒழுங்கு சீர்குலைவு, பாலியல் அத்துமீறல்கள்",
-       "மாபெரும் கொள்ளைச் சம்பவங்கள், லாக்கப் மரணங்கள்",
-       "உள்துறை தொடர்பான இந்த பிரச்சினைகள் குறித்து முதல்வர் விஜய்"
+       "திருத்திய அனுமதி விண்ணப்பங்களில் ஏற்கெனவே கட்டணம் செலுத்திய",
+       "புதிதாகக் கோரும் கூடுதல் கட்டிடப் பரப்புக்கு மட்டும் கட்டணம்",
+       "நகராட்சி நிர்வாக இயக்குநர் மதுசூதன் ரெட்டி உத்தரவு"
+      ]
+     },
+     {
+      "title": "மக்கள் கவனத்திற்கு",
+      "lines": [
+       "கட்டிட அனுமதி பெறுவோர் இந்த விதிகளை அறிந்து கொள்ளுங்கள்",
+       "மாநகராட்சி, நகராட்சி ஆணையர்களுக்கு உத்தரவு",
+       "விரிவான விவரங்களுக்கு அதிகாரிகளை அணுகுங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் ரூ.700 கோடி மதிப்புள்ள ஹெராயின் போதைப் பொருளை ஒன்றிய அரசின் வருவாய்ப் புலனாய்வுத் துறை பறிமுதல் செய்துள்ளது. இதையடுத்து, தமிழகம் வரம்பு மீறிய குற்றங்கள் நடக்கும் இடமாக மாறிவிட்டதாக திமுக தலைவர் மு.க.ஸ்டாலின் தவெக ஆட்சியை விமர்சித்துள்ளார். கடந்த மாதம் நாகையில் ரூ.270 கோடி மதிப்புள்ள போதைப் பொருள் பிடிபட்டதையும் அவர் நினைவுபடுத்தினார். இதே வருவாய்ப் புலனாய்வுத் துறைதான் அந்தப் பறிமுதலையும் செய்தது. மாநில காவல் துறையால் ஏன் போதைப் பொருள் நடமாட்டத்தைப் பிடிக்க முடியவில்லை என்று அவர் கேள்வி எழுப்பியுள்ளார். மேலும், போதைக் கடத்தலைத் தடுக்க அமைக்கப்பட்ட 65 சிறப்பு அதிரடிப்படை என்ன செய்கிறது என்றும் கேட்டுள்ளார். சட்டம் - ஒழுங்கு சீர்குலைவு, பாலியல் அத்துமீறல், கொள்ளை, லாக்கப் மரணங்கள் போன்றவையும் நடப்பதாக அவர் குற்றம் சாட்டியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னையில் ரூ.700 கோடி ஹெராயின் பறிமுதல்: ஸ்டாலின் அரசை கடுமையாக சாடல்\n\n📰 முழு விவரம்:\nசென்னையில் ரூ.700 கோடி மதிப்புள்ள ஹெராயின் போதைப் பொருளை ஒன்றிய அரசின் வருவாய்ப் புலனாய்வுத் துறை (DRI) பறிமுதல் செய்துள்ளது. இதையடுத்து திமுக தலைவர் மு.க.ஸ்டாலின் தமிழகம் ‘Vice City’ ஆகிவிட்டதாகக் குற்றம் சாட்டியுள்ளார். கடந்த மாதம் நாகையில் ரூ.270 கோடி போதைப் பொருளுடன் தவெக நிர்வாகி ‘மெத்’ பூபாலன் பிடிபட்டதையும் அதே அமைப்பே பிடித்ததையும் அவர் சுட்டிக்காட்டினார். மாநில காவல் துறையால் போதைப் பொருள் நடமாட்டத்தைப் பிடிக்க முடியவில்லையா அல்லது கண்டும் காணாமல் இருக்கிறார்களா என்று அவர் கேள்வி எழுப்பினார். போதைக் கடத்தலைத் தடுக்க அமைக்கப்பட்ட 65 சிறப்பு அதிரடிப்படை என்ன செய்கிறது என்றும் அவர் கேட்டார். சட்டம் - ஒழுங்கு சீர்குலைவு, தவெகவினர் மீது பாலியல் அத்துமீறல் புகார்கள், மாபெரும் கொள்ளைச் சம்பவங்கள், லாக்கப் மரணங்கள் ஆகியவற்றையும் அவர் பட்டியலிட்டார். நேற்று புள்ளிவிவரங்களை வெளியிட்ட காவல் துறைத் தலைவர் இந்த ஹெராயின் பறிமுதல் குறித்து என்ன சொல்லப் போகிறார் என்றும் அவர் கேட்டார். ‘வழக்கு பதியப்பட்டுள்ளது’ என்பதை மட்டுமே பதிலாகத் தருவதாக அவர் விமர்சித்தார். முதல்வர் விஜய்யின் கட்டுப்பாட்டில் உள்ள உள்துறையில் இத்தனை பிரச்சினைகள் நடப்பதாகவும், இப்போதும் அவர் பேசாவிட்டால் எப்போது பேசுவார் என்றும் ஸ்டாலின் வினவினார். தவெக ஆட்சியில் ரீல்ஸ் மோகிகள் சட்டவிரோதமாக அணையையும் திறப்பதாகக் குற்றம் சாட்டிய அவர், முதல்வர் விஜய்யின் வாயை யாராலும் திறக்க முடியவில்லையே என்றும் கூறினார்.\n\nStalin slams TVK govt over Rs 700 crore heroin seizure in Chennai | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Stalin",
-   "prompts": "COVER: DRI officers in khaki uniforms stand around a large pile of seized narcotics on a concrete floor in a Chennai warehouse. The main subject is the massive quantity of white packaged goods, representing the Rs 700 crore heroin seizure. The place is an industrial storage area in Chennai, with high ceilings and concrete pillars. Several DRI officers are seen from behind, inspecting the goods and taking notes, while others guard the perimeter. No smugglers are visible. The objects are numerous white bundles and boxes stacked in rows, indicating a large-scale drug bust. The lighting is bright artificial warehouse light, suggesting daytime or well-lit interior. The camera is at eye level, 35 mm, wide enough to show the scale of the seizure and the officers' presence, emphasizing the magnitude of the crime. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nDETAIL: A close-up of the seized heroin packages on a metal table in the DRI warehouse. The focus is on the white, sealed bundles and boxes, which are the key objects of the Rs 700 crore seizure. The table is steel, typical of evidence handling. In the blurred background, a DRI officer in khaki is seen from behind, documenting the items. The lighting is direct and harsh, highlighting the texture of the packaging. The camera is slightly high, 35 mm, focusing tightly on the goods to convey the substance and value of the seizure without showing any faces or readable text on the packages. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/tamil-nadu-has-turned-into-a-place-where-extreme-crimes-take-place-mk-stalin",
-   "published": "2026-11-19T07:35:27Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script has 91 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('ஆனால், முதல்வர் விஜய்யின் வாயை யாராலும் திறக்க முடியவில்லையே')",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "புதிய கட்டிட விதிகளால் கூடுதல் பரப்புக்கு மட்டும் கட்டணம் வசூலிக்கப்படும். அக்டோபர் 26ஆம் தேதிக்கு முன் வரைபட அனுமதி பெற்ற கட்டிடங்களுக்கு இந்த வசதி பொருந்தும். தற்போதைய அதிகபட்ச உயரம் 18.3 மீட்டரில் இருந்து 19.50 மீட்டர் வரை உயர்த்தப்பட்டுள்ளது. இதற்கு தனியாக அனுமதி பெற வேண்டியதில்லை. கட்டிடத்தின் உயரம் 19.50 மீட்டருக்கு மேல் அதிகரிக்கக்கூடாது என வீட்டுவசதி, நகராட்சி நிர்வாகத் துறை செயலர் கிர்லோஷ்குமார் டிடிசிபி ஆணையர், சிஎம்டிஏ உறுப்பினர் செயலருக்கு கடிதம் அனுப்பியுள்ளார். மேலும், திருத்தப்பட்ட அனுமதி விண்ணப்பங்களில் ஏற்கெனவே கட்டணம் செலுத்திய பரப்பளவு கழிக்கப்படும். புதிதாகக் கோரப்படும் கூடுதல் கட்டிடப் பரப்புக்கு மட்டும் கட்டணம் வசூலிக்க வேண்டும் என மாநகராட்சி, நகராட்சி ஆணையர்களுக்கு நகராட்சி நிர்வாக இயக்குநர் மதுசூதன் ரெட்டி உத்தரவிட்டுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏗️ சென்னை: புதிய கட்டிட விதிகளால் கூடுதல் பரப்புக்கு மட்டும் கட்டணம்\n\n📰 முழு விவரம்:\nவீட்டுவசதி, நகராட்சி நிர்வாகத் துறை செயலர் கிர்லோஷ்குமார், டிடிசிபி ஆணையர், சிஎம்டிஏ உறுப்பினர் செயலருக்கு கடிதம் அனுப்பியுள்ளார். அக். 26ஆம் தேதிக்கு முன் வரைபட அனுமதி பெற்ற கட்டிடங்களுக்கு, அதிகபட்ச உயரம் 18.3 மீட்டரில் இருந்து புதிதாக அனுமதிக்கப்பட்ட 19.50 மீட்டர் வரை தனி அனுமதி தேவையில்லை. கட்டிடத்தின் உயரம் 19.50 மீட்டருக்கு மேல் அதிகரிக்கக்கூடாது.\nநகராட்சி நிர்வாக இயக்குநர் மதுசூதன் ரெட்டி, மாநகராட்சி, நகராட்சி ஆணையர்களுக்கு அனுப்பிய கடிதத்தில், திருத்தப்பட்ட அனுமதி விண்ணப்பங்களில் ஏற்கெனவே கட்டணம் செலுத்திய பரப்பளவைக் கழித்துவிட்டு, புதிதாகக் கோரப்படும் கூடுதல் கட்டிடப் பரப்புக்கு மட்டும் கட்டணம் வசூலிக்க உத்தரவிட்டுள்ளார்.\n📍 இடம்: சென்னை\nℹ️ மக்கள் கவனத்திற்கு: கட்டிட அனுமதி பெறுவோர் விவரங்களுக்கு உள்ளாட்சி அதிகாரிகளை அணுகுங்கள்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nChennai new building rules, extra area fee only | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #கட்டிடம்",
+   "prompts": "A government official sits at a wooden desk in a Chennai municipal office, reviewing building plans spread out in front of him. Behind him, a tall wall calendar and a tube light hang on a plain white wall. Beside the plans are a stack of official letters and a few rolled architectural drawings. Two clerks in shirts and trousers sit at the far end of the room, seen from behind, and a man in a cream shirt holds a file folder near the doorway. Daylight falls through a tall window with blinds half drawn, and a fan turns overhead. The photo is shot at eye level with a 35 mm lens, wide enough to show the office and the desk. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a set of architectural building plans spread across a government office desk in Chennai, showing a vertical section drawing of a multi-storey building with its height marked by dimension lines. Next to the drawing lie a stamped paper file, a red rubber stamp, and a pen resting on a fee receipt form. The edge of a steel almirah and a stack of files are blurred in the background. Soft daylight from a side window lights the paper, and shadows fall across the drawing. Shot from slightly above with a 35 mm lens, shallow focus on the drawing and the stamp, with no readable text. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/tamilnadu/new-building-regulations-fees-instructions-from-housing-and-municipal-administration-departments",
+   "published": "2026-11-19T00:22:40Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சென்னை' and the news itself, e.g. 'சென்னை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088306/chennaiminnal/l28yanbokf851sxvpcu7.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795088310/chennaiminnal/is8rkpxxyowhyrao2sz2.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102655/chennaiminnal/i3emrlfxekkehkagtonc.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102658/chennaiminnal/kajdvbgamnoqlmysv3zo.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஆலந்தூர் காந்தி மருத்துவமனையில் இலவச டயாலிசிஸ் பிரிவு திறப்பு",
+   "english_headline": "Free dialysis unit opened at Alandur Gandhi Hospital; 22 patients a day, six days a week",
+   "category": "Health",
+   "location": "Alandur, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மருத்துவம்",
+    "loc": "ஆலந்தூர்",
+    "hl1": "ஆலந்தூர் காந்தி மருத்துவமனையில்",
+    "hl2": "தினமும் <b>22 பேருக்கு</b>",
+    "slides": [
+     {
+      "title": "என்ன திறப்பு?",
+      "lines": [
+       "ஆலந்தூர் மாநகராட்சி காந்தி மருத்துவமனையில் டயாலிசிஸ் பிரிவு",
+       "நீரிழிவு நோயாளிகளுக்கு இலவச ரத்த சுத்திகரிப்பு",
+       "நேற்று திறக்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்படி?",
+      "lines": [
+       "மருத்துவமனையின் மூன்றாம் தளத்தில் பிரிவு",
+       "சென்னை கிழக்கு ரோட்டரி சங்க உதவியுடன் <b>11 டயாலிசிஸ்</b> கருவிகள்",
+       "டேங்கர் அறக்கட்டளை பொறுப்பேற்றுள்ளது"
+      ]
+     },
+     {
+      "title": "எத்தனை பேர்?",
+      "lines": [
+       "தினமும் <b>22 பேருக்கு</b> டயாலிசிஸ்",
+       "வாரத்தில் <b>ஆறு நாட்கள்</b> செயல்படும்",
+       "சுகாதாரத்துறை நோயாளிகளைத் தேர்வு செய்யும்"
+      ]
+     },
+     {
+      "title": "எப்படி பெறுவது?",
+      "lines": [
+       "முன்பதிவு முறையில் நோயாளிகள் அனுப்பி வைக்கப்படுவர்",
+       "நோயாளிகள் மாநகராட்சி சுகாதாரத்துறையை அணுகுங்கள்",
+       "ஆலந்தூர் பகுதி மக்கள் பயன்பெறலாம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஆலந்தூர் காந்தி மருத்துவமனையில் நீரிழிவு நோயாளிகளுக்கு இலவச டயாலிசிஸ் பிரிவு நேற்று திறக்கப்பட்டது. ஆலந்தூர், சவுரி தெருவில் உள்ள மாநகராட்சி காந்தி மருத்துவமனை 1957ஆம் ஆண்டு தொடங்கப்பட்டது. இந்த மருத்துவமனை 10 கோடி ரூபாய் செலவில், 100 படுக்கை வசதியுடன், கடந்த பிப்ரவரியில் மேம்படுத்தப்பட்டது. மூன்றாம் தளத்தில் சென்னை கிழக்கு ரோட்டரி சங்கத்தின் உதவியுடன் 11 டயாலிசிஸ் கருவிகளுடன் சிறப்புப் பிரிவு திறக்கப்பட்டது. வார்டு தி மு க கவுன்சிலர் பிருந்தா பிரிவைத் திறந்து வைத்தார். சுகாதாரத்துறை இணை கமிஷனர் தாகரே சுபம் ஞானதேவ்ராவ், ஆலந்தூர் சட்டமன்ற உறுப்பினர் ஹரிஷ், ஆலந்தூர் மண்டலக் குழுத் தலைவர் சந்திரன் ஆகியோர் கருவிகளை இயக்கி வைத்தனர். இந்தப் பிரிவை டேங்கர் அறக்கட்டளை நிறுவனர் ஜார்ஜ் ஆபிரகாம் பொறுப்பேற்றுள்ளார். இங்கு தினமும் 22 பேருக்கு டயாலிசிஸ் செய்யப்படும். மாநகராட்சி சுகாதாரத்துறை நோயாளிகளைத் தேர்வு செய்து, முன்பதிவு முறையில் அனுப்பி வைக்கும். வாரத்தில் ஆறு நாட்கள் இந்தப் பிரிவு செயல்படும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🩺 ஆலந்தூர் காந்தி மருத்துவமனையில் இலவச டயாலிசிஸ் பிரிவு திறப்பு\n\n📰 முழு விவரம்:\nஆலந்தூர், சவுரி தெருவில் உள்ள மாநகராட்சி காந்தி மருத்துவமனை 1957ஆம் ஆண்டு தொடங்கப்பட்டது. இந்த மருத்துவமனை 10 கோடி ரூபாய் செலவில், 100 படுக்கை வசதியுடன், கடந்த பிப்ரவரியில் மேம்படுத்தப்பட்டது.\nநேற்று, மருத்துவமனையின் மூன்றாம் தளத்தில், சென்னை கிழக்கு ரோட்டரி சங்கத்தின் உதவியுடன் 11 டயாலிசிஸ் கருவிகளுடன் சிறப்புப் பிரிவு திறக்கப்பட்டது.\nவார்டு தி.மு.க. கவுன்சிலர் பிருந்தா பிரிவைத் திறந்து வைத்தார். சுகாதாரத்துறை இணை கமிஷனர் தாகரே சுபம் ஞானதேவ்ராவ், ஆலந்தூர் எம்.எல்.ஏ. ஹரிஷ், ஆலந்தூர் மண்டலக் குழுத் தலைவர் சந்திரன் ஆகியோர் கருவிகளை இயக்கி வைத்தனர்.\nடேங்கர் அறக்கட்டளை நிறுவனர் ஜார்ஜ் ஆபிரகாம் இப்பிரிவின் பொறுப்பை ஏற்றுள்ளார். தினமும் 22 பேருக்கு டயாலிசிஸ் செய்யப்படும். வாரத்தில் ஆறு நாட்கள் பிரிவு செயல்படும்.\n📍 இடம்: ஆலந்தூர், சவுரி தெரு, மாநகராட்சி காந்தி மருத்துவமனை\n🗓️ நாள்: நவம்பர் 18, 2026 (நேற்று திறப்பு)\nℹ️ மக்கள் கவனத்திற்கு: நோயாளிகள் சுகாதாரத்துறையால் தேர்வு செய்யப்பட்டு, முன்பதிவு முறையில் அனுப்பி வைக்கப்படுவர்.\n\nFree dialysis unit Alandur Gandhi Hospital | Chennai news\n📍 ஆலந்தூர், சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Alandur #மருத்துவம் #ChennaiNews",
+   "prompts": "A row of dialysis machines stands in a bright, clean treatment hall on the third floor of a government hospital in Alandur, Chennai. Eleven machines with tubes and monitors are set along the wall, and a few patients recline in cushioned chairs, seen from behind or far away, while a nurse in a white coat checks one machine. Pale green walls, ceiling fans and tall windows show daylight coming in. Officials in shirts and trousers stand near the entrance, slightly blurred. The camera is at eye level, 35 mm, wide enough to show the whole room and all eleven machines in daylight. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of one dialysis machine in a hospital treatment room in Alandur, Chennai. Its screen, pumps and coiled blood tubing are in sharp focus on a steel trolley, with a clean white sheet and a plastic chair edge visible behind it. A nurse's hand in a white glove adjusts a tube at the edge of frame, and daylight from a window falls across the metal and plastic. Background is softly blurred with other machines in a row. Camera slightly high, 35 mm, shallow depth of field to highlight the machine as the free-dialysis service. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/corporation-opens-dialysis-unit-at-gandhi-hospital/4380859",
+   "published": "2026-11-19T20:23:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('மாநகராட்சி காந்தி மருத்துவமனையில் ‘டாயாலிசிஸ்’ சிகிச்சை பிரிவு திறப்பு') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102668/chennaiminnal/mhkvr7lkfi9u8n5p6jtm.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102671/chennaiminnal/baqbg0g2zv4kcqwdwckw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "செம்பரம்பாக்கம் ஏரியில் கழிவு நீர் கலப்பதைத் தடுக்க கால்வாய்கள் மூடப்படுகின்றன",
+   "english_headline": "Sembarambakkam lake canals to be closed to stop sewage entering; Chennai Metrowater tells Green Tribunal",
+   "category": "Civic Issues",
+   "location": "Sembarambakkam lake, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குடிநீர் ஏரி",
+    "loc": "செம்பரம்பாக்கம், சென்னை",
+    "hl1": "செம்பரம்பாக்கம் ஏரி கால்வாய்கள் மூட",
+    "hl2": "கழிவு நீர் கலப்பதைத் தடுக்க",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "குடியிருப்புகளில் இருந்து கழிவு நீர் ஏரிக்கு வருவதாக புகார்",
+       "16 இடங்களில் மாதிரிகள் சேகரித்து ஆய்வு",
+       "தென் மண்டல பசுமை தீர்ப்பாயம் வழக்கு விசாரிக்கிறது"
+      ]
+     },
+     {
+      "title": "எந்தக் கால்வாய்?",
+      "lines": [
+       "மேற்கு பக்க நீர்வரத்து கால்வாய் <b>தற்காலிகமாக</b> மூடல்",
+       "கிழக்கு பக்க நீர்வரத்து கால்வாய் <b>நிரந்தரமாக</b> மூடல்",
+       "தொழிற்சாலை, குடியிருப்பு கழிவு நீர் தடுக்க ஏற்பாடு"
+      ]
+     },
+     {
+      "title": "மக்களுக்கு என்ன?",
+      "lines": [
+       "குடிநீர் ஆதாரம்: செம்பரம்பாக்கம் ஏரி",
+       "குடியிருப்புகளுக்கு வெள்ள பாதிப்பு வராமல் நடவடிக்கை",
+       "தகவலை சென்னை பெருநகர் குடிநீர் வடிகால் வாரியம் தெரிவித்தது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "செம்பரம்பாக்கம் ஏரிக்குள் கழிவு நீர் கலக்காமல் தடுக்க இரண்டு கால்வாய்கள் மூடப்படுகின்றன. குடியிருப்பு பகுதிகளில் இருந்து ஏரிக்குள் கழிவு நீர் வருவதாக புகார் எழுந்தது. இதனால், தென் மண்டல பசுமை தீர்ப்பாயம் இந்த விவகாரம் குறித்து தானாக முன்வந்து வழக்குப் பதிவு செய்து விசாரித்து வருகிறது. சென்னை பெருநகர் குடிநீர் வடிகால் வாரியம் பசுமை தீர்ப்பாயத்தில் அறிக்கை தாக்கல் செய்துள்ளது. வழக்கின் உத்தரவுப்படி, 16 இடங்களில் நீர் மாதிரிகள் சேகரிக்கப்பட்டு ஆய்வு செய்யப்பட்டன. அதன் அடிப்படையில், மேற்கு பக்க நீர்வரத்து கால்வாய் தற்காலிகமாக மூடப்படுகிறது. அங்கு தொழிற்சாலை மற்றும் குடியிருப்புகளில் இருந்து கழிவு நீர் வருவதைத் தடுக்க ஏற்பாடுகள் செய்யவும் உத்தரவிடப்பட்டுள்ளது. கிழக்கு பக்க நீர்வரத்து கால்வாய் நிரந்தரமாக மூடப்பட உத்தரவிடப்பட்டுள்ளது. அதே நேரத்தில், குடியிருப்புகளுக்கு வெள்ள பாதிப்பு ஏற்படாமல் இருக்கவும் நடவடிக்கை எடுக்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 செம்பரம்பாக்கம் ஏரியில் கழிவு நீர் கலப்பதைத் தடுக்க கால்வாய்கள் மூடல்\n\n📰 முழு விவரம்:\nகுடியிருப்புகளில் இருந்து கழிவு நீர் செம்பரம்பாக்கம் ஏரிக்குள் வருவதாக புகார் எழுந்தது. இது தொடர்பாக தென் மண்டல பசுமை தீர்ப்பாயம் தானாக முன்வந்து வழக்குப் பதிவு செய்து விசாரித்து வருகிறது.\nசென்னை பெருநகர் குடிநீர் வடிகால் வாரியம் தாக்கல் செய்த அறிக்கையில், 16 இடங்களில் மாதிரிகள் சேகரித்து ஆய்வு செய்ததாகத் தெரிவிக்கப்பட்டுள்ளது.\nஇதன் அடிப்படையில் மேற்கு பக்க நீர்வரத்து கால்வாய் தற்காலிகமாக மூடப்படுகிறது. கிழக்கு பக்க நீர்வரத்து கால்வாய் நிரந்தரமாக மூடப்படுகிறது.\nதொழிற்சாலை, குடியிருப்புகளில் இருந்து கழிவு நீர் வருவதைத் தடுக்க ஏற்பாடுகள் செய்யவும் உத்தரவிடப்பட்டுள்ளது. குடியிருப்புகளுக்கு வெள்ள பாதிப்பு ஏற்படாமல் பார்க்கவும் நடவடிக்கை எடுக்கப்படுகிறது.\n\nSembarambakkam lake canals closed, sewage | Chennai news\n📍 செம்பரம்பாக்கம், சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Sembarambakkam #குடிநீர் #ChennaiNews",
+   "prompts": "A Chennai Metrowater engineer in a white shirt and trousers stands with a Metrowater worker at the concrete mouth of an inlet canal where it meets the wide grey-green expanse of Sembarambakkam lake, with a few residential rooftops visible along the far bank. The canal opening is being fitted with a steel gate, and a worker in a helmet and rubber boots is bolting a metal plate across the channel. The lake is calm and open, with reeds and low scrub along the edges. Two residents in a plain shirt and a saree stand far off on the embankment, seen from behind. Daylight, slightly overcast morning. Camera at eye level, 35 mm, wide enough to show the lake, the canal and the houses behind. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a concrete rainwater drain canal entering the lake, its outlet half-blocked by a newly installed steel sluice gate and a heap of sand bags beside it. Dark, murky water flows slowly out of the concrete channel into the lake, with a green algae film on the surface, and a few plastic bottles caught against the mossy concrete edge. A worker's rubber boot and a yellow safety helmet rest on the embankment at the edge of the frame. Overcast daylight, muted colours. Camera close and low, 35 mm, focused on the gate and the drain mouth. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/water-board-informs-green-tribunal-of-closure-of-chembarambakkam-lake-canals/4380823",
+   "published": "2026-11-19T19:52:27+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: source/outlet name or link appears: ஆதாரம்",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102691/chennaiminnal/el5sig25yemh50zxil6h.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102695/chennaiminnal/j8ccfkhvrkr2gvzy9jpy.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மழைநீர் சேகரிப்பு இல்லாத கட்டடங்கள் மீது நடவடிக்கை: சென்னை கமிஷனர் எச்சரிக்கை",
+   "english_headline": "Chennai corporation commissioner Sameeran warns of action against building owners who do not set up rainwater harvesting structures",
+   "category": "Civic Issues",
+   "location": "Chennai city, Ripon Buildings, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மழைநீர் சேகரிப்பு",
+    "loc": "சென்னை மாவட்டம்",
+    "hl1": "சென்னை: மழைநீர் சேகரிப்பு இல்லாத",
+    "hl2": "கமிஷனர் சமீரன் எச்சரிக்கை",
+    "slides": [
+     {
+      "title": "என்ன சொன்னார்?",
+      "lines": [
+       "மழைநீர் சேகரிப்பு கட்டமைப்பை அமைக்காத கட்டட உரிமையாளர்கள்",
+       "மாநகராட்சி கமிஷனர் சமீரன் கூறினார்",
+       "இன்று (நவ. 19) ரிப்பன் மாளிகையில் கருத்தரங்கம் நடந்தது"
+      ]
+     },
+     {
+      "title": "ஆய்வு நிலவரம்",
+      "lines": [
+       "சென்னையில் உள்ள <b>17 லட்சம்</b> கட்டடங்களில் <b>10",
+       "<b>6 லட்சம்</b> கட்டடங்களில் மட்டுமே கட்டமைப்பு இருந்தது",
+       "<b>14 லட்சம்</b> கட்டடங்களில் அமைக்கப்படும்"
+      ]
+     },
+     {
+      "title": "அடுத்த நடவடிக்கை",
+      "lines": [
+       "துளி மக்கள் இயக்கத்தை முதல்வர் துவக்கி வைத்தார்",
+       "குறைந்த செலவில் சீரமைக்க பொதுமக்களுக்கு பயிற்சி",
+       "கிரெடாய் அமைப்பு கட்டமைப்பு அமைக்க உறுதி"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் மழைநீர் சேகரிப்பு கட்டமைப்பு அமைக்காத கட்டட உரிமையாளர்கள் மீது நடவடிக்கை எடுக்கப்படும் என மாநகராட்சி கமிஷனர் சமீரன் எச்சரித்துள்ளார். இன்று நவம்பர் 19ஆம் தேதி ரிப்பன் மாளிகையில் மழைநீர் சேகரிப்பு, நிலத்தடிநீர் பாதுகாப்பு குறித்த கருத்தரங்கம் நடைபெற்றது. நலச்சங்க பிரதிநிதிகள், தன்னார்வலர்கள், கட்டுமான நிறுவனங்கள், மாநகராட்சி மற்றும் குடிநீர் வாரிய பொறியாளர்கள் பங்கேற்றனர். துளி என்ற மக்கள் இயக்கத்தை முதல்வர் துவக்கி வைத்துள்ளார். சென்னையில் உள்ள 17 லட்சம் கட்டடங்களில் 10 லட்சம் கட்டடங்களில் ஆய்வு நடந்தது. அதில் 6 லட்சம் கட்டடங்களில் மட்டுமே மழைநீர் சேகரிப்பு கட்டமைப்பு இருந்தது. சாத்தியமுள்ள 14 லட்சம் கட்டடங்களில் கட்டமைப்பு அமைக்கப்படும். காலநிலை மாற்றத்தால் நிலத்தடி நீர்மட்டம் குறைந்து வருகிறது. குறைந்த செலவில் கட்டமைப்புகளை சீரமைக்க பொதுமக்களுக்கு பயிற்சி வழங்கப்படும். மழைநீர் சேகரிப்பு கட்டமைப்பு அமைக்க மக்கள் தானாக முன்வர வேண்டும் என கமிஷனர் கேட்டுக்கொண்டுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னையில் மழைநீர் சேகரிப்பு இல்லாத கட்டடங்கள் மீது நடவடிக்கை: கமிஷனர் எச்சரிக்கை\n\n📰 முழு விவரம்:\nமழைநீர் சேகரிப்பு கட்டமைப்பை அமைக்காத கட்டட உரிமையாளர்கள் மீது நடவடிக்கை எடுக்கப்படும் என மாநகராட்சி கமிஷனர் சமீரன் கூறினார். இன்று (நவ. 19) ரிப்பன் மாளிகையில் மழைநீர் சேகரிப்பு, நிலத்தடிநீர் பாதுகாப்பு குறித்த கருத்தரங்கம் நடைபெற்றது. நலச்சங்க பிரதிநிதிகள், தன்னார்வலர்கள், கட்டுமான நிறுவனங்கள், மாநகராட்சி மற்றும் குடிநீர் வாரிய பொறியாளர்கள் பங்கேற்றனர். சென்னையில் உள்ள 17 லட்சம் கட்டடங்களில் 10 லட்சம் கட்டடங்களில் ஆய்வு நடந்தது; அதில் 6 லட்சம் கட்டடங்களில் மட்டுமே கட்டமைப்பு இருந்தது. சாத்தியமுள்ள 14 லட்சம் கட்டடங்களில் கட்டமைப்பு அமைக்கப்படும். அரசாணை, கையேடும் வெளியிடப்பட்டுள்ளது.\n📍 இடம்: ரிப்பன் மாளிகை, சென்னை\n🗓️ நாள்: நவ. 19, 2026\n👮 நடவடிக்கை: கட்டமைப்பு அமைக்காத உரிமையாளர்கள் மீது நடவடிக்கை\nℹ️ மக்கள் கவனத்திற்கு: குறைந்த செலவில் கட்டமைப்பை சீரமைக்க பயிற்சி வழங்கப்படும்.\n\nChennai rainwater harvesting action warning | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #மழைநீர்",
+   "prompts": "A seminar in progress inside the conference hall of Ripon Buildings, the Chennai Corporation headquarters in Chennai city, on a daytime November afternoon. Rows of seated officials, engineers and association members in shirts, sarees and salwar face a long wooden table where a senior Corporation commissioner in formal shirt and trousers stands at a microphone, one hand raised as if explaining. Behind him a large screen and a stack of printed booklets on the table hint at the rainwater harvesting manual. Seen from the back of the hall at eye level with a 35 mm lens, the room is wide and fully lit by ceiling lights, with white pillars and a Tamil Nadu government banner area kept blank. Several attendees in the front rows are taking notes on paper pads. The image conveys a serious official warning about compliance with rainwater harvesting rules. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a rooftop rainwater harvesting pipe and collection tank on the terrace of a multi-storey apartment building in Chennai city, with a concrete water tank, a downpipe running down the wall and a small filter chamber beside it. Behind it the flat roofs and water tanks of neighbouring buildings stretch into the hazy daylight, and a few residents' clothes hang on a line at a distance. No people in focus, only a faint silhouette of a worker from behind near the parapet. The camera sits slightly above the tank at about 35 mm, showing the plain concrete texture, the pipe joints and the dry patches of the roof, suggesting the structure that building owners are being told to install. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/municipal-corporation-commissioner-samiran-warns-of-action-against-those-who-do-not-install-rainwater-harvesting-infrastructure/4380588",
+   "published": "2026-11-19T18:12:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area); caption misses facts of the article (put every one in 📰 முழு விவரம்): 500 ('அது தொடர்பாக நடந்த கருத்தரங்கில், 500 பேர் பங்கேற்றனர்.')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102719/chennaiminnal/pbb1wpivi4vuo1bzhdzk.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795102723/chennaiminnal/sgkrom39gebmrw5jeu31.jpg"
    ]
   }
  ]
