@@ -3,35 +3,31 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/rain-shortage-groundwater-level-declines-in-tamil-nadu",
-  "manual link added: https://www.maalaimalar.com/amp/story/news/business-and-gold-rate/today-gold-price-in-chennai-19-11-2026",
-  "manual link added: https://www.hindutamil.in/news/business/gold-rate-down-by-rupees-97720-per-sovereign",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/in-the-mla-s-poster--he-can-see-the-tension-of-the-people-of-ambattur-due-to-the-spread-of-dengue-/4380087",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/dgp-mahesh-kumar-aggarwal-launches-new-e-csr-facility-introduced-in-tn-police",
-  "candidate filter: collected=5",
-  "to write: 5 Chennai district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/dgp-mahesh-kumar-ag",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.hindutamil.in/news/business/gold-rate-down-by-ru",
+  "manual link added: https://www.hindutamil.in/news/supplements/vazhvu-inithu/directions-and-markets",
+  "manual link added: https://www.polimernews.com/video/anti-drug-police-conduct-raids-at-10-locations-in-chennai-12822435",
+  "manual link added: https://www.maalaimalar.com/news/business-and-gold-rate/people-happy-over-price-drop-gold-sales-pick-up-in-chennai",
+  "candidate filter: collected=3",
+  "to write: 3 Chennai district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.maalaimalar.com/news/business-and-gold-rate/peop",
+  "try (N) manual=True: https://www.polimernews.com/video/anti-drug-police-conduct-r",
+  "try (N) manual=True: https://www.hindutamil.in/news/supplements/vazhvu-inithu/dir",
+  "NOT filed (N) திசைகளும் சந்தைகளும் | விடுமுறை: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.maalaimalar.com/amp/story/news/business-and-gold",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/rain-shortage-gr",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
-  "filed: 5 Chennai district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 78 min",
+  "filed: 2 Chennai district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
@@ -39,42 +35,33 @@
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "dead for this round: groq/qwen/qwen3.8-27b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok gemini/gemini-3.6-flash (44s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -86,363 +73,131 @@
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னையில் ஒரு பவுன் தங்கம் ரூ.97,720 ஆக சரிவு",
-   "english_headline": "Chennai gold drops: one pavun now Rs.97,720 after Rs.2,040 fall",
+   "tamil_headline": "சென்னையில் 10-க்கும் மேற்பட்ட இடங்களில் போலீசார் போதைப்பொருள் சோதனை: 5 பேர் கைது",
+   "english_headline": "Police raid over 10 places in Chennai over drug complaints; 5 arrested including 3 women for banned tablets",
+   "category": "Crime & Safety",
+   "location": "Kannagi Nagar and OMR, ECR areas, Chennai city, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போதைப்பொருள் சோதனை",
+    "loc": "சென்னை நகரம்",
+    "hl1": "சென்னையில் 10-க்கும் மேற்பட்ட இடங்களில்",
+    "hl2": "5 பேர் கைது",
+    "slides": [
+     {
+      "title": "எங்கே சோதனை?",
+      "lines": [
+       "ஓ.எம்.ஆர், ஈ.சி.ஆர் பகுதிகளில் விடுதிகளில் சோதனை",
+       "கண்ணகி நகர் குடியிருப்பு பகுதியிலும் சோதனை",
+       "அடுக்குமாடி குடியிருப்பில் வீடு வீடாகத் தேடுதல்"
+      ]
+     },
+     {
+      "title": "யார் தலைமை?",
+      "lines": [
+       "தாம்பரம் மாநகர காவல் ஆணையரகம் நடவடிக்கை",
+       "துணை ஆணையர் ஈஸ்வரன் தலைமையில் நடந்தது",
+       "சுமார் <b>2,500 போலீசார்</b> சோதனையில் ஈடுபட்டனர்"
+      ]
+     },
+     {
+      "title": "என்ன கைப்பற்றல்?",
+      "lines": [
+       "தடை செய்யப்பட்ட மாத்திரைகள் கைப்பற்றப்பட்டன",
+       "<b>3 பெண்கள் உள்பட 5 பேர்</b> கைது",
+       "போதைப்பொருள் புழக்கப் புகார்கள் காரணம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் 10-க்கும் மேற்பட்ட இடங்களில் போலீசார் போதைப்பொருள் சோதனை நடத்தினர். போதைப்பொருள் புழக்கம் குறித்துப் புகார்கள் எழுந்ததை அடுத்து இந்தச் சோதனை நடைபெற்றது. தாம்பரம் மாநகர காவல் ஆணையரகம், பள்ளிக்கரணை காவல் மாவட்ட எல்லைக்குட்பட்ட பகுதிகளில் துணை ஆணையர் ஈஸ்வரன் தலைமையில் சுமார் 2,500 போலீசார் ஈடுபட்டனர். அதிகாலை முதல் ஓ எம் ஆர், ஈ சி ஆர் மற்றும் சுற்றுவட்டாரப் பகுதிகளில் உள்ள ஆண்கள் விடுதிகளில் சோதனை நடைபெற்றது. இந்த விடுதிகளில் கல்லூரி மாணவர்களும் ஐடி ஊழியர்களும் தங்கியிருந்தனர். கண்ணகி நகர் குடியிருப்பு பகுதியிலும் சோதனை நடத்தப்பட்டு, தடை செய்யப்பட்ட மாத்திரைகள் கைப்பற்றப்பட்டன. அடுக்குமாடி குடியிருப்பில் வீடு வீடாகச் சென்று போலீசார் பொருட்களைத் தேடினர். தடை செய்யப்பட்ட மாத்திரைகளை வைத்திருந்ததாக 3 பெண்கள் உள்பட 5 பேரை போலீசார் கைது செய்தனர். கைதான பெண்கள் அழுதபடி போலீஸ் வாகனத்தில் ஏறியதும், குடும்பத்தினர் கதறி அழுததும் அங்கிருந்தோரை உருக்கியது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னையில் 10-க்கும் மேற்பட்ட இடங்களில் போலீஸ் போதைப்பொருள் சோதனை: 5 பேர் கைது\n\n📰 முழு விவரம்:\nபோதைப்பொருள் புழக்கம் குறித்துப் புகார்கள் எழுந்ததை அடுத்து, சென்னையில் 10-க்கும் மேற்பட்ட இடங்களில் போலீசார் சோதனை நடத்தினர். தாம்பரம் மாநகர காவல் ஆணையரகம், பள்ளிக்கரணை காவல் மாவட்ட எல்லையில் துணை ஆணையர் ஈஸ்வரன் தலைமையில் சுமார் 2,500 போலீசார் ஈடுபட்டனர். ஓ.எம்.ஆர், ஈ.சி.ஆர் பகுதிகளில் அதிகாலை முதல் கல்லூரி மாணவர்கள், ஐடி ஊழியர்கள் தங்கும் ஆண்கள் விடுதிகளில் சோதனை நடந்தது. கண்ணகி நகர் குடியிருப்பில் தடை செய்யப்பட்ட மாத்திரைகள் கைப்பற்றப்பட்டன. ஓர் அடுக்குமாடி குடியிருப்பில் வீடு வீடாகச் சோதனை நடத்தி, 3 பெண்கள் உள்பட 5 பேரைக் கைது செய்தனர்.\n📍 இடங்கள்: ஓ.எம்.ஆர், ஈ.சி.ஆர், கண்ணகி நகர்\n🗓️ நாள்: நவம்பர் 19, 2026\n👮 நடவடிக்கை: தடை செய்யப்பட்ட மாத்திரைகளை வைத்திருந்ததாக 5 பேர் கைது\n\nChennai police drug raids 10 places, 5 arrested | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Crime",
+   "prompts": "A line of khaki-uniformed Tamil Nadu police officers, around a dozen or more, walks in a single file up the stairwell of a multi-storey apartment block in Kannagi Nagar, Chennai, carrying bags and torches as they go floor to floor on an early morning in daylight. The building has plain concrete walls, grilled windows, dried clothes hanging on balconies, and a few two-wheelers parked in the compound below. Seen from the ground level at a distance, a small group of residents, mostly women in sarees and men in shirts and veshti, stands at the gate watching quietly. A police vehicle, a white Tamil Nadu police jeep, waits near the entrance with its door open. The sky is bright morning daylight with soft haze over the city. Camera at eye level, 35 mm lens, wide enough to show the full building and the officers on the stairs, people shown from behind or far away. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a table or wooden cupboard shelf in a plain room of an apartment, where a small heap of seized banned tablets in clear plastic packets and loose strips sits beside a few folded clothes, bags and a pile of cloth. Gloved hands of a police officer in khaki, seen only from the wrist down, sort through the packets. Behind the table, the edge of an open almirah and a plastic bag hang on a wall. Soft natural daylight from a window falls across the objects. No faces are visible, no readable labels or text. Camera slightly high, 35 mm lens, tight but still showing the seized items in context. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.polimernews.com/video/anti-drug-police-conduct-raids-at-10-locations-in-chennai-12822435",
+   "published": "2026-11-19T11:54:36+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'நகரம்' is not in the article",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795073698/chennaiminnal/pwu4yw094yyorcpzwz4i.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795073703/chennaiminnal/z6ran5qqzbxebh869yk3.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னையில் தங்கம் விலை குறைந்ததால் நகை விற்பனை 15 சதவீதம் உயர்வு",
+   "english_headline": "Chennai gold sales rise 15% after prices fall below Rs 1 lakh per sovereign",
    "category": "Business & Prices",
    "location": "Chennai, Chennai district",
-   "importance": "High",
+   "importance": "Medium",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
     "cat": "தங்கம் விலை",
     "loc": "சென்னை",
-    "hl1": "சென்னையில் தங்கம் விலை சரிவு",
-    "hl2": "ஒரு பவுன் ரூ.97,720",
+    "hl1": "சென்னையில் தங்க நகை விற்பனை 15% உயர்வு",
+    "hl2": "சவரன் ரூ.1 லட்சத்துக்கு கீழே",
     "slides": [
      {
-      "title": "இன்றைய விலை",
+      "title": "விலை குறைவு",
       "lines": [
-       "ஒரு பவுன் ஆபரணத் தங்கம் <b>ரூ.97,720</b>",
-       "பவுனுக்கு <b>ரூ.2,040</b> குறைந்தது",
-       "சென்னையில் விற்பனை விலை"
+       "தங்கம் சவரனுக்கு <b>ரூ.1 லட்சத்துக்கு</b> கீழே குறைந்தது",
+       "கடந்த 10 நாட்களாக விலை வேகமாக குறைந்து வருகிறது",
+       "அதற்கு முன் சவரன் ஒரு வருடமாக <b>ரூ.1.20 லட்சம்</b> அளவில் இருந்தது"
       ]
      },
      {
-      "title": "ஒரு கிராம் விலை",
+      "title": "விற்பனை உயர்வு",
       "lines": [
-       "ஒரு கிராம் தங்கம் <b>ரூ.12,215</b>",
-       "ஒரு கிராமுக்கு <b>ரூ.255</b> குறைந்தது",
-       "கடந்த 9 நாட்களில் பவுனுக்கு <b>ரூ.8,320</b> வரை குறைந்துள்ளது"
+       "விலை குறைந்ததால் நகை வாங்கும் ஆர்வம் அதிகரித்தது",
+       "சென்னையில் நகை விற்பனை <b>15 சதவீதம்</b> உயர்ந்தது",
+       "திருமண சீசனால் தேவை மேலும் உயரும் என எதிர்பார்ப்பு"
       ]
      },
      {
-      "title": "வெள்ளி விலை",
+      "title": "விலை சரிவுக்கு",
       "lines": [
-       "வெள்ளி கிராமுக்கு <b>ரூ.5</b> குறைந்து <b>ரூ.185</b>",
-       "கட்டி வெள்ளி கிலோவுக்கு <b>ரூ.5,000</b> குறைந்து",
-       "கட்டி வெள்ளி <b>ரூ.1,85,000</b> ஆக உள்ளது"
+       "அமெரிக்க தேர்தல் முடிவு, பணவீக்கம் உயர்வு காரணம்",
+       "வட்டி விகிதம், டாலர் மதிப்பு உயர்வும் காரணமாக கூறப்படுகிறது",
+       "இறக்குமதி வரி <b>6%</b> இலிருந்து <b>15%</b> ஆக உயர்த்தப்பட்டது"
       ]
      },
      {
-      "title": "ஏன் குறைந்தது?",
+      "title": "உலக தங்க கவுன்சில்",
       "lines": [
-       "அமெரிக்க வட்டி விகிதம் உயரும் எதிர்பார்ப்பு",
-       "டாலர் வலுப்பெறுவதும் காரணம்",
-       "நவ. 9 முதல் தங்கம் விலை குறைந்து வருகிறது"
+       "விலை குறைவால் இந்தியாவில் நகை தேவை அதிகரிக்கலாம்",
+       "விலை மீண்டும் உயர்ந்தால் வாங்கும் ஆர்வம் குறையலாம்",
+       "பழைய நகைகளை மாற்றும் வாடிக்கையாளர்கள் சற்று குறைந்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் ஒரு பவுன் தங்கம் ரூ.97,720 ஆக சரிந்தது. நேற்று சென்னையில் ஆபரணத் தங்கத்தின் விலை பவுனுக்கு ரூ.2,040 குறைந்தது. நவம்பர் 17ஆம் தேதி ஒரு பவுன் ஒரு லட்சம் ரூபாய்க்குக் கீழ் இறங்கியது. பதினொரு மாதங்களுக்குப் பிறகு இந்த விலை இறக்கம் ஏற்பட்டது. ஒரு கிராம் தங்கம் ரூ.12,215 ஆக விற்கப்பட்டது. கடந்த 9 நாட்களில் மட்டும் பவுனுக்கு ரூ.8,320 வரை குறைந்துள்ளது. வெள்ளி கிராமுக்கு ரூ.5 குறைந்து ரூ.185 ஆக இருந்தது. கட்டி வெள்ளி கிலோவுக்கு ரூ.5,000 குறைந்து ரூ.1,85,000 ஆக இருந்தது. அமெரிக்க ஃபெடரல் வங்கி வட்டி விகிதத்தை உயர்த்தும் என்ற எதிர்பார்ப்பு, வலுவாகும் அமெரிக்க டாலர், அதிக வட்டி தரும் பத்திரங்களை முதலீட்டாளர்கள் வாங்குவது ஆகியவை விலை குறையக் காரணங்களாகக் கூறப்படுகின்றன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📉 சென்னையில் ஒரு பவுன் தங்கம் ரூ.97,720 ஆக சரிவு\n\n📰 முழு விவரம்:\nசென்னையில் நேற்று ஆபரணத் தங்கத்தின் விலை அதிரடியாகக் குறைந்தது. பவுனுக்கு ரூ.2,040 குறைந்து ரூ.97,720-க்கு விற்கப்பட்டது. ஒரு கிராம் தங்கம் ரூ.255 குறைந்து ரூ.12,215-க்கு விற்கப்பட்டது. 24 காரட் தங்கம் ரூ.1,06,600 ஆக இருந்தது. நவம்பர் 17ஆம் தேதி ஒரு பவுன் ஒரு லட்சம் ரூபாய்க்குக் கீழ் இறங்கியது; 11 மாதங்களுக்குப் பிறகு இந்த நிலை ஏற்பட்டது. கடந்த 9 நாட்களில் பவுனுக்கு ரூ.8,320 வரை குறைந்துள்ளது.\n💰 வெள்ளி: கிராமுக்கு ரூ.5 குறைந்து ரூ.185; கட்டி வெள்ளி கிலோவுக்கு ரூ.5,000 குறைந்து ரூ.1,85,000.\n🌍 காரணங்கள்: அமெரிக்க ஃபெடரல் வங்கி வட்டி விகிதத்தை உயர்த்தும் எதிர்பார்ப்பு, வலுவாகும் அமெரிக்க டாலர், அதிக வட்டி தரும் பத்திரங்களை முதலீட்டாளர்கள் வாங்குவது.\n\nChennai gold price falls, one pavun Rs.97,720 | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #தங்கம்விலை #சென்னை",
-   "prompts": "Inside a well-lit gold jewellery showroom in Chennai city, a shop assistant in a formal shirt stands behind a long glass display counter filled with gold ornaments - bangles, chains and necklaces - while a customer seen from behind, in a saree, looks at the pieces. The shop feels busy yet calm in daytime, with warm indoor lights reflecting off the polished gold. On a side wall, a digital rate board glows with numbers that are too small to read, suggesting the day's falling prices. Glass cabinets stacked with jewellery line the shop, and a few other customers stand at a distance in the background. Captured at eye level with a 35 mm lens, wide enough to show the full counter and the shop interior. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a glass display tray inside a Chennai jewellery shop, where a set of gold bangles and a gold chain rest beside a small digital weighing scale and a pile of gold biscuits. A shop assistant's hand, wearing a plain shirt cuff, gently adjusts one bangle on the velvet tray, while the blurred outline of a customer stands far behind the counter. Soft shop lighting in daytime highlights the warm shine of the gold against the dark display surface. The focus is sharp on the gold pieces, with the background softly out of focus, shot at eye level with a 35 mm lens to emphasise the falling-price story through the valuable jewellery. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/business/gold-rate-down-by-rupees-97720-per-sovereign",
-   "published": "2026-11-18T21:05:00Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 106600, 12215, 185000; caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('இதற்​கிடை​யில், 11 மாதங்​களுக்​குப் பிறகு நேற்று முன்​தினம் '); 97 ('பவுனுக்கு ரூ.2,040 குறைந்து, ரூ.97 ஆயிரத்து 720-க்கு விற்​கப'); 720 ('பவுனுக்கு ரூ.2,040 குறைந்து, ரூ.97 ஆயிரத்து 720-க்கு விற்​கப'); 12 ('ஒரு கிராம் தங்​கம் ரூ.255 குறைந்து, ரூ.12 ஆயிரத்து 215-க்கு '); 215 ('ஒரு கிராம் தங்​கம் ரூ.255 குறைந்து, ரூ.12 ஆயிரத்து 215-க்கு '); 1 ('இது போல, வெள்ளி கிராமுக்கு ரூ.5 குறைந்து ரூ.185 ஆகவும், கட்ட')",
+   "reel_script": "சென்னையில் தங்கம் விலை குறைந்ததால் நகை விற்பனை 15 சதவீதம் உயர்ந்துள்ளது. தங்கம் சவரனுக்கு ரூ.1 லட்சத்துக்கு கீழே குறைந்துள்ளது. கடந்த 10 நாட்களாக விலை மிக வேகமாக குறைந்து வருகிறது. கடந்த ஜனவரி மாதம் 29ஆம் தேதி வரலாற்றில் முதல் முறையாக சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400 என்ற உச்சத்தைத் தொட்டது. அதன்பிறகு சவரன் ரூ.1 லட்சத்து 20 ஆயிரம் அளவில் ஏற்ற இறக்கமாக இருந்தது. அமெரிக்க இடைக்காலத் தேர்தல் முடிவு, பணவீக்கம் உயர்வு, வட்டி விகிதம் உயர்வு, டாலர் மதிப்பு உயர்வு ஆகியவை காரணங்களாகக் கூறப்படுகின்றன. விலை குறைந்ததால் பெண்களிடம் மகிழ்ச்சி அதிகரித்து, நகை வாங்கும் ஆர்வமும் உயர்ந்துள்ளது. திருமண சீசன் என்பதால் தங்கத்தின் தேவை மேலும் உயரும் என எதிர்பார்க்கப்படுகிறது. உலக தங்க கவுன்சில், விலை மீண்டும் உயர்ந்தால் வாங்கும் ஆர்வம் குறையக்கூடும் என தெரிவித்துள்ளது. இறக்குமதி வரி 6 சதவீதத்திலிருந்து 15 சதவீதமாக மத்திய அரசு உயர்த்தியதால் இறக்குமதி குறையும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💍 சென்னையில் தங்கம் விலை குறைந்ததால் நகை விற்பனை 15% உயர்வு\n\n📰 முழு விவரம்:\nசென்னையில் தங்கம் சவரனுக்கு ரூ.1 லட்சத்துக்கு கீழே குறைந்ததால் நகை வாங்கும் ஆர்வம் அதிகரித்துள்ளது. விற்பனை 15 சதவீதம் உயர்ந்துள்ளது. கடந்த ஜனவரி 29ஆம் தேதி தங்கம் வரலாற்றில் முதல் முறையாக சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400 என்ற உச்சத்தைத் தொட்டது. அதன்பிறகு சவரன் ரூ.1 லட்சத்து 20 ஆயிரம் அளவில் ஏற்ற இறக்கமாக இருந்தது. கடந்த 10 நாட்களாக விலை வேகமாக குறைந்து வருகிறது. அமெரிக்க இடைக்காலத் தேர்தல் முடிவு, பணவீக்கம், வட்டி விகிதம் உயர்வு, டாலர் மதிப்பு உயர்வு ஆகியவை காரணங்களாகக் கூறப்படுகின்றன. நகைக்கடை வியாபாரிகள், தொடர்ந்து விலை குறைந்தால் விற்பனை மேலும் உயரும் என்கின்றனர். உலக தங்க கவுன்சில், திருமண சீசனால் நகை தேவை அதிகரிக்கலாம் என தெரிவித்துள்ளது. ஆனால் விலை மீண்டும் உயர்ந்தால் வாங்கும் ஆர்வம் குறையக்கூடும். தீபாவளி, தனவந்திரி பூஜை காலத்தில் பண்டிகை விற்பனை கடந்த ஆண்டை விட 15 முதல் 25 சதவீதம் உயர்ந்தது. பல கடைகளில் 40 முதல் 60 சதவீதம் பேர் பழைய நகைகளைக் கொடுத்து புதியவை வாங்கினர். 2025-26 நிதியாண்டில் தங்க இறக்குமதி ரூ.6.84 லட்சம் கோடியாக இருந்தது. இறக்குமதி வரி 15 சதவீதமாக உயர்த்தப்பட்டதால் இந்த ஆண்டு இறக்குமதி ரூ.3.32 லட்சம் கோடி முதல் ரூ.3.80 லட்சம் கோடி வரை குறையும் என எதிர்பார்க்கப்படுகிறது.\n\nChennai gold prices fall below Rs 1 lakh, jewellery sales up 15% | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #தங்கம் #சென்னை",
+   "prompts": "A row of women shoppers in sarees and salwar stand at the glass display counter of a busy jewellery showroom in Chennai city, examining gold necklaces, bangles and earrings laid out under bright lights while a shop assistant in a shirt pulls out a tray of new gold jewellery. The showroom is a wide ground-floor shop on a crowded shopping street in T. Nagar-style Chennai, with tall glass display cases, customers seen from behind and slightly to the side, and a few families waiting on cushioned benches near the entrance. The shoppers are busy choosing wedding-season gold, and the sales staff are handing trays across the counter, showing that many buyers are present at once. Daylight streams in through the front glass with a warm indoor glow from the lamps over the cases. Shot at eye level with a 35 mm lens, wide enough to show the counter, the staff and the crowded shop floor. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a glass display tray on a jewellery counter in Chennai, holding rows of freshly polished gold chains, bangles and coins arranged in neat lines, with a set of small gold bars resting beside them. A shop assistant's hands in a shirt sleeve hover near the tray, placing a gold bangle on a black velvet cloth while a customer's hand reaches in from the edge of the frame. Behind the glass, the soft lights of the showroom create reflections on the gold, and the background is blurred to show the shop interior. The scene suggests a day of brisk sales during the wedding season and a drop in gold prices. Shot at close distance with a 35 mm lens and shallow depth of field, eye level, daylight mixed with warm shop lights. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.maalaimalar.com/news/business-and-gold-rate/people-happy-over-price-drop-gold-sales-pick-up-in-chennai",
+   "published": "2026-11-19T05:46:35Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 26; caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('தங்கம் விலை குறைந்ததால் சில கடைகளில் பழைய தங்கத்தை மாற்றி வா'); 51 ('தங்கம் விலை குறைந்ததால் சில கடைகளில் பழைய தங்கத்தை மாற்றி வா')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062836/chennaiminnal/ivyi6i1xods7khfhg2qz.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062841/chennaiminnal/uh1ga01snhgsjcnnrq53.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தமிழக காவல் துறையில் புதிய இ-சிஎஸ்ஆர் வசதி: வீட்டிலிருந்தே புகார் பதிவு",
-   "english_headline": "Tamil Nadu police launch e-CSR: file complaints online from home, get acknowledgement by SMS",
-   "category": "Government & Services",
-   "location": "Chennai, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "காவல் துறை",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: வீட்டிலிருந்தே காவல் புகார்",
-    "hl2": "இ-சிஎஸ்ஆர் வசதி அறிமுகம்",
-    "slides": [
-     {
-      "title": "புதிய வசதி",
-      "lines": [
-       "தமிழக காவல் துறையில் புதிய <b>இ-சிஎஸ்ஆர்</b> வசதி அறிமுகம்",
-       "டிஜிபி மகேஷ் குமார் அகர்வால் சென்னையில் தொடங்கி வைத்தார்",
-       "இனி காவல் நிலையம் செல்லத் தேவையில்லை"
-      ]
-     },
-     {
-      "title": "புகார் பதிவு முறை",
-      "lines": [
-       "police.tn.gov.in இணையதளத்துக்குச் செல்லுங்கள்",
-       "'Register Complaint / e-CSR' வசதியைத் தேர்வு செய்யுங்கள்",
-       "புகார் பதிவானதும் <b>இ-சிஎஸ்ஆர் எண்</b> குறுஞ்செய்தியில் வரும்"
-      ]
-     },
-     {
-      "title": "நடவடிக்கை",
-      "lines": [
-       "புகார் சம்பந்தப்பட்ட காவல் நிலையத்துக்கு அனுப்பப்படும்",
-       "சிட்டிசன் போர்டல் பகுதியில் நடவடிக்கை விவரம் பார்க்கலாம்",
-       "பெண்கள், குழந்தைகள் புகார்களுக்கு முன்னுரிமை"
-      ]
-     },
-     {
-      "title": "அவசர உதவி",
-      "lines": [
-       "அவசரத்துக்கு <b>100</b> அல்லது <b>112</b> அழைக்கவும்",
-       "பெண்கள் உதவிக்கு <b>1091</b> அழைக்கலாம்",
-       "பொய் புகார் அளித்தால் நடவடிக்கை எடுக்கப்படும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் இனி வீட்டிலிருந்தபடியே காவல் புகார் அளிக்கலாம். தமிழக காவல் துறையில் புதிய இ-சிஎஸ்ஆர் வசதியை டிஜிபி மகேஷ் குமார் அகர்வால் தொடங்கி வைத்தார். இதுவரை புகாரின் ஒப்புகை நகலுக்காக காவல் நிலையத்துக்கு நேரில் செல்ல வேண்டியிருந்தது. இந்தச் சிரமத்தைப் போக்கவே இந்த வசதி அறிமுகப்படுத்தப்பட்டுள்ளது. காவல் துறை இணையதளமான police.tn.gov.in-க்குச் சென்று, Register Complaint என்ற வசதியைத் தேர்வு செய்து புகாரைப் பதிவு செய்யலாம். புகார் பதிவானதும் தனித்துவமான இ-சிஎஸ்ஆர் எண்ணுடன் கூடிய ஒப்புகை குறுஞ்செய்தி உடனடியாக செல்போனுக்கு வரும். அந்தப் புகார் சம்பந்தப்பட்ட காவல் நிலையத்துக்கு அனுப்பப்பட்டு விசாரணை தொடங்கும். எடுக்கப்பட்ட நடவடிக்கைகளின் விவரங்களை சிட்டிசன் போர்டல் பகுதியில் பார்க்கலாம். பெண்கள் மற்றும் குழந்தைகள் தொடர்பான புகார்களுக்கு முன்னுரிமை அளிக்கப்படும். இந்த வசதி அவசர உதவிக்கானது அல்ல. அவசரத்தில் 100 அல்லது 112 அழைக்கவும்; பெண்கள் 1091 அழைக்கலாம். தமிழகத்தில் உள்ள அனைத்து காவல் நிலையங்களிலும் தலா 6 சிசிடிவி கேமராக்கள் பொருத்த உத்தரவிடப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை: இனி வீட்டிலிருந்தே காவல் புகார் பதிவு செய்யலாம்\n\n📰 முழு விவரம்:\nதமிழக காவல் துறையின் புதிய இ-சிஎஸ்ஆர் வசதியை டிஜிபி மகேஷ் குமார் அகர்வால் நேற்று டிஜிபி அலுவலகத்தில் தொடங்கி வைத்தார். இனி புகார் அளித்ததற்கான ஒப்புகை நகலுக்காகக் காவல் நிலையத்துக்குச் நேரில் செல்ல வேண்டியதில்லை. police.tn.gov.in இணையதளத்தில் 'Register Complaint / e-CSR' வசதியில் புகாரைப் பதிவு செய்யலாம். புகார் பதிவானதும் தனித்துவமான இ-சிஎஸ்ஆர் எண்ணுடன் ஒப்புகை குறுஞ்செய்தி உடனடியாக அனுப்பப்படும். புகார் சம்பந்தப்பட்ட காவல் நிலையத்துக்கு அனுப்பப்பட்டு விசாரணை தொடங்கும். நடவடிக்கை விவரங்களை சிட்டிசன் போர்டல் பகுதியில் தெரிந்துகொள்ளலாம். பெண்கள், குழந்தைகள் மீதான குற்றப் புகார்களுக்கு முன்னுரிமை அளிக்கப்படும். இ-சிஎஸ்ஆர் பொய் புகார் அளித்தால் நடவடிக்கை உறுதி; உயர் அதிகாரிகள் டேஷ்போர்டு மூலம் கண்காணிப்பர்.\n🔹 இது அவசரகால உதவிக்கானது அல்ல. அவசரத்துக்கு 100 அல்லது 112; பெண்கள் 1091.\n🔹 தமிழகத்தில் உள்ள அனைத்து காவல் நிலையங்களிலும் தலா 6 சிசிடிவி கேமராக்கள் பொருத்த உத்தரவு.\n🔹 குண்டர் தடுப்புச் சட்டத்தின் கீழ் 1,919 பேர் மீது நடவடிக்கை எடுக்கப்பட்டுள்ளது. ரவுடி கொலைகள் ஒரு சதவீதம் மட்டுமே; 90 சதவீத கொலைகள் குடும்ப விவகாரம் உள்பட பல காரணங்களால் நடக்கின்றன.\n🔹 செஞ்சியில் காணாமல் போன சிறுமி வழக்கை சிபிசிஐடி விசாரித்து வருகிறது.\n🔹 குற்றங்களை தடுக்க ரவுடி ஒழிப்பு, போதைப்பொருள் தடுப்பு, ரோந்துப் பணி தீவிரப்படுத்தப்படும் என டிஜிபி தெரிவித்தார்.\n🔹 சுகாதாரம், உயர்கல்வித் துறைக்கு ரூ.262 கோடியில் கட்டிடங்களை முதல்வர் விஜய் திறந்துவைத்தார்.\n\nChennai e-CSR online police complaint | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #காவல்துறை #சென்னை",
-   "prompts": "Inside a government hall at the DGP office in Chennai, senior Tamil Nadu police officers in khaki uniform sit at a long wooden table draped with a cloth, where a formal ceremony to launch the new online complaint facility is taking place. Seen from behind a row of reporters with notebooks and microphones, the officers face a wall with a large screen displaying a dashboard-style graphic, though nothing readable is shown. A few junior policemen stand near the doorway in khaki uniforms with caps, while a tubelight-lit ceiling and tiled floor give the room a bright, official look. Daylight comes through tall windows in the afternoon. Shot at eye level with a 35 mm lens, wide enough to show the table, the audience and the screen together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a desk in a Chennai government office where a smartphone lies face up beside a folded printed acknowledgement slip and a computer keyboard. The phone screen glows softly, suggesting a newly received SMS confirmation, with no readable text visible. A khaki uniform sleeve rests at the edge of the frame, and a steel police-style tumbler of water sits on the desk. Natural daylight from a nearby window falls across the paper and phone. Shot from slightly above at a 35 mm lens, focusing sharply on the phone and slip while the background softly blurs into the room. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/dgp-mahesh-kumar-aggarwal-launches-new-e-csr-facility-introduced-in-tn-police",
-   "published": "2026-11-19T00:08:17Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has English words (Complaint, Register, gov, in) - the voice cannot read them; write them in Tamil letters; reel_script must have no English letters (write English words and abbreviations in Tamil script); known issue english_in_voice: voice script has English words the voice skips (Complaint, Register, gov, in) - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062851/chennaiminnal/kbjslbhev7iff8abr0cf.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062855/chennaiminnal/gmeratuz84enu5mm30mv.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அம்பத்தூரில் கழிவுநீர் தேக்கம்: 21 வயது இளைஞருக்கு டெங்கு உறுதி",
-   "english_headline": "Dengue confirmed in 21-year-old in Ambattur worker's quarters amid sewage stagnation; residents blame civic bodies for passing responsibility",
-   "category": "Health",
-   "location": "Ambattur industrial estate worker's quarters, Chennai district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "டெங்கு எச்சரிக்கை",
-    "loc": "அம்பத்தூர், சென்னை",
-    "hl1": "அம்பத்தூரில் 21 வயது இளைஞருக்கு டெங்கு",
-    "hl2": "கழிவுநீர் தேக்கத்தால் அச்சம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "அம்பத்தூர் தொழிற்பேட்டை குடியிருப்பில் <b>21 வயது</b>",
-       "கழிவுநீர் தேங்கி சுகாதாரச் சீர்கேடு",
-       "குடியிருப்பு மக்கள் அச்சத்தில் உள்ளனர்"
-      ]
-     },
-     {
-      "title": "எப்படி உறுதியானது?",
-      "lines": [
-       "கடந்த வாரம் காய்ச்சலால் பாடி அரசு ஆரம்ப மருத்துவ",
-       "ஓ.டி. அருகே தனியார் மருத்துவமனையில் ரத்தப் பரிசோதனையில்",
-       "நேற்று முன்தினம் வீடு திரும்பினார்"
-      ]
-     },
-     {
-      "title": "யார் பொறுப்பு?",
-      "lines": [
-       "குடியிருப்பு முன்பு சிட்கோ வசம் இருந்தது",
-       "பின்னர் சென்னை மாநகராட்சியிடம் ஒப்படைக்கப்பட்டது",
-       "சிட்கோ, மாநகராட்சி, குடிநீர் கழிவுநீரகற்று வாரியம் பொறுப்பை"
-      ]
-     },
-     {
-      "title": "மக்கள் புகார்",
-      "lines": [
-       "மலம் கலந்த கழிவுநீர் குடியிருப்பைச் சுற்றி தேங்கியுள்ளது",
-       "கொசுக்கள் பெருகி டெங்கு, மலேரியா பரவும் அபாயம்",
-       "அதிகாரிகள் உடனடி நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அம்பத்தூர் தொழிற்பேட்டை குடியிருப்பில் 21 வயது இளைஞருக்கு டெங்கு பாதிப்பு உறுதி செய்யப்பட்டுள்ளது. அம்பத்தூர் தொழிற்பேட்டை முதலாவது பிரதான சாலையில் உள்ள தொழிலாளர் குடியிருப்பில் வசிக்கும் கவுதம், பட்டரைவாக்கத்தில் உள்ள தனியார் நிறுவனத்தில் வடிவமைப்பாளராகப் பணிபுரிகிறார். கடந்த வாரம் உடல்நலம் பாதிக்கப்பட்ட அவரை பாடியில் உள்ள அரசு ஆரம்ப மருத்துவ நிலையத்திற்கு அழைத்துச் சென்றபோது டெங்கு காய்ச்சல் அறிகுறிகள் இருப்பதாக மருத்துவர்கள் தெரிவித்தனர். அதன் பின் அம்பத்தூர் ஓ டி அருகே உள்ள தனியார் மருத்துவமனையில் ரத்தப் பரிசோதனை செய்ததில் டெங்கு உறுதியானது. அங்கு சிகிச்சை பெற்ற அவர் நேற்று முன்தினம் வீடு திரும்பினார். குடியிருப்பின் பராமரிப்புப் பொறுப்பு முன்பு சிட்கோ தொழிற்பேட்டை வசம் இருந்தது; பின்னர் சென்னை மாநகராட்சியிடம் ஒப்படைக்கப்பட்டது. ஆனால் சிட்கோ, மாநகராட்சி, குடிநீர் மற்றும் கழிவுநீரகற்று வாரியம் ஆகியவை ஒருவரையொருவர் கைகாட்டி பொறுப்பைத் தட்டிக்கழித்து வருகின்றன. முறையான கழிவுநீர் வடிகால் வசதி இல்லாததால் மலம் கலந்த கழிவுநீர் குடியிருப்பைச் சுற்றி தேங்கியுள்ளது. கொசுக்கள் பெருகுவதால் டெங்கு, மலேரியா பரவும் அபாயம் உள்ளதாக மக்கள் அச்சம் தெரிவிக்கின்றனர். அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என குடியிருப்பு மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அம்பத்தூரில் கழிவுநீர் தேக்கம்: 21 வயது இளைஞருக்கு டெங்கு உறுதி\n\n📰 முழு விவரம்:\nஅம்பத்தூர் தொழிற்பேட்டை தொழிலாளர் குடியிருப்பில் கழிவுநீர் தேங்கி சுகாதாரச் சீர்கேடு ஏற்பட்டுள்ளது. இந்நிலையில் அங்கு வசிக்கும் 21 வயது கவுதமுக்கு டெங்கு பாதிப்பு உறுதியானது. கடந்த வாரம் காய்ச்சலால் பாடி அரசு ஆரம்ப மருத்துவ நிலையத்துக்கு அழைத்துச் சென்றபோது டெங்கு அறிகுறிகள் இருப்பதாக மருத்துவர்கள் தெரிவித்தனர். அம்பத்தூர் ஓ.டி. அருகே தனியார் மருத்துவமனையில் ரத்தப் பரிசோதனையில் டெங்கு உறுதியானது. அவர் சிகிச்சைக்குப் பின் நேற்று முன்தினம் வீடு திரும்பினார்.\n🏢 குடியிருப்பின் பராமரிப்பு முன்பு சிட்கோ வசம் இருந்தது; பின்னர் சென்னை மாநகராட்சியிடம் ஒப்படைக்கப்பட்டது.\n⚠️ பொறுப்பு குறித்து சிட்கோ, மாநகராட்சி, குடிநீர் மற்றும் கழிவுநீரகற்று வாரியம் ஒன்றையொன்று கைகாட்டி வருகின்றன.\n🦟 முறையான வடிகால் இல்லாததால் மலம் கலந்த கழிவுநீர் தேங்கி, கொசுக்கள் பெருகி டெங்கு, மலேரியா பரவும் அபாயம் உள்ளதாக மக்கள் கூறுகின்றனர்.\n📍 இடம்: அம்பத்தூர் தொழிற்பேட்டை, முதலாவது பிரதான சாலை\nℹ️ மக்கள் கவனத்திற்கு: காய்ச்சல் இருந்தால் உடனடியாக மருத்துவரை அணுகுங்கள்.\n\nDengue in Ambattur worker quarters, sewage stagnation | Chennai news\n📍 அம்பத்தூர், சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Ambattur #டெங்கு #ChennaiNews",
-   "prompts": "A row of old, low-rise worker's quarters in the Ambattur industrial estate, Chennai, stands along a narrow first main road lined with puddles of dark stagnant sewage water on the cracked concrete and mud ground between the buildings. A few residents, a woman in a sari and a man in a shirt and trousers, stand a short distance away near a doorway, seen from behind and slightly blurred, looking toward the stagnant water. Dusty wall surfaces, a faded election poster pasted on a plain wall with no readable text, a bundle of plastic tubing lying in the water, and a few parked two-wheelers along the road form the scene. It is a bright daytime scene with flat overcast light and a hint of haze. Camera at eye level, 35 mm, wide enough to show the full stretch of stagnant water and the cluster of buildings. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of stagnant grey-brown sewage water pooled in a shallow depression on a broken concrete slab outside a worker's quarters doorway in Ambattur, Chennai. Dark scum floats on the surface, with a few plastic bottles and a torn cloth half-submerged at the edge, and the cracked edge of the slab and damp mud around the puddle are visible. Bare feet of a resident in a worn sandal step carefully on the dry patch beside it, seen only from the ankle down. Flat daylight, camera low and close at about a 35 mm close-up, showing the texture of the stagnant water and the crumbling concrete. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/in-the-mla-s-poster--he-can-see-the-tension-of-the-people-of-ambattur-due-to-the-spread-of-dengue-/4380087",
-   "published": "2026-11-18T21:54:31+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script and slides_spec give the young man's full name 'கவுதம்' (Gautam) and his age, but the article names him as Gautam, 21 - the name is in the article, so this is not a problem; however the caption states he is 'கவுதம்' as well, which matches the article.; fact-check: The caption adds 'மக்கள் கூறுகின்றனர்' and 'அதிகாரிகள் உடனடி நடவடிக்கை' sentiment consistent with article; no issue there.; fact-check: The caption adds a health advisory line 'காய்ச்சல் இருந்தால் உடனடியாக மருத்துவரை அணுகுங்கள்' which is not in the article (invented advice).",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062865/chennaiminnal/re0p595gfbuo2ouo23ak.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062867/chennaiminnal/afhsxpgqbl2abnenqy9n.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் தங்கம் விலை சவரனுக்கு ரூ.1,880 குறைந்தது",
-   "english_headline": "Gold price falls Rs 1,880 per sovereign in Chennai, now Rs 95,840",
-   "category": "Business & Prices",
-   "location": "Chennai town, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "தங்கம் விலை",
-    "loc": "சென்னை",
-    "hl1": "சென்னையில் தங்கம் விலை சரிவு",
-    "hl2": "சவரனுக்கு ரூ.1,880 குறைவு",
-    "slides": [
-     {
-      "title": "இன்றைய விலை",
-      "lines": [
-       "சென்னையில் இன்று 22 கேரட் ஆபரணத் தங்கம்",
-       "ஒரு சவரன் ரூ.<b>95,840</b>-க்கு விற்பனை",
-       "சவரனுக்கு ரூ.<b>1,880</b> குறைவு"
-      ]
-     },
-     {
-      "title": "ஒரு கிராம் விலை",
-      "lines": [
-       "ஒரு கிராம் தங்கம் ரூ.<b>11,980</b>",
-       "கிராமுக்கு ரூ.235 குறைவு",
-       "வெள்ளி ஒரு கிராம் ரூ.180"
-      ]
-     },
-     {
-      "title": "ஏன் சரிவு?",
-      "lines": [
-       "அமெரிக்காவில் வட்டி விகிதம் உயரக்கூடும் என்ற எதிர்பார்ப்பு",
-       "முதலீட்டாளர்கள் தங்கத்தை விற்று வங்கி, அரசு பத்திரங்களில்",
-       "அமெரிக்க டாலர் மதிப்பு உயர்வும் ஒரு காரணம்"
-      ]
-     },
-     {
-      "title": "கடந்த நிலவரம்",
-      "lines": [
-       "நவம்பர் 10 முதல் தொடர் சரிவு",
-       "இந்த சரிவால் ரூ.1 லட்சத்துக்கு கீழ் சென்றது",
-       "ஜனவரி 29: சவரன் ரூ.1,34,400 வரை உயர்ந்தது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் இன்று 22 கேரட் ஆபரணத் தங்கத்தின் விலை சவரனுக்கு ரூ.1,880 குறைந்துள்ளது. ஒரு சவரன் ரூ.95,840-க்கு விற்பனை செய்யப்படுகிறது. ஒரு கிராம் தங்கம் ரூ.11,980-க்கு விற்பனையாகிறது. கிராமுக்கு ரூ.235 குறைந்துள்ளது. கடந்த 2025ஆம் ஆண்டு தொடர்ந்து உயர்ந்த தங்கம் விலை, டிசம்பர் 15ஆம் தேதி ஒரு சவரன் ரூ.1 லட்சத்தை தாண்டியது. ஜனவரி 29ஆம் தேதி ஒரு சவரன் ரூ.1,34,400 என்ற புதிய உச்சத்தைத் தொட்டது. நவம்பர் 10ஆம் தேதி முதல் தங்கம் விலை தொடர் சரிவை சந்தித்து வருகிறது. அமெரிக்காவில் வட்டி விகிதம் உயரக்கூடும் என்ற எதிர்பார்ப்பால் முதலீட்டாளர்கள் தங்கத்தை விற்று வருகின்றனர். அமெரிக்க டாலர் மதிப்பு உயர்வதும் ஒரு காரணம். வெள்ளி விலை கிராமுக்கு ரூ.5 குறைந்து ரூ.180-க்கு விற்பனையாகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📉 சென்னையில் தங்கம் விலை சவரனுக்கு ரூ.1,880 குறைந்தது\n\n📰 முழு விவரம்:\nசென்னையில் இன்று 22 கேரட் ஆபரணத் தங்கத்தின் விலை சவரனுக்கு ரூ.1,880 குறைந்து ரூ.95,840-க்கு விற்பனை செய்யப்படுகிறது. கிராமுக்கு ரூ.235 குறைந்து ஒரு கிராம் ரூ.11,980-க்கு விற்பனையாகிறது.\nகடந்த 2025ஆம் ஆண்டு தொடர்ந்து உயர்ந்த தங்கம் விலை, டிசம்பர் 15ஆம் தேதி ஒரு சவரன் ரூ.1 லட்சத்தை தாண்டியது. ஜனவரி 29ஆம் தேதி ஒரு கிராம் ரூ.16,800-க்கும், ஒரு சவரன் ரூ.1,34,400-க்கும் விற்பனையானது. இதுவே இதுவரை இல்லாத உச்ச விலையாகப் பார்க்கப்பட்டது.\nபின்னர் விலை சற்று குறையத் தொடங்கியது. கடந்த 2 மாதங்களுக்கு மேலாக ஒரு சவரன் ரூ.1,10,000-க்கு கீழ் வந்தது.\nநவம்பர் 10ஆம் தேதி முதல் தொடர் சரிவு காணப்படுகிறது. இந்த சரிவால், கடந்த 11 மாதங்களாக ரூ.1 லட்சத்துக்கு கீழ் குறையாமல் இருந்த தங்கம் விலை, நவம்பர் 17ஆம் தேதி ரூ.1 லட்சத்துக்கு கீழ் சென்றது. நவம்பர் 17ஆம் தேதி ஒரு சவரன் ரூ.99,760 ஆக இருந்தது. நவம்பர் 18ஆம் தேதி ஒரு சவரன் ரூ.97,720 ஆகவும், ஒரு கிராம் ரூ.12,215 ஆகவும் குறைந்தது. இதன்மூலம் தங்கம் விலை ரூ.98,000-க்கு கீழ் வந்துள்ளது.\nநவம்பர் 10ஆம் தேதி முதல் நேற்று வரை கிராமுக்கு ரூ.1,040, சவரனுக்கு ரூ.8,320 குறைந்துள்ளது.\nஅமெரிக்காவில் பணவீக்கம் அதிகரிப்பதால், அமெரிக்க மத்திய பெடரல் வங்கி வட்டி விகிதத்தை உயர்த்தக்கூடும் என்ற எதிர்பார்ப்பு அதிகரித்துள்ளது. இதனால் முதலீட்டாளர்கள் தங்கத்தை விற்று, வட்டி தரும் வங்கி வைப்புத்தொகை, அரசு பத்திரங்களில் முதலீடு செய்கின்றனர். அமெரிக்க டாலர் மதிப்பு உயர்வு உள்பட பல காரணங்களால் தங்கம் விலை சரிகிறது.\nவெள்ளி விலை கிராமுக்கு ரூ.5 குறைந்து ஒரு கிராம் ரூ.180-க்கும், ஒரு கிலோ ரூ.1,80,000-க்கும் விற்பனையாகிறது.\n\nChennai gold price falls Rs 1,880 per sovereign today | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #தங்கம் #சென்னை",
-   "prompts": "A jeweller in a white shirt stands behind a glass display counter inside a bright Chennai jewellery shop, where rows of 22-carat gold bangles, necklaces and chains sit under the lights. A woman in a cream cotton saree, seen from behind, looks down at the gold with a small notebook in her hand. Behind the counter a plain electronic price board shows the reduced gold rate per gram, and silver ornaments glint on a separate tray. Walls are lined with neatly stacked velvet boxes and a wall clock marks the daytime hour. The shop front opens onto a busy street with two-wheelers passing outside. Camera at eye level, 35 mm lens, wide enough to show the shelves, counter and the customer, faces turned away. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a digital electronic weighing scale on a wooden table, a small pile of 22-carat gold bangles and a thin gold chain placed on its tray. Beside it, a small tray of silver coins and a stack of folded gold purchase slips sit under warm shop lighting. A jeweller's hand in a white shirt sleeve rests near the scale, slightly out of focus. The background shows the glass display shelves and velvet boxes of a Chennai jewellery shop in daylight. Camera slightly high, 50 mm lens, shallow depth of field to highlight the gold and the scale display. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/amp/story/news/business-and-gold-rate/today-gold-price-in-chennai-19-11-2026",
-   "published": "2026-11-19T04:18:47Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 87 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); numbers not found in the article: 110000, 12215, 134400, 16800, 180000, 8320; caption misses facts of the article (put every one in 📰 முழு விவரம்): 16 ('அந்தவகையில் கடந்த ஜனவரி மாதம் 29-ந்தேதி ஒரு கிராம் ரூ.16 ஆயி'); 800 ('அந்தவகையில் கடந்த ஜனவரி மாதம் 29-ந்தேதி ஒரு கிராம் ரூ.16 ஆயி'); 34 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 400 ('ஒரு சவரன் ரூ.1 லட்சத்து 34 ஆயிரத்து 400-க்கும் விற்பனை ஆனது.'); 50 ('மேலும் விலை எகிறி ஒரு சவரன் ரூ.1 லட்சத்து 50 ஆயிரத்தையும் தொ'); 12 ('இதன் தொடர்ச்சியாக நேற்றும் தங்கம் விலையில் மாற்றம் காணப்பட்ட')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062891/chennaiminnal/w1ldwqbjrxrgdib6l3mi.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062893/chennaiminnal/vx3bjo0jraylq75ipgbd.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் நிலத்தடி நீர்மட்டம் 1.54 மீட்டர் சரிவு: அக்டோபரில் 5.09 மீட்டர்",
-   "english_headline": "Chennai groundwater level falls 1.54 m to 5.09 m in October as northeast monsoon rain is below normal across Tamil Nadu",
-   "category": "Weather & Agriculture",
-   "location": "Chennai, Chennai district (state-wide data, 38 districts of Tamil Nadu)",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நிலத்தடி நீர்",
-    "loc": "சென்னை மாவட்டம்",
-    "hl1": "சென்னையில் நிலத்தடி நீர் 1.54 மீட்டர்",
-    "hl2": "அக்டோபரில் 5.09 மீட்டர்",
-    "slides": [
-     {
-      "title": "எவ்வளவு சரிவு?",
-      "lines": [
-       "கடந்த ஆண்டு அக்டோபரில் <b>3.55 மீட்டர்</b>",
-       "இந்த ஆண்டு அக்டோபரில் <b>5.09 மீட்டர்</b>",
-       "சென்னையில் <b>1.54 மீட்டர்</b> சரிவு"
-      ]
-     },
-     {
-      "title": "ஏன் சரிவு?",
-      "lines": [
-       "வடகிழக்கு பருவமழை இயல்பைவிடக் குறைவு",
-       "ஏரிகளும் அணைகளும் நிரம்பவில்லை",
-       "நிலத்தடி நீர்மட்டம் கணிசமாகக் குறைந்தது"
-      ]
-     },
-     {
-      "title": "மற்ற மாவட்டங்கள்",
-      "lines": [
-       "அக்டோபரில் கோவையில் <b>13.70 மீ</b> கீழே",
-       "கரூர் <b>11.38 மீ</b>, ஈரோடு <b>9.70 மீ</b> கீழே",
-       "திருவண்ணாமலையில் ஆண்டு ஒப்பீட்டில் <b>4.31 மீ</b> சரிவு"
-      ]
-     },
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "மழை குறைந்தால் வரும் ஆண்டில் தண்ணீர் பஞ்சம் வரலாம்",
-       "சுற்றுச்சூழல் ஆர்வலர்கள் கவலை தெரிவிக்கின்றனர்",
-       "தாய்நிலத்தடி நீர் ஆய்வறிக்கை மாநில மையம் வெளியிட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் நிலத்தடி நீர்மட்டம் 1.54 மீட்டர் சரிந்துள்ளது. கடந்த ஆண்டு அக்டோபரில் 3.55 மீட்டராக இருந்த நீர்மட்டம், இந்த ஆண்டு அக்டோபரில் 5.09 மீட்டராகக் குறைந்துள்ளது. வடகிழக்கு பருவமழை இயல்பைவிடக் குறைவாகப் பெய்ததால் ஏரிகளும் அணைகளும் நிரம்பவில்லை. இதனால் நிலத்தடி நீர்மட்டம் கணிசமாகக் குறைந்துள்ளது. மாநில நிலத்தடி மற்றும் மேற்பரப்பு நீர்வளத் தரவு மையம் வெளியிட்ட ஆய்வறிக்கை இதனைத் தெரிவித்துள்ளது. தமிழகத்தின் 38 மாவட்டங்களில் நடத்தப்பட்ட ஆய்வில், அக்டோபர் மாதத்தில் கோவையில் 13.70 மீட்டர் கீழே நீர்மட்டம் சென்றுள்ளது. கரூரில் 11.38 மீட்டர், ஈரோட்டில் 9.70 மீட்டர் கீழே சென்றுள்ளது. திருவண்ணாமலை மாவட்டத்தில் கடந்த ஆண்டுடன் ஒப்பிடுகையில் 4.31 மீட்டர் சரிவு ஏற்பட்டுள்ளது. மழை குறைந்தால் வரும் ஆண்டில் தண்ணீர் பஞ்சம் வரலாம் என்று சுற்றுச்சூழல் ஆர்வலர்கள் கவலை தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னையில் நிலத்தடி நீர் 1.54 மீட்டர் சரிவு: அக்டோபரில் 5.09 மீட்டர்\n\n📰 முழு விவரம்:\nநிகழாண்டு வடகிழக்கு பருவமழை இயல்பைவிடக் குறைவாகப் பெய்ததால், ஏரிகளும் அணைகளும் நிரம்பவில்லை. இதனால் நிலத்தடி நீர்மட்டம் கணிசமாகக் குறைந்துள்ளது.\nசென்னையில் கடந்த ஆண்டு அக்டோபரில் 3.55 மீட்டராக இருந்த நீர்மட்டம், இந்த ஆண்டு அக்டோபரில் 5.09 மீட்டராகக் குறைந்துள்ளது. அதாவது 1.54 மீட்டர் சரிவு.\nமாநில நிலத்தடி மற்றும் மேற்பரப்பு நீர்வளத் தரவு மையம் வெளியிட்ட ஆய்வறிக்கையில் தமிழகத்தின் 38 மாவட்டங்களில் ஆய்வு நடத்தப்பட்டது.\n📍 கோவை: அக்டோபரில் 13.70 மீட்டர் கீழே\n📍 கரூர்: 11.38 மீட்டர் கீழே | ஈரோடு: 9.70 மீட்டர் கீழே\n📍 திருவண்ணாமலை: கடந்த ஆண்டுடன் ஒப்பிடுகையில் 4.31 மீட்டர் சரிவு\nமழை குறைந்தால் வரும் ஆண்டில் தண்ணீர் பஞ்சம் ஏற்படும் என்று சுற்றுச்சூழல் ஆர்வலர்கள் கவலை தெரிவித்துள்ளனர்.\n\nChennai groundwater level falls 1.54 m, water shortage fears | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #தண்ணீர் #சென்னை",
-   "prompts": "A Chennai resident stands at a public water tap on a dusty residential street, holding an empty plastic pot while a neighbour waits behind with steel vessels. Seen from behind and at a distance, the street has low concrete houses, a few parked two-wheelers, and an auto-rickshaw at the kerb. The sky is clear and bright in October daylight with no rain clouds, and the road looks dry and cracked. Shot at eye level with a 35 mm lens, wide enough to show the whole street and the queue of people carrying water pots. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a dry borewell pipe or public water tap on a Chennai street, with a worn steel water pot placed beneath it and the ground around it dry and dusty. A thin trickle of water barely drips from the tap. Behind it, a blurred concrete wall and a bit of a parked two-wheeler show the urban setting. Bright daylight, no rain, dry soil. Shot at slightly high angle with a 50 mm lens, focusing sharply on the tap and pot, with the background softly out of focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/rain-shortage-groundwater-level-declines-in-tamil-nadu",
-   "published": "2026-11-19T04:04:52Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area); caption misses facts of the article (put every one in 📰 முழு விவரம்): 59, ('அதேபோல், கரூா் - 11.38, ஈரோடு - 9.70, நாமக்கல் - 9.59, திண்ட'); 08 ('அதேபோல், கரூா் - 11.38, ஈரோடு - 9.70, நாமக்கல் - 9.59, திண்ட'); 6 ('இதுபோல, பெரும்பாலான மாவட்டங்களில் நீா்மட்டம் 6 முதல் 9 மீட்ட'); 2 ('இதுபோல, பெரும்பாலான மாவட்டங்களில் நீா்மட்டம் 6 முதல் 9 மீட்ட'); 78, ('அதன்படி, திருவண்ணாமலை மாவட்டத்தில் 4.31 மீ., திருப்பத்தூா் -'); 12, ('அதன்படி, திருவண்ணாமலை மாவட்டத்தில் 4.31 மீ., திருப்பத்தூா் -')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062914/chennaiminnal/pqdepli2ddkzklnxyf18.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795062917/chennaiminnal/dpthaeuvyf4ivfd9ovq9.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795073714/chennaiminnal/bcrp2prnnpa0v640ufma.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795073719/chennaiminnal/gkhkqvmyfrsf79rsiqlv.jpg"
    ]
   }
  ]
