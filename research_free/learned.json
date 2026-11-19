@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-19T10:02+05:30",
- "posts_measured": 82,
+ "updated": "2026-11-19T13:01+05:30",
+ "posts_measured": 85,
  "topic_weight": {
-  "accident": 0.15,
-  "civic": 0.09,
-  "crime": -0.23,
+  "accident": 0.19,
+  "civic": 0.19,
+  "crime": -0.22,
   "education": -0.5,
   "politics": -0.5,
-  "poultry_agri": -0.22,
+  "poultry_agri": 0.47,
   "power_cut": 1.27,
   "sports_culture": -0.2,
   "temple": -0.36,
-  "weather": 1.02
+  "weather": 0.7
  },
  "topic_n": {
   "politics": 17,
   "accident": 8,
-  "crime": 34,
-  "weather": 12,
+  "crime": 35,
+  "weather": 13,
   "power_cut": 30,
   "civic": 8,
   "education": 44,
-  "poultry_agri": 21,
+  "poultry_agri": 5,
   "temple": 24,
   "sports_culture": 4
  },
  "best_hours_ist": [
   2,
   1,
-  6,
-  22
+  22,
+  6
  ],
  "top_openings": [
   "🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை",
-  "🚨 புழல் சிறைக்குள் கஞ்சா கடத்தல்: செவிலியர் உதவியாளர் கைது",
   "🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது",
+  "🚨 புழல் சிறைக்குள் கஞ்சா கடத்தல்: செவிலியர் உதவியாளர் கைது",
   "🚨 மடிப்பாக்கத்தில் கால்வாயில் விழுந்து இளைஞர் உயிரிழப்பு"
  ],
  "avg_watch_s": 6.2,
  "best_topics": [
   "power_cut",
   "weather",
-  "accident"
+  "poultry_agri"
  ],
  "weak_topics": [
   "education",
@@ -53,7 +53,7 @@
   "crime": "ours",
   "education": "reference",
   "politics": "reference",
-  "poultry_agri": "reference",
+  "poultry_agri": "ours",
   "power_cut": "reference",
   "sports_culture": "reference",
   "temple": "reference",
