@@ -3,79 +3,78 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/tomorrow-power-outages/4380981",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/chennai-bus-driver-beaten-to-death-in-pudukkottai/4381060",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/do-you-remember-the-betrayal-the-congress-inflicted-upon-the-tamils-nainar-nagendran-question-to-manickam-tagore",
-  "candidate filter: collected=3",
-  "to write: 3 Chennai district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/do-you-remember-the",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/chennai-bus-d",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/raids-at-private-lodgings-ganja-and-narcotic-pills-seized",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/details-of-900-vehicles-parked-along-the-roadside-released-to-be-auctioned-if-not-claimed",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/creation-of-1695-fixed-remuneration-nursing-posts-government-order-issued",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-man-jailed-for-2-years-for-cheating-on-government-job-bed-seat/4380529",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/crime-corner-chennai/4380808",
+  "candidate filter: collected=5",
+  "to write: 5 Chennai district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Chennai; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "NOT filed (N) நாளை மறுதினம் மின் தடை செய்யப்படும் இடங்கள்: duplicate after write",
-  "NOT filed (N) சென்னையை சேர்ந்த பஸ் அதிபர் புதுகையில் அடித்து கொல: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 1}, time left 76 min",
-  "filed: 1 Chennai district stories (target 3), reels only",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
+  "filed: 5 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (18s)",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3.6-flash (60s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
@@ -84,23 +83,16 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -109,73 +101,323 @@
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "தமிழர்களுக்கு காங்கிரஸ் இழைத்த துரோகம் நினைவிருக்கிறதா? நயினார் நாகேந்திரன் பதிலடி",
-   "english_headline": "Nainar Nagendran hits back at Manickam Tagore, asks Congress to recall its betrayal of Tamils",
-   "category": "Government & Services",
-   "location": "Chennai, Chennai district",
+   "tamil_headline": "மெரினா ராணி மேரி கல்லூரியில் மின்வடங்கள் திருடிய நால்வர் கைது",
+   "english_headline": "Four men arrested for stealing power cables worth Rs 20,000 from Rani Meri College, Marina",
+   "category": "Crime & Safety",
+   "location": "Marina, Chennai district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல்",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: காங்கிரஸ் துரோகம்",
-    "hl2": "நயினார் நாகேந்திரன் பதிலடி",
+    "cat": "திருட்டு கைது",
+    "loc": "மெரினா, சென்னை",
+    "hl1": "மெரினா கல்லூரியில் திருடிய நால்வர் கைது",
+    "hl2": "மதிப்பு <b>ரூ.20,000</b>",
     "slides": [
      {
-      "title": "யார் என்ன",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "தமிழக பாஜக தலைவர் நயினார் நாகேந்திரன் சமூக வலைதளப் பதிவு",
-       "தமிழக காங். தலைவர் மாணிக்கம் தாகூருக்கு பதிலடி தந்தார்",
-       "தமிழர்களுக்கு காங்கிரஸ் இழைத்த துரோகம் நினைவிருக்கிறதா என"
+       "ராணி மேரி கல்லூரியில் மின்வடங்கள் திருட்டு",
+       "மதிப்பு <b>ரூ.20,000</b>",
+       "மெரினா, காமராஜர் சாலை"
       ]
      },
      {
-      "title": "முக்கியக்",
+      "title": "யார் கைது?",
       "lines": [
-       "முள்ளிவாய்க்காலில் <b>1.5 லட்சம்</b> தமிழர்கள்",
-       "சோனியா காந்தி தலைமையிலான காங்கிரஸ் ஆட்சியில்",
-       "இந்திய அமைதிப்படை மூலம் இலங்கைத் தமிழர்கள் படுகொலை என்றார்"
+       "விஜிவேல், <b>24</b> வயது - பட்டினப்பாக்கம்",
+       "பாலு, <b>18</b> வயது - பட்டினப்பாக்கம்",
+       "கவுதம், <b>25</b> வயது; மணிகண்டன், <b>25</b> வயது"
       ]
      },
      {
-      "title": "தேர்தல் நிலை",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "தமிழ்நாட்டில் <b>18</b> சட்டமன்ற உறுப்பினர்களிலிருந்து",
-       "ராஜீவ் காந்தி தலைமையில் <b>400</b> நாடாளுமன்ற இடங்களில்",
-       "இன்று மூன்று பொதுத் தேர்தல்களாக <b>100</b>"
-      ]
-     },
-     {
-      "title": "கூட்டணி விமர்சனம்",
-      "lines": [
-       "திமுகவின் பெயரால் வாக்குகள் பெற்று, தவெக-வை",
-       "தற்போது தவெக-வுடன் பேரம் பேசி அமைச்சரவையில் இடம்",
-       "கச்சத்தீவு, காவிரி, முல்லைப் பெரியாறு விவகாரங்களையும்"
+       "நால்வரையும் போலீசார் நேற்று கைது செய்தனர்",
+       "திருடப்பட்ட மின்வடங்கள் கைப்பற்றப்பட்டதா என்பது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் காங்கிரஸ் மீது நயினார் நாகேந்திரன் கடும் விமர்சனம் வைத்துள்ளார். தமிழக காங்கிரஸ் தலைவர் மாணிக்கம் தாகூருக்கு பதிலடி தரும் வகையில் அவர் சமூக வலைதளத்தில் பதிவு வெளியிட்டார். தமிழர்களுக்கு காங்கிரஸ் இழைத்த துரோகம் நினைவிருக்கிறதா என்று அவர் கேள்வி எழுப்பினார். முள்ளிவாய்க்காலில் சோனியா காந்தி தலைமையிலான காங்கிரஸ் ஆட்சியில் 1.5 லட்சம் தமிழர்கள் கொல்லப்பட்டதாகவும் குற்றம்சாட்டினார். இந்திய அமைதிப்படை மூலம் இலங்கைத் தமிழர்கள் படுகொலை செய்யப்பட்டதையும் நினைவூட்டினார். தமிழ்நாட்டில் 18 சட்டமன்ற உறுப்பினர்களாக இருந்த காங்கிரஸ், இன்று 5 ஆகச் சுருங்கியதாகக் கூறினார். தி மு க வின் பெயரால் வாக்குகள் பெற்று, த வெ க -வை எதிர்த்துப் பரப்புரை செய்துவிட்டு, தற்போது த வெ க -வுடன் பேரம் பேசி அமைச்சரவையில் இடம் பெற்றிருப்பதாகவும் விமர்சித்தார். இந்த அறிக்கை அரசியல் வட்டாரத்தில் விவாதத்தை ஏற்படுத்தியுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ சென்னை: காங்கிரஸ் இழைத்த துரோகம் நினைவிருக்கிறதா? - நயினார் நாகேந்திரன் பதிலடி\n\n📰 முழு விவரம்:\nதமிழக பாஜக தலைவர் நயினார் நாகேந்திரன், தமிழக காங்கிரஸ் தலைவர் மாணிக்கம் தாகூருக்கு பதிலடி தரும் வகையில் சமூக வலைதளப் பதிவு வெளியிட்டார்.\nதமிழர்களுக்கு காங்கிரஸ் இழைத்த துரோகம் நினைவிருக்கிறதா என அவர் கேள்வி எழுப்பினார்.\nமுள்ளிவாய்க்காலில் சோனியா காந்தி தலைமையிலான காங்கிரஸ் ஆட்சியில் 1.5 லட்சம் தமிழர்கள் கொல்லப்பட்டதாகவும், இந்திய அமைதிப்படை மூலம் இலங்கைத் தமிழர்கள் படுகொலை செய்யப்பட்டதாகவும் குற்றம்சாட்டினார்.\nதமிழ்நாட்டில் 18 சட்டமன்ற உறுப்பினர்களைக் கொண்டிருந்த காங்கிரஸ், இன்று 5 ஆகச் சுருங்கிவிட்டதாகக் கூறினார். வரும் தேர்தலில் எவ்வளவு முயன்றாலும் அந்த 5 இடங்கள் கூட மிஞ்சாது என்றார்.\nராஜீவ் காந்தி தலைமையில் 400 நாடாளுமன்ற இடங்களில் வெற்றி பெற்ற காங்கிரஸ், இன்று தொடர்ந்து மூன்று பொதுத் தேர்தல்களில் 100 இடங்களைக்கூடத் தொட முடியவில்லை என்றார்.\nதிமுகவின் பெயரால் வாக்குகள் பெற்று, தவெக-வை எதிர்த்துப் பரப்புரை செய்துவிட்டு, தற்போது தவெக-வுடன் பேரம் பேசி அமைச்சரவையில் இடம் பெற்றிருப்பதாக விமர்சித்தார்.\nகச்சத்தீவை இலங்கைக்குத் தாரை வார்த்ததையும், காவிரி, முல்லைப் பெரியாறு நதிநீர் உரிமைகளில் விவசாயிகளைப் புறக்கணித்ததையும் நினைவூட்டினார்.\n1975இல் அவசரநிலையைக் கொண்டுவந்து, மாநில அரசுகளை 90 முறை கலைத்ததும் காங்கிரஸ்தான் என்றார். பாஜக ஆட்சியில் இப்படிக் கலைக்கப்பட்ட மாநில அரசுகளின் எண்ணிக்கை பூஜ்ஜியம் என்றார்.\n\nNainar Nagendran slams Congress over Tamil betrayal | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #அரசியல் #சென்னை",
-   "prompts": "A Tamil Nadu political office in Chennai is shown with a row of plain white paper sheets and printed statements laid across a long wooden desk, with a closed laptop and a smartphone beside them, suggesting a written statement being prepared for release. The room is a party headquarters interior with cream-painted walls, a framed portrait-free wall, a ceiling fan, and tube lights. A man in a white shirt and veshti sits far away at the back of the room, seen from behind and slightly blurred, reading a document. Two other staff in shirts stand near a window with grey daylight coming in. Afternoon light, mild humid weather typical of Chennai. Eye level, 35 mm lens, wide enough to show the whole room and desk with no readable text on the papers. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a desk with a stack of printed pages and a smartphone lying face down on top, with a small brass desk lamp and a steel tumbler of water beside them. The pages are blank on the visible side with no readable letters. Soft natural window light falls across the papers, and the background shows a blurred cream wall and the edge of a wooden chair. No people are visible, only a hand from behind holding a pen above the paper. Shot at close range, eye level, 35 mm lens with shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/do-you-remember-the-betrayal-the-congress-inflicted-upon-the-tamils-nainar-nagendran-question-to-manickam-tagore",
-   "published": "2026-11-19T12:44:19Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 97 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 20 ('மாணிக்கம் தாகூர், பிறரை விமர்சிப்பதற்கு முன்பு உங்கள் காங்கி'); 2 ('உங்கள் கட்சியின் அந்த ஜனநாயக மீறல்கள் ஞாபகம் வருகிறதா?வெறும்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "மெரினாவில் ராணி மேரி கல்லூரியில் மின்வடங்கள் திருடிய நால்வர் கைது செய்யப்பட்டனர். காமராஜர் சாலையில் உள்ள இந்தக் கல்லூரியில் 20 ஆயிரம் ரூபாய் மதிப்புள்ள மின்வடங்கள் திருடப்பட்டன. பட்டினப்பாக்கத்தைச் சேர்ந்த விஜிவேல், 24 வயது, பாலு, 18 வயது, கவுதம், 25 வயது, மணிகண்டன், 25 வயது ஆகிய நால்வரையும் போலீசார் நேற்று கைது செய்தனர். பாலு 18 வயது என்பதால் இந்தச் செய்தியின் தொடர்ச்சியை பொதுமக்கள் கவனத்தில் கொள்ள வேண்டும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மெரினா ராணி மேரி கல்லூரியில் மின்வடங்கள் திருடிய நால்வர் கைது\n\n📰 முழு விவரம்:\nமெரினா, காமராஜர் சாலையில் உள்ள ராணி மேரி கல்லூரியில் 20 ஆயிரம் ரூபாய் மதிப்புள்ள மின்வடங்கள் திருடப்பட்டன.\nபட்டினப்பாக்கத்தைச் சேர்ந்த விஜிவேல் (24 வயது), பாலு (18 வயது), கவுதம் (25 வயது), மணிகண்டன் (25 வயது), ஆகிய நால்வரையும் போலீசார் நேற்று கைது செய்தனர்.\n📍 இடம்: ராணி மேரி கல்லூரி, காமராஜர் சாலை, மெரினா\n👮 நடவடிக்கை: நால்வரும் போலீசாரால் கைது\n\nChennai college cable theft four arrested | Chennai news\n📍 மெரினா, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Marina #ChennaiNews #சென்னை",
+   "prompts": "A pair of Tamil Nadu police in khaki uniform lead four young men with their hands behind their backs, seen from behind, away from a red-brick college building in Marina, Chennai, on the Rani Meri College campus along Kamarajar Salai. The campus has a tall compound wall, a row of trees and a parked police jeep at the gate. Two of the men wear plain shirts and trousers, one wears a dhoti, and one wears a t-shirt; all look downward. Daylight, clear sky, a few two-wheelers and an autorickshaw passing on the road outside the gate. Shot at eye level with a 35 mm lens, wide enough to show the college building, the compound and the road. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a heap of seized copper power cables lying on a concrete floor or police table in a college corridor, the cut ends of the cables showing bare copper wires and insulation stripped off. Behind the cables, the blurred khaki sleeves and boots of police officers stand at a distance, and a few plastic bags and a wooden bench are visible. Daylight from a window falls on the cables, showing the reddish sheen of copper and black rubber sheathing. Campus setting of Rani Meri College in Marina, Chennai. Shot at a slightly high angle with a 35 mm lens to focus on the cables in the foreground. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/crime-corner-chennai/4380808",
+   "published": "2026-11-19T20:10:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 57 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795116928/chennaiminnal/obnycofctizvi0sxdify.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795116931/chennaiminnal/ubhvmmz0fmp5mlaqtyrn.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131289/chennaiminnal/iknfwbsrna6xhdpku0zp.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131301/chennaiminnal/nqvpqkqflfkvuwfnl5bw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரசு வேலை வாங்கித் தருவதாக மோசடி: போரூர் முதியவருக்கு 2 ஆண்டு சிறை",
+   "english_headline": "Porur man sentenced to 2 years for ₹5.47 lakh job scam; Ambattur man gets 1 year for bank fraud",
+   "category": "Crime & Safety",
+   "location": "Porur, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மோசடி வழக்கு",
+    "loc": "போரூர், சென்னை",
+    "hl1": "போரூர்: வேலை வாங்கித் தருவதாக மோசடி",
+    "hl2": "முதியவருக்கு 2 ஆண்டு சிறை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அரசு வேலை, பி.எட். சீட் தருவதாக <b>7 பேரிடம்</b> மோசடி",
+       "ரூ. <b>5.47 லட்சம்</b> பெற்று ஏமாற்றிய முதியவர்",
+       "போரூர் பகுதியைச் சேர்ந்தவர் கைது"
+      ]
+     },
+     {
+      "title": "எப்படி",
+      "lines": [
+       "பள்ளிக்கல்வித் துறையில் பணிபுரிவதாகப் பொய்",
+       "ஆசிரியர் தேர்வு வாரியப் போலி பணி ஆணை",
+       "மத்திய குற்றப்பிரிவு போலீசார் விசாரணை"
+      ]
+     },
+     {
+      "title": "நீதிமன்றத்",
+      "lines": [
+       "எழும்பூர் நீதிமன்றம் <b>2 ஆண்டு</b> சிறை விதிப்பு",
+       "அம்பத்தூர் கோபுவுக்கு <b>1 ஆண்டு</b> சிறை",
+       "போலி ஆவண மோசடி வழக்கில் நடவடிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "போரூரில் அரசு வேலை வாங்கித் தருவதாக மோசடி செய்தவருக்கு சிறை. போரூர் முகலிவாக்கத்தைச் சேர்ந்த 77 வயது கமலேஷ்குமார் என்பவருக்கு 2 ஆண்டு சிறை தண்டனை விதிக்கப்பட்டுள்ளது. இவர் 2003 முதல் 2005 வரை பள்ளிக்கல்வித் துறையில் பணிபுரிவதாகக் கூறி 7 பேரிடம் மோசடி செய்துள்ளார். அரசு வேலை மற்றும் பி எட் படிப்பில் சேர சீட் வாங்கித் தருவதாகக் கூறி 5.47 லட்சம் ரூபாய் பெற்றுள்ளார். மாற்றுத்திறனாளி பத்மா உட்பட 7 பேரை ஏமாற்றிய இவர், ஆசிரியர் தேர்வு வாரியத்தின் போலி பணி ஆணையை வழங்கியுள்ளார். சென்னை மத்திய குற்றப்பிரிவு போலீசார் நடத்திய விசாரணையில் இவர் போலி ஆவணங்கள் தயாரித்தது உறுதியானது. எழும்பூர் நீதிமன்ற நீதிபதி சுப்ரமணி, கமலேஷ்குமாருக்கு 2 ஆண்டுகள் சிறை தண்டனை விதித்து உத்தரவிட்டார். இதேபோல் போலி ஆவணம் மூலம் வங்கியில் பணம் பெற்று மோசடி செய்த அம்பத்தூர் கோபுவுக்கு ஓராண்டு சிறை விதிக்கப்பட்டது. 57 வயதான கோபு மீதான குற்றச்சாட்டு நிரூபிக்கப்பட்டதால் இந்தத் தண்டனை வழங்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ போரூரில் அரசு வேலை வாங்கித் தருவதாக மோசடி: முதியவருக்கு 2 ஆண்டு சிறை தண்டனை\n\n📰 முழு விவரம்:\nசென்னையைச் சேர்ந்த 7 பேரிடம் அரசு வேலை மற்றும் பி.எட். படிப்பில் சேர சீட் வாங்கித் தருவதாகக் கூறி 5.47 லட்சம் ரூபாய் மோசடி செய்த வழக்கில் தீர்ப்பு வழங்கப்பட்டுள்ளது. போரூர் முகலிவாக்கத்தைச் சேர்ந்த 77 வயது கமலேஷ்குமார், தான் பள்ளிக்கல்வித் துறையில் பணிபுரிவதாகக் கூறி மாற்றுத்திறனாளி பத்மா உள்ளிட்டோரை ஏமாற்றியுள்ளார். ஆசிரியர் தேர்வு வாரியத்தின் போலி பணி ஆணையை வழங்கியதும் விசாரணையில் தெரியவந்தது. எழும்பூர் நீதிமன்ற நீதிபதி சுப்ரமணி, கமலேஷ்குமாருக்கு 2 ஆண்டு சிறை தண்டனை விதித்தார். இதேபோல் போலி ஆவணம் மூலம் வங்கியில் மோசடி செய்த அம்பத்தூரைச் சேர்ந்த 57 வயது கோபுவுக்கு ஓராண்டு சிறை தண்டனை விதிக்கப்பட்டுள்ளது.\n\n📍 இடம்: போரூர் மற்றும் அம்பத்தூர், சென்னை\n⚖️ தண்டனை: கமலேஷ்குமாருக்கு 2 ஆண்டு சிறை; கோபுவுக்கு 1 ஆண்டு சிறை\n👮 நடவடிக்கை: சென்னை மத்திய குற்றப்பிரிவு போலீசார் விசாரணை\n💰 மோசடி தொகை: ரூ. 5.47 லட்சம்\n\nChennai job scam Porur man sentenced | Egmore court news\n📍 Porur, Chennai | 20 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Porur #CrimeNews #சென்னை",
+   "prompts": "A Chennai court building at Egmore with a few people in shirts and sarees walking up its steps while a Tamil Nadu police constable in khaki stands near the entrance, seen from a distance at eye level in daylight. Around them are two-wheelers parked along the road and an autorickshaw passing by, with the old colonnaded court building framing the scene. The people are seen from behind or far away, no faces visible. The court's grey stone pillars and wide front verandah show the place is a magistrate court in the city. Daylight, mild sky. 35 mm lens, wide enough to show the building and the entrance gate with the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden table inside a court or police office where a bundle of official-looking papers, a stamped appointment order and a few bank passbooks lie together with a file folder, under a tube light. A khaki sleeve of a police constable rests at the edge of the frame. The papers are blank-faced with no readable text, and the scene shows the forged documents used in the fraud. Muted indoor light, shallow depth of field, shot at eye level with a 50 mm feel. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-man-jailed-for-2-years-for-cheating-on-government-job-bed-seat/4380529",
+   "published": "2026-11-19T17:42:27+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: numbers not found in the article: 7; caption misses facts of the article (put every one in 📰 முழு விவரம்): 31 ('இந்த வழக்கை விசாரித்த, சென்னை எழும்பூர் 31வது பெருநகர குற்றவ')",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131310/chennaiminnal/t9tifuxmxnqjtfvur7vx.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131313/chennaiminnal/gnowwbjyvjxm4pww5uo7.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தமிழக அரசு மருத்துவமனைகளில் 1,695 செவிலியர் பணியிடங்கள் உருவாக்கம்: அரசாணை வெளியீடு",
+   "english_headline": "1,695 contract nurse posts created in Tamil Nadu government hospitals; government order issued",
+   "category": "Health",
+   "location": "Tamil Nadu government hospitals, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சுகாதாரம்",
+    "loc": "தமிழ்நாடு",
+    "hl1": "1,695 செவிலியர் பணியிடங்கள் உருவாக்கம்",
+    "hl2": "மாதம் ரூ.21,000 ஊதியம்",
+    "slides": [
+     {
+      "title": "என்ன அறிவிப்பு?",
+      "lines": [
+       "அரசு மருத்துவமனைகளில் <b>1,695</b> செவிலியர் பணியிடங்கள்",
+       "தொகுப்பூதிய அடிப்படையில் உருவாக்க அரசாணை வெளியீடு",
+       "சட்டப்பேரவையில் அமைச்சர் கே.ஜி.அருண்ராஜ் அறிவித்தார்"
+      ]
+     },
+     {
+      "title": "எவ்வளவு செலவு?",
+      "lines": [
+       "பணியிடங்கள் உருவாக்கச் செலவு <b>ரூ.42.72 கோடி</b>",
+       "மாதம் <b>ரூ.21,000</b> ஒப்பந்த ஊதியம்",
+       "மாவட்ட சுகாதார சங்கங்கள் மூலம் பணியமர்த்தல்"
+      ]
+     },
+     {
+      "title": "எங்கே பணி?",
+      "lines": [
+       "சீமாங் மையங்களுக்கு <b>1,039</b> பணியிடங்கள்",
+       "மருத்துவக் கல்வி இயக்குநரகத்தின் கீழ் <b>656</b> பணியிடங்கள்",
+       "தேசிய நலவாழ்வுக் குழும பரிந்துரைக்கு அரசு ஒப்புதல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தமிழக அரசு மருத்துவமனைகளில் 1,695 செவிலியர் பணியிடங்களை உருவாக்க அரசாணை வெளியாகியுள்ளது. சட்டப்பேரவையில் மக்கள் நல்வாழ்வுத் துறை மானியக் கோரிக்கையின்போது அமைச்சர் கே ஜி அருண்ராஜ் இதை அறிவித்தார். இந்தப் பணியிடங்களை உருவாக்க ரூ.42.72 கோடி ஒதுக்கப்பட்டுள்ளது. மக்கள் நல்வாழ்வுத் துறைச் செயலர் தாரேஸ் அகமது வெளியிட்ட அரசாணையில் இது குறிப்பிடப்பட்டுள்ளது. தேசிய நலவாழ்வுக் குழும திட்ட இயக்குநர் அனுப்பிய முன்மொழிவுக் கடிதத்தின் அடிப்படையில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது. பேறுகால உயிரிழப்புகள் தமிழகத்தில் வெகுவாகக் குறைந்துள்ளதாக அந்தக் கடிதத்தில் குறிப்பிடப்பட்டிருந்தது. ஒருங்கிணைந்த பேறுகால அவசர சிகிச்சை மற்றும் பச்சிளம் குழந்தைகள் நலப் பிரிவான சீமாங் தொடங்கப்பட்டதால் இது சாத்தியமானதாகக் கூறப்பட்டது. சீமாங் மையங்களுக்கு 1,039 பணியிடங்களும், மருத்துவக் கல்வி மற்றும் ஆராய்ச்சி இயக்குநரகத்தின் கீழ் உள்ள மையங்களுக்கு 656 பணியிடங்களும் தேவைப்படுகின்றன. மாவட்ட சுகாதார சங்கங்கள் மூலம் மாதம் ரூ.21,000 ஒப்பந்த ஊதியத்தில் இந்தச் செவிலியர்கள் பணியமர்த்தப்படுவார்கள். இந்தப் பரிந்துரையை அரசு கவனமாகப் பரிசீலித்து ஒப்புதல் அளித்துள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏥 தமிழக அரசு மருத்துவமனைகளில் 1,695 செவிலியர் பணியிடங்கள் உருவாக்கம்\n\n📰 முழு விவரம்:\nதொகுப்பூதிய அடிப்படையில் 1,695 செவிலியர் பணியிடங்களை உருவாக்க அரசாணை பிறப்பிக்கப்பட்டுள்ளது. சட்டப்பேரவையில் மக்கள் நல்வாழ்வுத் துறை மானியக் கோரிக்கையின்போது அமைச்சர் கே.ஜி.அருண்ராஜ் இதை அறிவித்தார். இதற்காக ரூ.42.72 கோடி ஒதுக்கப்பட்டுள்ளது. மக்கள் நல்வாழ்வுத் துறைச் செயலர் தாரேஸ் அகமது வெளியிட்ட அரசாணையில் இது குறிப்பிடப்பட்டுள்ளது.\nதேசிய நலவாழ்வுக் குழும திட்ட இயக்குநரின் பரிந்துரையின்படி, சீமாங் மையங்களுக்கு 1,039 பணியிடங்களும், மருத்துவக் கல்வி மற்றும் ஆராய்ச்சி இயக்குநரகத்தின் கீழ் 656 பணியிடங்களும் தேவைப்படுகின்றன. இவர்கள் மாவட்ட சுகாதார சங்கங்கள் மூலம் மாதம் ரூ.21,000 ஒப்பந்த ஊதியத்தில் பணியமர்த்தப்படுவார்கள்.\n🏥 இடம்: தமிழ்நாடு அரசு மருத்துவமனைகள்\n💰 ஊதியம்: மாதம் ரூ.21,000 (ஒப்பந்த ஊதியம்)\n👩‍⚕️ பணியிடங்கள்: 1,695\n\nTamil Nadu 1,695 nurse posts created in government hospitals | Chennai news\n📍 சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Chennai #செவிலியர் #ChennaiNews",
+   "prompts": "A group of nurses in white uniforms walks along a bright corridor of a government hospital in Chennai district, with a few of them stopping near a maternity and newborn care unit where a bed and an incubator stand. Seen from behind at a distance, the nurses carry files and a stack of papers, signalling newly sanctioned posts. The corridor has pale green walls, ceiling tube lights, a row of wooden benches along one wall and a few patients' relatives waiting quietly far off, all faces turned away from the camera. It is daytime and the light from tube lights mixes with daylight from a window at the end of the corridor. Shot at eye level on a 35 mm lens, wide enough to show the full corridor and the unit door. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neatly stacked government order document on a hospital desk beside a stethoscope and a blood pressure monitor, with a blurred maternity unit bed and an infant warmer in the background. The papers show an official seal and typed text rendered as plain, unreadable blocks, with no legible words. A pair of nurse's hands in a white sleeve rests near the papers, the rest of the person out of frame. Soft daylight falls from a window on the left, creating a calm, official mood. Shot slightly high on a 35 mm lens to focus on the papers and the medical equipment around them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/creation-of-1695-fixed-remuneration-nursing-posts-government-order-issued",
+   "published": "2026-11-19T23:05:45.820Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தமிழ்நாடு', e.g. 'தமிழ்நாடு: ...' or 'தமிழ்நாடு-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131330/chennaiminnal/yt5vdh1gbsplas9ldacd.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131333/chennaiminnal/g3knfkd3vawvsqrnkrdu.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை சாலைகளில் கேட்பாரற்று நின்ற 900 வாகனங்கள்: 15 நாளில் உரிமை கோராவிடில் ஏலம்",
+   "english_headline": "900 unclaimed vehicles parked on Chennai roads; details posted online, owners must claim within 15 days or they will be auctioned",
+   "category": "Roads & Transport",
+   "location": "Kottur Puram police station residential campus, Chennai city, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வாகன அறிவிப்பு",
+    "loc": "சென்னை மாநகராட்சி",
+    "hl1": "900 வாகனங்கள்: உரிமை கோராவிடில் ஏலம்",
+    "hl2": "15 நாளுக்குள் கோட்டூர்புரம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சென்னை மாநகராட்சி சாலைகளில் <b>900 வாகனங்கள்</b>",
+       "நீண்ட நாட்களாக நிறுத்தப்பட்டதால் போக்குவரத்து",
+       "அனைத்து காவல் நிலைய எல்லைகளிலும் இந்த வாகனங்கள் இருந்தன"
+      ]
+     },
+     {
+      "title": "எங்கே உள்ளன?",
+      "lines": [
+       "காவல் துறையினர் வாகனங்களைக் கைப்பற்றினர்",
+       "கோட்டூர்புரம் காவல் நிலைய குடியிருப்பு வளாகத்தில்",
+       "வாகன விவரங்கள் சென்னை மாநகராட்சி இணையதளத்தில்"
+      ]
+     },
+     {
+      "title": "என்ன செய்ய",
+      "lines": [
+       "உரிமையாளர்கள் கோட்டூர்புரம் காவல் நிலையத்தை அணுக வேண்டும்",
+       "<b>15 நாட்களுக்குள்</b> உரிமை கோர வேண்டும்",
+       "உரிமை கோரப்படாத வாகனங்கள் மின்னணு ஏலத்தில் விடப்படும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னை சாலைகளில் கேட்பாரற்று நின்ற 900 வாகனங்கள் ஏலத்துக்குச் செல்லவுள்ளன. சென்னை மாநகராட்சிக்கு உட்பட்ட சாலையோரங்களில் நீண்ட நாட்களாக யாரும் எடுக்காமல் நிறுத்தப்பட்டிருந்த 900 வாகனங்கள் கண்டறியப்பட்டன. இதனால் போக்குவரத்துக்கு இடையூறு ஏற்பட்டது. அனைத்து காவல் நிலைய எல்லைகளிலும் இந்த வாகனங்கள் நிறுத்தப்பட்டிருந்தன. காவல் துறையினர் அவற்றைக் கைப்பற்றி, கோட்டூர்புரம் காவல் நிலைய குடியிருப்பு வளாகத்தில் நிறுத்தியுள்ளனர். வாகனங்களின் விவரங்கள் சென்னை மாநகராட்சி இணையதளத்தில் பதிவேற்றம் செய்யப்பட்டுள்ளன. வாகன உரிமையாளர்கள் கோட்டூர்புரம் காவல் நிலையத்தை அணுகி உரிமை கோர வேண்டும். 15 நாட்களுக்குள் உரிமை கோரப்படாத வாகனங்கள் மின்னணு ஏலத்தில் விடப்பட்டு கழிவு செய்யப்படும் என்று தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னை சாலைகளில் நின்ற 900 வாகனங்கள்: உரிமை கோராவிடில் ஏலம்\n\n📰 முழு விவரம்:\nசென்னை மாநகராட்சி சாலைகளில் நீண்ட நாட்களாகக் கேட்பாரற்று நிறுத்தப்பட்டிருந்த 900 வாகனங்கள் கண்டறியப்பட்டன. போக்குவரத்துக்கு இடையூறு ஏற்பட்டதால் இவை அனைத்து காவல் நிலைய எல்லைகளிலும் அடையாளம் காணப்பட்டன. காவல் துறையினர் அவற்றைக் கைப்பற்றி கோட்டூர்புரம் காவல் நிலைய குடியிருப்பு வளாகத்தில் நிறுத்தியுள்ளனர். வாகனங்களின் விவரங்கள் சென்னை மாநகராட்சி இணையதளத்தில் வெளியிடப்பட்டுள்ளன.\n📍 இடம்: கோட்டூர்புரம் காவல் நிலைய குடியிருப்பு வளாகம்\n🗓️ நாள்: நவம்பர் 19, 2026\n👮 நடவடிக்கை: வாகனங்கள் காவல் துறையினரால் கைப்பற்றப்பட்டன\n📞 தொடர்புக்கு: கோட்டூர்புரம் காவல் நிலையம்\nℹ️ மக்கள் கவனத்திற்கு: உரிமையாளர்கள் 15 நாட்களுக்குள் கோட்டூர்புரம் காவல் நிலையத்தை அணுகி உரிமை கோர வேண்டும். உரிமை கோரப்படாத வாகனங்கள் மின்னணு ஏலத்தில் விடப்படும்.\n\nChennai 900 unclaimed vehicles auction | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉரிமையாளர்களுக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #ChennaiPolice",
+   "prompts": "A long row of parked two-wheelers, scooters and a few cars, all seized and left unclaimed, stands packed together inside the residential campus of Kottur Puram police station in Chennai city. Behind them are plain government quarters with flat terraces, a few neem trees and a low compound wall, and a single police jeep parked near the gate. Two police constables in khaki uniform stand at a distance, seen from behind, looking over the vehicles. The lot is crowded with dust and dry leaves on the ground, under bright daylight with a clear sky. Some vehicles show dust and wear from long months on the road. Camera at eye level, 35 mm lens, wide enough to show the full row of vehicles and the police quarters behind them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the rear wheel and number-plate area of a dusty, unclaimed two-wheeler parked in a tight row at Kottur Puram police station's residential campus in Chennai. The plate is shown only as a blurred, unreadable rectangle with no legible text. Dry leaves, dust and a faint film of grime cover the mudguard and the ground beneath the tyre, and the seat is faded from long exposure to sun. Behind it, slightly out of focus, more seized vehicles are parked close together. Soft daylight with a clear sky. Camera at low height, 50 mm lens, shallow depth of field, focused on the wheel and the dust-covered body of the vehicle. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/details-of-900-vehicles-parked-along-the-roadside-released-to-be-auctioned-if-not-claimed",
+   "published": "2026-11-19T20:29:39.152Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சென்னை மாநகராட்சி', e.g. 'சென்னை மாநகராட்சி: ...' or 'சென்னை மாநகராட்சி-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131358/chennaiminnal/nst1ekkulysxau80auuf.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131361/chennaiminnal/s3p4oylouoo5fwvn2kre.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தாம்பரம் மாநகரில் தனியார் விடுதிகளில் சோதனை: கஞ்சா, போதை மாத்திரைகள் பறிமுதல், 18 பேர் கைது",
+   "english_headline": "Police raid private hostels in Tambaram city suburbs: 4.25 kg ganja, 119 drug tablets seized, 18 arrested",
+   "category": "Crime & Safety",
+   "location": "Pallikaranai, Sholinganallur, Perumbakkam, Medavakkam, Kannagi Nagar, Semmancheri - Tambaram city suburbs, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போதைப் பொருள் வேட்டை",
+    "loc": "தாம்பரம் மாநகர், சென்னை",
+    "hl1": "தாம்பரம் பகுதியில் போதை வேட்டை: 18 பேர்",
+    "hl2": "4¼ கிலோ கஞ்சா பறிமுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "விடுதிகளில் போதைப் பொருள் பயன்பாடு குறித்து தகவல் கிடைத்தது",
+       "பள்ளிக்கரணை, சோழிங்கநல்லூர் உள்ளிட்ட பகுதிகளில் சோதனை",
+       "47 தனிப்படைகள் அமைக்கப்பட்டன"
+      ]
+     },
+     {
+      "title": "எங்கே, எத்தனை",
+      "lines": [
+       "தனியார் விடுதிகள், வணிக வளாகங்கள், மக்கள் கூடும் இடங்கள்",
+       "மொத்தம் <b>90 இடங்களில்</b> சோதனை",
+       "162 அதிகாரிகள் உட்பட <b>1,000 போலீஸார்</b> ஈடுபட்டனர்"
+      ]
+     },
+     {
+      "title": "பறிமுதல், கைது",
+      "lines": [
+       "<b>4¼ கிலோ</b> கஞ்சா பறிமுதல்",
+       "<b>119</b> போதை மாத்திரைகள் பறிமுதல்",
+       "9 வழக்குகள் பதிவு; <b>18 பேர்</b> கைது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தாம்பரம் மாநகரில் தனியார் விடுதிகளில் நடந்த போலீஸ் சோதனையில் 18 பேர் கைது செய்யப்பட்டனர். பள்ளிக்கரணை, சோழிங்கநல்லூர், பெரும்பாக்கம், மேடவாக்கம், கண்ணகி நகர், செம்மஞ்சேரி உள்ளிட்ட புறநகர் பகுதிகளில் போதைப் பொருள் பயன்படுத்தப்படுவதாக தாம்பரம் மாநகர காவல் ஆணையர் நஜ்முல் ஹோடாவுக்கு தகவல் கிடைத்தது. தகவலின் அடிப்படையில், சந்தேகத்துக்குரிய விடுதிகளில் சோதனை நடத்த அவர் உத்தரவிட்டார். 47 தனிப்படைகள் அமைக்கப்பட்டு, வியாழக்கிழமை சோதனை நடத்தப்பட்டது. 162 அதிகாரிகள் உட்பட 1,000 போலீஸார் இந்த நடவடிக்கையில் ஈடுபட்டனர். தனியார் விடுதிகள் மட்டுமின்றி, தனியார் வணிக வளாகங்கள், மக்கள் கூடும் இடங்கள் என மொத்தம் 90 இடங்களில் சோதனை நடைபெற்றது. சோதனையில் 4¼ கிலோ கஞ்சாவும், 119 போதை மாத்திரைகளும் பறிமுதல் செய்யப்பட்டன. இது தொடர்பாக 9 வழக்குகள் பதிவு செய்யப்பட்டு, 18 பேர் கைது செய்யப்பட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாம்பரம் பகுதியில் போதை வேட்டை: 18 பேர் கைது, 4¼ கிலோ கஞ்சா பறிமுதல்\n\n📰 முழு விவரம்:\nபள்ளிக்கரணை, சோழிங்கநல்லூர், பெரும்பாக்கம், மேடவாக்கம், கண்ணகி நகர், செம்மஞ்சேரி உள்ளிட்ட பகுதிகளில் உள்ள சில விடுதிகளில் போதைப் பொருள் பயன்படுத்தப்படுவதாக தகவல் கிடைத்தது.\nதாம்பரம் மாநகர காவல் ஆணையர் நஜ்முல் ஹோடாவின் உத்தரவின்பேரில், 47 தனிப்படைகள் அமைக்கப்பட்டு வியாழக்கிழமை சோதனை நடத்தப்பட்டது.\n162 அதிகாரிகள் உட்பட 1,000 போலீஸார் ஈடுபட்டனர். தனியார் விடுதிகள், தனியார் வணிக வளாகங்கள், மக்கள் கூடும் இடங்கள் என மொத்தம் 90 இடங்களில் சோதனை நடந்தது.\nசோதனையில் 4¼ கிலோ கஞ்சா, 119 போதை மாத்திரைகள் பறிமுதல் செய்யப்பட்டன. 9 வழக்குகள் பதிவு செய்யப்பட்டு, 18 பேர் கைது செய்யப்பட்டனர்.\n📍 இடம்: பள்ளிக்கரணை, சோழிங்கநல்லூர், பெரும்பாக்கம், மேடவாக்கம், கண்ணகி நகர், செம்மஞ்சேரி\n🗓️ நாள்: நவம்பர் 19, 2026 (வியாழக்கிழமை)\nℹ️ மக்கள் கவனத்திற்கு: போதைப் பொருள் தொடர்பான தகவல்களை காவல் துறைக்கு தெரிவியுங்கள்.\n\nTambaram drug raids 18 arrested | Chennai news\n📍 தாம்பரம் மாநகர், சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tambaram #போதைப்பொருள் #ChennaiNews",
+   "prompts": "A row of Tamil Nadu police in khaki uniforms walks in a line down a narrow suburban lane in Chennai's southern outskirts, passing a multi-storey private hostel building with balconies and an iron gate, as a few two-wheelers stand parked on the roadside. The police are seen from behind and at a distance, some carrying batons and wearing caps, and a small group of onlookers stands near a shop front at the far end of the lane. The street is a typical Chennai suburban road with low-rise concrete buildings, electric poles overhead and a few tall palm trees. It is daylight, with an overcast sky and soft light on the building walls. Shot at eye level on a 35 mm lens, wide enough to show the hostel, the lane and the police column together, with no readable signboards or text visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nOn a plain table inside a police station room, neat piles of dried ganja packed in small plastic packets sit beside a heap of loose strip-pack drug tablets and a stack of case files. A police officer in khaki sleeve is seen only from the elbow down, placing an item on the table, while a second officer stands blurred in the background. The table has a white cloth and a single tube light overhead casts a cool glow. Nearby, a wall calendar and a metal almirah are visible, but no text can be read. The light is indoors and even, with a shallow depth of field keeping the seized packets sharp. Shot as a close-up detail from slightly above on a 50 mm lens, emphasising the seized goods and the official evidence on the table. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/raids-at-private-lodgings-ganja-and-narcotic-pills-seized",
+   "published": "2026-11-19T20:38:08.443Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 25",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131395/chennaiminnal/tjspbogx6ntxcdlyoebn.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795131398/chennaiminnal/ujjyut3kesozoxmgq9kw.jpg"
    ]
   }
  ]
