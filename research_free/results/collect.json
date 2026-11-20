@@ -3,226 +3,547 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/raids-at-the-residence-of-former-dmk-minister-moorthy-mk-stalin-condemns-the-action",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/commercial-establishments-must-not-hold-a-sugar-stock-exceeding-1000-quintals-tamil-nadu-government-announcement",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-industrial-investors-conference-to-be-held-on-the-25th",
-  "candidate filter: collected=3",
-  "to write: 3 Chennai district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-indust",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/commercial-estab",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/raids-at-the-res",
-  "NOT filed (N) திமுக முன்னாள் அமைச்சர் மூர்த்தி வீட்டில் சோதனை: ம: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
-  "posting job started at once",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-funeral-worker-murdered-near-pallavaram",
+  "manual link added: https://www.dinakaran.com/news/rowdy-bomb-murali-arrested-broke-police",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-assistant-police-inspector-dies-after-collapsing-in-high-court-premises",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/boats-seized-by-andhra-pradesh-coast-guard-fishermen-protest-in-chennai",
+  "manual link added: https://www.polimernews.com/tamilnadunews/sand-smuggling-from-kerala-to-tamil-nadu-5-lorries-seized-12826490",
+  "manual link added: https://www.dailythanthi.com/education-and-employment/job-opportunity-at-the-special-prison-for-women-chennai-eligible-candidates-invited-to-apply-collectors-announcement",
+  "candidate filter: collected=6",
+  "to write: 6 Chennai district candidates (max 6 stories)",
+  "round: top 6 of 6 candidates",
+  "candidates waiting: 6 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/education-and-employment/job-op",
+  "try (N) manual=True: https://www.polimernews.com/tamilnadunews/sand-smuggling-fro",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/boats-seized-by-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
-  "filed: 2 Chennai district stories (target 3), reels only",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-assistan",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.dinakaran.com/news/rowdy-bomb-murali-arrested-br",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-funeral-",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
+  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 6}, time left 72 min",
+  "filed: 6 Chennai district stories (target 6), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (22s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (25s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (35s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (45s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (42s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "ok gemini/gemini-3.5-flash (25s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (22s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (5s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சர்க்கரை இருப்பு வரம்பு குறைப்பு: வியாபாரிகள் 1,000 குவிண்டாலுக்கு மேல் வைக்கக்கூடாது",
-   "english_headline": "Sugar stock limit cut for traders: 1,000 quintals cap and 15-day holding period under new order",
-   "category": "Business & Prices",
-   "location": "Tamil Nadu, Chennai district",
+   "tamil_headline": "காசிமேட்டில் மீனவர்கள் திடீர் ஆர்ப்பாட்டம்: 800 படகுகள் நிறுத்தம், 100 டன் மீன் விநியோகம் பாதிப்பு",
+   "english_headline": "Kasimedu fishermen protest over 8 seized boats in AP; 800 boats stay off sea, 100 tonnes seafood supply affected in Chennai",
+   "category": "Civic Issues",
+   "location": "Kasimedu, Chennai town, Chennai district",
    "importance": "High",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "சர்க்கரை இருப்பு",
-    "loc": "தமிழ்நாடு",
-    "hl1": "சர்க்கரை இருப்பு வரம்பு குறைப்பு",
-    "hl2": "<b>1,000 குவிண்டால்</b> வரை",
+    "cat": "மீனவர் போராட்டம்",
+    "loc": "காசிமேடு, சென்னை",
+    "hl1": "காசிமேட்டில் மீனவர்கள் போராட்டம்",
+    "hl2": "800 படகுகள் நிறுத்தம்",
     "slides": [
      {
-      "title": "புதிய வரம்பு",
+      "title": "என்ன காரணம்?",
       "lines": [
-       "வியாபாரிகள் சர்க்கரை இருப்பை 15 நாட்கள் வரை மட்டுமே வைக்க",
-       "இதற்கு முன் இந்த கால அளவு <b>30 நாட்கள்</b>",
-       "மத்திய அரசின் புதிய உத்தரவு"
+       "ஜூன் <b>17</b>ல் ஆந்திர கடலோர காவல்படை <b>8</b> படகுகளைப் பறிமுதல் செய்தது",
+       "நீதிமன்றம் உத்தரவிட்டும் படகுகள் விடுவிக்கப்படவில்லை"
       ]
      },
      {
-      "title": "அளவு வரம்பு",
+      "title": "மீனவர்கள்",
       "lines": [
-       "எந்த இடத்திலும் <b>1,000 குவிண்டால்</b> மேல் இருப்பு கூடாது",
-       "முன்பு வரம்பு <b>2,000 குவிண்டால்</b> ஆக இருந்தது",
-       "அரசிதழில் மறுபதிப்பு செய்யப்பட்டுள்ளது"
+       "காசிமேட்டில் இன்று மீனவர்கள் ஆர்ப்பாட்டம்",
+       "சுமார் <b>800</b> படகுகள் கடலுக்குச் செல்லாமல் நிறுத்தம்",
+       "சென்னை, திருவள்ளூர், காஞ்சிபுரம் மீனவர்கள் பங்கேற்பு"
       ]
      },
      {
-      "title": "ஏன் இந்த முடிவு?",
+      "title": "வணிகம் பாதிப்பு",
       "lines": [
-       "சர்க்கரை விநியோகத்தை முறைப்படுத்த",
-       "பதுக்கலைத் தவிர்க்க இந்த நடவடிக்கை"
+       "துறைமுகம் சார்ந்த வணிகச் செயல்பாடுகள் முடங்கின",
+       "சுமார் <b>100 டன்</b> கடல் உணவு விநியோகம் பாதிப்பு",
+       "சென்னை சந்தைகளில் மீன் விலை உயர வாய்ப்பு"
+      ]
+     },
+     {
+      "title": "நீதிமன்ற வழக்கு",
+      "lines": [
+       "நீதிமன்ற அவமதிப்பு வழக்கு வரும் <b>24</b>ம் தேதி விசாரணை",
+       "படகுகளை உடனடியாக விடுவிக்க மீனவர்கள் கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வியாபாரிகளின் சர்க்கரை இருப்பு வரம்பு குறைக்கப்பட்டுள்ளது. வியாபாரிகள் வாங்கிய சர்க்கரையை இனி அதிகபட்சம் 15 நாட்களுக்கு மட்டுமே வைத்திருக்க வேண்டும். இதற்கு முன் இந்த கால அளவு 30 நாட்களாக இருந்தது. எந்த இடத்திலும் வியாபாரிகள் வைத்திருக்கக்கூடிய சர்க்கரை 1,000 குவிண்டாலுக்கு மிகாமல் இருக்க வேண்டும். முன்பு இந்த வரம்பு 2,000 குவிண்டாலாக இருந்தது. மத்திய அரசு பிறப்பித்த இந்த புதிய உத்தரவை தமிழ்நாடு அரசின் கூட்டுறவு, உணவு மற்றும் நுகர்வோர் பாதுகாப்புத் துறை அரசிதழில் மறுபதிப்பு செய்துள்ளது. சர்க்கரை விநியோகத்தை முறைப்படுத்தவும், பதுக்கலைத் தவிர்க்கவும் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சர்க்கரை வியாபாரிகளுக்கு இருப்பு வரம்பு குறைப்பு: 15 நாட்கள், 1,000 குவிண்டால் மட்டுமே\n\n📰 முழு விவரம்:\nமத்திய அரசு சர்க்கரை வியாபாரிகளுக்கான இருப்பு வரம்பையும் கால அளவையும் குறைத்து புதிய உத்தரவு பிறப்பித்துள்ளது. இந்த அறிவிப்பை தமிழ்நாடு அரசின் கூட்டுறவு, உணவு மற்றும் நுகர்வோர் பாதுகாப்புத் துறை அரசிதழில் மறுபதிப்பு செய்துள்ளது. வியாபாரிகள் வாங்கிய சர்க்கரையை அதிகபட்சம் 15 நாட்களுக்கு மட்டுமே வைத்திருக்க வேண்டும்; இதற்கு முன் 30 நாட்கள் இருந்தது. எந்த இடத்திலும் இருப்பு 1,000 குவிண்டாலுக்கு மிகாமல் இருக்க வேண்டும்; முன்பு இது 2,000 குவிண்டால். சர்க்கரை விநியோகத்தை முறைப்படுத்தவும், பதுக்கலைத் தவிர்க்கவும் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.\n\nSugar stock limit cut for traders, 1,000 quintal cap | Tamil Nadu news\n📍 தமிழ்நாடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சர்க்கரை #சென்னை",
-   "prompts": "A row of sugar traders in shirts and veshtis stands with their backs to the camera inside a crowded wholesale godown in Chennai, where white sugar sacks are stacked floor to ceiling on wooden pallets. Several sacks are tied with rope and labelled only by their colour; no text is readable. A few men look at a folded paper notice held by one trader, suggesting a new rule being read. The building is a single-storey warehouse with a corrugated roof, tube lights hanging overhead and a shutter door open to a narrow lane of two-wheelers parked outside. The light is soft daylight from the door. Shot at eye level on 35 mm, wide enough to show the stacked sacks, the traders and the lane beyond. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a tall stack of white sugar sacks inside a Chennai wholesale godown, the top sacks partly loosened as if being counted or moved. Beside them sits a large old-style weighing scale with a steel platform and a few sacks placed on it. In the soft daylight from an open shutter, the grain of the jute sacks and the fine white sugar spilling from one torn corner are clearly visible. A folded gazette-style paper rests on the scale's edge, out of focus. No faces are shown; the frame is tight on the sacks and the scale, shot at eye level on 35 mm. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/commercial-establishments-must-not-hold-a-sugar-stock-exceeding-1000-quintals-tamil-nadu-government-announcement",
-   "published": "2026-11-20T05:26:40Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தமிழ்நாடு', e.g. 'தமிழ்நாடு: ...' or 'தமிழ்நாடு-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "காசிமேட்டில் 800 படகுகள் கடலுக்குச் செல்லாததால் சென்னையில் 100 டன் மீன் விநியோகம் பாதிக்கப்பட்டுள்ளது. ஆந்திர கடலோர காவல்படையினரால் தடுத்து வைக்கப்பட்டுள்ள படகுகளை விடுவிக்கக் கோரி காசிமேட்டில் மீனவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர். கடந்த ஜூன் 17ஆம் தேதி தமிழக மீனவர்களின் 8 மீன்பிடி படகுகளை ஆந்திர கடலோர காவல்படையினர் பறிமுதல் செய்தனர். அந்த படகுகளை விடுவிக்க ஆந்திர மீன்வள ஆணையர் மற்றும் உயர்நீதிமன்றம் உத்தரவிட்டும் இதுவரை விடுவிக்கப்படவில்லை. இதனை எதிர்த்து தாக்கல் செய்யப்பட்ட நீதிமன்ற அவமதிப்பு வழக்கு வரும் 24ஆம் தேதி விசாரணைக்கு வர உள்ளது. இதனால் காசிமேட்டில் மீனவர்கள் இன்று மீன்பிடிக்கச் செல்லாததால் சுமார் 800 படகுகள் நிறுத்தி வைக்கப்பட்டுள்ளன. இந்த ஆர்ப்பாட்டத்தில் சென்னை, திருவள்ளூர் மற்றும் காஞ்சீபுரம் மாவட்டங்களைச் சேர்ந்த மீனவர்கள் பங்கேற்றுள்ளனர். இந்த வேலைநிறுத்தத்தால் துறைமுகம் சார்ந்த வணிக நடவடிக்கைகள் முற்றிலும் முடங்கியுள்ளன. சென்னையில் உள்ள சந்தைகளுக்கு வரும் 100 டன் கடல் உணவுகள் விநியோகம் பாதிக்கப்பட்டு, மீன் விலை உயரக்கூடும் என வியாபாரிகள் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 காசிமேட்டில் 800 படகுகள் நிறுத்தம் - சென்னையில் 100 டன் மீன் விநியோகம் பாதிப்பு\n\n📰 முழு விவரம்:\nஆந்திர கடலோர காவல்படையினரால் பறிமுதல் செய்யப்பட்ட 8 படகுகளை விடுவிக்கக்கோரி சென்னை காசிமேட்டில் மீனவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டு வருகின்றனர். கடந்த ஜூன் 17ஆம் தேதி ஆந்திர கடலோர காவல்படை தமிழக மீனவர்களின் 8 படகுகளைப் பறிமுதல் செய்தது. நீதிமன்றம் உத்தரவிட்டும் படகுகள் விடுவிக்கப்படாததால், தாக்கல் செய்யப்பட்ட அவமதிப்பு வழக்கு வரும் 24ஆம் தேதி விசாரணைக்கு வருகிறது. இந்நிலையில், இன்று காசிமேட்டில் மீனவர்கள் மீன்பிடிக்கச் செல்லாததால் சுமார் 800 படகுகள் நிறுத்தி வைக்கப்பட்டுள்ளன. இந்த ஆர்ப்பாட்டத்தில் சென்னை, திருவள்ளூர், காஞ்சீபுரம் மாவட்ட மீனவர்கள் இணைந்துள்ளனர். இதனால் துறைமுக வணிகம் முடங்கி, சென்னை சந்தைகளில் 100 டன் கடல் உணவு விநியோகம் பாதிக்கப்பட்டு விலை உயர வாய்ப்புள்ளதாக வியாபாரிகள் கூறியுள்ளனர்.\n\n📍 இடம்: காசிமேடு, சென்னை\n🗓️ நாள்: 20 நவம்பர் 2026\n⚓ படகுகள்: 800 படகுகள் கடலுக்குச் செல்லவில்லை\n🐟 பாதிப்பு: 100 டன் கடல் உணவு விநியோகம் பாதிப்பு\n\nChennai Kasimedu fishermen protest 800 boats strike | Chennai news\n📍 Kasimedu, Chennai | 20 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kasimedu #ChennaiNews #சென்னை",
+   "prompts": "A large crowd of fishermen stands in protest at the Kasimedu fishing harbor, facing the sea where hundreds of boats are docked. The scene captures the vast expanse of the Chennai coastline with the wharf in the foreground. The men, dressed in shirts and lungis, are seen from behind as they gather near the water's edge. In the background, hundreds of colorful mechanized fishing boats and trawlers are packed tightly together, completely stationary and tied to the docks. The bright daylight reflects off the calm sea water. The camera is positioned at a high angle, using a 35mm wide lens to encompass both the protesting crowd and the massive fleet of 800 idle boats stretching into the distance. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of the Kasimedu wharf showing the impact of the strike with rows of empty fish crates stacked on the concrete ground. In the background, the dense line of stationary fishing boats remains tied to the harbor bollards, showing no signs of activity. A few fishermen are seen from a distance sitting on the edge of the pier, looking out at the idle fleet. The colorful hulls of the mechanized boats contrast with the grey concrete of the harbor. The scene is captured in clear daylight, highlighting the silence of the usually busy port. The camera is at eye level, focusing on the foreground crates and the long line of moored vessels that represent the 100-tonne supply disruption. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/boats-seized-by-andhra-pradesh-coast-guard-fishermen-protest-in-chennai",
+   "published": "2026-11-20T09:25:33Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160073/chennaiminnal/n5hpxgmblbr7rtrce6zf.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160109/chennaiminnal/kbueya5rmzhftdehkmns.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174703/chennaiminnal/u2xxvfcrxg4eg0ov6rad.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174706/chennaiminnal/ekdynb0laxiaokoprqzl.jpg"
    ]
   },
   {
-   "tamil_headline": "2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு: 25-ந்தேதி நடக்கிறது",
-   "english_headline": "2nd Vetri Tamil Nadu investors' conference to be held on the 25th in Chennai, chaired by CM Vijay",
-   "category": "Business & Prices",
-   "location": "Chennai, Chennai district",
+   "tamil_headline": "கேரளாவில் இருந்து சென்னைக்கு மணல் கடத்தல்: திண்டிவனத்தில் 5 லாரிகள் பறிமுதல்!",
+   "english_headline": "5 lorries smuggling sand from Kerala to Chennai seized near Tindivanam; police launch search for fleeing drivers",
+   "category": "Crime & Safety",
+   "location": "Tindivanam, Villupuram district / Chennai, Chennai district",
    "importance": "High",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "முதலீட்டு மாநாடு",
-    "loc": "சென்னை",
-    "hl1": "சென்னையில் 2-வது முதலீட்டாளர்கள் மாநாடு",
-    "hl2": "25-ம் தேதி நடைபெறும்",
+    "cat": "மணல் கடத்தல்",
+    "loc": "சென்னை / திண்டிவனம்",
+    "hl1": "சென்னைக்கு கடத்திய 5 மணல் லாரிகள்",
+    "hl2": "கேரளாவில் இருந்து கடத்தல்",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "<b>25-ம் தேதி</b> (புதன்கிழமை) நடைபெறும்",
-       "முதல்-அமைச்சர் விஜய் தலைமையில் மாநாடு",
-       "சென்னையில் 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு"
+       "கேரளாவில் இருந்து சென்னைக்கு மணல் கடத்தல்",
+       "திண்டிவனத்தில் <b>5 லாரிகள்</b> பறிமுதல்",
+       "போலீசார் அதிரடி நடவடிக்கை"
       ]
      },
      {
-      "title": "முதல் மாநாடு",
+      "title": "எங்கிருந்து",
       "lines": [
-       "ஆகஸ்ட் மாதம் சென்னை நட்சத்திர ஓட்டலில் நடைபெற்றது",
-       "<b>67,452 கோடி ரூபாய்</b> முதலீடு உறுதி",
-       "<b>1,06,998</b> வேலைவாய்ப்புகள் உருவாகும்"
+       "கேரள மாநிலம் <b>பாலக்காட்டில்</b> மணல் அள்ளப்பட்டது",
+       "தமிழகத்தில் எம்.சேண்ட் பயன்பாடு அதிகம்",
+       "சென்னைக்கு கடத்தப்பட்டதாக தகவல்"
       ]
      },
      {
-      "title": "அடிக்கல், தொடக்கம்",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "<b>8</b> திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது",
-       "<b>4,476 கோடி ரூபாய்</b> முதலீடு, <b>5,074</b> வேலைவாய்ப்பு",
-       "<b>5</b> திட்டப் பணிகள் தொடங்கப்பட்டன"
-      ]
-     },
-     {
-      "title": "நோக்கம்",
-      "lines": [
-       "புதிய தொழில் முதலீடுகளை ஈர்ப்பது",
-       "தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு எடுத்துச் செல்வது",
-       "இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகள் உருவாக்குவது"
+       "<b>5 லாரிகள்</b> பறிமுதல் செய்யப்பட்டன",
+       "தப்பியோடிய ஓட்டுநர்களுக்கு தீவிர வலைவீச்சு",
+       "போலீசார் தொடர்ந்து விசாரணை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் 25ஆம் தேதி புதன்கிழமை 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு நடைபெறுகிறது. முதல்-அமைச்சர் விஜய் தலைமையில் இந்த மாநாடு நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. தமிழக அரசு பொறுப்பேற்ற பிறகு நடைபெறும் முதல் வெற்றி தமிழ்நாடு முதலீட்டாளர்கள் மாநாடு கடந்த ஆகஸ்ட் மாதம் சென்னையில் உள்ள நட்சத்திர ஓட்டலில் நடைபெற்றது. அந்த மாநாட்டில் 67,452 கோடி ரூபாய் முதலீடு மற்றும் 1,06,998 வேலைவாய்ப்புகள் உருவாக்கும் வகையில் 97 புரிந்துணர்வு ஒப்பந்தங்கள் போடப்பட்டன. 8 திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது. அவற்றின் மூலம் 4,476 கோடி ரூபாய் முதலீடும் 5,074 வேலைவாய்ப்புகளும் உருவாகும். 5 திட்டப் பணிகளை முதல்-அமைச்சர் விஜய் தொடங்கி வைத்தார். அவற்றால் 2,676 கோடி ரூபாய் முதலீடும் 1,550 வேலைவாய்ப்புகளும் கிடைக்கும். தமிழகத்தில் புதிய தொழில் முதலீடுகளை ஈர்ப்பது, தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு எடுத்துச் செல்வது, இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகளை உருவாக்குவது ஆகியவை இந்த மாநாட்டின் நோக்கங்கள். இம்மாநாட்டில் கையெழுத்தாகவுள்ள ஒப்பந்தங்கள் மற்றும் இடம் குறித்த அதிகாரப்பூர்வ அறிவிப்புகள் விரைவில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💼 சென்னையில் 25-ம் தேதி 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு\n\n📰 முழு விவரம்:\nதமிழக அரசு பொறுப்பேற்ற பிறகு நடைபெறும் முதல் வெற்றி தமிழ்நாடு முதலீட்டாளர்கள் மாநாடு கடந்த ஆகஸ்ட் மாதம் சென்னையில் உள்ள நட்சத்திர ஓட்டலில் நடைபெற்றது. முதல்-அமைச்சர் விஜய் முன்னிலையில் தொழில், முதலீட்டு ஊக்குவிப்பு மற்றும் வர்த்தகத் துறை சார்பில் 67,452 கோடி ரூபாய் முதலீடு மற்றும் 1,06,998 வேலைவாய்ப்புகள் உருவாக்கும் வகையில் 97 புரிந்துணர்வு ஒப்பந்தங்கள் மேற்கொள்ளப்பட்டன.\n🏗️ 8 திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது: 4,476 கோடி ரூபாய் முதலீடு, 5,074 வேலைவாய்ப்புகள்.\n🚧 5 திட்டப் பணிகளை முதல்-அமைச்சர் விஜய் தொடங்கி வைத்தார்: 2,676 கோடி ரூபாய் முதலீடு, 1,550 வேலைவாய்ப்புகள்.\n🗓️ இரண்டாவது மாநாடு வருகிற 25-ம் தேதி (புதன்கிழமை) சென்னையில் முதல்-அமைச்சர் விஜய் தலைமையில் நடைபெறும்.\n🎯 நோக்கம்: புதிய தொழில் முதலீடுகளை ஈர்ப்பது, தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு கொண்டு செல்வது, இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகளை உருவாக்குவது.\nℹ️ மாநாட்டில் கையெழுத்தாகவுள்ள ஒப்பந்தங்கள், இடம் குறித்த அதிகாரப்பூர்வ அறிவிப்புகள் விரைவில் வெளியாகும்.\n\nChennai 2nd investors conference on 25th | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #முதலீடு",
-   "prompts": "Inside a large air-conditioned conference hall of a Chennai hotel, rows of white cushioned chairs face a long wooden stage with a dais and a set of microphones, and a small table in front holds neatly stacked folders and papers ready for signing. Seen from the back of the hall at eye level with a 35 mm lens, several businessmen in formal shirts and trousers, some men in white shirts with veshti, and women in sarees sit in the front rows, their backs to the camera, listening attentively. Cool ceiling lights and tall hall curtains frame the stage, and a few corporate staff in dark formal wear stand near the side doors. The scene is daytime indoors with soft warm light, wide enough to show the full hall and the stage, conveying an investors' meeting in progress. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-industrial-investors-conference-to-be-held-on-the-25th",
-   "published": "2026-11-20T05:59:27Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (15 words in a row, 17% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "reel_script": "கேரளாவில் இருந்து சென்னைக்கு கடத்தப்பட்ட 5 மணல் லாரிகள் பறிமுதல். கேரள மாநிலம் பாலக்காட்டில் இருந்து சட்டவிரோதமாக மணல் அள்ளி வரப்பட்டதாக காவல்துறையினர் தெரிவித்தனர். தமிழகத்தில் எம் சேண்ட் அதிகம் பயன்படுத்தப்படுவதாக கூறப்படுகிறது. இதனால் கேரளாவில் இருந்து சென்னைக்கு மணல் கடத்திச் செல்லப்பட்டதாக விசாரணையில் தெரியவந்துள்ளது. திண்டிவனத்தில் வைத்து 5 லாரிகளையும் காவல்துறையினர் பறிமுதல் செய்தனர். காவல்துறையினரை கண்டதும் லாரிகளின் ஓட்டுநர்கள் அங்கிருந்து தப்பியோடிவிட்டனர். தப்பியோடிய லாரி ஓட்டுநர்களை காவல்துறையினர் தற்போது தீவிரமாக தேடி வருகின்றனர். 5 லாரிகளும் காவல்துறையினரால் பறிமுதல் செய்யப்பட்டு விசாரணை நடத்தப்பட்டு வருகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கேரளாவில் இருந்து சென்னைக்கு கடத்தப்பட்ட 5 மணல் லாரிகள் திண்டிவனத்தில் பறிமுதல்!\n\n📰 முழு விவரம்:\nகேரள மாநிலத்தில் இருந்து தமிழகத்துக்கு 5 லாரிகளில் கடத்தி வரப்பட்ட மணலை திண்டிவனத்தில் வைத்து காவல்துறையினர் பறிமுதல் செய்தனர். தமிழகத்தில் எம்-சேண்ட் அதிகம் பயன்படுத்தப்படுவதால் கேரளாவில் இருந்து சென்னைக்கு மணல் கடத்திச் செல்லப்பட்டதாக கூறப்படுகிறது.\nகேரள மாநிலம் பாலக்காட்டில் இருந்து சட்டவிரோதமாக மணல் அள்ளி வரப்பட்டது விசாரணையில் தெரியவந்துள்ளது. சோதனையின் போது லாரிகளின் ஓட்டுநர்கள் அங்கிருந்து தப்பியோடிவிட்டனர். 5 லாரிகளையும் காவல்துறையினர் பறிமுதல் செய்து, தப்பியோடிய லாரி ஓட்டுநர்களை தீவிரமாக தேடி வருகின்றனர்.\n\n📍 இடம்: திண்டிவனம் (சென்னை நோக்கி கடத்தல்)\n🗓️ நாள்: 20 நவம்பர் 2026\n👮 நடவடிக்கை: 5 லாரிகள் பறிமுதல், தப்பியோடிய ஓட்டுநர்களுக்கு வலைவீச்சு\n\nSand smuggled from Kerala to Chennai seized in Tindivanam | Chennai news\n📍 Chennai | 20 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tindivanam #CrimeNews #சென்னை",
+   "prompts": "Five heavy-duty lorries are parked in a disciplined row on the dusty shoulder of the highway near Tindivanam. Tamil Nadu police officers in khaki uniforms stand at a distance near the vehicles, conducting an inspection of the seized transport. The lorries are large, multi-axle trucks typical of South Indian cargo transport, parked on the side of a wide road with sparse greenery and utility poles in the background. No drivers are present as they have fled the scene. The environment reflects the outskirts of Chennai with bright daylight and a clear sky. The camera is at eye level, positioned at a 35mm wide angle to capture the entire line of five seized vehicles and the scale of the police operation. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the open cargo bed of one of the seized lorries, which is filled to the brim with fine, damp river sand. The texture of the illegal sand is the central focus, showing the grains and small ripples from transport. In the blurred background, the khaki uniform of a police officer is visible from the shoulder down, indicating the presence of authority without showing a face. The weathered metallic side of the lorry frame frames the sand. The shot is taken from a slightly high angle looking directly into the truck bed to emphasize the volume of the smuggled goods. The lighting is natural daylight, highlighting the contrast between the dark metal of the truck and the pale sand. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.polimernews.com/tamilnadunews/sand-smuggling-from-kerala-to-tamil-nadu-5-lorries-seized-12826490",
+   "published": "2026-11-20T15:25:25+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174744/chennaiminnal/ocj0uzfp5y8hjsppopzh.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174754/chennaiminnal/p8ece4ifnbmy6gs6rrh6.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை ஐகோர்ட் வளாகத்தில் உதவி காவல் ஆய்வாளர் மயங்கி உயிரிழப்பு",
+   "english_headline": "Assistant Police Inspector dies after collapsing at Chennai High Court",
+   "category": "Crime & Safety",
+   "location": "Chennai High Court, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சம்பவம்",
+    "loc": "ஐகோர்ட், சென்னை",
+    "hl1": "சென்னை ஐகோர்டில் போலீஸ் உதவி ஆய்வாளர்",
+    "hl2": "பணியின்போது மயங்கி",
+    "slides": [
+     {
+      "title": "சம்பவம்",
+      "lines": [
+       "வெள்ளிக்கிழமை முற்பகல் நேரத்தில்",
+       "உதவி காவல் ஆய்வாளர் <b>சந்திரகாந்தன்</b>",
+       "ஐகோர்ட் வளாகத்தில் பாதுகாப்பு பணியில் இருந்தார்"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது",
+      "lines": [
+       "நடந்து செல்லும்போது திடீரென மயங்கி விழுந்தார்",
+       "சக போலீசார் உடனடியாக ஆம்புலன்ஸ் அழைத்தனர்",
+       "முதலுதவி அளித்து மருத்துவமனைக்கு அனுப்பினர்"
+      ]
+     },
+     {
+      "title": "மருத்துவர்கள்",
+      "lines": [
+       "ராஜீவ் காந்தி அரசு பொது மருத்துவமனைக்கு அனுப்பப்பட்டார்",
+       "வழியிலேயே உயிரிழந்துவிட்டதாக மருத்துவர்கள் தெரிவித்தனர்",
+       "போலீசார் வழக்கு பதிவு செய்து விசாரணை நடத்துகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னை ஐகோர்ட் வளாகத்தில் உதவி காவல் ஆய்வாளர் உயிரிழந்துள்ளார். வெள்ளிக்கிழமை முற்பகல் நேரத்தில் இந்த சம்பவம் நடந்தது. உதவி காவல் ஆய்வாளர் சந்திரகாந்தன் நீதிமன்ற வளாகத்தில் பாதுகாப்பு பணியில் ஈடுபட்டிருந்தார். அவர் நடந்து சென்று கொண்டிருக்கும்போது திடீரென மயங்கி கீழே விழுந்தார். இதைக் கண்ட சக போலீசார் உடனடியாக ஆம்புலன்ஸ் ஊழியர்களுக்குத் தகவல் தெரிவித்தனர். விரைந்து வந்த ஆம்புலன்ஸ் ஊழியர்கள் அவருக்கு முதலுதவி அளித்தனர். பின்னர் அவரை சென்னை ராஜீவ் காந்தி அரசு பொது மருத்துவமனைக்கு கொண்டு சென்றனர். மருத்துவர்கள் பரிசோதித்தபோது அவர் வழியிலேயே உயிரிழந்துவிட்டதாக தெரிவித்தனர். இந்த சம்பவம் குறித்து போலீசார் வழக்கு பதிவு செய்துள்ளனர். தற்போது போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னை ஐகோர்ட் வளாகத்தில் உதவி காவல் ஆய்வாளர் மயங்கி விழுந்து உயிரிழப்பு\n\n📰 முழு விவரம்:\nசென்னை ஐகோர்ட் வளாகத்தில் நடந்த சம்பவம். வெள்ளிக்கிழமை முற்பகல் நேரத்தில் உதவி காவல் ஆய்வாளர் சந்திரகாந்தன் பாதுகாப்பு பணியில் இருந்தார். நீதிமன்ற வளாகத்தில் நடந்து செல்லும்போது அவர் திடீரென மயங்கி விழுந்தார். சக போலீசார் உடனடியாக ஆம்புலன்ஸ் அழைத்தனர். ஆம்புலன்ஸ் ஊழியர்கள் முதலுதவி அளித்து ராஜீவ் காந்தி அரசு பொது மருத்துவமனைக்கு அனுப்பினர். மருத்துவர்கள் அவர் வழியிலேயே உயிரிழந்துவிட்டதாக தெரிவித்தனர். போலீசார் வழக்கு பதிவு செய்து விசாரணை நடத்துகின்றனர்.\n\n📍 இடம்: சென்னை ஐகோர்ட் வளாகம்\n🗓️ நாள்: வெள்ளிக்கிழமை\n👮 நடவடிக்கை: வழக்கு பதிவு செய்து விசாரணை நடத்தப்படுகிறது\n\nஇந்த செய்தியை தேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nChennai High Court police officer death | Chennai news\n📍 Chennai High Court, Chennai | வெள்ளிக்கிழமை\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiHighCourt #ChennaiNews #சென்னை",
+   "prompts": "A group of Tamil Nadu police in khaki uniforms and a white ambulance crew in uniform gather around a fallen figure on a stone pathway inside the Madras High Court campus in Chennai, seen from a distance and from behind. The heritage red-brick and arched court buildings rise on one side, with tall trees and a few lawyers in black coats walking in the background. A white ambulance is parked near the corridor, its rear doors open, and a stretcher lies on the ground. The scene is Friday morning in soft daylight, with the mood calm and solemn. Shot at eye level with a 35 mm lens, wide enough to show the court building, the ambulance and the group of people, all faces turned away or blurred, no readable signs or text. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an empty khaki police cap resting on a stone bench or on the paved floor of a High Court corridor, with a folded khaki uniform sleeve and a black leather police belt beside it. Behind, slightly out of focus, arched pillars of the court building and a few lawyers in black coats walk past. Morning daylight falls across the stone floor, creating a quiet, sombre atmosphere. Shot at a close distance with a 50 mm lens, shallow depth of field, no faces visible, no text or badges legible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/chennai-assistant-police-inspector-dies-after-collapsing-in-high-court-premises",
+   "published": "2026-11-20T10:21:20Z",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174869/chennaiminnal/seezuzmdcp5h2jmd2hes.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174902/chennaiminnal/vsi4t9cp4sohghvtzdpn.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வண்ணாரப்பேட்டை ரவுடி பாம்முரளி கைது: போலீசார் துரத்தியபோது கீழே விழுந்து கை உடைந்தது",
+   "english_headline": "Vannarapettai rowdy Bam Murali, wanted in 20+ cases including murder, arrested; broke his left hand falling while fleeing police",
+   "category": "Crime & Safety",
+   "location": "Puthu Vannarapettai, Chennai town, Chennai district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கைது",
+    "loc": "வண்ணாரப்பேட்டை, சென்னை",
+    "hl1": "வண்ணாரப்பேட்டை ரவுடி பாம்முரளி கைது",
+    "hl2": "கை உடைந்தது, 109 மாத்திரைகள்",
+    "slides": [
+     {
+      "title": "யார் இவர்?",
+      "lines": [
+       "முரளி (எ) பாம்முரளி, <b>23 வயது</b>",
+       "புது வண்ணாரப்பேட்டை சுனாமி குடியிருப்பை சேர்ந்தவர்",
+       "ஒரு கொலை, 6 கொலை முயற்சி உட்பட <b>20</b>க்கும் மேற்பட்ட வழக்குகள்"
+      ]
+     },
+     {
+      "title": "எப்படி பிடித்தனர்?",
+      "lines": [
+       "இரவில் போதை மாத்திரை விற்பதாக ரகசிய தகவல்",
+       "எம்.பி.டி. மைதானம் அருகே போலீசார் கண்காணிப்பு",
+       "சந்தேகத்தில் ஸ்கூட்டரில் தப்பியோடியவரை போலீசார் துரத்தினர்"
+      ]
+     },
+     {
+      "title": "கீழே விழுந்தார்",
+      "lines": [
+       "ஸ்கூட்டரில் இருந்து தவறி விழுந்து இடது கை எலும்பு முறிந்தது",
+       "பிடித்த பின் அவர் பாம்முரளி என தெரியவந்தது",
+       "ஸ்கூட்டரில் <b>109</b> போதை மாத்திரைகள் இருந்தன"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "எலும்பு முறிவுக்கு மருத்துவமனையில் சிகிச்சை",
+       "நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைப்பு",
+       "வண்ணாரப்பேட்டை போலீசார் விசாரணை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "🚨 வண்ணாரப்பேட்டை ரவுடி பாம்முரளி போலீசாரிடம் சிக்கி, துரத்தலின்போது கை உடைந்தார். சென்னை புது வண்ணாரப்பேட்டை சுனாமி குடியிருப்பைச் சேர்ந்த முரளி (எ) பாம்முரளி, 23 வயது, பிரபல ரவுடி ஆவார். அவர் மீது ஒரு கொலை, 6 கொலை முயற்சி உட்பட 20க்கும் மேற்பட்ட வழக்குகள் நிலுவையில் உள்ளன. இரவு நேரங்களில் வண்ணாரப்பேட்டை பகுதியில் போதை மாத்திரைகள் விற்பனை செய்வதாக போலீசாருக்கு ரகசியத் தகவல் கிடைத்தது. அதன்படி போலீசார் நாடாளுமன்ற உறுப்பினர்டி. மைதானம் அருகே உள்ள பூமீஸ்வரர் கோயில் அருகே கண்காணிப்புப் பணியில் ஈடுபட்டனர். சந்தேகத்திற்கிடமான வகையில் ஸ்கூட்டரில் நின்ற ஒருவரை போலீசார் நெருங்கியபோது, அவர் ஸ்கூட்டரில் தப்பி ஓடினார். போலீசார் அவரை விடாமல் துரத்தினர். அப்போது ஸ்கூட்டரில் இருந்து தவறி விழுந்ததில் அவரது இடது கை எலும்பு முறிந்தது. பிடிபட்டவர் பாம்முரளி என தெரியவந்தது. அவரை போலீசார் கைது செய்தனர். ஸ்கூட்டரை ஆய்வு செய்தபோது அதில் 109 போதை மாத்திரைகள் இருந்தது தெரியவந்தது. காயமடைந்த பாம்முரளிக்கு மருத்துவமனையில் எலும்பு முறிவுக்கு சிகிச்சை அளிக்கப்பட்டது. பின்னர் அவர் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வண்ணாரப்பேட்டை ரவுடி பாம்முரளி கைது: போலீசார் துரத்தியபோது கீழே விழுந்து கை உடைந்தது\n\n📰 முழு விவரம்:\nகொலை உட்பட 20க்கும் மேற்பட்ட வழக்குகளில் தலைமறைவாக இருந்த வண்ணாரப்பேட்டை ரவுடி பாம்முரளியை போலீசார் கைது செய்தனர். போலீசாரைக் கண்டு ஸ்கூட்டரில் தப்பியோடியபோது அவர் கீழே விழுந்து இடது கை எலும்பு முறிந்தது.\nஇரவு நேரங்களில் போதை மாத்திரைகள் விற்பதாக ரகசியத் தகவல் கிடைத்ததையடுத்து போலீசார் கண்காணிப்புப் பணியில் ஈடுபட்டனர். ஸ்கூட்டரில் 109 போதை மாத்திரைகள் இருந்தன.\nகாயமடைந்த பாம்முரளிக்கு மருத்துவமனையில் சிகிச்சை அளித்து, நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைத்தனர்.\n\n📍 இடம்: புது வண்ணாரப்பேட்டை, சென்னை\n👮 நடவடிக்கை: கைது; 109 போதை மாத்திரைகள் பறிமுதல்; சிறையில் அடைப்பு\n\nChennai rowdy arrested, broke hand while fleeing | Chennai news\n📍 புது வண்ணாரப்பேட்டை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Vannarapettai #ChennaiCrime #ChennaiNews",
+   "prompts": "A pair of Tamil Nadu police in khaki stand on a dim night street in Puthu Vannarapettai, Chennai, near the outline of the Boomeeswarar temple gopuram, as a young man on a two-wheeler scooter is seen from a distance, already turned away and being chased. The road is a narrow residential lane lined with low concrete houses and a few shops, lit only by yellow street lamps and the glow of a passing autorickshaw. Two officers, seen from behind, are moving toward the scooter with urgency; a second scooter and a parked two-wheeler stand along the kerb. The scene is night, with dark sky and the temple lights faintly visible. Camera at eye level, 35 mm, wide enough to show the street, temple and police together, with faces not visible and no readable signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a police table or the boot of a police jeep in a Vannarapettai police station area at night, with a neat pile of small white and coloured intoxicant tablets, around 109 of them, spread on a cloth beside a parked two-wheeler scooter. A khaki-uniformed police arm rests at the edge of the frame, the officer's face not shown. Behind the table, a blurred police station wall and a single tube light give a cool, harsh glow. The scooter's front panel and handlebar are visible, but no readable text or brand logos. The tablets are sharply focused, showing their count and scattered arrangement as evidence, while the background stays soft and dim, with a faint hint of a temple wall behind. Camera at a slight high angle, 35 mm, shallow depth of field, night light. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/rowdy-bomb-murali-arrested-broke-police",
+   "published": "2026-11-20T15:31:04+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('அப்போது போலீசாரை கண்டு தப்பி ஓடிய போது கீழே விழுந்து கை உடைந'); 6 ('பிரபல ரவுடியான இவர் மீது ஒரு கொலை, 6 கொலை முயற்சி உட்பட 20க்')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160147/chennaiminnal/l4gxeashmzbpavnebynn.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174911/chennaiminnal/ygrpfrvqxh7qsecwbcgk.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174975/chennaiminnal/oa4mwccywujwjco2amde.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை பெண்கள் தனிச்சிறையில் மனநல ஆலோசகர் வேலை: தகுதியானவர்கள் விண்ணப்பிக்கலாம்",
+   "english_headline": "Chennai Women's Special Prison hiring a women's mental health counsellor on honorarium; apply by 30 Nov 2026",
+   "category": "Government & Services",
+   "location": "Chennai Women's Special Prison, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு வேலைவாய்ப்பு",
+    "loc": "சென்னை பெண்கள் தனிச்சிறை",
+    "hl1": "சென்னை பெண்கள் தனிச்சிறையில் வேலை",
+    "hl2": "கடைசி நாள் 30.11.2026",
+    "slides": [
+     {
+      "title": "என்ன பணி?",
+      "lines": [
+       "ஒரு மனநல ஆலோசகர் (பெண்) பணியிடம் காலி",
+       "மதிப்பூதிய அடிப்படையில் பணி",
+       "சென்னை மாவட்ட கலெக்டர் அறிவிப்பு"
+      ]
+     },
+     {
+      "title": "தகுதி, வயது",
+      "lines": [
+       "சமூகவியல் அல்லது உளவியல் முதுகலைப் பட்டம்",
+       "மனநல நிறுவனங்களில் முன்அனுபவம் தேவை",
+       "பொதுப்பிரிவு: 30 வயது வரை, 1.7.2026 நிலவரப்படி"
+      ]
+     },
+     {
+      "title": "ஊதியம்",
+      "lines": [
+       "தேர்ந்தெடுக்கப்படுபவர்களுக்கு <b>மாதம் ரூ.25 ஆயிரம்</b>",
+       "பிற்படுத்தப்பட்டோருக்கு 32 வயது, ஆதிதிராவிடர்"
+      ]
+     },
+     {
+      "title": "விண்ணப்பிக்கும்",
+      "lines": [
+       "சாதிச்சான்று, குடும்ப அட்டை, கல்விச்சான்று நகல்கள்",
+       "ஆதார், முன்அனுபவச் சான்று, புகைப்படம் இணைக்கவும்",
+       "<b>30.11.2026</b> க்குள் சிறை கண்காணிப்பாளருக்கு அனுப்பவும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னை பெண்கள் தனிச்சிறையில் மாதம் ரூ.25 ஆயிரம் ஊதியத்தில் மனநல ஆலோசகர் பணி காலியாக உள்ளது. இந்தப் பணிக்குத் தகுதியானவர்கள் விண்ணப்பிக்கலாம் என சென்னை மாவட்ட கலெக்டர் எஸ்.மாலதி ஹெலன் தெரிவித்துள்ளார். இது மதிப்பூதிய அடிப்படையிலான பணி. விண்ணப்பதாரர்கள் சமூகவியல் அல்லது உளவியல் பாடப்பிரிவில் முதுகலைப் பட்டம் பெற்றிருக்க வேண்டும். மனநல நிறுவனங்கள் அல்லது சமுதாய சேவை மையங்களில் ஆலோசகராகப் பணியாற்றிய முன் அனுபவமும் வேண்டும். 1.7.2026 அன்று குறைந்தபட்சம் 18 வயது பூர்த்தியடைந்திருக்க வேண்டும். பொதுப்பிரிவினருக்கு அதிகபட்சம் 30 வயது. பிற்படுத்தப்பட்டோர், மிகவும் பிற்படுத்தப்பட்டோருக்கு 32 வயது. ஆதிதிராவிடர், பழங்குடியினருக்கு 35 வயது. விண்ணப்பத்துடன் சாதிச்சான்று, குடும்ப அட்டை, முன்னுரிமைச் சான்று, கல்விச்சான்று, ஆதார் அட்டை, முன்அனுபவச் சான்று ஆகியவற்றின் நகல்களையும், ஒரு பாஸ்போர்ட் அளவு புகைப்படத்தையும் இணைக்க வேண்டும். விண்ணப்பங்களை சிறை கண்காணிப்பாளர், பெண்கள் தனிச்சிறை, சென்னை - 66 என்ற முகவரிக்கு 30.11.2026க்குள் அனுப்ப வேண்டும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ சென்னை பெண்கள் தனிச்சிறையில் மனநல ஆலோசகர் வேலை: மாதம் ரூ.25 ஆயிரம் ஊதியம்\n\n📰 முழு விவரம்:\nசென்னை பெண்கள் தனிச்சிறையில் ஒரு மனநல ஆலோசகர் (பெண்) பணியிடம் மதிப்பூதிய அடிப்படையில் காலியாக உள்ளது. சமூகவியல் அல்லது உளவியல் பாடப்பிரிவில் முதுகலைப் பட்டம் பெற்று, மனநல நிறுவனங்கள் அல்லது சமுதாய சேவை மையங்களில் ஆலோசகராகப் பணியாற்றிய முன் அனுபவம் உள்ளவர்கள் விண்ணப்பிக்கலாம். தேர்ந்தெடுக்கப்படுபவர்களுக்கு மாதம் ரூ.25 ஆயிரம் மதிப்பூதியமாக வழங்கப்படும். 1.7.2026 அன்று குறைந்தபட்சம் 18 வயது பூர்த்தியடைந்திருக்க வேண்டும். அதிகபட்ச வயது: பொதுப்பிரிவினருக்கு 30, பிற்படுத்தப்பட்டோர், மிகவும் பிற்படுத்தப்பட்டோருக்கு 32, ஆதிதிராவிடர், பழங்குடியினருக்கு 35.\n📝 விண்ணப்பத்துடன் சாதிச்சான்று, குடும்ப அட்டை, முன்னுரிமைச் சான்று, கல்விச்சான்று, ஆதார் அட்டை, முன்அனுபவச் சான்று நகல்கள் மற்றும் ஒரு பாஸ்போர்ட் அளவு புகைப்படம் இணைக்க வேண்டும்.\n\n📍 இடம்: சென்னை பெண்கள் தனிச்சிறை, சென்னை மாவட்டம்\n🗓️ கடைசி நாள்: 30.11.2026\n📮 முகவரி: சிறை கண்காணிப்பாளர், பெண்கள் தனிச்சிறை, சென்னை - 66\nℹ️ மக்கள் கவனத்திற்கு: தகுதியுள்ள நண்பர்களுக்கு Share செய்யுங்கள்.\n\nChennai women's prison counsellor job, apply by 30 Nov | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #வேலைவாய்ப்பு #சென்னை",
+   "prompts": "A women's special prison compound in Chennai city seen from the outside, with a tall grey boundary wall and a barred gate, a few women in plain sarees and salwar walking past at a distance, a corporation bus stopped on the road outside, and a government office-style notice board (text not readable) mounted by the gate in daylight. The main subject is the prison entrance being the place where applications are to be sent for a vacant counsellor post. Seen from across the road at eye level, 35 mm, showing the full wall and gate in soft morning light, with a few women from behind and no readable signage. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of application forms and a passport-size photograph lying on a wooden government office table, with a pen resting beside them and a folded set of education certificates in plain envelopes. In the background, out of focus, a khaki-uniformed official sits behind a desk in a government hall with fans and tube lights visible. The paper is kept blank with no readable text, only the physical stack of documents and the pen. Shot close-up at slightly high angle, 35 mm, shallow depth of field, daylight from a window at one side. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/education-and-employment/job-opportunity-at-the-special-prison-for-women-chennai-eligible-candidates-invited-to-apply-collectors-announcement",
+   "published": "2026-11-20T09:45:08Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174986/chennaiminnal/frwmficcuzmfysa9bq90.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174989/chennaiminnal/yyhpvhqqtkw7kpruzh86.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பல்லாவரம் அருகே மயான ஊழியர் ஆகாஷ் நண்பர்களால் வெட்டிக் கொலை",
+   "english_headline": "Pallavaram: cemetery worker Akash hacked to death by friends in dispute over shared stolen phone",
+   "category": "Crime & Safety",
+   "location": "Pallavaram, Chennai district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "பல்லாவரம், சென்னை",
+    "hl1": "பல்லாவரம் அருகே இளைஞர் வெட்டிக் கொலை",
+    "hl2": "நண்பர்களால் நடந்த கொலை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பல்லாவரம் அஸ்தினாபுரத்தில் ஆகாஷ் வெட்டிக் கொலை",
+       "ஆகாஷ் (வயது 25) மயான ஊழியர், மேளம் அடிக்கும் வேலையும்",
+       "நண்பர்கள் குரு, விமல்ராஜ் இருவரும் கைது மற்றும் தேடலில்"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "திருடிய செல்போனை பங்கு பிரிப்பதில் தகராறு",
+       "நேற்று (வியாழக்கிழமை) இரவு மது அருந்தும்போது வாக்குவாதம்",
+       "குரு, விமல்ராஜ் இருவரும் சிறிய கத்தியால் வெட்டினர்"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "ஆகாஷ் சம்பவ இடத்திலேயே உயிரிழந்தார்",
+       "உடல் செங்கல்பட்டு அரசு ஆஸ்பத்திரிக்கு பிரேத பரிசோதனைக்கு",
+       "குரு கைது; விமல்ராஜை தனிப்படை போலீசார் தேடுகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பல்லாவரம் அருகே நண்பர்களால் இளைஞர் வெட்டிக் கொல்லப்பட்டார். பல்லாவரம் அஸ்தினாபுரம், நாகத்தம்மன் கோவில் தெருவைச் சேர்ந்த ஆகாஷ், 25 வயது. இவர் மயான ஊழியராகப் பணியாற்றியவர், இறுதி ஊர்வலங்களில் மேளம் அடிக்கும் வேலையும் செய்தார். அதே பகுதியைச் சேர்ந்த நண்பர்களான குரு மற்றும் விமல்ராஜ் ஆகியோரும் இவருடன் மேளம் அடிக்கும் பணியில் ஈடுபட்டனர். மூவரும் இறுதி ஊர்வலங்களில் மதுபோதையில் இருப்பவர்களிடம் செல்போன்களைத் திருடி, விற்று பணத்தைப் பங்கு போட்டு வந்தனர். நேற்று (வியாழக்கிழமை) இரவு, இறுதி ஊர்வலப் பணியை முடித்துவிட்டு மூவரும் மது அருந்தினர். அப்போது திருடிய செல்போன் ஒன்றை ஆகாஷ் யாருக்கும் தெரியாமல் மறைத்து வைத்ததால் வாக்குவாதம் ஏற்பட்டது. வாக்குவாதம் முற்றியதில், குரு மற்றும் விமல்ராஜ் ஆகிய இருவரும் தங்களிடம் இருந்த சிறிய கத்தியால் ஆகாஷை சரமாரியாக வெட்டினர். பலத்த காயமடைந்த ஆகாஷ் சம்பவ இடத்திலேயே உயிரிழந்தார். தகவல் அறிந்து விரைந்த பல்லாவரம் போலீசார், ஆகாஷின் உடலை மீட்டு பிரேத பரிசோதனைக்காக செங்கல்பட்டு அரசு ஆஸ்பத்திரிக்கு அனுப்பினர். வழக்குப் பதிவு செய்த போலீசார், கொலையில் தொடர்புடைய குருவைக் கைது செய்துள்ளனர். தலைமறைவாக உள்ள விமல்ராஜை தனிப்படை போலீசார் தீவிரமாகத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பல்லாவரம் அருகே திருடிய செல்போன் தகராறில் இளைஞர் வெட்டிக் கொலை\n\n📰 முழு விவரம்:\nபல்லாவரம் அஸ்தினாபுரம், நாகத்தம்மன் கோவில் தெருவைச் சேர்ந்த ஆகாஷ் (வயது 25) மயான ஊழியராகவும், இறுதி ஊர்வலங்களில் மேளம் அடிக்கும் தொழிலாளியாகவும் இருந்தார். அதே பகுதியைச் சேர்ந்த நண்பர்களான குரு மற்றும் விமல்ராஜ் ஆகியோரும் இவருடன் மேளம் அடிக்கும் பணியில் ஈடுபட்டிருந்தனர். மூவரும் இறுதி ஊர்வலங்களில் மதுபோதையில் இருப்பவர்களின் செல்போன்களைத் திருடி விற்று பணத்தைப் பங்கு போட்டு வந்தனர். நேற்று (வியாழக்கிழமை) இரவு இறுதி ஊர்வலப் பணியை முடித்த பிறகு மூவரும் ஒன்றாக அமர்ந்து மது அருந்தினர். அப்போது திருடிய செல்போன் ஒன்றை ஆகாஷ் யாருக்கும் தெரியாமல் மறைத்து வைத்தது தொடர்பாக நண்பர்களிடையே கடும் வாக்குவாதம் ஏற்பட்டது. ஆத்திரமடைந்த குரு மற்றும் விமல்ராஜ் ஆகிய இருவரும் தங்களிடம் இருந்த சிறிய கத்தியால் ஆகாஷை சரமாரியாக வெட்டினர். பலத்த காயமடைந்த ஆகாஷ் சம்பவ இடத்திலேயே உயிரிழந்தார்.\n👮 போலீஸ் நடவடிக்கை: பல்லாவரம் போலீசார் ஆகாஷின் உடலை மீட்டு பிரேத பரிசோதனைக்காக செங்கல்பட்டு அரசு ஆஸ்பத்திரிக்கு அனுப்பினர். வழக்குப் பதிவு செய்து கொலையில் தொடர்புடைய குருவைக் கைது செய்தனர். தலைமறைவாக உள்ள விமல்ராஜை தனிப்படை போலீசார் தீவிரமாகத் தேடி வருகின்றனர்.\n📍 இடம்: பல்லாவரம் அஸ்தினாபுரம், சென்னை மாவட்டம்\n🗓️ நாள்: நேற்று (நவம்பர் 19, வியாழக்கிழமை) இரவு\n\nPallavaram youth hacked to death by friends | Chennai news\n📍 பல்லாவரம், சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Pallavaram #கொலை #ChennaiNews",
+   "prompts": "A row of Tamil Nadu police in khaki stand at the edge of a narrow, dimly lit residential street in Pallavaram, Chennai, where a yellow tarpaulin sheet has been spread on the road near a small temple gopuram. A police jeep is parked with its light on, and two or three onlookers, seen from behind, watch from a distance on the pavement. Old concrete houses with tiled roofs line the street, and one bare electric bulb hangs above a doorway. Nearby on the road lies a single dropped mobile phone and a pair of drum sticks, leftover from a funeral band. Night, the scene is lit by the police jeep lights and streetlamp. Eye-level camera, 35 mm lens, wide enough to show the street and temple. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a small drum (melam thappu) with a pair of wooden drumsticks resting on a worn concrete step outside a house in Asthinapuram, Pallavaram, Chennai. Beside them sits a cheap black mobile phone, and a small folding knife lies on a khaki police evidence cloth nearby, with a police boot edge just visible at the frame's corner. The concrete step is cracked and stained with water, and a faint streetlight glows behind a rusted iron gate. Night, dim yellow light. Camera slightly high, 50 mm macro, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/chennai-funeral-worker-murdered-near-pallavaram",
+   "published": "2026-11-20T10:39:24Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('இவருடன் அதே பகுதியைச் சேர்ந்த நண்பர்களான குரு மற்றும் விமல்ர'); 3 ('இந்நிலையில், நேற்று (வியாழக்கிழமை) இரவு இறுதி ஊர்வலப் பணியை ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174996/chennaiminnal/edk26les68amsexko91j.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795174999/chennaiminnal/b8athhcdqequfziktzet.jpg"
    ]
   }
  ]
