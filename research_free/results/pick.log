@@ -1,384 +1,81 @@
-10:03:11 round 2026-11-20_10: news published 20 Nov 09:20 -> 20 Nov 10:03 (தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Chennai)
-10:03:11 insights 2026-11-20T10:03+05:30 (114 reels): topic weights {'accident': 0.32, 'civic': 0.33, 'crime': -0.16, 'education': -0.5, 'jobs': -0.4, 'politics': 0.33, 'poultry_agri': -0.27, 'power_cut': 1.31, 'sports_culture': -0.19, 'temple': -0.31, 'weather': 0.41}; best openings ['🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை', '🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது']
-10:03:27 தினகரன் சென்னை list failed: 404 Client Error: Not Found for url: https://www.dinakaran.com/district/chennai/
-10:03:27 36 links on the two papers' Chennai pages
-10:03:51 skipped: published before this window=14, already posted=4, same event already posted=4, not Chennai district=2, only a headline=1, editorial / opinion, not news=1
-10:03:53 list: 2 new + 75 earlier news not posted yet
-10:03:53    1. [விலை] GOLD PRICE TODAY: தங்கப் பிரியர்களுக்கு சரவெடி கொண்டாட்டம்... சவரனுக்க (மாலைமலர்)
-10:03:53    2. [நீதிமன்றம்] சென்னை உயர்நீதிமன்றத்தில் இன்று (நவ.20) எந்தெந்த வழக்குகள் விசாரணை? (தினமணி)
-10:03:53    3. [பொது] கொளத்தூர் தொகுதி எம்எல்ஏ வி.எஸ். பாபு காலமானார் (தினமலர் + தினகரன் + தினத்தந்தி + இந்து தமிழ் + பாலிமர்) (earlier)
-10:03:53    4. [பொது] த.வெ.க. எம்.எல்.ஏ. வி.எஸ்.பாபு காலமானார்: மருத்துவமனைக்கு விரைகிறார் ம (தினத்தந்தி) (earlier)
-10:03:53    5. [பொது] கொளத்தூர் எம்.எல்.ஏ. வி.எஸ்.பாபு மறைவு - அன்புமணி ராமதாஸ் இரங்கல் (தினத்தந்தி + மாலைமலர்) (earlier)
-10:03:53    6. [பொது] வி.எஸ். பாபு உடலுக்கு முதல்-அமைச்சர் விஜய் நேரில் அஞ்சலி (தினத்தந்தி + இந்து தமிழ்) (earlier)
-10:03:53    7. [பொது] கொளத்தூர் எம்எல்ஏ மறைவிற்கு எதிர்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங்கல் (தினகரன்) (earlier)
-10:03:53    8. [பொது] வி.எஸ்.பாபு மறைவு: எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங்கல்! (மாலைமலர்) (earlier)
-10:03:53    9. [பொது] சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிருந்த 900 வா (தினத்தந்தி) (earlier)
-10:03:53   10. [பொது] செய்திகள் சில வரிகளில் (தினமலர்) (earlier)
-10:03:53   11. [பொது] விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை (தினமலர்) (earlier)
-10:03:53   12. [விலை] கோயம்பேடு காய்கறி சந்தையில் தொடர்ந்து காய்கறிகளின் விலை அதிகரிப்பு.. (பாலிமர்) (earlier)
-10:03:53   13. [குற்றம்] லஞ்சம் வாங்கிய தவெகவினர் மண்டல கூட்டத்தில் திமுக கவுன்சிலர் புகார் - D (தினகரன்) (earlier)
-10:03:53   14. [பொது] திருவள்ளூர், பூந்தமல்லிக்கு பெரியபாளையத்தில் நிறுத்தப்பட்ட பஸ்கள் மீண் (மாலைமலர்) (earlier)
-10:03:53   15. [நீதிமன்றம்] பரந்தூர் விமான நிலைய திட்டத்தை கைவிட்டதை எதிர்த்து சென்னை உயர்நீதிமன்ற (தினகரன் + தினத்தந்தி) (earlier)
-10:03:53   16. [பொது] ஆதிதிராவிட வகுப்பினருக்கு மெஷின் ஆபரேட்டர் பயிற்சி - ‘சிப்பெட்’ அறிவிப (இந்து தமிழ்) (earlier)
-10:03:53   17. [பொது] தமிழகத்தில் 6 மாவட்டங்களில் போலியோ சொட்டு மருந்து முகாம் - 22-ந்தேதி ந (தினத்தந்தி) (earlier)
-10:03:53   18. [பொது] பரந்தூர் விமான நிலைய திட்டம் கை விட்டதை எதிர்த்து வழக்கு (தினமலர்) (earlier)
-10:03:53   19. [ரயில்] தெலுங்கானா – கொல்லம் சிறப்பு ரயில்கள் அறிவிப்பு (தினமலர்) (earlier)
-10:03:53   20. [பொது] ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிறுத்த அறிவி (தினமணி) (earlier)
-10:03:53   21. [பொது] சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட திட்டம்: ஜ (இந்து தமிழ்) (earlier)
-10:03:53   22. [பொது] கொளத்தூர் எம்.எல்.ஏ. வி.எஸ்.பாபு மறைவு: வைகோ இரங்கல் (தினத்தந்தி + மாலைமலர் + இந்து தமிழ்) (earlier)
-10:03:53   23. [பொது] யுஜிசி ‘நெட்’ தேர்வு டிச.14-ல் தொடங்குகிறது (இந்து தமிழ்) (earlier)
-10:03:53   24. [பொது] கூவம் ஆற்றை மறுசீரமைக்கும் திட்டத்துக்கு ஆலோசகரை நியமிக்க அரசு முடிவு- (மாலைமலர்) (earlier)
-10:03:53   25. [பொது] வி.எஸ். பாபுவின் திடீர் மறைவு ஈடுசெய்ய முடியாத பேரிழப்பு: முதல்-அமைச்ச (தினத்தந்தி + மாலைமலர் + பாலிமர்) (earlier)
-10:03:53   26. [பொது] குடியரசுத் துணைத் தலைவர் வருகை - சென்னையில் 2 நாட்களுக்கு ட்ரோன்கள் பற (இந்து தமிழ்) (earlier)
-10:03:53   27. [பொது] இடைநிலை, பட்டதாரி ஆசிரியர்களின் பதவி உயர்வுக்கான கலந்தாய்வை டிச.8க்குள (தினகரன்) (earlier)
-10:03:53   28. [பொது] இடைநிலை, பட்டதாரி ஆசிரியர்களின் பதவி உயர்வுக்கான கலந்தாய்வை டிச.8-க்கு (தினகரன்) (earlier)
-10:03:53   29. [பொது] அரசு போக்குவரத்து கழகங்களுக்கு தடையின்றி டீசல் வினியோகம் இந்தியன் ஆயில (தினமலர்) (earlier)
-10:03:53   30. [பொது] ரூ.96 ஆயிரத்துக்கு கீழ் இறங்கிய பவுன் தங்கம்: 10 நாளில் பவுனுக்கு ரூ.1 (இந்து தமிழ்) (earlier)
-10:03:53   31. [நீதிமன்றம்] அன்பில் மகேஸ், முத்துகுமாா், சரவணன் ஆகியோரை 2 நாள்கள் காவலில் எடுத்து  (தினமணி) (earlier)
-10:03:53   32. [நீதிமன்றம்] இடைநிலை ஆசிரியா்கள் பதவி உயா்வுக்கான கலந்தாய்வு: டிச. 8-க்குள் நடத்த உ (தினமணி) (earlier)
-10:03:53   33. [பொது] கொளத்தூர் தொகுதி த.வெ.க. எம்.எல்.ஏ. வி.எஸ்.பாபுவின் உடல் நாளை மாலை நல் (தினத்தந்தி) (earlier)
-10:03:53   34. [பொது] ஒரே ரைடில் 6 பாயிண்ட்ஸ் எடுத்த மாயாவி! | ‘டைகர்’ ராஜரத்தினம் 19 (இந்து தமிழ்) (earlier)
-10:03:53   35. [பொது] திமுகவிடம் இருந்துதான் பெண்களைப் பாதுகாக்க வேண்டும்: மு.க.ஸ்டாலினுக்கு (தினத்தந்தி) (earlier)
-10:03:53   36. [பொது] கொளத்தூர் தொகுதி இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியிடுவாரா? - கேள்வ (தினத்தந்தி) (earlier)
-10:03:53   37. [பொது] வி.எஸ். பாபுவின் மறைவுச் செய்தி வருத்தமளிக்கிறது - மு.க.ஸ்டாலின் இரங்க (தினத்தந்தி + மாலைமலர்) (earlier)
-10:03:53   38. [பொது] நாளை (நவ.20)இனிதாக: சென்னை (தினமலர்) (earlier)
-10:03:53   39. [பொது] திருப்பரங்குன்றம் கல்தூணில் 2 மணி நேரம் தீபம் ஏற்றுவதால் யாருக்கு என்ன (இந்து தமிழ்) (earlier)
-10:03:53   40. [பொது] சென்னை கொளத்தூர் தொகுதி தவெக எம்எல்ஏ வி.எஸ்.பாபு காலமானார்: மருத்துவமன (தினகரன்) (earlier)
-10:03:53   41. [பொது] கடன் மூலம் கறுப்பு பணம் வெள்ளையாகும் அபாயம்: வங்கிகள் எச்சரிக்கையுடன்  (இந்து தமிழ்) (earlier)
-10:03:53   42. [பொது] பெரியார் அறிவுலக புத்தக கொள்முதல் முறைகேடு: திமுக தொடர்ந்த வழக்கு விசா (இந்து தமிழ்) (earlier)
-10:03:53   43. [பொது] தவெகவினரின் செயல்பாடுகள் எல்லைமீறி செல்கின்றன- இபிஎஸ் விமர்சனம் (மாலைமலர்) (earlier)
-10:03:53   44. [பொது] கார்த்திகை தீபம்: சென்னை கடற்கரை, தாம்பரத்தில் இருந்து திருவண்ணாமலைக்க (மாலைமலர்) (earlier)
-10:03:53   45. [பொது] “ஏற்கெனவே வந்த ரூ.1,000-யும் நிறுத்தி பெண்களுக்கு தவெக அரசு துரோகம்”-  (இந்து தமிழ்) (earlier)
-10:03:53   46. [குற்றம்] கனிமக் கடத்தலை தடுப்பதற்கான ஆணையை உயர்நீதிமன்றம் ரத்து செய்தது துரதிரு (தினமணி) (earlier)
-10:03:53   47. [குற்றம்] “கனிமவளக் கடத்தலை தடுக்க உச்ச நீதிமன்றத்தில் மேல்முறையீடு அவசியம்” - அ (இந்து தமிழ்) (earlier)
-10:03:53   48. [பொது] “கனிம வளங்களைக் காக்கும் முயற்சியை தமிழக அரசு கைவிடக் கூடாது” - வேல்மு (இந்து தமிழ்) (earlier)
-10:03:53   49. [பொது] வி.எஸ்.பாபுவின் இழப்பு, வட சென்னையின் முக்கிய இழப்பு - ஆதவ் அர்ஜுனா உர (தினத்தந்தி) (earlier)
-10:03:53   50. [நீதிமன்றம்] கனிமவள வழக்கில் உச்ச நீதிமன்றத்தை நாட பெ.சண்முகம் வலியுறுத்தல் (இந்து தமிழ்) (earlier)
-10:03:53   51. [பொது] மகள் மீது அவதூறு! காவல் ஆணையர் அலுவலகத்தில் அர்ஜுன் புகார்! (தினமணி) (earlier)
-10:03:53   52. [நீதிமன்றம்] பரந்தூர் விமான நிலையத் திட்டத்தைக் கைவிட்ட தமிழக அரசின் முடிவுக்கு எதி (தினகரன்) (earlier)
-10:03:53   53. [பொது] ஆப்பிரிக்க நாடுகளுக்கு 2.03 லட்சம் டன் அரிசி ஏற்றுமதி: சென்னை துறைமுகம (தினத்தந்தி) (earlier)
-10:03:53   54. [பொது] வி.எஸ். பாபுவின் உடலுக்கு நேரில் சென்று அஞ்சலி செலுத்தினார் முதலமைச்சர (மாலைமலர்) (earlier)
-10:03:53   55. [பொது] திருப்பரங்குன்றம் தீப தூண் விவகாரம்: த.வெ.க. அரசு மன்னிப்பு கேட்கவேண்ட (தினத்தந்தி) (earlier)
-10:03:53   56. [நீதிமன்றம்] தமிழ்நாட்டின் மிக முக்கியமான கனிமவளங்களைப் பாதுகாக்கும் நோக்கத்துடன் எ (தினகரன்) (earlier)
-10:03:53   57. [பொது] கடந்த ஏப்ரல் மாதம் முதல் நேற்று வரை 2.03 லட்சம் டன் அரிசி ஏற்றுமதி மற் (தினகரன்) (earlier)
-10:03:53   58. [பொது] வி.எஸ்.பாபு மரணத்தில் சதி? போலீசில் புகார்! (மாலைமலர்) (earlier)
-10:03:53   59. [பொது] கீழ்ப்பாக்கத்தில் டிச., 5, 6ல் சென்னை மாஸ்டர்ஸ் தடகளம் (தினமலர்) (earlier)
-10:03:53   60. [பொது] சென்னை – பிராங்பர்ட் இடையே கூடுதல் விமானம்: லுப்த்ஷான்ஸா (தினமலர்) (earlier)
-10:03:53   61. [பொது] மருத்துவமனையில் கவர்னர் அனுமதி (தினமலர்) (earlier)
-10:03:53   62. [பொது] சென்னை - Dinakaran - Dinakaran (தினகரன்) (earlier)
-10:03:53   63. [பொது] கிங் மேக்கா்ஸ் அகாதெமி சாா்பில் விநாடி - வினா: சிறந்த அணிகளுக்கு பரிசு (தினமணி) (earlier)
-10:03:53   64. [பொது] மருத்துவ துறைக்கு 100 புதிய ஆம்புலன்ஸ்கள் வாங்க நடவடிக்கை (தினமணி) (earlier)
-10:03:53   65. [பொது] சென்னை துறைமுக முனையம் தைவான் அதிகாரிகள் பேச்சு: தைவான் கப்பல் நிறுவன  (தினமலர்) (earlier)
-10:03:53   66. [பொது] காங்., செயலர்கள் மாற்றம் (தினமலர்) (earlier)
-10:03:53   67. [பொது] வி.எஸ். பாபுவின் உடல் இன்று மாலை நல்லடக்கம்! (தினமணி) (earlier)
-10:03:53   68. [பொது] உலக வங்கி கடன் கொடுத்த ரூ.15 கோடி மாயம்! - சி.எம்.டி.ஏ.வில் பரபரப்பு (தினத்தந்தி) (earlier)
-10:03:53   69. [பொது] சர்வதேச விளையாட்டு போட்டிகளில் வென்ற வீரர், வீராங்கனைகள், பயிற்சியாளர் (தினத்தந்தி) (earlier)
-10:03:53   70. [பொது] அரசு, தனியார் மருத்துவமனைகளில் பணியாற்றும் சிறந்த செவிலியர்களுக்கு ரூ. (இந்து தமிழ்) (earlier)
-10:03:53   71. [பொது] விளையாட்டு போட்டிகளில் வெற்றி பெற்றவர்களுக்கு உயரிய ஊக்கத்தொகை (தினமலர்) (earlier)
-10:03:53   72. [பொது] புத்தகக் கொள்முதல் முறைகேடு தொடர்பாக திமுக தொடர்ந்த வழக்கின் விசாரணை த (மாலைமலர்) (earlier)
-10:03:53   73. [பொது] தொகுதி மறுவரையறை மசோதா: திமுகவிடம் ஆதரவு கேட்டு பாஜக ரகசிய பேச்சுவார்த (தினத்தந்தி) (earlier)
-10:03:53   74. [பொது] திமுக - அதிமுக - தவெக: வி.எஸ். பாபுவின் அரசியல் வாழ்க்கை! (மாலைமலர்) (earlier)
-10:03:53   75. [பொது] தமிழகத்தில் முதலீட்டை அதிகரியுங்கள்... ரெனால்ட் குழுமத்தினரிடம் முதல்வ (தினமலர்) (earlier)
-10:03:53   76. [பொது] வி.எஸ்.பாபு மறைவு - சட்டமன்ற எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங் (தினத்தந்தி) (earlier)
-10:03:53   77. [நீதிமன்றம்] திருப்பரங்குன்றம் விவகாரம்: இந்து மக்கள் கட்சி வழக்கு மீதான விசாரணையை  (தினகரன்) (earlier)
-10:03:53 automatic pick (owner 2 Nov): no e-mail - the top 8 are written at once
-ROUND=2026-11-20_10
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): கொளத்தூர் தொகுதி எம்எல்ஏ வி.எஸ். பாபு காலமானார்
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): த.வெ.க. எம்.எல்.ஏ. வி.எஸ்.பாபு காலமானார்: மருத்துவமனைக்கு விரைகிறார் ம
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): கொளத்தூர் எம்.எல்.ஏ. வி.எஸ்.பாபு மறைவு - அன்புமணி ராமதாஸ் இரங்கல்
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): வி.எஸ். பாபு உடலுக்கு முதல்-அமைச்சர் விஜய் நேரில் அஞ்சலி
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): கொளத்தூர் எம்எல்ஏ மறைவிற்கு எதிர்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங்கல்
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): வி.எஸ்.பாபு மறைவு: எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங்கல்!
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): கொளத்தூர் எம்.எல்.ஏ. வி.எஸ்.பாபு மறைவு: வைகோ இரங்கல்
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): வி.எஸ். பாபுவின் திடீர் மறைவு ஈடுசெய்ய முடியாத பேரிழப்பு: முதல்-அமைச்ச
-10:03:55    not picked automatically (ceremony / award / awareness event (low views)): இடைநிலை, பட்டதாரி ஆசிரியர்களின் பதவி உயர்வுக்கான கலந்தாய்வை டிச.8க்குள
-10:03:55    not picked automatically (ceremony / award / awareness event (low views)): இடைநிலை, பட்டதாரி ஆசிரியர்களின் பதவி உயர்வுக்கான கலந்தாய்வை டிச.8-க்கு
-10:03:55    not picked automatically (ceremony / award / awareness event (low views)): கூவம் ஆற்றை மறுசீரமைக்கும் திட்டத்துக்கு ஆலோசகரை நியமிக்க அரசு முடிவு-
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): சென்னை கொளத்தூர் தொகுதி தவெக எம்எல்ஏ வி.எஸ்.பாபு காலமானார்: மருத்துவமன
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): வி.எஸ். பாபுவின் மறைவுச் செய்தி வருத்தமளிக்கிறது - மு.க.ஸ்டாலின் இரங்க
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): வி.எஸ்.பாபு மறைவு - சட்டமன்ற எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங்
-10:03:55    not picked automatically (suicide / obituary - only when the owner ticks it): வி.எஸ். பாபுவின் உடலுக்கு நேரில் சென்று அஞ்சலி செலுத்தினார் முதலமைச்சர
-10:03:55    not picked automatically (ceremony / award / awareness event (low views)): அரசு, தனியார் மருத்துவமனைகளில் பணியாற்றும் சிறந்த செவிலியர்களுக்கு ரூ.
-10:03:55 round 2026-11-20_10 (at least 5, up to 3 more of well-watched topics): 61 news to choose from (59 from earlier rounds), ranked by this page's insights
-10:03:55   PICK   1.   7.0 [other +0.00 pattern] (earlier) சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:03:55   PICK   2.   6.5 [other +0.00 pattern] (earlier) சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:03:55   PICK   3.   6.5 [other +0.00 pattern] (earlier) செய்திகள் சில வரிகளில்
-10:03:55   PICK   4.   6.5 [other +0.00 pattern] (earlier) விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:03:55   PICK   5.   6.5 [other +0.00 pattern] (earlier) ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:03:55          6.   6.5 [politics +0.33 page] (earlier) லஞ்சம் வாங்கிய தவெகவினர் மண்டல கூட்டத்தில் திமுக கவுன்சிலர் 
-10:03:55          7.   5.9 [poultry_agri -0.27 page] GOLD PRICE TODAY: தங்கப் பிரியர்களுக்கு சரவெடி கொண்டாட்டம்..
-10:03:55          8.   5.5 [other +0.00 pattern] (earlier) ஆதிதிராவிட வகுப்பினருக்கு மெஷின் ஆபரேட்டர் பயிற்சி - ‘சிப்பெ
-10:03:55          9.   5.5 [other +0.00 pattern] (earlier) தமிழகத்தில் 6 மாவட்டங்களில் போலியோ சொட்டு மருந்து முகாம் - 2
-10:03:55         10.   5.5 [other +0.00 pattern] (earlier) பரந்தூர் விமான நிலைய திட்டம் கை விட்டதை எதிர்த்து வழக்கு
-10:03:55         11.   5.5 [other +0.00 pattern] (earlier) தெலுங்கானா – கொல்லம் சிறப்பு ரயில்கள் அறிவிப்பு
-10:03:55         12.   5.5 [other +0.00 pattern] (earlier) ரூ.96 ஆயிரத்துக்கு கீழ் இறங்கிய பவுன் தங்கம்: 10 நாளில் பவுன
-10:03:55         13.   5.5 [other +0.00 pattern] (earlier) அன்பில் மகேஸ், முத்துகுமாா், சரவணன் ஆகியோரை 2 நாள்கள் காவலில
-10:03:55         14.   5.5 [other +0.00 pattern] (earlier) இடைநிலை ஆசிரியா்கள் பதவி உயா்வுக்கான கலந்தாய்வு: டிச. 8-க்கு
-10:03:55         15.   5.0 [other +0.00 pattern] சென்னை உயர்நீதிமன்றத்தில் இன்று (நவ.20) எந்தெந்த வழக்குகள் வ
-10:03:55         16.   5.0 [politics +0.33 page] (earlier) கொளத்தூர் தொகுதி த.வெ.க. எம்.எல்.ஏ. வி.எஸ்.பாபுவின் உடல் நாள
-10:03:55         17.   4.7 [poultry_agri -0.27 page] (earlier) கோயம்பேடு காய்கறி சந்தையில் தொடர்ந்து காய்கறிகளின் விலை அதிக
-10:03:55         18.   4.6 [weather +0.41 page] (earlier) கடன் மூலம் கறுப்பு பணம் வெள்ளையாகும் அபாயம்: வங்கிகள் எச்சரி
-10:03:55         19.   4.5 [other +0.00 pattern] (earlier) திருவள்ளூர், பூந்தமல்லிக்கு பெரியபாளையத்தில் நிறுத்தப்பட்ட ப
-10:03:55         20.   4.5 [other +0.00 pattern] (earlier) பரந்தூர் விமான நிலைய திட்டத்தை கைவிட்டதை எதிர்த்து சென்னை உய
-10:03:55         21.   4.5 [other +0.00 pattern] (earlier) அரசு போக்குவரத்து கழகங்களுக்கு தடையின்றி டீசல் வினியோகம் இந்
-10:03:55         22.   4.5 [education -0.50 page] (earlier) யுஜிசி ‘நெட்’ தேர்வு டிச.14-ல் தொடங்குகிறது
-10:03:55         23.   4.3 [politics +0.33 page] (earlier) பெரியார் அறிவுலக புத்தக கொள்முதல் முறைகேடு: திமுக தொடர்ந்த வ
-10:03:55         24.   4.0 [other +0.00 pattern] (earlier) குடியரசுத் துணைத் தலைவர் வருகை - சென்னையில் 2 நாட்களுக்கு ட்
-10:03:55         25.   4.0 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் கல்தூணில் 2 மணி நேரம் தீபம் ஏற்றுவதால் யார
-10:03:55         26.   3.0 [other +0.00 pattern] (earlier) ஒரே ரைடில் 6 பாயிண்ட்ஸ் எடுத்த மாயாவி! | ‘டைகர்’ ராஜரத்தினம்
-10:03:55         27.   3.0 [other +0.00 pattern] (earlier) வி.எஸ். பாபுவின் உடல் இன்று மாலை நல்லடக்கம்!
-10:03:55         28.   3.0 [other +0.00 pattern] (earlier) உலக வங்கி கடன் கொடுத்த ரூ.15 கோடி மாயம்! - சி.எம்.டி.ஏ.வில் 
-10:03:55         29.   3.0 [politics +0.33 page] (earlier) திமுகவிடம் இருந்துதான் பெண்களைப் பாதுகாக்க வேண்டும்: மு.க.ஸ்
-10:03:55         30.   2.5 [other +0.00 pattern] (earlier) மருத்துவ துறைக்கு 100 புதிய ஆம்புலன்ஸ்கள் வாங்க நடவடிக்கை
-10:03:55         31.   2.0 [other +0.00 pattern] (earlier) கொளத்தூர் தொகுதி இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியிடுவார
-10:03:55         32.   2.0 [other +0.00 pattern] (earlier) நாளை (நவ.20)இனிதாக: சென்னை
-10:03:55         33.   2.0 [other +0.00 pattern] (earlier) கிங் மேக்கா்ஸ் அகாதெமி சாா்பில் விநாடி - வினா: சிறந்த அணிகளு
-10:03:55         34.   2.0 [other +0.00 pattern] (earlier) சென்னை துறைமுக முனையம் தைவான் அதிகாரிகள் பேச்சு: தைவான் கப்ப
-10:03:55         35.   2.0 [other +0.00 pattern] (earlier) காங்., செயலர்கள் மாற்றம்
-10:03:55         36.   1.5 [other +0.00 pattern] (earlier) மகள் மீது அவதூறு! காவல் ஆணையர் அலுவலகத்தில் அர்ஜுன் புகார்!
-10:03:55         37.   1.5 [other +0.00 pattern] (earlier) ஆப்பிரிக்க நாடுகளுக்கு 2.03 லட்சம் டன் அரிசி ஏற்றுமதி: சென்ன
-10:03:55         38.   1.5 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் தீப தூண் விவகாரம்: த.வெ.க. அரசு மன்னிப்பு 
-10:03:55         39.   1.5 [other +0.00 pattern] (earlier) வி.எஸ்.பாபு மரணத்தில் சதி? போலீசில் புகார்!
-10:03:55         40.   1.5 [other +0.00 pattern] (earlier) சென்னை – பிராங்பர்ட் இடையே கூடுதல் விமானம்: லுப்த்ஷான்ஸா
-10:03:55         41.   1.5 [other +0.00 pattern] (earlier) மருத்துவமனையில் கவர்னர் அனுமதி
-10:03:55         42.   1.5 [other +0.00 pattern] (earlier) சென்னை - Dinakaran - Dinakaran
-10:03:55         43.   1.5 [politics +0.33 page] (earlier) தொகுதி மறுவரையறை மசோதா: திமுகவிடம் ஆதரவு கேட்டு பாஜக ரகசிய ப
-10:03:55         44.   1.5 [politics +0.33 page] (earlier) திமுக - அதிமுக - தவெக: வி.எஸ். பாபுவின் அரசியல் வாழ்க்கை!
-10:03:55         45.   1.5 [politics +0.33 page] (earlier) திருப்பரங்குன்றம் விவகாரம்: இந்து மக்கள் கட்சி வழக்கு மீதான 
-10:03:55         46.   1.0 [other +0.00 pattern] (earlier) “கனிமவளக் கடத்தலை தடுக்க உச்ச நீதிமன்றத்தில் மேல்முறையீடு அவ
-10:03:55         47.   1.0 [other +0.00 pattern] (earlier) “கனிம வளங்களைக் காக்கும் முயற்சியை தமிழக அரசு கைவிடக் கூடாது
-10:03:55         48.   1.0 [other +0.00 pattern] (earlier) வி.எஸ்.பாபுவின் இழப்பு, வட சென்னையின் முக்கிய இழப்பு - ஆதவ் 
-10:03:55         49.   1.0 [other +0.00 pattern] (earlier) கனிமவள வழக்கில் உச்ச நீதிமன்றத்தை நாட பெ.சண்முகம் வலியுறுத்த
-10:03:55         50.   1.0 [other +0.00 pattern] (earlier) தமிழ்நாட்டின் மிக முக்கியமான கனிமவளங்களைப் பாதுகாக்கும் நோக்
-10:03:55         51.   1.0 [other +0.00 pattern] (earlier) கடந்த ஏப்ரல் மாதம் முதல் நேற்று வரை 2.03 லட்சம் டன் அரிசி ஏற
-10:03:55         52.   1.0 [other +0.00 pattern] (earlier) கீழ்ப்பாக்கத்தில் டிச., 5, 6ல் சென்னை மாஸ்டர்ஸ் தடகளம்
-10:03:55         53.   1.0 [politics +0.33 page] (earlier) புத்தகக் கொள்முதல் முறைகேடு தொடர்பாக திமுக தொடர்ந்த வழக்கின்
-10:03:55         54.   1.0 [politics +0.33 page] (earlier) தமிழகத்தில் முதலீட்டை அதிகரியுங்கள்... ரெனால்ட் குழுமத்தினரி
-10:03:55         55.   0.7 [sports_culture -0.20 pattern] (earlier) சர்வதேச விளையாட்டு போட்டிகளில் வென்ற வீரர், வீராங்கனைகள், பய
-10:03:55         56.   0.7 [sports_culture -0.20 pattern] (earlier) விளையாட்டு போட்டிகளில் வெற்றி பெற்றவர்களுக்கு உயரிய ஊக்கத்தொ
-10:03:55         57.   0.5 [other +0.00 pattern] (earlier) தவெகவினரின் செயல்பாடுகள் எல்லைமீறி செல்கின்றன- இபிஎஸ் விமர்ச
-10:03:55         58.   0.5 [other +0.00 pattern] (earlier) கார்த்திகை தீபம்: சென்னை கடற்கரை, தாம்பரத்தில் இருந்து திருவ
-10:03:55         59.   0.5 [other +0.00 pattern] (earlier) “ஏற்கெனவே வந்த ரூ.1,000-யும் நிறுத்தி பெண்களுக்கு தவெக அரசு 
-10:03:55         60.   0.5 [other +0.00 pattern] (earlier) கனிமக் கடத்தலை தடுப்பதற்கான ஆணையை உயர்நீதிமன்றம் ரத்து செய்த
-10:03:55         61.   0.5 [other +0.00 pattern] (earlier) பரந்தூர் விமான நிலையத் திட்டத்தைக் கைவிட்ட தமிழக அரசின் முடி
-10:03:55 decided: automatic: top 5 of 61 by insights -> 5 news to write and post
-PICK_URLS=https://www.hindutamil.in/news/tamilnadu/plan-to-build-6157-homes-at-9-locations-in-chennai https://www.dailythanthi.com/news/tamilnadu/chennai-900-abandoned-vehicles-auction https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/news-in-a-few-lines/4380590 https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/advice-to-prevent-bird-collisions-on-airplanes/4380935 https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/sale-of-idbi-shares-bank-unions-announce-strike-for-dec-3
-10:05:46 1 picked news refused by the writer - not offered again
-10:05:46 4 listed news now in the Sheet
-10:05:52 instagram duplicate check chennai: 50 recent posts read
-10:05:52 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:05:52    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:05:52    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:05:52    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:05:52    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:05:52    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:10:57 instagram duplicate check chennai: 50 recent posts read
-10:10:57 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:10:57    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:10:57    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:10:57    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:10:57    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:10:57    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:16:03 instagram duplicate check chennai: 50 recent posts read
-10:16:03 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:16:03    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:16:03    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:16:03    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:16:03    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:16:03    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:21:08 instagram duplicate check chennai: 50 recent posts read
-10:21:08 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:21:08    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:21:08    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:21:08    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:21:08    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:21:08    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:26:14 instagram duplicate check chennai: 50 recent posts read
-10:26:14 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:26:14    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:26:14    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:26:14    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:26:14    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:26:14    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:31:19 instagram duplicate check chennai: 50 recent posts read
-10:31:19 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:31:19    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:31:19    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:31:19    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:31:19    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:31:19    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:36:25 instagram duplicate check chennai: 50 recent posts read
-10:36:25 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:36:25    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:36:25    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:36:25    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:36:25    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:36:25    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:41:31 instagram duplicate check chennai: 50 recent posts read
-10:41:31 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:41:31    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:41:31    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:41:31    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:41:31    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:41:31    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:46:36 instagram duplicate check chennai: 50 recent posts read
-10:46:36 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:46:36    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:46:36    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:46:36    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:46:36    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:46:36    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:51:41 instagram duplicate check chennai: 50 recent posts read
-10:51:41 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:51:41    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:51:41    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:51:41    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:51:41    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:51:41    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-10:56:47 instagram duplicate check chennai: 50 recent posts read
-10:56:47 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-10:56:47    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-10:56:47    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-10:56:47    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-10:56:47    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-10:56:47    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:01:53 instagram duplicate check chennai: 50 recent posts read
-11:01:53 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:01:53    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:01:53    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:01:53    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:01:53    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:01:53    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:06:58 instagram duplicate check chennai: 50 recent posts read
-11:06:58 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:06:58    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:06:58    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:06:58    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:06:58    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:06:58    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:12:04 instagram duplicate check chennai: 50 recent posts read
-11:12:04 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:12:04    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:12:04    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:12:04    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:12:04    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:12:04    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:17:10 instagram duplicate check chennai: 50 recent posts read
-11:17:10 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:17:10    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:17:10    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:17:10    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:17:10    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:17:10    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:22:16 instagram duplicate check chennai: 50 recent posts read
-11:22:16 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:22:16    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:22:16    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:22:16    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:22:16    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:22:16    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:27:22 instagram duplicate check chennai: 50 recent posts read
-11:27:22 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:27:22    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:27:22    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:27:22    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:27:22    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:27:22    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:32:29 instagram duplicate check chennai: 50 recent posts read
-11:32:29 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:32:29    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:32:29    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:32:29    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:32:29    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:32:29    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:37:34 instagram duplicate check chennai: 50 recent posts read
-11:37:34 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:37:34    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:37:34    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:37:34    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:37:34    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:37:34    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:42:41 instagram duplicate check chennai: 50 recent posts read
-11:42:41 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:42:41    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:42:41    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:42:41    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:42:41    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:42:41    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:47:47 instagram duplicate check chennai: 50 recent posts read
-11:47:47 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:47:47    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:47:47    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:47:47    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:47:47    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:47:47    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:52:53 instagram duplicate check chennai: 50 recent posts read
-11:52:53 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:52:53    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:52:53    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:52:53    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:52:53    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:52:53    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-11:57:59 instagram duplicate check chennai: 50 recent posts read
-11:57:59 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-11:57:59    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-11:57:59    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-11:57:59    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-11:57:59    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-11:57:59    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-12:03:05 instagram duplicate check chennai: 50 recent posts read
-12:03:05 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-12:03:05    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-12:03:05    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-12:03:05    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-12:03:05    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-12:03:05    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-12:08:11 instagram duplicate check chennai: 50 recent posts read
-12:08:11 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-12:08:11    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-12:08:11    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-12:08:11    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-12:08:11    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-12:08:11    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-12:13:18 instagram duplicate check chennai: 50 recent posts read
-12:13:18 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-12:13:18    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-12:13:18    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-12:13:18    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-12:13:18    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-12:13:18    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-12:18:24 instagram duplicate check chennai: 50 recent posts read
-12:18:24 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-12:18:24    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-12:18:24    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-12:18:24    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-12:18:24    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-12:18:24    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-12:23:30 instagram duplicate check chennai: 50 recent posts read
-12:23:30 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-12:23:30    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-12:23:30    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-12:23:30    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-12:23:30    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-12:23:30    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-12:28:35 instagram duplicate check chennai: 50 recent posts read
-12:28:36 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-12:28:36    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-12:28:36    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-12:28:36    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-12:28:36    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-12:28:36    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-12:33:42 instagram duplicate check chennai: 50 recent posts read
-12:33:42 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-12:33:42    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-12:33:42    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-12:33:42    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-12:33:42    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-12:33:42    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
-12:38:49 instagram duplicate check chennai: 50 recent posts read
-12:38:49 verify 2026-11-20_10: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-12:38:49    SKIPPED C9504383: skipped RN-136: held: location unknown - ஐடிபிஐ பங்குகள் விற்பனை: வங்கிச் சங்கங்கள் டிச.3-இல் வேலைநிற
-12:38:49    SKIPPED Cc28f6aa: skipped: the writer refused it - not filed: duplicate after write - சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்கப்பட்டிரு
-12:38:49    NOT POSTED C01e895c: queued RN-137 (Queued) - சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள் கட்ட 
-12:38:49    NOT POSTED C22824c3: queued RN-134 (Queued) - விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை
-12:38:49    NOT POSTED C6d9d592: queued RN-135 (Queued) - செய்திகள் சில வரிகளில்
+13:01:16 round 2026-11-20_13: news published 20 Nov 10:03 -> 20 Nov 13:01 (தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Chennai)
+13:01:16 insights 2026-11-20T13:01+05:30 (116 reels): topic weights {'accident': 0.3, 'civic': 0.3, 'crime': -0.15, 'education': -0.5, 'jobs': -0.4, 'politics': 0.3, 'poultry_agri': -0.25, 'power_cut': 1.31, 'sports_culture': -0.19, 'temple': -0.31, 'weather': 0.2}; best openings ['🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை', '🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது']
+13:02:18 தினகரன் சென்னை list failed: 404 Client Error: Not Found for url: https://www.dinakaran.com/district/chennai/
+13:02:18 55 links on the two papers' Chennai pages
+13:02:48 skipped: published before this window=15, not Chennai district=14, already posted=4, same event already posted=3, feature / tips / recipe, not a Chennai event=2, only a headline=1
+13:02:49 list: 7 new + 66 earlier news not posted yet
+13:02:49    1. [பொது] திமுக முன்னாள் அமைச்சர் மூர்த்தி வீட்டில் சோதனை: மு.க.ஸ்டாலின் கண்டனம் (தினத்தந்தி)
+13:02:49    2. [விலை] சென்னையில் ஆபரணத் தங்கம் விலை சவரனுக்கு ரூ.3,760 குறைந்து ரூ.92,080க்க (தினகரன் + இந்து தமிழ்)
+13:02:49    3. [பொது] வணிக நிறுவனங்களில் சர்க்கரை இருப்பு 1,000 குவிண்டாலுக்கு அதிகமாக வைக்க (தினத்தந்தி)
+13:02:49    4. [பொது] 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு: 25-ந்தேதி நடக்கிறது (தினத்தந்தி)
+13:02:49    5. [விலை] அதிரடியாக 15 நாள்களில் ரூ.15,000 குறைந்த தங்கம்! இன்றைய (நவ.20) தங்கம் (தினமணி)
+13:02:49    6. [பொது] 108 ஆம்புலன்ஸ் பணியாளர்களை உடனே அரசு ஊழியர்களாக அறிவிக்க வேண்டும்: அன் (தினத்தந்தி)
+13:02:49    7. [பொது] வி.எஸ்.பாபு உடல் இன்று மாலை தகனம்: பொதுமக்கள் - தலைவர்கள் இறுதி அஞ்சலி (மாலைமலர்)
+13:02:49    8. [பொது] கொளத்தூர் தொகுதி எம்எல்ஏ வி.எஸ். பாபு காலமானார் (தினமலர் + தினகரன் + தினத்தந்தி + இந்து தமிழ் + பாலிமர்) (earlier)
+13:02:49    9. [பொது] த.வெ.க. எம்.எல்.ஏ. வி.எஸ்.பாபு காலமானார்: மருத்துவமனைக்கு விரைகிறார் ம (தினத்தந்தி) (earlier)
+13:02:49   10. [பொது] கொளத்தூர் எம்.எல்.ஏ. வி.எஸ்.பாபு மறைவு - அன்புமணி ராமதாஸ் இரங்கல் (தினத்தந்தி + மாலைமலர்) (earlier)
+13:02:49   11. [பொது] வி.எஸ். பாபு உடலுக்கு முதல்-அமைச்சர் விஜய் நேரில் அஞ்சலி (தினத்தந்தி + இந்து தமிழ்) (earlier)
+13:02:49   12. [பொது] கொளத்தூர் எம்எல்ஏ மறைவிற்கு எதிர்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங்கல் (தினகரன்) (earlier)
+13:02:49   13. [பொது] வி.எஸ்.பாபு மறைவு: எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங்கல்! (மாலைமலர்) (earlier)
+13:02:49   14. [விலை] கோயம்பேடு காய்கறி சந்தையில் தொடர்ந்து காய்கறிகளின் விலை அதிகரிப்பு.. (பாலிமர்) (earlier)
+13:02:49   15. [குற்றம்] லஞ்சம் வாங்கிய தவெகவினர் மண்டல கூட்டத்தில் திமுக கவுன்சிலர் புகார் - D (தினகரன்) (earlier)
+13:02:49   16. [பொது] திருவள்ளூர், பூந்தமல்லிக்கு பெரியபாளையத்தில் நிறுத்தப்பட்ட பஸ்கள் மீண் (மாலைமலர்) (earlier)
+13:02:49   17. [பொது] ஆதிதிராவிட வகுப்பினருக்கு மெஷின் ஆபரேட்டர் பயிற்சி - ‘சிப்பெட்’ அறிவிப (இந்து தமிழ்) (earlier)
+13:02:49   18. [பொது] தமிழகத்தில் 6 மாவட்டங்களில் போலியோ சொட்டு மருந்து முகாம் - 22-ந்தேதி ந (தினத்தந்தி) (earlier)
+13:02:49   19. [பொது] பரந்தூர் விமான நிலைய திட்டம் கை விட்டதை எதிர்த்து வழக்கு (தினமலர்) (earlier)
+13:02:49   20. [ரயில்] தெலுங்கானா – கொல்லம் சிறப்பு ரயில்கள் அறிவிப்பு (தினமலர்) (earlier)
+13:02:49   21. [விலை] GOLD PRICE TODAY: தங்கப் பிரியர்களுக்கு சரவெடி கொண்டாட்டம்... சவரனுக்க (மாலைமலர்) (earlier)
+13:02:49   22. [பொது] கொளத்தூர் எம்.எல்.ஏ. வி.எஸ்.பாபு மறைவு: வைகோ இரங்கல் (தினத்தந்தி + மாலைமலர் + இந்து தமிழ்) (earlier)
+13:02:49   23. [பொது] யுஜிசி ‘நெட்’ தேர்வு டிச.14-ல் தொடங்குகிறது (இந்து தமிழ்) (earlier)
+13:02:49   24. [பொது] வி.எஸ். பாபுவின் திடீர் மறைவு ஈடுசெய்ய முடியாத பேரிழப்பு: முதல்-அமைச்ச (தினத்தந்தி + மாலைமலர் + பாலிமர்) (earlier)
+13:02:49   25. [பொது] குடியரசுத் துணைத் தலைவர் வருகை - சென்னையில் 2 நாட்களுக்கு ட்ரோன்கள் பற (இந்து தமிழ்) (earlier)
+13:02:49   26. [பொது] இடைநிலை, பட்டதாரி ஆசிரியர்களின் பதவி உயர்வுக்கான கலந்தாய்வை டிச.8க்குள (தினகரன்) (earlier)
+13:02:49   27. [பொது] இடைநிலை, பட்டதாரி ஆசிரியர்களின் பதவி உயர்வுக்கான கலந்தாய்வை டிச.8-க்கு (தினகரன்) (earlier)
+13:02:49   28. [பொது] அரசு போக்குவரத்து கழகங்களுக்கு தடையின்றி டீசல் வினியோகம் இந்தியன் ஆயில (தினமலர்) (earlier)
+13:02:49   29. [பொது] ரூ.96 ஆயிரத்துக்கு கீழ் இறங்கிய பவுன் தங்கம்: 10 நாளில் பவுனுக்கு ரூ.1 (இந்து தமிழ்) (earlier)
+13:02:49   30. [நீதிமன்றம்] அன்பில் மகேஸ், முத்துகுமாா், சரவணன் ஆகியோரை 2 நாள்கள் காவலில் எடுத்து  (தினமணி) (earlier)
+13:02:49   31. [நீதிமன்றம்] இடைநிலை ஆசிரியா்கள் பதவி உயா்வுக்கான கலந்தாய்வு: டிச. 8-க்குள் நடத்த உ (தினமணி) (earlier)
+13:02:49   32. [பொது] கொளத்தூர் தொகுதி த.வெ.க. எம்.எல்.ஏ. வி.எஸ்.பாபுவின் உடல் நாளை மாலை நல் (தினத்தந்தி) (earlier)
+13:02:49   33. [பொது] ஒரே ரைடில் 6 பாயிண்ட்ஸ் எடுத்த மாயாவி! | ‘டைகர்’ ராஜரத்தினம் 19 (இந்து தமிழ்) (earlier)
+13:02:49   34. [நீதிமன்றம்] சென்னை உயர்நீதிமன்றத்தில் இன்று (நவ.20) எந்தெந்த வழக்குகள் விசாரணை? (தினமணி) (earlier)
+13:02:49   35. [பொது] திமுகவிடம் இருந்துதான் பெண்களைப் பாதுகாக்க வேண்டும்: மு.க.ஸ்டாலினுக்கு (தினத்தந்தி) (earlier)
+13:02:49   36. [பொது] கொளத்தூர் தொகுதி இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியிடுவாரா? - கேள்வ (தினத்தந்தி) (earlier)
+13:02:49   37. [பொது] வி.எஸ். பாபுவின் மறைவுச் செய்தி வருத்தமளிக்கிறது - மு.க.ஸ்டாலின் இரங்க (தினத்தந்தி + மாலைமலர்) (earlier)
+13:02:49   38. [பொது] நாளை (நவ.20)இனிதாக: சென்னை (தினமலர்) (earlier)
+13:02:49   39. [பொது] திருப்பரங்குன்றம் கல்தூணில் 2 மணி நேரம் தீபம் ஏற்றுவதால் யாருக்கு என்ன (இந்து தமிழ்) (earlier)
+13:02:49   40. [பொது] சென்னை கொளத்தூர் தொகுதி தவெக எம்எல்ஏ வி.எஸ்.பாபு காலமானார்: மருத்துவமன (தினகரன்) (earlier)
+13:02:49   41. [பொது] கடன் மூலம் கறுப்பு பணம் வெள்ளையாகும் அபாயம்: வங்கிகள் எச்சரிக்கையுடன்  (இந்து தமிழ்) (earlier)
+13:02:49   42. [பொது] பெரியார் அறிவுலக புத்தக கொள்முதல் முறைகேடு: திமுக தொடர்ந்த வழக்கு விசா (இந்து தமிழ்) (earlier)
+13:02:49   43. [குற்றம்] கனிமக் கடத்தலை தடுப்பதற்கான ஆணையை உயர்நீதிமன்றம் ரத்து செய்தது துரதிரு (தினமணி) (earlier)
+13:02:49   44. [குற்றம்] “கனிமவளக் கடத்தலை தடுக்க உச்ச நீதிமன்றத்தில் மேல்முறையீடு அவசியம்” - அ (இந்து தமிழ்) (earlier)
+13:02:49   45. [பொது] “கனிம வளங்களைக் காக்கும் முயற்சியை தமிழக அரசு கைவிடக் கூடாது” - வேல்மு (இந்து தமிழ்) (earlier)
+13:02:49   46. [பொது] வி.எஸ்.பாபுவின் இழப்பு, வட சென்னையின் முக்கிய இழப்பு - ஆதவ் அர்ஜுனா உர (தினத்தந்தி) (earlier)
+13:02:49   47. [நீதிமன்றம்] கனிமவள வழக்கில் உச்ச நீதிமன்றத்தை நாட பெ.சண்முகம் வலியுறுத்தல் (இந்து தமிழ்) (earlier)
+13:02:49   48. [பொது] மகள் மீது அவதூறு! காவல் ஆணையர் அலுவலகத்தில் அர்ஜுன் புகார்! (தினமணி) (earlier)
+13:02:49   49. [நீதிமன்றம்] பரந்தூர் விமான நிலையத் திட்டத்தைக் கைவிட்ட தமிழக அரசின் முடிவுக்கு எதி (தினகரன்) (earlier)
+13:02:49   50. [பொது] ஆப்பிரிக்க நாடுகளுக்கு 2.03 லட்சம் டன் அரிசி ஏற்றுமதி: சென்னை துறைமுகம (தினத்தந்தி) (earlier)
+13:02:49   51. [பொது] வி.எஸ். பாபுவின் உடலுக்கு நேரில் சென்று அஞ்சலி செலுத்தினார் முதலமைச்சர (மாலைமலர்) (earlier)
+13:02:49   52. [பொது] திருப்பரங்குன்றம் தீப தூண் விவகாரம்: த.வெ.க. அரசு மன்னிப்பு கேட்கவேண்ட (தினத்தந்தி) (earlier)
+13:02:49   53. [நீதிமன்றம்] தமிழ்நாட்டின் மிக முக்கியமான கனிமவளங்களைப் பாதுகாக்கும் நோக்கத்துடன் எ (தினகரன்) (earlier)
+13:02:49   54. [பொது] கடந்த ஏப்ரல் மாதம் முதல் நேற்று வரை 2.03 லட்சம் டன் அரிசி ஏற்றுமதி மற் (தினகரன்) (earlier)
+13:02:49   55. [பொது] வி.எஸ்.பாபு மரணத்தில் சதி? போலீசில் புகார்! (மாலைமலர்) (earlier)
+13:02:49   56. [பொது] கீழ்ப்பாக்கத்தில் டிச., 5, 6ல் சென்னை மாஸ்டர்ஸ் தடகளம் (தினமலர்) (earlier)
+13:02:49   57. [பொது] சென்னை – பிராங்பர்ட் இடையே கூடுதல் விமானம்: லுப்த்ஷான்ஸா (தினமலர்) (earlier)
+13:02:49   58. [பொது] மருத்துவமனையில் கவர்னர் அனுமதி (தினமலர்) (earlier)
+13:02:49   59. [பொது] சென்னை - Dinakaran - Dinakaran (தினகரன்) (earlier)
+13:02:49   60. [பொது] கிங் மேக்கா்ஸ் அகாதெமி சாா்பில் விநாடி - வினா: சிறந்த அணிகளுக்கு பரிசு (தினமணி) (earlier)
+13:02:49   61. [பொது] மருத்துவ துறைக்கு 100 புதிய ஆம்புலன்ஸ்கள் வாங்க நடவடிக்கை (தினமணி) (earlier)
+13:02:49   62. [பொது] சென்னை துறைமுக முனையம் தைவான் அதிகாரிகள் பேச்சு: தைவான் கப்பல் நிறுவன  (தினமலர்) (earlier)
+13:02:49   63. [பொது] காங்., செயலர்கள் மாற்றம் (தினமலர்) (earlier)
+13:02:49   64. [பொது] வி.எஸ். பாபுவின் உடல் இன்று மாலை நல்லடக்கம்! (தினமணி) (earlier)
+13:02:49   65. [பொது] உலக வங்கி கடன் கொடுத்த ரூ.15 கோடி மாயம்! - சி.எம்.டி.ஏ.வில் பரபரப்பு (தினத்தந்தி) (earlier)
+13:02:49   66. [பொது] சர்வதேச விளையாட்டு போட்டிகளில் வென்ற வீரர், வீராங்கனைகள், பயிற்சியாளர் (தினத்தந்தி) (earlier)
+13:02:49   67. [பொது] அரசு, தனியார் மருத்துவமனைகளில் பணியாற்றும் சிறந்த செவிலியர்களுக்கு ரூ. (இந்து தமிழ்) (earlier)
+13:02:49   68. [பொது] விளையாட்டு போட்டிகளில் வெற்றி பெற்றவர்களுக்கு உயரிய ஊக்கத்தொகை (தினமலர்) (earlier)
+13:02:49   69. [பொது] தொகுதி மறுவரையறை மசோதா: திமுகவிடம் ஆதரவு கேட்டு பாஜக ரகசிய பேச்சுவார்த (தினத்தந்தி) (earlier)
+13:02:49   70. [பொது] திமுக - அதிமுக - தவெக: வி.எஸ். பாபுவின் அரசியல் வாழ்க்கை! (மாலைமலர்) (earlier)
+13:02:49   71. [பொது] தமிழகத்தில் முதலீட்டை அதிகரியுங்கள்... ரெனால்ட் குழுமத்தினரிடம் முதல்வ (தினமலர்) (earlier)
+13:02:49   72. [பொது] வி.எஸ்.பாபு மறைவு - சட்டமன்ற எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் இரங் (தினத்தந்தி) (earlier)
+13:02:49   73. [நீதிமன்றம்] திருப்பரங்குன்றம் விவகாரம்: இந்து மக்கள் கட்சி வழக்கு மீதான விசாரணையை  (தினகரன்) (earlier)
+13:02:49 automatic pick (owner 2 Nov): no e-mail - the top 8 are written at once
+ROUND=2026-11-20_13
