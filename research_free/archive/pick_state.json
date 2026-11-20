@@ -625,7 +625,8 @@
    "alts": [
     "https://www.polimernews.com/justnownews/chief-minister-vijay-carries-vs-babus-body-on-his-shoulder-12826953"
    ],
-   "listed_at": "2026-11-20T21:01:34.529668+05:30"
+   "listed_at": "2026-11-20T21:01:34.529668+05:30",
+   "picked_at": "2026-11-20T21:04:15.446353+05:30"
   },
   "Cf0ec014": {
    "id": "Cf0ec014",
@@ -637,7 +638,8 @@
    "category": "குற்றம்",
    "score": 10.81,
    "power_cut": false,
-   "listed_at": "2026-11-20T21:01:34.529668+05:30"
+   "listed_at": "2026-11-20T21:01:34.529668+05:30",
+   "picked_at": "2026-11-20T21:04:15.446358+05:30"
   },
   "Cc79a0a8": {
    "id": "Cc79a0a8",
@@ -649,7 +651,8 @@
    "category": "குற்றம்",
    "score": 10.81,
    "power_cut": false,
-   "listed_at": "2026-11-20T21:01:34.529668+05:30"
+   "listed_at": "2026-11-20T21:01:34.529668+05:30",
+   "picked_at": "2026-11-20T21:04:15.446360+05:30"
   },
   "Cef324f0": {
    "id": "Cef324f0",
@@ -661,7 +664,8 @@
    "category": "விபத்து",
    "score": 10.2,
    "power_cut": false,
-   "listed_at": "2026-11-20T21:01:34.529668+05:30"
+   "listed_at": "2026-11-20T21:01:34.529668+05:30",
+   "picked_at": "2026-11-20T21:04:15.446356+05:30"
   },
   "Cd90d497": {
    "id": "Cd90d497",
@@ -3145,8 +3149,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-20T22:01:34.529668+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 4 of 61 by insights",
+    "ids": [
+     "C0430496",
+     "Cef324f0",
+     "Cf0ec014",
+     "Cc79a0a8"
+    ],
+    "at": "2026-11-20T21:04:15.446339+05:30"
+   },
+   "written": [
+    "C0430496",
+    "Cc79a0a8",
+    "Cef324f0",
+    "Cf0ec014"
+   ]
   }
  },
  "retry": {}
