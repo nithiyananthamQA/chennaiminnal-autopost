@@ -275,7 +275,8 @@
     "https://www.hindutamil.in/news/business/gold-price-decreased-today"
    ],
    "listed_at": "2026-11-20T13:01:16.111009+05:30",
-   "picked_at": "2026-11-20T22:30:13.765934+05:30"
+   "picked_at": "2026-11-20T22:30:13.765934+05:30",
+   "posted": true
   },
   "C263155e": {
    "id": "C263155e",
@@ -288,7 +289,8 @@
    "score": 6.75,
    "power_cut": false,
    "listed_at": "2026-11-20T13:01:16.111009+05:30",
-   "picked_at": "2026-11-20T22:30:13.765936+05:30"
+   "picked_at": "2026-11-20T22:30:13.765936+05:30",
+   "posted": true
   },
   "Cafdbb65": {
    "id": "Cafdbb65",
@@ -325,7 +327,8 @@
    "score": 10.87,
    "power_cut": false,
    "listed_at": "2026-11-20T17:02:02.292745+05:30",
-   "picked_at": "2026-11-20T22:30:13.765932+05:30"
+   "picked_at": "2026-11-20T22:30:13.765932+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C70189da": {
    "id": "C70189da",
@@ -770,7 +773,8 @@
    "score": 10.81,
    "power_cut": false,
    "listed_at": "2026-11-20T22:29:02.183291+05:30",
-   "picked_at": "2026-11-20T22:30:13.765927+05:30"
+   "picked_at": "2026-11-20T22:30:13.765927+05:30",
+   "posted": true
   },
   "C94780d4": {
    "id": "C94780d4",
@@ -783,7 +787,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-20T22:29:02.183291+05:30",
-   "picked_at": "2026-11-20T22:30:13.765931+05:30"
+   "picked_at": "2026-11-20T22:30:13.765931+05:30",
+   "posted": true
   },
   "Cdf5dd8d": {
    "id": "Cdf5dd8d",
@@ -796,7 +801,8 @@
    "score": 9.26,
    "power_cut": false,
    "listed_at": "2026-11-20T22:29:02.183291+05:30",
-   "picked_at": "2026-11-20T22:30:13.765929+05:30"
+   "picked_at": "2026-11-20T22:30:13.765929+05:30",
+   "posted": true
   },
   "Cd46a315": {
    "id": "Cd46a315",
@@ -821,7 +827,8 @@
    "score": 7.6,
    "power_cut": false,
    "listed_at": "2026-11-20T22:29:02.183291+05:30",
-   "picked_at": "2026-11-20T22:30:13.765933+05:30"
+   "picked_at": "2026-11-20T22:30:13.765933+05:30",
+   "posted": true
   },
   "Cf5190dc": {
    "id": "Cf5190dc",
@@ -3118,7 +3125,10 @@
     "C94780d4",
     "C96c57bc",
     "Cdf5dd8d"
-   ]
+   ],
+   "refused": {
+    "C6e20ad4": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
