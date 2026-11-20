@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-20T22:29+05:30",
- "posts_measured": 128,
+ "updated": "2026-11-21T01:01+05:30",
+ "posts_measured": 135,
  "topic_weight": {
-  "accident": 0.2,
-  "civic": 0.26,
-  "crime": -0.19,
+  "accident": 1.47,
+  "civic": 0.24,
+  "crime": -0.12,
   "education": -0.48,
-  "jobs": -0.4,
-  "politics": 0.34,
-  "poultry_agri": 0.54,
-  "power_cut": 1.44,
+  "jobs": -0.11,
+  "politics": 0.17,
+  "poultry_agri": 0.41,
+  "power_cut": 1.39,
   "sports_culture": -0.29,
   "temple": -0.31,
-  "weather": 0.1
+  "weather": -0.09
  },
  "topic_n": {
-  "politics": 6,
-  "accident": 9,
-  "crime": 51,
-  "weather": 16,
+  "politics": 7,
+  "accident": 10,
+  "crime": 52,
+  "weather": 17,
   "power_cut": 5,
-  "civic": 15,
+  "civic": 16,
   "education": 49,
   "poultry_agri": 8,
   "temple": 27,
@@ -35,26 +35,26 @@
  ],
  "top_openings": [
   "🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை",
+  "🚨 பல்லாவரம் அருகே திருடிய செல்போன் தகராறில் இளைஞர் வெட்டிக் கொலை",
   "🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது",
-  "🚨 வண்ணாரப்பேட்டை ரவுடி பாம்முரளி கைது: போலீசார் துரத்தியபோது கீழே விழுந்து கை உட",
-  "🏠 சென்னையில் 9 இடங்களில் 6,157 புதிய வீடுகள்: ரூ.1,401 கோடி திட்டம், ஜனவரியில் ப"
+  "🚨 வண்ணாரப்பேட்டை ரவுடி பாம்முரளி கைது: போலீசார் துரத்தியபோது கீழே விழுந்து கை உட"
  ],
  "avg_watch_s": 6.3,
  "best_topics": [
+  "accident",
   "power_cut",
-  "poultry_agri",
-  "politics"
+  "poultry_agri"
  ],
  "weak_topics": [
   "education",
-  "jobs"
+  "temple"
  ],
  "topic_source": {
   "accident": "ours",
   "civic": "ours",
   "crime": "ours",
   "education": "reference",
-  "jobs": "reference",
+  "jobs": "ours",
   "politics": "ours",
   "poultry_agri": "ours",
   "power_cut": "ours",
@@ -63,5 +63,5 @@
   "weather": "ours"
  },
  "reference_posts_measured": 442,
- "reference_updated": "2026-11-20T21:49+05:30"
+ "reference_updated": "2026-11-21T00:26+05:30"
 }
