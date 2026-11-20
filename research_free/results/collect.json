@@ -3,40 +3,40 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.hindutamil.in/news/environment/steps-taken-to-restore-rainwater-harvesting-facilities-in-govt-buildings-and-educational-institutions",
-  "manual link added: https://www.hindutamil.in/news/crime/attempted-robbery-by-breaking-open-an-atm-in-gummidipoondi",
-  "manual link added: https://www.dinakaran.com/news/wife-of-a-police-officer-sexual-harassment-siege-of-the-collectors-office/amp",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/mahesh-booked-for-receiving-id1-crore-bribe-from-private-schools-chequegiven-to-him-by-police/4380347",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/special-train-between-chennai-egmore-and-tenkasi-southern-railway-announces",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/plan-to-build-6157-homes-at-9-locations-in-chennai",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-900-abandoned-vehicles-auction",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/news-in-a-few-lines/4380590",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/advice-to-prevent-bird-collisions-on-airplanes/4380935",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/sale-of-idbi-shares-bank-unions-announce-strike-for-dec-3",
   "candidate filter: collected=5",
   "to write: 5 Chennai district candidates (max 5 stories)",
   "round: top 5 of 5 candidates",
   "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-train-be",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/mahesh-booked",
-  "try (N) manual=True: https://www.dinakaran.com/news/wife-of-a-police-officer-sexu",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.hindutamil.in/news/crime/attempted-robbery-by-br",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "try (N) manual=True: https://www.hindutamil.in/news/environment/steps-taken-to-re",
-  "NOT filed (N) சென்னை போலீஸ்காரரின் மனைவிக்கு பாலியல் தொல்லை: டாக: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 77 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-900-aban",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/plan-to-build-6157-",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "NOT filed (N) சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்: duplicate after write",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 78 min",
   "filed: 4 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
@@ -47,69 +47,49 @@
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3.5-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -117,235 +97,252 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னை எழும்பூர்-தென்காசி இடையே சிறப்பு ரெயில் அறிவிப்பு",
-   "english_headline": "Special one-way train from Chennai Egmore to Tenkasi announced by Southern Railway",
-   "category": "Roads & Transport",
-   "location": "Chennai Egmore railway station to Tenkasi, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரெயில் அறிவிப்பு",
-    "loc": "சென்னை எழும்பூர்",
-    "hl1": "சென்னை எழும்பூர்-தென்காசி சிறப்பு ரெயில்",
-    "hl2": "நாளை இரவு 11.50 மணிக்கு",
-    "slides": [
-     {
-      "title": "எப்போது",
-      "lines": [
-       "நாளை (வெள்ளிக்கிழமை) இரவு <b>11.50 மணி</b>க்கு புறப்படும்",
-       "சென்னை எழும்பூர் ரெயில் நிலையத்தில் இருந்து",
-       "சனிக்கிழமை மதியம் <b>12.30 மணி</b>க்கு தென்காசி சென்றடையும்"
-      ]
-     },
-     {
-      "title": "ரெயில் விவரம்",
-      "lines": [
-       "ஒரு வழி சிறப்பு ரெயில்",
-       "வண்டி எண் <b>06015</b>",
-       "தெற்கு ரெயில்வே அறிவிப்பு"
-      ]
-     },
-     {
-      "title": "ஏன் சிறப்பு",
-      "lines": [
-       "வார இறுதியில் தென் மாவட்டங்களுக்கு கூட்டம் அதிகம் இருக்கும்",
-       "பயணிகளின் வசதிக்காக இயக்கப்படுகிறது",
-       "பயணிகளுக்கு மகிழ்ச்சி அளிக்கும் அறிவிப்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னை எழும்பூரில் இருந்து தென்காசிக்கு சிறப்பு ரெயில் இயக்கப்பட உள்ளது. தெற்கு ரெயில்வே இதை அறிவித்துள்ளது. இது ஒரு வழி சிறப்பு ரெயில் ஆகும். வண்டி எண் 06015 கொண்ட இந்த ரெயில் நாளை வெள்ளிக்கிழமை இரவு 11.50 மணிக்கு சென்னை எழும்பூர் ரெயில் நிலையத்தில் இருந்து புறப்படும். சனிக்கிழமை மதியம் 12.30 மணிக்கு தென்காசி சென்றடையும். வார இறுதி நாளான நாளை சென்னையில் இருந்து தென் மாவட்டங்களுக்குச் செல்லும் பேருந்துகள் மற்றும் ரயில்களில் பயணிகள் கூட்டம் அதிகம் இருக்கும் என எதிர்பார்க்கப்படுகிறது. இந்த நிலையில் சிறப்பு ரெயில் அறிவிக்கப்பட்டிருப்பது பயணிகளுக்கு மகிழ்ச்சி அளித்துள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 சென்னை எழும்பூர்-தென்காசி சிறப்பு ரெயில் அறிவிப்பு\n\n📰 முழு விவரம்:\nபயணிகளின் வசதிக்காக சென்னை எழும்பூர்-தென்காசி இடையே ஒரு வழி சிறப்பு ரெயில் இயக்கப்பட உள்ளது. தெற்கு ரெயில்வே இதை அறிவித்துள்ளது. வண்டி எண் 06015 கொண்ட இந்த ரெயில் நாளை (வெள்ளிக்கிழமை) இரவு 11.50 மணிக்கு சென்னை எழும்பூர் ரெயில் நிலையத்தில் இருந்து புறப்பட்டு, சனிக்கிழமை மதியம் 12.30 மணிக்கு தென்காசி சென்றடையும். வார இறுதியில் தென் மாவட்டங்களுக்குச் செல்லும் பேருந்துகள், ரயில்களில் பயணிகள் கூட்டம் அதிகம் இருக்கும் என எதிர்பார்க்கப்படுகிறது.\n📍 இடம்: சென்னை எழும்பூர் ரெயில் நிலையம்\n🗓️ நாள்: நாளை (வெள்ளிக்கிழமை) இரவு 11.50 மணி\n🕘 சென்றடையும் நேரம்: சனிக்கிழமை மதியம் 12.30 மணி, தென்காசி\n🚆 வண்டி எண்: 06015 (ஒரு வழி சிறப்பு ரெயில்)\n\nChennai Egmore to Tenkasi special train announced | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #ரெயில்\n\nதமிழ்நாடு ரயில் பயணிகள் சிறப்பு ரயில் பற்றிய செய்தி",
-   "prompts": "A long passenger train stands at a platform of Chennai Egmore railway station at night, its carriages lit by overhead lamps as a crowd of travellers with bags and suitcases walks along the platform towards the coaches. Egmore is a busy station in central Chennai, with a high arched platform shed, tall station lamps, steel railway tracks running into the distance and a few railway staff in uniform near the doors. The passengers, men in shirts and trousers and women in sarees and salwar, are seen from behind or far away, some pulling wheeled trolleys and carrying bags, clearly heading for the special train to Tenkasi in the southern districts. The scene is late Friday night, with warm yellow light from the station lamps and a dark sky above the shed. Camera at eye level, 35 mm lens, wide enough to show the platform, the train and the crowd. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a railway platform edge at Chennai Egmore station shows the steel rails and a stack of passenger luggage, including bags, a rolling suitcase and a bundle of travel bags, resting near a yellow safety line. Behind the luggage, the blurred outline of a train's carriage and a railway staff member in uniform can be seen under overhead station lamps. The late-night light is warm and yellow, with the railway tracks glinting. The people are only partly visible from behind and out of focus. The camera is low and close, about 35 mm, focusing on the luggage and the track. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/special-train-between-chennai-egmore-and-tenkasi-southern-railway-announces",
-   "published": "2026-11-19T16:07:17Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: day word wrong: the draft says நாளை, written from the paper of 19 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together with the date",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795146777/chennaiminnal/z7kykgqpgvewv6rjhvmm.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795146780/chennaiminnal/tpwudxdu9fjycug89ha3.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தனியார் பள்ளி லஞ்ச வழக்கு: அன்பில் மகேஷ் போலீஸ் காவல் கோரி மனு",
-   "english_headline": "Rs 100 crore school recognition bribery case: police seek custody of Anbil Mahesh",
-   "category": "Crime & Safety",
-   "location": "Chennai, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வழக்கு விவரம்",
-    "loc": "சென்னை",
-    "hl1": "ரூ.100 கோடி லஞ்ச வழக்கு: மகேஷ் காவல்",
-    "hl2": "டிச. 2 வரை நீதிமன்றக் காவல்",
-    "slides": [
-     {
-      "title": "வழக்கு என்ன?",
-      "lines": [
-       "தனியார் பள்ளிகளுக்கு அரசின் அங்கீகாரம் பெற்றுத்தர <b>ரூ.100",
-       "கடந்த திமுக ஆட்சியில் நடந்ததாகக் குற்றச்சாட்டு",
-       "சென்னை மத்திய குற்றப்பிரிவு போலீஸ் செப்டம்பரில் வழக்கு பதிவு"
-      ]
-     },
-     {
-      "title": "கைது எப்போது?",
-      "lines": [
-       "ஐந்தாவது நபராக அன்பில் மகேஷ் கைது",
-       "கைது நாள்: <b>அக். 26</b>",
-       "குற்றம் சாட்டப்பட்ட பள்ளிகள் சங்கத் தலைவர் அரசகுமார்"
-      ]
-     },
-     {
-      "title": "இப்போது நிலை",
-      "lines": [
-       "தற்போது <b>டிச. 2</b> வரை நீதிமன்றக் காவல்",
-       "போலீஸ் காவல் கோரி சிறப்பு நீதிமன்றத்தில் மனு",
-       "மனு விரைவில் விசாரணைக்கு வருகிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தனியார் பள்ளிகளுக்கு அரசின் அங்கீகாரம் பெற்றுத் தருவதாகக் கூறி ரூ.100 கோடி வரை லஞ்சம் பெற்ற வழக்கில் அன்பில் மகேஷ் கைது செய்யப்பட்டுள்ளார். கடந்த தி மு க ஆட்சியில் நடந்ததாகக் குற்றம் சாட்டப்பட்டுள்ள இந்த மோசடி குறித்து கடந்த செப்டம்பரில் சென்னை மத்திய குற்றப்பிரிவு போலீஸ் வழக்குப் பதிவு செய்தது. குற்றம் சாட்டப்பட்ட தனியார் பள்ளிகள் சங்கத் தலைவர் அரசகுமார் உள்ளிட்டோர் அளித்த வாக்குமூலங்களின் அடிப்படையில், இந்த வழக்கில் ஐந்தாவது நபராக அன்பில் மகேஷ் அக்டோபர் 26ஆம் தேதி கைது செய்யப்பட்டார். போலீஸார் அவரைக் கஸ்டடியில் எடுத்து விசாரித்த நிலையில், தற்போது டிசம்பர் 2ஆம் தேதி வரை நீதிமன்றக் காவலில் அடைக்கப்பட்டுள்ளார். இந்நிலையில், மகேஷை போலீஸ் காவல் விசாரணைக்கு அனுமதிக்குமாறு சிறப்பு நீதிமன்றத்தில் மத்திய குற்றப்பிரிவு போலீஸார் மனு தாக்கல் செய்துள்ளனர். இம்மனு விரைவில் விசாரணைக்கு வருகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ரூ.100 கோடி லஞ்ச வழக்கு: அன்பில் மகேஷ் போலீஸ் காவல் கோரி மனு\n\n📰 முழு விவரம்:\nதனியார் பள்ளிகளுக்கு அரசின் அங்கீகாரம் பெற்றுத் தருவதாக ரூ.100 கோடி வரை லஞ்சம் பெற்று மோசடி செய்ததாக சென்னை மத்திய குற்றப்பிரிவு போலீஸ் செப்டம்பரில் வழக்குப் பதிவு செய்தது. கடந்த திமுக ஆட்சியில் நடந்ததாகக் குற்றச்சாட்டு. குற்றம் சாட்டப்பட்ட தனியார் பள்ளிகள் சங்கத் தலைவர் அரசகுமார் உள்ளிட்டோர் அளித்த வாக்குமூலங்களின் அடிப்படையில் அன்பில் மகேஷ் ஐந்தாவது நபராக அக். 26ஆம் தேதி கைது செய்யப்பட்டார். போலீஸ் கஸ்டடி விசாரணைக்குப் பின் தற்போது டிச. 2 வரை நீதிமன்றக் காவலில் உள்ளார். மகேஷை போலீஸ் காவல் விசாரணைக்கு அனுமதிக்குமாறு சிறப்பு நீதிமன்றத்தில் மத்திய குற்றப்பிரிவு போலீஸார் மனு தாக்கல் செய்துள்ளனர். இம்மனு விரைவில் விசாரணைக்கு வருகிறது.\n\nAnbil Mahesh police custody plea, Rs 100 crore bribery case | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Crime",
-   "prompts": "Outside a special court building in Chennai, police officers in khaki uniform stand near a white Tamil Nadu police jeep as a lawyer in a black coat walks up the steps carrying a bundle of case files. A group of reporters and onlookers wait at a distance near the iron gate, seen from behind. Behind them is the stone and concrete façade of the court with arched windows and a tiled roof, typical of a Chennai government building. Clear daylight falls on the steps and the parked jeep. The officers are looking toward the entrance, and no faces are visible. The scene shows the court hearing where the Central Crime Branch has sought custody in the school recognition bribery case. Camera at eye level, 35 mm, wide enough to include the building, jeep and gate. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of thick case files and documents tied with string, placed on a wooden table inside a court hallway in Chennai. Some sheets of paper are slightly fanned out, and a police khaki cap rests on the edge of the table beside them. In the soft blur behind, a police constable in khaki stands with his back turned, and a few lawyers in black coats move past. The paper pages are plain and unreadable from this distance, showing only folded edges and stamped sheets. Daylight comes through a tall window and lights the files evenly. The objects tell the story of the bribery investigation and the custody petition. Camera slightly high, close framing, 35 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/mahesh-booked-for-receiving-id1-crore-bribe-from-private-schools-chequegiven-to-him-by-police/4380347",
-   "published": "2026-11-19T14:20:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795146791/chennaiminnal/wqbvokjtpz9ud8wrqlf4.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795146807/chennaiminnal/zvqftyrszjfnsxdi3ruk.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கும்மிடிப்பூண்டியில் ஏடிஎம் உடைக்க முயற்சி: போலீஸைக் கண்டதும் மர்ம நபர்கள் தப்பியோட்டம்",
-   "english_headline": "Kummidipoondi ATM break-in attempt foiled; suspects flee on seeing police patrol",
-   "category": "Crime & Safety",
-   "location": "Kummidipoondi, Tiruvallur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கொள்ளை முயற்சி",
-    "loc": "கும்மிடிப்பூண்டி",
-    "hl1": "கும்மிடிப்பூண்டியில் ஏடிஎம் கொள்ளை",
-    "hl2": "போலீஸைக் கண்டதும்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கும்மிடிப்பூண்டியில் ஏடிஎம் இயந்திரத்தை உடைக்க முயற்சி",
-       "நேற்று முன்தினம் நள்ளிரவில் ரோந்து போலீஸாரைக் கண்டு இருவர்",
-       "போலீஸார் விரட்டியும் அவர்கள் சிக்கவில்லை"
-      ]
-     },
-     {
-      "title": "என்ன",
-      "lines": [
-       "ஏடிஎம் மையத்தில் கடப்பாரை, சுத்தியல், கையுறை, காலணிகள்",
-       "இதனால் ஏடிஎம்மில் இருந்த <b>ரூ.6 லட்சம்</b> தப்பியது",
-       "கைரேகை நிபுணர்கள், மோப்ப நாய் மூலம் தடயங்கள் சேகரிப்பு"
-      ]
-     },
-     {
-      "title": "மீண்டும் ஒரு",
-      "lines": [
-       "ஆகஸ்ட் 26 அன்று இதே பகுதியில் ஏடிஎம்மில் <b>ரூ.12 லட்சம்</b> கொள்ளை",
-       "ஆகஸ்ட் 25 அன்று காஞ்சிபுரம் மாவட்டம் சோமங்கலம் அருகே",
-       "அந்த வழக்கில் கைதானவர்கள் இதே கும்பல் என்பது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கும்மிடிப்பூண்டியில் ஏடிஎம் இயந்திரத்தை உடைத்து கொள்ளையடிக்க முயன்ற மர்ம நபர்கள் போலீஸாரைக் கண்டதும் தப்பியோடினர். நேற்று முன்தினம் நள்ளிரவில் சென்னை-கொல்கத்தா தேசிய நெடுஞ்சாலையை ஒட்டியுள்ள பாரத ஸ்டேட் வங்கி ஏடிஎம் மையத்தில் இந்தச் சம்பவம் நடந்தது. ரோந்துப் பணியில் இருந்த கும்மிடிப்பூண்டி சிப்காட் போலீஸாரைக் கண்ட இருவர் ஓட்டம் பிடித்தனர். போலீஸார் அவர்களை விரட்டியும் சிக்கவில்லை. ஏடிஎம் மையத்தை ஆய்வு செய்தபோது, இயந்திரத்தை உடைக்க முயன்றது தெரியவந்தது. தப்பியோடும்போது கடப்பாரை, சுத்தியல், கையுறை, காலணிகளை அங்கேயே விட்டுச் சென்றனர். இதனால் ஏடிஎம்மில் இருந்த சுமார் ரூ.6 லட்சம் தப்பியது. கைரேகை நிபுணர்கள், மோப்ப நாய் வரவழைக்கப்பட்டு தடயங்கள் சேகரிக்கப்பட்டன. வழக்குப் பதிவு செய்த போலீஸார் மர்ம நபர்களைத் தீவிரமாகத் தேடி வருகின்றனர். கடந்த ஆகஸ்ட் 26ஆம் தேதி இதே பகுதியின் எதிர்த் திசையில் உள்ள ஒரு ஏடிஎம்மில் ரூ.12 லட்சம் கொள்ளையடிக்கப்பட்டது. ஆகஸ்ட் 25ஆம் தேதி காஞ்சிபுரம் மாவட்டம் சோமங்கலம் அருகே புதுப்பேடு கிராமத்தில் ஐசிஐசிஐ வங்கி ஏடிஎம்மில் ரூ.9 லட்சம் கொள்ளையடிக்கப்பட்ட வழக்கில் கைதானவர்களே இந்தக் கும்பல் என்பது குறிப்பிடத்தக்கது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கும்மிடிப்பூண்டியில் ஏடிஎம் உடைக்க முயற்சி: போலீஸைக் கண்டதும் மர்ம நபர்கள் தப்பியோட்டம்\n\n📰 முழு விவரம்:\nகும்மிடிப்பூண்டியில் சென்னை-கொல்கத்தா தேசிய நெடுஞ்சாலையை ஒட்டிய பாரத ஸ்டேட் வங்கி ஏடிஎம் இயந்திரத்தை உடைத்து கொள்ளையடிக்க மர்ம நபர்கள் முயன்றனர். நேற்று முன்தினம் நள்ளிரவில் ரோந்துப் பணியில் இருந்த கும்மிடிப்பூண்டி சிப்காட் போலீஸாரைக் கண்டதும் இருவர் ஓட்டம் பிடித்தனர். போலீஸார் விரட்டியும் அவர்கள் சிக்கவில்லை. ஏடிஎம் மையத்தை ஆய்வு செய்தபோது இயந்திரத்தை உடைக்க முயன்றது தெரியவந்தது. தப்பியோடும்போது கடப்பாரை, சுத்தியல், கையுறை, காலணிகளை அங்கேயே விட்டுச் சென்றனர். இதனால் ஏடிஎம்மில் இருந்த சுமார் ரூ.6 லட்சம் தப்பியது. கைரேகை நிபுணர்கள், மோப்ப நாய் மூலம் தடயங்கள் சேகரிக்கப்பட்டன. வழக்குப் பதிவு செய்த போலீஸார் மர்ம நபர்களைத் தீவிரமாகத் தேடி வருகின்றனர்.\n📍 இடம்: கும்மிடிப்பூண்டி, திருவள்ளூர் மாவட்டம்\n🗓️ நாள்: நேற்று முன்தினம் (நவ. 18) நள்ளிரவு\n🔎 தொடர் சம்பவங்கள்: ஆகஸ்ட் 26 அன்று இதே பகுதியில் ரூ.12 லட்சம் கொள்ளை; ஆகஸ்ட் 25 அன்று காஞ்சிபுரம் மாவட்டம் சோமங்கலம் அருகே புதுப்பேடு கிராமத்தில் ஐசிஐசிஐ வங்கி ஏடிஎம்மில் ரூ.9 லட்சம் கொள்ளை. அந்த வழக்கில் கைதானவர்களே இந்தக் கும்பல் என்பது குறிப்பிடத்தக்கது.\n\nKummidipoondi ATM robbery attempt, suspects flee | Chennai news\n📍 கும்மிடிப்பூண்டி, திருவள்ளூர் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kummidipoondi #கொள்ளை #ChennaiNews",
-   "prompts": "Late at night, a Tiruvallur district police patrol jeep in khaki-uniformed constables stands beside a small, glass-fronted ATM booth on the shoulder of the Chennai-Kolkata National Highway at Kummidipoondi. The booth is lit by a white fluorescent light, while the dark highway behind it carries the headlights of lorries and cars passing at speed. Two police constables, seen from behind and far away, walk toward the booth with torches in hand, scanning the roadside bushes where two suspects are believed to have run off. Concrete pillars and a roadside railing line the highway, with a few small shops shuttered for the night in the background. The scene is shot at eye level on a 35 mm lens, wide enough to show the highway, the booth and the patrol vehicle together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on the ground beside the ATM booth's shutter: an iron crowbar and a heavy hammer lie on the wet concrete next to a pair of worn rubber gloves and a pair of discarded slippers, all left behind in haste. A torch beam from a constable's hand falls across the objects, lighting the metal bar and the hammer head, while the dark ATM machine's keypad is faintly visible in the background. The night is dark with the orange glow of a streetlight above, and passing vehicle lights blur faintly in the distance on the national highway. Shot at a low angle on a 50 mm lens, focused tightly on the tools and the gloves. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/crime/attempted-robbery-by-breaking-open-an-atm-in-gummidipoondi",
-   "published": "2026-11-20T03:38:51Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('அவர்​கள் கடந்த ஆகஸ்ட் 25-ம் தேதி காஞ்​சிபுரம் மாவட்​டம், சோம'); 23 ('அவர்​கள் கடந்த ஆகஸ்ட் 25-ம் தேதி காஞ்​சிபுரம் மாவட்​டம், சோம')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795146828/chennaiminnal/ativps2zjr7ooo5dgr9o.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795146836/chennaiminnal/w2cijhcbiymvbdgjhuye.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை மாநகராட்சி: அரசு கட்டிடங்களில் மழைநீர் சேகரிப்பு வசதிகளை மீட்க நடவடிக்கை",
-   "english_headline": "Chennai Corporation to restore rainwater harvesting facilities in government buildings and schools",
-   "category": "Civic Issues",
-   "location": "Ripon Buildings, Chennai, Chennai district",
+   "tamil_headline": "விமானங்கள் மீது பறவைகள் மோதலை தடுக்க சென்னை விமான நிலையத்தில் ஆலோசனை",
+   "english_headline": "Chennai airport holds meeting on stopping birds hitting aircraft; Adyar river, Perungudi and Guindy water bodies discussed",
+   "category": "Government & Services",
+   "location": "Chennai airport, Ripon Buildings, Chennai district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "நீர் பாதுகாப்பு",
-    "loc": "சென்னை மாநகராட்சி",
-    "hl1": "சென்னை மாநகராட்சி: மழைநீர் சேகரிப்பு",
-    "hl2": "அரசு கட்டிடங்கள், பள்ளிகளில்",
+    "cat": "விமான நிலையம்",
+    "loc": "சென்னை",
+    "hl1": "விமானங்கள் மீது பறவைகள் மோதலை தடுக்க",
+    "hl2": "நவ. 19 கூட்டம்",
     "slides": [
      {
-      "title": "என்ன நடவடிக்கை?",
+      "title": "என்ன கூட்டம்?",
       "lines": [
-       "ஏற்கெனவே அமைக்கப்பட்ட மழைநீர் சேகரிப்பு வசதிகளை",
-       "ஆணையர் ஜி.எஸ்.சமீரன் தெரிவித்தார்",
-       "ரிப்பன் மாளிகையில் கருத்தரங்கம் நடைபெற்றது"
+       "சென்னை விமான நிலையத்தில் பறவை மோதல் தடுப்பு ஆலோசனை",
+       "இன்று (<b>நவ. 19</b>) ரிப்பன் மாளிகையில் நடந்தது",
+       "கமிஷனர் சமீரன் தலைமையில் கூட்டம் நடந்தது"
       ]
      },
      {
-      "title": "எங்கெங்கு வசதி?",
+      "title": "எந்த இடங்கள்?",
       "lines": [
-       "<b>1,858</b> மாநகராட்சி கட்டிடங்கள்",
-       "<b>1,013</b> பூங்காக்கள், <b>87</b> விளையாட்டு மைதானங்கள்",
-       "வடிகால்களில் <b>30,000</b> இடங்களில் வசதிகள்"
+       "அடையாறு ஆறு, கரையோரங்களில் பறவை நடமாட்டம் குறைப்பு",
+       "பெருங்குடி குப்பை வளாகத்தில் பயோ மைனிங் முறை தீவிரம்",
+       "கிண்டி நீர்நிலைகளில் பறவைகள் கூடுவதைத் தடுப்பது"
       ]
      },
      {
-      "title": "அடுத்த படி",
+      "title": "யார் பங்கேற்பு?",
       "lines": [
-       "அனைத்து அரசு கட்டிடங்கள், பள்ளிகளில் பராமரிப்புடன் வசதி",
-       "செயலிழந்த அமைப்புகளைச் சீரமைக்க நடவடிக்கை",
-       "ஏரிகளில் தற்போது <b>41%</b> நீர் இருப்பு"
+       "சென்னை விமான நிலைய பொது மேலாளர் ராஜ்குமார்",
+       "பல்வேறு துறை அதிகாரிகளும் பங்கேற்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை மாநகராட்சி அரசு கட்டிடங்களில் மழைநீர் சேகரிப்பு வசதிகளை மீட்க நடவடிக்கை எடுக்கிறது. மாநகராட்சி ஆணையர் ஜி எஸ் சமீரன் இந்தத் தகவலைத் தெரிவித்தார். நிலத்தடி நீர் பாதுகாப்பு குறித்த மழைநீர் சேகரிப்புக் கருத்தரங்கம் நேற்று ரிப்பன் மாளிகை வளாகத்தில் நடைபெற்றது. மாநகராட்சி சார்பில் 1,858 கட்டிடங்கள், 1,013 பூங்காக்கள், 87 விளையாட்டு மைதானங்களில் மழைநீர் சேகரிப்பு வசதிகள் அமைக்கப்பட்டுள்ளன. மழைநீர் வடிகால்களில் 30 மீட்டர் இடைவெளியில் 30 ஆயிரம் இடங்களிலும் வசதிகள் உள்ளன. செயலிழந்த அமைப்புகளைச் சீரமைக்கவும், குடியிருப்போர் நலச் சங்கங்களின் பங்கேற்புடன் வசதிகள் தொடர்ந்து செயல்படுவதை உறுதி செய்யவும் நடவடிக்கை எடுக்கப்படுகிறது. அனைத்து அரசு கட்டிடங்கள், மாநகராட்சி கட்டிடங்கள், கல்வி நிறுவனங்களில் பராமரிப்புடன் கூடிய வசதிகள் இருக்க வேண்டும். சென்னை குடிநீர் வாரியம் உள்ளிட்ட அதிகாரிகள் இந்தக் கருத்தரங்கில் கலந்துகொண்டனர். சென்னைக்குக் குடிநீர் வழங்கும் ஏரிகளில் தற்போது 41 சதவீதம் நீர் இருப்பு உள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ சென்னை மாநகராட்சி: அரசு கட்டிடங்களில் மழைநீர் சேகரிப்பு வசதிகளை மீட்க நடவடிக்கை\n\n📰 முழு விவரம்:\nஅரசு மற்றும் மாநகராட்சி கட்டிடங்களில் ஏற்கெனவே அமைக்கப்பட்ட மழைநீர் சேகரிப்பு வசதிகளை மீட்டெடுக்க நடவடிக்கை எடுக்கப்படுகிறது என மாநகராட்சி ஆணையர் ஜி.எஸ்.சமீரன் தெரிவித்தார். நிலத்தடி நீர் பாதுகாப்பு, மழைநீர் சேகரிப்பு குறித்த கருத்தரங்கம் ரிப்பன் மாளிகை வளாகத்தில் நேற்று நடைபெற்றது. மழைநீர் சேகரிப்பு தனிநபர் பொறுப்பு மட்டுமல்ல, பொதுமக்கள், குடியிருப்போர் நலச் சங்கங்கள், கல்வி நிறுவனங்கள், தொழில் நிறுவனங்கள், தன்னார்வ அமைப்புகள் இணைந்து செயல்பட வேண்டிய மக்கள் இயக்கம் என ஆணையர் வலியுறுத்தினார். கோடையில் தண்ணீர் தட்டுப்பாடும், பருவமழையில் நகர்ப்புற வெள்ளமும் சென்னையைப் பாதிப்பதாக அவர் கூறினார். மாநகராட்சி சார்பில் 1,858 கட்டிடங்கள், 1,013 பூங்காக்கள், 87 விளையாட்டு மைதானங்கள், மழைநீர் வடிகால்களில் 30 மீட்டர் இடைவெளியில் 30 ஆயிரம் இடங்களில் வசதிகள் அமைக்கப்பட்டுள்ளன. குடியிருப்போர் நலச் சங்கங்கள், உரிமம் பெற்ற நில அளவையாளர்கள் பங்கேற்புடன் வசதிகள் செயல்படுவதை உறுதி செய்யவும், செயலிழந்த அமைப்புகளைச் சீரமைக்கவும் நடவடிக்கை நடைபெற்று வருகிறது. அனைத்து அரசு, மாநகராட்சி கட்டிடங்கள், கல்வி நிறுவனங்களில் பராமரிப்புடன் கூடிய வசதிகள் இருக்க வேண்டும் என்றும், ஒவ்வொரு பள்ளியும் நீர் சேமிப்புக்கான முன்மாதிரியாக மாற வேண்டும் என்றும் ஆணையர் தெரிவித்தார். சென்னைக்குக் குடிநீர் வழங்கும் ஏரிகளில் 41 சதவீதம் நீர் இருப்பு உள்ளது; இன்னும் மழைக்காலம் இருப்பதால் ஏரிகள் நிரம்ப வாய்ப்புள்ளது. கருத்தரங்கில் மாநகராட்சி இணை ஆணையர் (பணிகள்) செ.சரவணன், சென்னை குடிநீர் வாரிய செயல் இயக்குநர் என்.ஓ.சுகபுத்ரா, வட்டார துணை ஆணையர்கள் ஸ்வேதா சுமன், எச்.ஆர்.கவுசிக், அஃதாப் ரசூல், கிரெடாய் நிறுவனத்தின் ஆர்.ஜெயகுமார் ஆகியோர் கலந்துகொண்டனர்.\n\nChennai Corporation rainwater harvesting in govt buildings | Chennai news\n📍 ரிப்பன் மாளிகை, சென்னை | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #மழைநீர்",
-   "prompts": "A Chennai Corporation official stands at a podium in a seminar hall in the Ripon Buildings compound, addressing a seated audience of officials, school representatives and residents. The hall is a government office interior with plain walls, rows of chairs, a long table with water bottles and microphones, and tall windows letting in daylight. Behind the podium is a backdrop with no readable text. Attendees in shirts, sarees and salwar sit in rows, seen from behind or from the side, some taking notes. Outside the windows, the stone and red-brick facade of the historic Ripon Building and a glimpse of a rooftop rainwater tank are visible. It is a bright daytime scene in Chennai, the mood purposeful. Shot at eye level on a 35 mm lens, wide enough to show the whole room and the speakers' table. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a rainwater harvesting recharge pit at the edge of a government building courtyard in Chennai city, beside a concrete drain cover and a pipe channelling rainwater from a rooftop downpipe. The pit has a gravel and stone filter layer, with a few fallen dry leaves and a little dampness on the concrete. A steel grating covers part of the opening and a stainless bucket sits nearby. Behind it, the bare wall of a corporation building and the edge of a tiled walkway are visible. Soft daylight, a clean but worn civic setting, no people in focus. Shot at close range on a 50 mm lens with shallow depth of field, showing the harvesting structure clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/environment/steps-taken-to-restore-rainwater-harvesting-facilities-in-govt-buildings-and-educational-institutions",
-   "published": "2026-11-20T02:22:14Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script writes ages as newspaper shorthand (கட்டிடங்கள், 1,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'; caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('இக்​கருத்​தரங்​கத்​தில் மாநக​ராட்சி இணை ஆணை​யாளர் (பணிகள்) ச')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "சென்னை விமான நிலையத்தில் விமானங்கள் மீது பறவைகள் மோதுவதைத் தடுக்கும் ஆலோசனைக் கூட்டம் நடைபெற்றது. நவம்பர் 19ஆம் தேதியான இன்று ரிப்பன் மாளிகையில் இந்தக் கூட்டம் நடந்தது. கமிஷனர் சமீரன் தலைமையில் இந்தக் கூட்டம் நடைபெற்றது. அடையாறு ஆறு மற்றும் அதன் கரையோரங்களில் பறவைகள் நடமாட்டத்தைக் குறைப்பது குறித்து விவாதிக்கப்பட்டது. பெருங்குடி குப்பை வளாகத்தில் பயோ மைனிங் முறையைத் தீவிரப்படுத்துவது பற்றியும் பேசப்பட்டது. கிண்டி நீர்நிலைகளில் பறவைகள் கூடுவதைத் தடுப்பது தொடர்பாகவும் ஆலோசிக்கப்பட்டது. சென்னை விமான நிலைய பொது மேலாளர் ராஜ்குமார் மற்றும் பல்வேறு துறை அதிகாரிகள் இந்தக் கூட்டத்தில் பங்கேற்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "✈️ சென்னை விமான நிலையத்தில் விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை\n\n📰 முழு விவரம்:\nவிமானங்கள் மீது பறவைகள் மோதுவதைத் தடுக்கும் நடவடிக்கைகள் குறித்து ஆலோசனைக் கூட்டம் இன்று (நவ. 19) ரிப்பன் மாளிகையில் நடைபெற்றது. கமிஷனர் சமீரன் தலைமையில் இந்தக் கூட்டம் நடந்தது.\nஅடையாறு ஆறு மற்றும் அதன் கரையோரங்களில் பறவைகள் நடமாட்டத்தைக் குறைப்பது, பெருங்குடி குப்பை வளாகத்தில் பயோ மைனிங் முறையைத் தீவிரப்படுத்துவது, கிண்டி நீர்நிலைகளில் பறவைகள் கூடுவதைத் தடுப்பது ஆகியவை விவாதிக்கப்பட்டன.\n\n📍 இடம்: ரிப்பன் மாளிகை, சென்னை\n🗓️ நாள்: நவம்பர் 19\n👥 பங்கேற்றோர்: சென்னை விமான நிலைய பொது மேலாளர் ராஜ்குமார் மற்றும் பல்வேறு துறை அதிகாரிகள்\n\nChennai airport bird strike meeting | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Chennai",
+   "prompts": "A group of officials sits around a long wooden meeting table inside the Ripon Buildings government hall in Chennai, the seat of the Greater Chennai Corporation, as a consultation on keeping birds away from aircraft is held. Seen from the back of the room at eye level, a senior official in formal shirt and trousers leads the discussion while other officers in shirts, some in Tamil Nadu government style, sit with files, papers and notepads open on the table. A few airport officials in uniform or formal dress are among the attendees. Tall windows let in daylight, and the room has plain government-office furniture, ceiling fans and a framed map on the wall. Shot at eye level with a 35 mm lens, wide enough to show the whole table and the room. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open file and a printed map spread on a government meeting table at Ripon Buildings, Chennai, marked with the Adyar river course, the Perungudi garbage yard and the Guindy water bodies. A pen rests across the pages and a few sheets of paper are stacked beside a cup of tea, with the blurred shoulders and sleeves of officials in the background seen from behind. Soft daylight from a window falls across the table, and the textures of paper and wood are sharp. Shot at a close angle with a 35 mm lens, showing the documents as the story's key object without any readable text or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/advice-to-prevent-bird-collisions-on-airplanes/4380935",
+   "published": "2026-11-19T21:24:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795146850/chennaiminnal/nggytcoysdjlmbygygz4.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795146855/chennaiminnal/pkqf3znlhq89tuatg4lc.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149275/chennaiminnal/lwdrraaktmmhmwpdckvm.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149277/chennaiminnal/ybqlxdhysckxodwsfgud.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தாம்பரத்தில் 22 பேனர்கள் அகற்றம்; ஆவடியில் 193 கிலோ பிளாஸ்டிக் பறிமுதல்",
+   "english_headline": "22 banners removed in Tambaram; 193 kg banned plastic seized in Avadi, Rs 63,300 fine",
+   "category": "Civic Issues",
+   "location": "Tambaram, Avadi, Kolathur, Stanley Government Hospital - Chennai district",
+   "importance": "Medium",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நகராட்சி நடவடிக்கை",
+    "loc": "சென்னை மாவட்டம்",
+    "hl1": "தாம்பரத்தில் 22 பேனர்கள் அகற்றம்",
+    "hl2": "ரூ.50,000 அபராதம்",
+    "slides": [
+     {
+      "title": "தாம்பரம் பேனர்கள்",
+      "lines": [
+       "தாம்பரம் மாநகராட்சி ஊழியர்கள் <b>22 பேனர்களை</b> அகற்றினர்",
+       "பம்மல் பிரதான சாலை, நெமிலிச்சேரி உட்பட பல இடங்கள்",
+       "இதற்காக <b>ரூ.50,000</b> அபராதம் வசூலிக்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "ஆவடி",
+      "lines": [
+       "காமராஜர் நகர், புதிய ராணுவ சாலையில் அதிகாரிகள் சோதனை",
+       "<b>17 கடைகளில்</b> இருந்து <b>193 கிலோ</b> தடை பிளாஸ்டிக் பறிமுதல்",
+       "அந்தக் கடைகளுக்கு மொத்தம் <b>ரூ.63,300</b> அபராதம்"
+      ]
+     },
+     {
+      "title": "கொளத்தூர் விடுதி",
+      "lines": [
+       "கலெக்டர் மாலதி ஹெலன் விடுதியை ஆய்வு செய்தார்",
+       "உணவு, அதன் தரம், சமையல் கூட தூய்மை குறித்து கேட்டறிந்தார்",
+       "மாணவர்களிடம் நேரடியாக கருத்துகளைக் கேட்டார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தாம்பரத்தில் பேனர் வைத்தவர்களுக்கு ரூ.50,000 அபராதம் விதிக்கப்பட்டது. நேற்று தாம்பரம் மாநகராட்சி ஊழியர்கள் பம்மல் பிரதான சாலை, ஜவஹர்லால் நேரு சாலை, போஸ்டல் நகர் பிரதான சாலை, நெமிலிச்சேரி, பஜனை கோவில் உட்பட பல இடங்களில் வைக்கப்பட்டிருந்த 22 பேனர்களை அகற்றினர். இதற்காக ரூ.50,000 அபராதம் வசூலிக்கப்பட்டது. ஆவடி மாநகராட்சிக்கு உட்பட்ட காமராஜர் நகர், புதிய ராணுவ சாலையில், திருவள்ளூர் மாவட்ட மாசு கட்டுப்பாட்டு வாரியம் மற்றும் ஆவடி மாநகராட்சி அதிகாரிகள் இணைந்து நேற்று சோதனை நடத்தினர். 17 கடைகளில் இருந்து 193 கிலோ தடை செய்யப்பட்ட பிளாஸ்டிக் கவர்கள் பறிமுதல் செய்யப்பட்டன. அந்தக் கடைகளுக்கு மொத்தம் ரூ.63,300 அபராதம் விதிக்கப்பட்டது. கொளத்தூர், கணேஷ் நகர் மூன்றாவது தெருவில் உள்ள சமூக நீதி கல்லூரி மாணவர்கள் விடுதியை சென்னை கலெக்டர் மாலதி ஹெலன் நேற்று ஆய்வு செய்தார். தினமும் வழங்கப்படும் உணவு, அதன் தரம், சமையல் கூடத்தின் தூய்மை குறித்து மாணவர்களிடம் கேட்டறிந்தார். வண்ணாரப்பேட்டை ஸ்டான்லி அரசு மருத்துவமனையில் பச்சிளம் குழந்தைகள் வார விழா நவம்பர் 15 முதல் 21ஆம் தேதி வரை நடைபெறுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚫 தாம்பரத்தில் 22 பேனர்கள் அகற்றம்; ஆவடியில் 193 கிலோ பிளாஸ்டிக் பறிமுதல்\n\n📰 முழு விவரம்:\nதாம்பரம் மாநகராட்சி ஊழியர்கள் நேற்று பம்மல் பிரதான சாலை, ஜவஹர்லால் நேரு சாலை, போஸ்டல் நகர் பிரதான சாலை, நெமிலிச்சேரி, பஜனை கோவில் உட்பட பல இடங்களில் வைக்கப்பட்டிருந்த 22 பேனர்களை அகற்றினர். அதற்காக ரூ.50,000 அபராதம் வசூலிக்கப்பட்டது.\nஆவடி மாநகராட்சி எல்லைக்குட்பட்ட காமராஜர் நகர், புதிய ராணுவ சாலையில் திருவள்ளூர் மாவட்ட மாசு கட்டுப்பாட்டு வாரியமும் ஆவடி மாநகராட்சி அதிகாரிகளும் சேர்ந்து நேற்று சோதனை நடத்தினர். 17 கடைகளில் 193 கிலோ தடை செய்யப்பட்ட பிளாஸ்டிக் கவர்கள் பறிமுதல் செய்யப்பட்டன. அக்கடைகளுக்கு மொத்தம் ரூ.63,300 அபராதம் விதிக்கப்பட்டது.\nகொளத்தூர், கணேஷ் நகர் மூன்றாவது தெருவில் உள்ள சமூக நீதி கல்லூரி மாணவர்கள் விடுதியை சென்னை கலெக்டர் மாலதி ஹெலன் நேற்று ஆய்வு செய்தார். தினமும் வழங்கப்படும் உணவு, அதன் தரம், சமையல் கூடத்தின் தூய்மை ஆகியவை பற்றி மாணவர்களிடம் கேட்டறிந்தார்.\nவண்ணாரப்பேட்டை ஸ்டான்லி அரசு மருத்துவமனையில் நவம்பர் 15 முதல் 21ஆம் தேதி வரை பச்சிளம் குழந்தைகள் வார விழா நடைபெறுகிறது. பிரசவித்த பெண்களுக்கு தாய்ப்பாலின் அவசியம், தடுப்பூசி, சுகாதாரம் பற்றி நேற்று விழிப்புணர்வு ஏற்படுத்தப்பட்டது.\n\nTambaram banners removed, Avadi plastic seized | Chennai news\n📍 சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tambaram #ChennaiNews #சென்னை",
+   "prompts": "Corporation workers in uniform stand on a busy Chennai roadside beside a bhajan temple wall and a tall cloth banner they are untying from a pole, while a pile of removed banners lies on the pavement. Two-wheelers and an autorickshaw pass on the main road, and the stretch is lined with concrete poles and small shops. Seen from behind and at a distance, the workers pull the banner down while a shopkeeper watches from a doorway. The scene is in daylight with a clear sky. Shot at eye level with a 35 mm lens, wide enough to show the road, the temple wall and the traffic. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of bundles of seized banned plastic covers piled on the floor of a small shop in Avadi, with a plain cloth-covered weighing scale beside them and a stack of loose carry bags spilling out. Behind, slightly out of focus, an official in a plain shirt holds a notebook while a shopkeeper stands at a distance, seen only from behind. Light comes through the open shutter of the shop front in daylight. Shot close at slightly high angle with a 35 mm lens to show the texture of the plastic bundles and the scale. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/news-in-a-few-lines/4380590",
+   "published": "2026-11-19T18:24:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script copies the article word for word (21 words in a row, 35% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence; caption copies the article word for word (18 words in a row, 24% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence; slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149284/chennaiminnal/ivamdjypyqgx5wodnupl.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149286/chennaiminnal/ltvycfflmmi5jvxmzhk8.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஐடிபிஐ பங்கு விற்பனை: வங்கிச் சங்கங்கள் டிசம்பர் 3இல் வேலைநிறுத்தம் அறிவிப்பு",
+   "english_headline": "Three bank unions announce nationwide strike on 3 December against sale of IDBI Bank stake",
+   "category": "Government & Services",
+   "location": "unknown",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வங்கி வேலைநிறுத்தம்",
+    "loc": "தேசிய அளவில்",
+    "hl1": "டிச.3இல் வங்கி வேலைநிறுத்தம்",
+    "hl2": "ஐடிபிஐ பங்கு விற்பனைக்கு",
+    "slides": [
+     {
+      "title": "என்ன நடக்கிறது?",
+      "lines": [
+       "டிசம்பர் <b>3</b> தேசிய அளவில் வேலைநிறுத்தம்",
+       "மூன்று பொதுத்துறை வங்கி ஊழியர் சங்கங்கள் அறிவிப்பு",
+       "சுமார் <b>2.5 லட்சம்</b> ஊழியர், அலுவலர் உறுப்பினர்கள்"
+      ]
+     },
+     {
+      "title": "ஏன் எதிர்ப்பு?",
+      "lines": [
+       "ஐடிபிஐ வங்கியின் <b>60.72%</b> பங்குகள் விற்பனை",
+       "கனடாவின் ஃபோர்ஃபாக்ஸ் நிறுவனத்துக்கு <b>ரூ.52,878 கோடி</b>",
+       "அக். 14இல் மத்திய அமைச்சரவைக் குழு ஒப்புதல்"
+      ]
+     },
+     {
+      "title": "சங்கங்களின்",
+      "lines": [
+       "விற்பனை முடிவை மத்திய அரசு கைவிட வேண்டும்",
+       "தனியார் வங்கிகளை தேசியமயமாக்க வேண்டும்",
+       "ஐடிபிஐ லாபகரமான வங்கி என சங்கங்கள் கூறுகின்றன"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "டிசம்பர் 3ஆம் தேதி தேசிய அளவில் வங்கி வேலைநிறுத்தம் நடைபெறவுள்ளது. மூன்று பொதுத்துறை வங்கி ஊழியர் சங்கங்கள் இதை அறிவித்துள்ளன. இந்தச் சங்கங்களில் சுமார் 2.5 லட்சம் ஊழியர்கள் மற்றும் அலுவலர்கள் உறுப்பினர்களாக உள்ளனர். ஐடிபிஐ பொதுத்துறை வங்கியின் 60.72 சதவீத பங்குகளை கனடாவின் ஃபோர்ஃபாக்ஸ் ஃபைனான்சியல் ஹோல்டிங்ஸ் நிறுவனத்துக்கு ரூ.52,878 கோடிக்கு விற்பனை செய்ய மத்திய அமைச்சரவைக் குழு அக்டோபர் 14ஆம் தேதி ஒப்புதல் அளித்தது. இதற்கு காங்கிரஸ் உள்ளிட்ட எதிர்க்கட்சிகளும் வங்கிச் சங்கங்களும் எதிர்ப்பு தெரிவித்துள்ளன. ஐடிபிஐ வங்கி சுமார் ரூ.3.5 லட்சம் கோடி வைப்புத்தொகை மற்றும் ரூ.2.5 லட்சம் கோடி கடன்களுடன் லாபகரமான நிறுவனமாக உள்ளது என சங்கங்கள் கூறுகின்றன. விற்பனையால் இந்திய வங்கி வெளிநாட்டு தனியார் வங்கியின் கைக்குச் சென்றுவிடும் என்றும் அவை எச்சரிக்கின்றன. எனவே மத்திய அரசு இந்த முடிவைக் கைவிட வேண்டும் என்றும், தனியார் வங்கிகளை தேசியமயமாக்க வேண்டும் என்றும் சங்கங்கள் கோரியுள்ளன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 டிசம்பர் 3இல் தேசிய அளவில் வங்கி வேலைநிறுத்தம்: ஐடிபிஐ பங்கு விற்பனைக்கு எதிர்ப்பு\n\n📰 முழு விவரம்:\nஐடிபிஐ வங்கியின் 60.72 சதவீத பங்குகளை கனடாவின் ஃபோர்ஃபாக்ஸ் ஃபைனான்சியல் ஹோல்டிங்ஸ் நிறுவனத்துக்கு ரூ.52,878 கோடிக்கு விற்பனை செய்ய மத்திய அமைச்சரவைக் குழு அக். 14ஆம் தேதி ஒப்புதல் அளித்தது.\nஇதை எதிர்த்து டிசம்பர் 3ஆம் தேதி தேசிய அளவில் வேலைநிறுத்தம் நடத்தப்போவதாக மூன்று பொதுத்துறை வங்கி ஊழியர் சங்கங்கள் அறிவித்துள்ளன.\nஇந்தச் சங்கங்களில் சுமார் 2.5 லட்சம் ஊழியர்களும் அலுவலர்களும் உறுப்பினர்களாக உள்ளனர்.\n🏦 ஐடிபிஐ வங்கி சுமார் ரூ.3.5 லட்சம் கோடி வைப்புத்தொகை, ரூ.2.5 லட்சம் கோடி கடன்களுடன் லாபகரமாக இயங்குவதாகச் சங்கங்கள் கூறுகின்றன.\n📢 விற்பனை முடிவை மத்திய அரசு கைவிட வேண்டும், பொதுத்துறை வங்கிகளைத் தனியார் வசம் கொடுக்கக் கூடாது, தனியார் வங்கிகளை தேசியமயமாக்க வேண்டும் என்று சங்கங்கள் கோரியுள்ளன.\n\nIDBI Bank stake sale, bank strike on 3 December | Chennai news\n📍 தேசிய அளவில் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #வங்கி #சென்னை",
+   "prompts": "A group of bank employees in formal shirts and sarees, seen from behind, holds up blank placards outside a public-sector bank branch in Chennai city, where a joint union statement has just been read out. The place is a busy commercial street with two-wheelers parked along the kerb, a few autorickshaws passing, and a bank building with a tall glass entrance and a row of counters visible through the windows. Some employees stand in a loose circle near the steps, others stand in a line with arms folded, while one union representative in a white shirt reads from a printed sheet of paper held in both hands. The sky is bright daylight with a clear, slightly hazy look. Camera at eye level, 35 mm, wide enough to show the bank building, the street and the crowd, with the people kept at a distance and slightly soft in focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a stack of printed joint-statement sheets and a few folded placards lying on a wooden table beside a bank counter, with a pile of bank passbooks and a stack of deposit and loan files pushed to one side. Behind the table, a few employees in sarees and shirts stand out of focus, seen from behind, their faces not visible. The paper edges and the table grain are sharply lit by soft daylight from a window, and the arrangement suggests the moment a strike notice is prepared. Camera slightly high, 35 mm, shallow depth of field so the documents are sharp and the background people are blurred. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/sale-of-idbi-shares-bank-unions-announce-strike-for-dec-3",
+   "published": "2026-11-19T23:09:03.960Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தேசிய அளவில்', e.g. 'தேசிய அளவில்: ...' or 'தேசிய அளவில்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149296/chennaiminnal/xgsxlhkhwydbgca85nap.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149298/chennaiminnal/czo76vljydrwigeajnwl.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள்: ஜனவரியில் பணி தொடக்கம்",
+   "english_headline": "Rs 1,401 crore plan for 6,157 flats in 9 places in Chennai; construction likely to start in January",
+   "category": "Government & Services",
+   "location": "Anathaikuppam, Variyarpadi, Pattinapakkam, Rukmani Nagar, Mullai Nagar, Udhayasuriyan Nagar, Pachaikal Veerasamy Street, Mettukuppam Cemetery Road, Kakkan Colony - Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வீட்டு வசதி திட்டம்",
+    "loc": "சென்னை, 9 இடங்கள்",
+    "hl1": "சென்னையில் 9 இடங்களில் 6,157 வீடுகள்",
+    "hl2": "ரூ.1,401 கோடி திட்டம்",
+    "slides": [
+     {
+      "title": "என்ன திட்டம்?",
+      "lines": [
+       "சென்னையில் 9 இடங்களில் <b>6,157</b> அடுக்குமாடி வீடுகள்",
+       "மொத்தச் செலவு <b>ரூ.1,401 கோடி</b>",
+       "முதல்வர் விஜய் அறிவித்த திட்டம்"
+      ]
+     },
+     {
+      "title": "எந்தெந்த இடங்கள்?",
+      "lines": [
+       "அனாதைக்குப்பம், வியாசர்பாடி பழைய பிளாக், பட்டினப்பாக்கம்",
+       "ருக்மணி நகர், முல்லை நகர், உதயசூரியன் நகர்",
+       "பச்சைக்கல் வீராசாமி தெரு, மேற்குக் கல்லறை சாலை, கக்கன் காலனி"
+      ]
+     },
+     {
+      "title": "எப்போது பணி?",
+      "lines": [
+       "இம்மாத இறுதிக்குள் மக்கள் வெளியேற்றம், பழைய கட்டிட இடிப்பு",
+       "ஜனவரியில் கட்டுமானம் தொடக்கம்",
+       "<b>20 மாதங்களுக்குள்</b> பணி நிறைவு"
+      ]
+     },
+     {
+      "title": "வீட்டு வசதி விவரம்",
+      "lines": [
+       "ஒவ்வொரு வீடும் <b>420 சதுர அடி</b>, ஒரு படுக்கையறை",
+       "ஏற்கெனவே வசித்த தகுதியான பயனாளிகளுக்கு முன்னுரிமை",
+       "பயனாளிகள் <b>ரூ.1.50 லட்சம்</b> செலுத்த வேண்டும்; விற்பனை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் 9 இடங்களில் 6,157 புதிய வீடுகள் கட்டப்பட உள்ளன. இதற்கு ரூ.1,401 கோடி செலவாகும். முதல்வர் விஜய் அறிவித்த திட்டத்தின்படி, அனாதைக்குப்பம், வியாசர்பாடி பழைய பிளாக், பட்டினப்பாக்கம், ருக்மணி நகர், முல்லை நகர், உதயசூரியன் நகர், பச்சைக்கல் வீராசாமி தெரு, மேற்குக் கல்லறை சாலை, கக்கன் காலனி ஆகிய இடங்களில் வீடுகள் கட்டப்படும். தமிழ்நாடு நகர்ப்புற வாழ்விட மேம்பாட்டு வாரியத்தின் மேலாண்மை இயக்குநர் பெ.ரமண சரஸ்வதி இதைத் தெரிவித்துள்ளார். இம்மாத இறுதிக்குள் மக்கள் முழுமையாக வெளியேற்றப்பட்டு, பழைய கட்டிடங்கள் இடிக்கப்படும். ஜனவரியில் புதிய வீடுகளின் கட்டுமானப் பணி தொடங்கி, 20 மாதங்களுக்குள் நிறைவடையும். ஒவ்வொரு வீடும் 420 சதுர அடியில் ஒரு படுக்கையறை கொண்டதாக இருக்கும். ஏற்கெனவே அங்கு வசித்த தகுதியான பயனாளிகளுக்கே முன்னுரிமை அளித்து வீடுகள் ஒதுக்கப்படும். அவர்கள் ரூ.1.50 லட்சம் செலுத்த வேண்டும். ஒதுக்கப்பட்ட வீடுகளை விற்பனை செய்ய அனுமதி இல்லை. பட்டினப்பாக்கம் திட்டத்துக்கும் புதிய தலைமைச் செயலக இடத்துக்கும் எந்தத் தொடர்பும் இல்லை. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏠 சென்னையில் 9 இடங்களில் 6,157 புதிய வீடுகள்: ரூ.1,401 கோடி திட்டம், ஜனவரியில் பணி தொடக்கம்\n\n📰 முழு விவரம்:\nசென்னையில் 9 இடங்களில் ரூ.1,401 கோடி செலவில் 6,157 புதிய அடுக்குமாடி குடியிருப்புகள் கட்டப்பட உள்ளன. முதல்வர் விஜய் அறிவித்த இத்திட்டத்தின்படி, அனாதைக்குப்பம் (64 வீடுகள்), வியாசர்பாடி பழைய பிளாக் (1,158), பட்டினப்பாக்கம் (1,484), ருக்மணி நகர் (111), முல்லை நகர் (462), உதயசூரியன் நகர் (850), பச்சைக்கல் வீராசாமி தெரு (912), மேற்குக் கல்லறை சாலை (792), கக்கன் காலனி (324) ஆகிய இடங்களில் வீடுகள் கட்டப்படும்.\nதமிழ்நாடு நகர்ப்புற வாழ்விட மேம்பாட்டு வாரிய மேலாண்மை இயக்குநர் பெ.ரமண சரஸ்வதி தெரிவித்தது: இம்மாத இறுதிக்குள் மக்கள் முழுமையாக வெளியேற்றப்பட்டு, பழைய கட்டிடங்கள் இடிக்கப்படும். ஜனவரியில் கட்டுமானம் தொடங்கி 20 மாதங்களுக்குள் நிறைவடையும்.\n🏢 ஒவ்வொரு வீடும் 420 சதுர அடியில் ஒரு படுக்கையறை (1BHK) கொண்டதாக இருக்கும்.\n👨‍👩‍👧 பழைய குடியிருப்பு இடிக்கப்பட்டு அதே பகுதியில் புதிய வீடு கட்டப்படும்போது, ஏற்கெனவே அங்கு வசித்த தகுதியான பயனாளிகளுக்கே முன்னுரிமை. அவர்கள் ரூ.1.50 லட்சம் செலுத்த வேண்டும்.\n🚫 பயனாளிகளுக்கு ஒதுக்கப்படும் வீடுகளை விற்பனை செய்ய அனுமதி இல்லை.\nபட்டினப்பாக்கம் புதிய குடியிருப்புத் திட்டத்துக்கும், புதிய தலைமைச் செயலக இடத்துக்கும் எந்தத் தொடர்பும் இல்லை.\n\nChennai 6,157 flats 9 places Rs 1,401 crore | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Pattinapakkam #வீட்டுவசதி #ChennaiNews",
+   "prompts": "A row of old multi-storey government tenement blocks in a Chennai housing settlement is being cleared for redevelopment, with a few families carrying their household belongings out of the lower-floor doorways and a Tamil Nadu Urban Habitat Development Board work crew standing near a sign-free barricade at the entrance. The place is a dense low-income colony in north or central Chennai, with faded beige and grey concrete walls, tangled overhead wires, and narrow lanes lined with parked two-wheelers and a few plastic water pots at the doorways. The people are residents in plain cotton shirts, sarees and salwar, and a few men in veshti, seen from behind or far away, along with workers in plain work clothes. The objects include bundles of clothes, steel vessels and a metal ladder against an old block. It is a bright daytime scene under clear sky with soft sunlight. The camera is at eye level, 35 mm, wide enough to show the whole block and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of construction materials beside the demolition-marked edge of an old concrete tenement block in a Chennai housing colony, showing rough grey cement blocks, a coil of steel reinforcement rods, and a pile of broken tiles on the ground. Behind the materials, the weathered wall of an old multi-storey block shows peeling paint, rusted iron balcony railings and a dark stain of rainwater. A pair of worn rubber slippers and a plastic water pot sit on the edge of the pavement, suggesting the families have just left. The light is natural daytime sunlight with soft shadows. The camera is slightly high, 35 mm, focused on the materials with the block blurred in the background, and no people visible in the frame. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/tamilnadu/plan-to-build-6157-homes-at-9-locations-in-chennai",
+   "published": "2026-11-20T03:29:05Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('இவ்​வாறு அவர் தெரிவித்தார்..பெரியார் அறிவுலக புத்தக கொள்முதல')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149336/chennaiminnal/x5bmewgbagtvqtoghwx6.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149339/chennaiminnal/nmmarsxrhkhcjmnkskzt.jpg"
    ]
   }
  ]
