@@ -3,346 +3,226 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/plan-to-build-6157-homes-at-9-locations-in-chennai",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-900-abandoned-vehicles-auction",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/news-in-a-few-lines/4380590",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/advice-to-prevent-bird-collisions-on-airplanes/4380935",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/sale-of-idbi-shares-bank-unions-announce-strike-for-dec-3",
-  "candidate filter: collected=5",
-  "to write: 5 Chennai district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/raids-at-the-residence-of-former-dmk-minister-moorthy-mk-stalin-condemns-the-action",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/commercial-establishments-must-not-hold-a-sugar-stock-exceeding-1000-quintals-tamil-nadu-government-announcement",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-industrial-investors-conference-to-be-held-on-the-25th",
+  "candidate filter: collected=3",
+  "to write: 3 Chennai district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-indust",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/commercial-estab",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/raids-at-the-res",
+  "NOT filed (N) திமுக முன்னாள் அமைச்சர் மூர்த்தி வீட்டில் சோதனை: ம: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-900-aban",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/plan-to-build-6157-",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "NOT filed (N) சென்னையில் போக்குவரத்திற்கு இடையூறாக நிறுத்தி வைக்: duplicate after write",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 78 min",
-  "filed: 4 Chennai district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
+  "filed: 2 Chennai district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok gemini/gemini-3.5-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "விமானங்கள் மீது பறவைகள் மோதலை தடுக்க சென்னை விமான நிலையத்தில் ஆலோசனை",
-   "english_headline": "Chennai airport holds meeting on stopping birds hitting aircraft; Adyar river, Perungudi and Guindy water bodies discussed",
-   "category": "Government & Services",
-   "location": "Chennai airport, Ripon Buildings, Chennai district",
-   "importance": "Medium",
+   "tamil_headline": "சர்க்கரை இருப்பு வரம்பு குறைப்பு: வியாபாரிகள் 1,000 குவிண்டாலுக்கு மேல் வைக்கக்கூடாது",
+   "english_headline": "Sugar stock limit cut for traders: 1,000 quintals cap and 15-day holding period under new order",
+   "category": "Business & Prices",
+   "location": "Tamil Nadu, Chennai district",
+   "importance": "High",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "விமான நிலையம்",
+    "cat": "சர்க்கரை இருப்பு",
+    "loc": "தமிழ்நாடு",
+    "hl1": "சர்க்கரை இருப்பு வரம்பு குறைப்பு",
+    "hl2": "<b>1,000 குவிண்டால்</b> வரை",
+    "slides": [
+     {
+      "title": "புதிய வரம்பு",
+      "lines": [
+       "வியாபாரிகள் சர்க்கரை இருப்பை 15 நாட்கள் வரை மட்டுமே வைக்க",
+       "இதற்கு முன் இந்த கால அளவு <b>30 நாட்கள்</b>",
+       "மத்திய அரசின் புதிய உத்தரவு"
+      ]
+     },
+     {
+      "title": "அளவு வரம்பு",
+      "lines": [
+       "எந்த இடத்திலும் <b>1,000 குவிண்டால்</b> மேல் இருப்பு கூடாது",
+       "முன்பு வரம்பு <b>2,000 குவிண்டால்</b> ஆக இருந்தது",
+       "அரசிதழில் மறுபதிப்பு செய்யப்பட்டுள்ளது"
+      ]
+     },
+     {
+      "title": "ஏன் இந்த முடிவு?",
+      "lines": [
+       "சர்க்கரை விநியோகத்தை முறைப்படுத்த",
+       "பதுக்கலைத் தவிர்க்க இந்த நடவடிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "வியாபாரிகளின் சர்க்கரை இருப்பு வரம்பு குறைக்கப்பட்டுள்ளது. வியாபாரிகள் வாங்கிய சர்க்கரையை இனி அதிகபட்சம் 15 நாட்களுக்கு மட்டுமே வைத்திருக்க வேண்டும். இதற்கு முன் இந்த கால அளவு 30 நாட்களாக இருந்தது. எந்த இடத்திலும் வியாபாரிகள் வைத்திருக்கக்கூடிய சர்க்கரை 1,000 குவிண்டாலுக்கு மிகாமல் இருக்க வேண்டும். முன்பு இந்த வரம்பு 2,000 குவிண்டாலாக இருந்தது. மத்திய அரசு பிறப்பித்த இந்த புதிய உத்தரவை தமிழ்நாடு அரசின் கூட்டுறவு, உணவு மற்றும் நுகர்வோர் பாதுகாப்புத் துறை அரசிதழில் மறுபதிப்பு செய்துள்ளது. சர்க்கரை விநியோகத்தை முறைப்படுத்தவும், பதுக்கலைத் தவிர்க்கவும் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சர்க்கரை வியாபாரிகளுக்கு இருப்பு வரம்பு குறைப்பு: 15 நாட்கள், 1,000 குவிண்டால் மட்டுமே\n\n📰 முழு விவரம்:\nமத்திய அரசு சர்க்கரை வியாபாரிகளுக்கான இருப்பு வரம்பையும் கால அளவையும் குறைத்து புதிய உத்தரவு பிறப்பித்துள்ளது. இந்த அறிவிப்பை தமிழ்நாடு அரசின் கூட்டுறவு, உணவு மற்றும் நுகர்வோர் பாதுகாப்புத் துறை அரசிதழில் மறுபதிப்பு செய்துள்ளது. வியாபாரிகள் வாங்கிய சர்க்கரையை அதிகபட்சம் 15 நாட்களுக்கு மட்டுமே வைத்திருக்க வேண்டும்; இதற்கு முன் 30 நாட்கள் இருந்தது. எந்த இடத்திலும் இருப்பு 1,000 குவிண்டாலுக்கு மிகாமல் இருக்க வேண்டும்; முன்பு இது 2,000 குவிண்டால். சர்க்கரை விநியோகத்தை முறைப்படுத்தவும், பதுக்கலைத் தவிர்க்கவும் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.\n\nSugar stock limit cut for traders, 1,000 quintal cap | Tamil Nadu news\n📍 தமிழ்நாடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சர்க்கரை #சென்னை",
+   "prompts": "A row of sugar traders in shirts and veshtis stands with their backs to the camera inside a crowded wholesale godown in Chennai, where white sugar sacks are stacked floor to ceiling on wooden pallets. Several sacks are tied with rope and labelled only by their colour; no text is readable. A few men look at a folded paper notice held by one trader, suggesting a new rule being read. The building is a single-storey warehouse with a corrugated roof, tube lights hanging overhead and a shutter door open to a narrow lane of two-wheelers parked outside. The light is soft daylight from the door. Shot at eye level on 35 mm, wide enough to show the stacked sacks, the traders and the lane beyond. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a tall stack of white sugar sacks inside a Chennai wholesale godown, the top sacks partly loosened as if being counted or moved. Beside them sits a large old-style weighing scale with a steel platform and a few sacks placed on it. In the soft daylight from an open shutter, the grain of the jute sacks and the fine white sugar spilling from one torn corner are clearly visible. A folded gazette-style paper rests on the scale's edge, out of focus. No faces are shown; the frame is tight on the sacks and the scale, shot at eye level on 35 mm. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/commercial-establishments-must-not-hold-a-sugar-stock-exceeding-1000-quintals-tamil-nadu-government-announcement",
+   "published": "2026-11-20T05:26:40Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தமிழ்நாடு', e.g. 'தமிழ்நாடு: ...' or 'தமிழ்நாடு-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160073/chennaiminnal/n5hpxgmblbr7rtrce6zf.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160109/chennaiminnal/kbueya5rmzhftdehkmns.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு: 25-ந்தேதி நடக்கிறது",
+   "english_headline": "2nd Vetri Tamil Nadu investors' conference to be held on the 25th in Chennai, chaired by CM Vijay",
+   "category": "Business & Prices",
+   "location": "Chennai, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "முதலீட்டு மாநாடு",
     "loc": "சென்னை",
-    "hl1": "விமானங்கள் மீது பறவைகள் மோதலை தடுக்க",
-    "hl2": "நவ. 19 கூட்டம்",
+    "hl1": "சென்னையில் 2-வது முதலீட்டாளர்கள் மாநாடு",
+    "hl2": "25-ம் தேதி நடைபெறும்",
     "slides": [
      {
-      "title": "என்ன கூட்டம்?",
+      "title": "எப்போது?",
       "lines": [
-       "சென்னை விமான நிலையத்தில் பறவை மோதல் தடுப்பு ஆலோசனை",
-       "இன்று (<b>நவ. 19</b>) ரிப்பன் மாளிகையில் நடந்தது",
-       "கமிஷனர் சமீரன் தலைமையில் கூட்டம் நடந்தது"
+       "<b>25-ம் தேதி</b> (புதன்கிழமை) நடைபெறும்",
+       "முதல்-அமைச்சர் விஜய் தலைமையில் மாநாடு",
+       "சென்னையில் 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு"
       ]
      },
      {
-      "title": "எந்த இடங்கள்?",
+      "title": "முதல் மாநாடு",
       "lines": [
-       "அடையாறு ஆறு, கரையோரங்களில் பறவை நடமாட்டம் குறைப்பு",
-       "பெருங்குடி குப்பை வளாகத்தில் பயோ மைனிங் முறை தீவிரம்",
-       "கிண்டி நீர்நிலைகளில் பறவைகள் கூடுவதைத் தடுப்பது"
+       "ஆகஸ்ட் மாதம் சென்னை நட்சத்திர ஓட்டலில் நடைபெற்றது",
+       "<b>67,452 கோடி ரூபாய்</b> முதலீடு உறுதி",
+       "<b>1,06,998</b> வேலைவாய்ப்புகள் உருவாகும்"
       ]
      },
      {
-      "title": "யார் பங்கேற்பு?",
+      "title": "அடிக்கல், தொடக்கம்",
       "lines": [
-       "சென்னை விமான நிலைய பொது மேலாளர் ராஜ்குமார்",
-       "பல்வேறு துறை அதிகாரிகளும் பங்கேற்றனர்"
+       "<b>8</b> திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது",
+       "<b>4,476 கோடி ரூபாய்</b> முதலீடு, <b>5,074</b> வேலைவாய்ப்பு",
+       "<b>5</b> திட்டப் பணிகள் தொடங்கப்பட்டன"
+      ]
+     },
+     {
+      "title": "நோக்கம்",
+      "lines": [
+       "புதிய தொழில் முதலீடுகளை ஈர்ப்பது",
+       "தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு எடுத்துச் செல்வது",
+       "இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகள் உருவாக்குவது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை விமான நிலையத்தில் விமானங்கள் மீது பறவைகள் மோதுவதைத் தடுக்கும் ஆலோசனைக் கூட்டம் நடைபெற்றது. நவம்பர் 19ஆம் தேதியான இன்று ரிப்பன் மாளிகையில் இந்தக் கூட்டம் நடந்தது. கமிஷனர் சமீரன் தலைமையில் இந்தக் கூட்டம் நடைபெற்றது. அடையாறு ஆறு மற்றும் அதன் கரையோரங்களில் பறவைகள் நடமாட்டத்தைக் குறைப்பது குறித்து விவாதிக்கப்பட்டது. பெருங்குடி குப்பை வளாகத்தில் பயோ மைனிங் முறையைத் தீவிரப்படுத்துவது பற்றியும் பேசப்பட்டது. கிண்டி நீர்நிலைகளில் பறவைகள் கூடுவதைத் தடுப்பது தொடர்பாகவும் ஆலோசிக்கப்பட்டது. சென்னை விமான நிலைய பொது மேலாளர் ராஜ்குமார் மற்றும் பல்வேறு துறை அதிகாரிகள் இந்தக் கூட்டத்தில் பங்கேற்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "✈️ சென்னை விமான நிலையத்தில் விமானங்கள் மீது பறவைகள் மோதலை தடுக்க ஆலோசனை\n\n📰 முழு விவரம்:\nவிமானங்கள் மீது பறவைகள் மோதுவதைத் தடுக்கும் நடவடிக்கைகள் குறித்து ஆலோசனைக் கூட்டம் இன்று (நவ. 19) ரிப்பன் மாளிகையில் நடைபெற்றது. கமிஷனர் சமீரன் தலைமையில் இந்தக் கூட்டம் நடந்தது.\nஅடையாறு ஆறு மற்றும் அதன் கரையோரங்களில் பறவைகள் நடமாட்டத்தைக் குறைப்பது, பெருங்குடி குப்பை வளாகத்தில் பயோ மைனிங் முறையைத் தீவிரப்படுத்துவது, கிண்டி நீர்நிலைகளில் பறவைகள் கூடுவதைத் தடுப்பது ஆகியவை விவாதிக்கப்பட்டன.\n\n📍 இடம்: ரிப்பன் மாளிகை, சென்னை\n🗓️ நாள்: நவம்பர் 19\n👥 பங்கேற்றோர்: சென்னை விமான நிலைய பொது மேலாளர் ராஜ்குமார் மற்றும் பல்வேறு துறை அதிகாரிகள்\n\nChennai airport bird strike meeting | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Chennai",
-   "prompts": "A group of officials sits around a long wooden meeting table inside the Ripon Buildings government hall in Chennai, the seat of the Greater Chennai Corporation, as a consultation on keeping birds away from aircraft is held. Seen from the back of the room at eye level, a senior official in formal shirt and trousers leads the discussion while other officers in shirts, some in Tamil Nadu government style, sit with files, papers and notepads open on the table. A few airport officials in uniform or formal dress are among the attendees. Tall windows let in daylight, and the room has plain government-office furniture, ceiling fans and a framed map on the wall. Shot at eye level with a 35 mm lens, wide enough to show the whole table and the room. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open file and a printed map spread on a government meeting table at Ripon Buildings, Chennai, marked with the Adyar river course, the Perungudi garbage yard and the Guindy water bodies. A pen rests across the pages and a few sheets of paper are stacked beside a cup of tea, with the blurred shoulders and sleeves of officials in the background seen from behind. Soft daylight from a window falls across the table, and the textures of paper and wood are sharp. Shot at a close angle with a 35 mm lens, showing the documents as the story's key object without any readable text or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/advice-to-prevent-bird-collisions-on-airplanes/4380935",
-   "published": "2026-11-19T21:24:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
+   "reel_script": "சென்னையில் 25ஆம் தேதி புதன்கிழமை 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு நடைபெறுகிறது. முதல்-அமைச்சர் விஜய் தலைமையில் இந்த மாநாடு நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. தமிழக அரசு பொறுப்பேற்ற பிறகு நடைபெறும் முதல் வெற்றி தமிழ்நாடு முதலீட்டாளர்கள் மாநாடு கடந்த ஆகஸ்ட் மாதம் சென்னையில் உள்ள நட்சத்திர ஓட்டலில் நடைபெற்றது. அந்த மாநாட்டில் 67,452 கோடி ரூபாய் முதலீடு மற்றும் 1,06,998 வேலைவாய்ப்புகள் உருவாக்கும் வகையில் 97 புரிந்துணர்வு ஒப்பந்தங்கள் போடப்பட்டன. 8 திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது. அவற்றின் மூலம் 4,476 கோடி ரூபாய் முதலீடும் 5,074 வேலைவாய்ப்புகளும் உருவாகும். 5 திட்டப் பணிகளை முதல்-அமைச்சர் விஜய் தொடங்கி வைத்தார். அவற்றால் 2,676 கோடி ரூபாய் முதலீடும் 1,550 வேலைவாய்ப்புகளும் கிடைக்கும். தமிழகத்தில் புதிய தொழில் முதலீடுகளை ஈர்ப்பது, தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு எடுத்துச் செல்வது, இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகளை உருவாக்குவது ஆகியவை இந்த மாநாட்டின் நோக்கங்கள். இம்மாநாட்டில் கையெழுத்தாகவுள்ள ஒப்பந்தங்கள் மற்றும் இடம் குறித்த அதிகாரப்பூர்வ அறிவிப்புகள் விரைவில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💼 சென்னையில் 25-ம் தேதி 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு\n\n📰 முழு விவரம்:\nதமிழக அரசு பொறுப்பேற்ற பிறகு நடைபெறும் முதல் வெற்றி தமிழ்நாடு முதலீட்டாளர்கள் மாநாடு கடந்த ஆகஸ்ட் மாதம் சென்னையில் உள்ள நட்சத்திர ஓட்டலில் நடைபெற்றது. முதல்-அமைச்சர் விஜய் முன்னிலையில் தொழில், முதலீட்டு ஊக்குவிப்பு மற்றும் வர்த்தகத் துறை சார்பில் 67,452 கோடி ரூபாய் முதலீடு மற்றும் 1,06,998 வேலைவாய்ப்புகள் உருவாக்கும் வகையில் 97 புரிந்துணர்வு ஒப்பந்தங்கள் மேற்கொள்ளப்பட்டன.\n🏗️ 8 திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது: 4,476 கோடி ரூபாய் முதலீடு, 5,074 வேலைவாய்ப்புகள்.\n🚧 5 திட்டப் பணிகளை முதல்-அமைச்சர் விஜய் தொடங்கி வைத்தார்: 2,676 கோடி ரூபாய் முதலீடு, 1,550 வேலைவாய்ப்புகள்.\n🗓️ இரண்டாவது மாநாடு வருகிற 25-ம் தேதி (புதன்கிழமை) சென்னையில் முதல்-அமைச்சர் விஜய் தலைமையில் நடைபெறும்.\n🎯 நோக்கம்: புதிய தொழில் முதலீடுகளை ஈர்ப்பது, தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு கொண்டு செல்வது, இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகளை உருவாக்குவது.\nℹ️ மாநாட்டில் கையெழுத்தாகவுள்ள ஒப்பந்தங்கள், இடம் குறித்த அதிகாரப்பூர்வ அறிவிப்புகள் விரைவில் வெளியாகும்.\n\nChennai 2nd investors conference on 25th | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #முதலீடு",
+   "prompts": "Inside a large air-conditioned conference hall of a Chennai hotel, rows of white cushioned chairs face a long wooden stage with a dais and a set of microphones, and a small table in front holds neatly stacked folders and papers ready for signing. Seen from the back of the hall at eye level with a 35 mm lens, several businessmen in formal shirts and trousers, some men in white shirts with veshti, and women in sarees sit in the front rows, their backs to the camera, listening attentively. Cool ceiling lights and tall hall curtains frame the stage, and a few corporate staff in dark formal wear stand near the side doors. The scene is daytime indoors with soft warm light, wide enough to show the full hall and the stage, conveying an investors' meeting in progress. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-industrial-investors-conference-to-be-held-on-the-25th",
+   "published": "2026-11-20T05:59:27Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (15 words in a row, 17% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149275/chennaiminnal/lwdrraaktmmhmwpdckvm.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149277/chennaiminnal/ybqlxdhysckxodwsfgud.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தாம்பரத்தில் 22 பேனர்கள் அகற்றம்; ஆவடியில் 193 கிலோ பிளாஸ்டிக் பறிமுதல்",
-   "english_headline": "22 banners removed in Tambaram; 193 kg banned plastic seized in Avadi, Rs 63,300 fine",
-   "category": "Civic Issues",
-   "location": "Tambaram, Avadi, Kolathur, Stanley Government Hospital - Chennai district",
-   "importance": "Medium",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நகராட்சி நடவடிக்கை",
-    "loc": "சென்னை மாவட்டம்",
-    "hl1": "தாம்பரத்தில் 22 பேனர்கள் அகற்றம்",
-    "hl2": "ரூ.50,000 அபராதம்",
-    "slides": [
-     {
-      "title": "தாம்பரம் பேனர்கள்",
-      "lines": [
-       "தாம்பரம் மாநகராட்சி ஊழியர்கள் <b>22 பேனர்களை</b> அகற்றினர்",
-       "பம்மல் பிரதான சாலை, நெமிலிச்சேரி உட்பட பல இடங்கள்",
-       "இதற்காக <b>ரூ.50,000</b> அபராதம் வசூலிக்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "ஆவடி",
-      "lines": [
-       "காமராஜர் நகர், புதிய ராணுவ சாலையில் அதிகாரிகள் சோதனை",
-       "<b>17 கடைகளில்</b> இருந்து <b>193 கிலோ</b> தடை பிளாஸ்டிக் பறிமுதல்",
-       "அந்தக் கடைகளுக்கு மொத்தம் <b>ரூ.63,300</b> அபராதம்"
-      ]
-     },
-     {
-      "title": "கொளத்தூர் விடுதி",
-      "lines": [
-       "கலெக்டர் மாலதி ஹெலன் விடுதியை ஆய்வு செய்தார்",
-       "உணவு, அதன் தரம், சமையல் கூட தூய்மை குறித்து கேட்டறிந்தார்",
-       "மாணவர்களிடம் நேரடியாக கருத்துகளைக் கேட்டார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தாம்பரத்தில் பேனர் வைத்தவர்களுக்கு ரூ.50,000 அபராதம் விதிக்கப்பட்டது. நேற்று தாம்பரம் மாநகராட்சி ஊழியர்கள் பம்மல் பிரதான சாலை, ஜவஹர்லால் நேரு சாலை, போஸ்டல் நகர் பிரதான சாலை, நெமிலிச்சேரி, பஜனை கோவில் உட்பட பல இடங்களில் வைக்கப்பட்டிருந்த 22 பேனர்களை அகற்றினர். இதற்காக ரூ.50,000 அபராதம் வசூலிக்கப்பட்டது. ஆவடி மாநகராட்சிக்கு உட்பட்ட காமராஜர் நகர், புதிய ராணுவ சாலையில், திருவள்ளூர் மாவட்ட மாசு கட்டுப்பாட்டு வாரியம் மற்றும் ஆவடி மாநகராட்சி அதிகாரிகள் இணைந்து நேற்று சோதனை நடத்தினர். 17 கடைகளில் இருந்து 193 கிலோ தடை செய்யப்பட்ட பிளாஸ்டிக் கவர்கள் பறிமுதல் செய்யப்பட்டன. அந்தக் கடைகளுக்கு மொத்தம் ரூ.63,300 அபராதம் விதிக்கப்பட்டது. கொளத்தூர், கணேஷ் நகர் மூன்றாவது தெருவில் உள்ள சமூக நீதி கல்லூரி மாணவர்கள் விடுதியை சென்னை கலெக்டர் மாலதி ஹெலன் நேற்று ஆய்வு செய்தார். தினமும் வழங்கப்படும் உணவு, அதன் தரம், சமையல் கூடத்தின் தூய்மை குறித்து மாணவர்களிடம் கேட்டறிந்தார். வண்ணாரப்பேட்டை ஸ்டான்லி அரசு மருத்துவமனையில் பச்சிளம் குழந்தைகள் வார விழா நவம்பர் 15 முதல் 21ஆம் தேதி வரை நடைபெறுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚫 தாம்பரத்தில் 22 பேனர்கள் அகற்றம்; ஆவடியில் 193 கிலோ பிளாஸ்டிக் பறிமுதல்\n\n📰 முழு விவரம்:\nதாம்பரம் மாநகராட்சி ஊழியர்கள் நேற்று பம்மல் பிரதான சாலை, ஜவஹர்லால் நேரு சாலை, போஸ்டல் நகர் பிரதான சாலை, நெமிலிச்சேரி, பஜனை கோவில் உட்பட பல இடங்களில் வைக்கப்பட்டிருந்த 22 பேனர்களை அகற்றினர். அதற்காக ரூ.50,000 அபராதம் வசூலிக்கப்பட்டது.\nஆவடி மாநகராட்சி எல்லைக்குட்பட்ட காமராஜர் நகர், புதிய ராணுவ சாலையில் திருவள்ளூர் மாவட்ட மாசு கட்டுப்பாட்டு வாரியமும் ஆவடி மாநகராட்சி அதிகாரிகளும் சேர்ந்து நேற்று சோதனை நடத்தினர். 17 கடைகளில் 193 கிலோ தடை செய்யப்பட்ட பிளாஸ்டிக் கவர்கள் பறிமுதல் செய்யப்பட்டன. அக்கடைகளுக்கு மொத்தம் ரூ.63,300 அபராதம் விதிக்கப்பட்டது.\nகொளத்தூர், கணேஷ் நகர் மூன்றாவது தெருவில் உள்ள சமூக நீதி கல்லூரி மாணவர்கள் விடுதியை சென்னை கலெக்டர் மாலதி ஹெலன் நேற்று ஆய்வு செய்தார். தினமும் வழங்கப்படும் உணவு, அதன் தரம், சமையல் கூடத்தின் தூய்மை ஆகியவை பற்றி மாணவர்களிடம் கேட்டறிந்தார்.\nவண்ணாரப்பேட்டை ஸ்டான்லி அரசு மருத்துவமனையில் நவம்பர் 15 முதல் 21ஆம் தேதி வரை பச்சிளம் குழந்தைகள் வார விழா நடைபெறுகிறது. பிரசவித்த பெண்களுக்கு தாய்ப்பாலின் அவசியம், தடுப்பூசி, சுகாதாரம் பற்றி நேற்று விழிப்புணர்வு ஏற்படுத்தப்பட்டது.\n\nTambaram banners removed, Avadi plastic seized | Chennai news\n📍 சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tambaram #ChennaiNews #சென்னை",
-   "prompts": "Corporation workers in uniform stand on a busy Chennai roadside beside a bhajan temple wall and a tall cloth banner they are untying from a pole, while a pile of removed banners lies on the pavement. Two-wheelers and an autorickshaw pass on the main road, and the stretch is lined with concrete poles and small shops. Seen from behind and at a distance, the workers pull the banner down while a shopkeeper watches from a doorway. The scene is in daylight with a clear sky. Shot at eye level with a 35 mm lens, wide enough to show the road, the temple wall and the traffic. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of bundles of seized banned plastic covers piled on the floor of a small shop in Avadi, with a plain cloth-covered weighing scale beside them and a stack of loose carry bags spilling out. Behind, slightly out of focus, an official in a plain shirt holds a notebook while a shopkeeper stands at a distance, seen only from behind. Light comes through the open shutter of the shop front in daylight. Shot close at slightly high angle with a 35 mm lens to show the texture of the plastic bundles and the scale. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/news-in-a-few-lines/4380590",
-   "published": "2026-11-19T18:24:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script copies the article word for word (21 words in a row, 35% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence; caption copies the article word for word (18 words in a row, 24% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence; slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149284/chennaiminnal/ivamdjypyqgx5wodnupl.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149286/chennaiminnal/ltvycfflmmi5jvxmzhk8.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஐடிபிஐ பங்கு விற்பனை: வங்கிச் சங்கங்கள் டிசம்பர் 3இல் வேலைநிறுத்தம் அறிவிப்பு",
-   "english_headline": "Three bank unions announce nationwide strike on 3 December against sale of IDBI Bank stake",
-   "category": "Government & Services",
-   "location": "unknown",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வங்கி வேலைநிறுத்தம்",
-    "loc": "தேசிய அளவில்",
-    "hl1": "டிச.3இல் வங்கி வேலைநிறுத்தம்",
-    "hl2": "ஐடிபிஐ பங்கு விற்பனைக்கு",
-    "slides": [
-     {
-      "title": "என்ன நடக்கிறது?",
-      "lines": [
-       "டிசம்பர் <b>3</b> தேசிய அளவில் வேலைநிறுத்தம்",
-       "மூன்று பொதுத்துறை வங்கி ஊழியர் சங்கங்கள் அறிவிப்பு",
-       "சுமார் <b>2.5 லட்சம்</b> ஊழியர், அலுவலர் உறுப்பினர்கள்"
-      ]
-     },
-     {
-      "title": "ஏன் எதிர்ப்பு?",
-      "lines": [
-       "ஐடிபிஐ வங்கியின் <b>60.72%</b> பங்குகள் விற்பனை",
-       "கனடாவின் ஃபோர்ஃபாக்ஸ் நிறுவனத்துக்கு <b>ரூ.52,878 கோடி</b>",
-       "அக். 14இல் மத்திய அமைச்சரவைக் குழு ஒப்புதல்"
-      ]
-     },
-     {
-      "title": "சங்கங்களின்",
-      "lines": [
-       "விற்பனை முடிவை மத்திய அரசு கைவிட வேண்டும்",
-       "தனியார் வங்கிகளை தேசியமயமாக்க வேண்டும்",
-       "ஐடிபிஐ லாபகரமான வங்கி என சங்கங்கள் கூறுகின்றன"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "டிசம்பர் 3ஆம் தேதி தேசிய அளவில் வங்கி வேலைநிறுத்தம் நடைபெறவுள்ளது. மூன்று பொதுத்துறை வங்கி ஊழியர் சங்கங்கள் இதை அறிவித்துள்ளன. இந்தச் சங்கங்களில் சுமார் 2.5 லட்சம் ஊழியர்கள் மற்றும் அலுவலர்கள் உறுப்பினர்களாக உள்ளனர். ஐடிபிஐ பொதுத்துறை வங்கியின் 60.72 சதவீத பங்குகளை கனடாவின் ஃபோர்ஃபாக்ஸ் ஃபைனான்சியல் ஹோல்டிங்ஸ் நிறுவனத்துக்கு ரூ.52,878 கோடிக்கு விற்பனை செய்ய மத்திய அமைச்சரவைக் குழு அக்டோபர் 14ஆம் தேதி ஒப்புதல் அளித்தது. இதற்கு காங்கிரஸ் உள்ளிட்ட எதிர்க்கட்சிகளும் வங்கிச் சங்கங்களும் எதிர்ப்பு தெரிவித்துள்ளன. ஐடிபிஐ வங்கி சுமார் ரூ.3.5 லட்சம் கோடி வைப்புத்தொகை மற்றும் ரூ.2.5 லட்சம் கோடி கடன்களுடன் லாபகரமான நிறுவனமாக உள்ளது என சங்கங்கள் கூறுகின்றன. விற்பனையால் இந்திய வங்கி வெளிநாட்டு தனியார் வங்கியின் கைக்குச் சென்றுவிடும் என்றும் அவை எச்சரிக்கின்றன. எனவே மத்திய அரசு இந்த முடிவைக் கைவிட வேண்டும் என்றும், தனியார் வங்கிகளை தேசியமயமாக்க வேண்டும் என்றும் சங்கங்கள் கோரியுள்ளன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 டிசம்பர் 3இல் தேசிய அளவில் வங்கி வேலைநிறுத்தம்: ஐடிபிஐ பங்கு விற்பனைக்கு எதிர்ப்பு\n\n📰 முழு விவரம்:\nஐடிபிஐ வங்கியின் 60.72 சதவீத பங்குகளை கனடாவின் ஃபோர்ஃபாக்ஸ் ஃபைனான்சியல் ஹோல்டிங்ஸ் நிறுவனத்துக்கு ரூ.52,878 கோடிக்கு விற்பனை செய்ய மத்திய அமைச்சரவைக் குழு அக். 14ஆம் தேதி ஒப்புதல் அளித்தது.\nஇதை எதிர்த்து டிசம்பர் 3ஆம் தேதி தேசிய அளவில் வேலைநிறுத்தம் நடத்தப்போவதாக மூன்று பொதுத்துறை வங்கி ஊழியர் சங்கங்கள் அறிவித்துள்ளன.\nஇந்தச் சங்கங்களில் சுமார் 2.5 லட்சம் ஊழியர்களும் அலுவலர்களும் உறுப்பினர்களாக உள்ளனர்.\n🏦 ஐடிபிஐ வங்கி சுமார் ரூ.3.5 லட்சம் கோடி வைப்புத்தொகை, ரூ.2.5 லட்சம் கோடி கடன்களுடன் லாபகரமாக இயங்குவதாகச் சங்கங்கள் கூறுகின்றன.\n📢 விற்பனை முடிவை மத்திய அரசு கைவிட வேண்டும், பொதுத்துறை வங்கிகளைத் தனியார் வசம் கொடுக்கக் கூடாது, தனியார் வங்கிகளை தேசியமயமாக்க வேண்டும் என்று சங்கங்கள் கோரியுள்ளன.\n\nIDBI Bank stake sale, bank strike on 3 December | Chennai news\n📍 தேசிய அளவில் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #வங்கி #சென்னை",
-   "prompts": "A group of bank employees in formal shirts and sarees, seen from behind, holds up blank placards outside a public-sector bank branch in Chennai city, where a joint union statement has just been read out. The place is a busy commercial street with two-wheelers parked along the kerb, a few autorickshaws passing, and a bank building with a tall glass entrance and a row of counters visible through the windows. Some employees stand in a loose circle near the steps, others stand in a line with arms folded, while one union representative in a white shirt reads from a printed sheet of paper held in both hands. The sky is bright daylight with a clear, slightly hazy look. Camera at eye level, 35 mm, wide enough to show the bank building, the street and the crowd, with the people kept at a distance and slightly soft in focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a stack of printed joint-statement sheets and a few folded placards lying on a wooden table beside a bank counter, with a pile of bank passbooks and a stack of deposit and loan files pushed to one side. Behind the table, a few employees in sarees and shirts stand out of focus, seen from behind, their faces not visible. The paper edges and the table grain are sharply lit by soft daylight from a window, and the arrangement suggests the moment a strike notice is prepared. Camera slightly high, 35 mm, shallow depth of field so the documents are sharp and the background people are blurred. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/19/sale-of-idbi-shares-bank-unions-announce-strike-for-dec-3",
-   "published": "2026-11-19T23:09:03.960Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தேசிய அளவில்', e.g. 'தேசிய அளவில்: ...' or 'தேசிய அளவில்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149296/chennaiminnal/xgsxlhkhwydbgca85nap.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149298/chennaiminnal/czo76vljydrwigeajnwl.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் 9 இடங்களில் ரூ.1,401 கோடியில் 6,157 வீடுகள்: ஜனவரியில் பணி தொடக்கம்",
-   "english_headline": "Rs 1,401 crore plan for 6,157 flats in 9 places in Chennai; construction likely to start in January",
-   "category": "Government & Services",
-   "location": "Anathaikuppam, Variyarpadi, Pattinapakkam, Rukmani Nagar, Mullai Nagar, Udhayasuriyan Nagar, Pachaikal Veerasamy Street, Mettukuppam Cemetery Road, Kakkan Colony - Chennai, Chennai district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வீட்டு வசதி திட்டம்",
-    "loc": "சென்னை, 9 இடங்கள்",
-    "hl1": "சென்னையில் 9 இடங்களில் 6,157 வீடுகள்",
-    "hl2": "ரூ.1,401 கோடி திட்டம்",
-    "slides": [
-     {
-      "title": "என்ன திட்டம்?",
-      "lines": [
-       "சென்னையில் 9 இடங்களில் <b>6,157</b> அடுக்குமாடி வீடுகள்",
-       "மொத்தச் செலவு <b>ரூ.1,401 கோடி</b>",
-       "முதல்வர் விஜய் அறிவித்த திட்டம்"
-      ]
-     },
-     {
-      "title": "எந்தெந்த இடங்கள்?",
-      "lines": [
-       "அனாதைக்குப்பம், வியாசர்பாடி பழைய பிளாக், பட்டினப்பாக்கம்",
-       "ருக்மணி நகர், முல்லை நகர், உதயசூரியன் நகர்",
-       "பச்சைக்கல் வீராசாமி தெரு, மேற்குக் கல்லறை சாலை, கக்கன் காலனி"
-      ]
-     },
-     {
-      "title": "எப்போது பணி?",
-      "lines": [
-       "இம்மாத இறுதிக்குள் மக்கள் வெளியேற்றம், பழைய கட்டிட இடிப்பு",
-       "ஜனவரியில் கட்டுமானம் தொடக்கம்",
-       "<b>20 மாதங்களுக்குள்</b> பணி நிறைவு"
-      ]
-     },
-     {
-      "title": "வீட்டு வசதி விவரம்",
-      "lines": [
-       "ஒவ்வொரு வீடும் <b>420 சதுர அடி</b>, ஒரு படுக்கையறை",
-       "ஏற்கெனவே வசித்த தகுதியான பயனாளிகளுக்கு முன்னுரிமை",
-       "பயனாளிகள் <b>ரூ.1.50 லட்சம்</b> செலுத்த வேண்டும்; விற்பனை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் 9 இடங்களில் 6,157 புதிய வீடுகள் கட்டப்பட உள்ளன. இதற்கு ரூ.1,401 கோடி செலவாகும். முதல்வர் விஜய் அறிவித்த திட்டத்தின்படி, அனாதைக்குப்பம், வியாசர்பாடி பழைய பிளாக், பட்டினப்பாக்கம், ருக்மணி நகர், முல்லை நகர், உதயசூரியன் நகர், பச்சைக்கல் வீராசாமி தெரு, மேற்குக் கல்லறை சாலை, கக்கன் காலனி ஆகிய இடங்களில் வீடுகள் கட்டப்படும். தமிழ்நாடு நகர்ப்புற வாழ்விட மேம்பாட்டு வாரியத்தின் மேலாண்மை இயக்குநர் பெ.ரமண சரஸ்வதி இதைத் தெரிவித்துள்ளார். இம்மாத இறுதிக்குள் மக்கள் முழுமையாக வெளியேற்றப்பட்டு, பழைய கட்டிடங்கள் இடிக்கப்படும். ஜனவரியில் புதிய வீடுகளின் கட்டுமானப் பணி தொடங்கி, 20 மாதங்களுக்குள் நிறைவடையும். ஒவ்வொரு வீடும் 420 சதுர அடியில் ஒரு படுக்கையறை கொண்டதாக இருக்கும். ஏற்கெனவே அங்கு வசித்த தகுதியான பயனாளிகளுக்கே முன்னுரிமை அளித்து வீடுகள் ஒதுக்கப்படும். அவர்கள் ரூ.1.50 லட்சம் செலுத்த வேண்டும். ஒதுக்கப்பட்ட வீடுகளை விற்பனை செய்ய அனுமதி இல்லை. பட்டினப்பாக்கம் திட்டத்துக்கும் புதிய தலைமைச் செயலக இடத்துக்கும் எந்தத் தொடர்பும் இல்லை. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏠 சென்னையில் 9 இடங்களில் 6,157 புதிய வீடுகள்: ரூ.1,401 கோடி திட்டம், ஜனவரியில் பணி தொடக்கம்\n\n📰 முழு விவரம்:\nசென்னையில் 9 இடங்களில் ரூ.1,401 கோடி செலவில் 6,157 புதிய அடுக்குமாடி குடியிருப்புகள் கட்டப்பட உள்ளன. முதல்வர் விஜய் அறிவித்த இத்திட்டத்தின்படி, அனாதைக்குப்பம் (64 வீடுகள்), வியாசர்பாடி பழைய பிளாக் (1,158), பட்டினப்பாக்கம் (1,484), ருக்மணி நகர் (111), முல்லை நகர் (462), உதயசூரியன் நகர் (850), பச்சைக்கல் வீராசாமி தெரு (912), மேற்குக் கல்லறை சாலை (792), கக்கன் காலனி (324) ஆகிய இடங்களில் வீடுகள் கட்டப்படும்.\nதமிழ்நாடு நகர்ப்புற வாழ்விட மேம்பாட்டு வாரிய மேலாண்மை இயக்குநர் பெ.ரமண சரஸ்வதி தெரிவித்தது: இம்மாத இறுதிக்குள் மக்கள் முழுமையாக வெளியேற்றப்பட்டு, பழைய கட்டிடங்கள் இடிக்கப்படும். ஜனவரியில் கட்டுமானம் தொடங்கி 20 மாதங்களுக்குள் நிறைவடையும்.\n🏢 ஒவ்வொரு வீடும் 420 சதுர அடியில் ஒரு படுக்கையறை (1BHK) கொண்டதாக இருக்கும்.\n👨‍👩‍👧 பழைய குடியிருப்பு இடிக்கப்பட்டு அதே பகுதியில் புதிய வீடு கட்டப்படும்போது, ஏற்கெனவே அங்கு வசித்த தகுதியான பயனாளிகளுக்கே முன்னுரிமை. அவர்கள் ரூ.1.50 லட்சம் செலுத்த வேண்டும்.\n🚫 பயனாளிகளுக்கு ஒதுக்கப்படும் வீடுகளை விற்பனை செய்ய அனுமதி இல்லை.\nபட்டினப்பாக்கம் புதிய குடியிருப்புத் திட்டத்துக்கும், புதிய தலைமைச் செயலக இடத்துக்கும் எந்தத் தொடர்பும் இல்லை.\n\nChennai 6,157 flats 9 places Rs 1,401 crore | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Pattinapakkam #வீட்டுவசதி #ChennaiNews",
-   "prompts": "A row of old multi-storey government tenement blocks in a Chennai housing settlement is being cleared for redevelopment, with a few families carrying their household belongings out of the lower-floor doorways and a Tamil Nadu Urban Habitat Development Board work crew standing near a sign-free barricade at the entrance. The place is a dense low-income colony in north or central Chennai, with faded beige and grey concrete walls, tangled overhead wires, and narrow lanes lined with parked two-wheelers and a few plastic water pots at the doorways. The people are residents in plain cotton shirts, sarees and salwar, and a few men in veshti, seen from behind or far away, along with workers in plain work clothes. The objects include bundles of clothes, steel vessels and a metal ladder against an old block. It is a bright daytime scene under clear sky with soft sunlight. The camera is at eye level, 35 mm, wide enough to show the whole block and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of construction materials beside the demolition-marked edge of an old concrete tenement block in a Chennai housing colony, showing rough grey cement blocks, a coil of steel reinforcement rods, and a pile of broken tiles on the ground. Behind the materials, the weathered wall of an old multi-storey block shows peeling paint, rusted iron balcony railings and a dark stain of rainwater. A pair of worn rubber slippers and a plastic water pot sit on the edge of the pavement, suggesting the families have just left. The light is natural daytime sunlight with soft shadows. The camera is slightly high, 35 mm, focused on the materials with the block blurred in the background, and no people visible in the frame. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/plan-to-build-6157-homes-at-9-locations-in-chennai",
-   "published": "2026-11-20T03:29:05Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('இவ்​வாறு அவர் தெரிவித்தார்..பெரியார் அறிவுலக புத்தக கொள்முதல')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149336/chennaiminnal/x5bmewgbagtvqtoghwx6.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795149339/chennaiminnal/nmmarsxrhkhcjmnkskzt.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160147/chennaiminnal/l4gxeashmzbpavnebynn.jpg"
    ]
   }
  ]
