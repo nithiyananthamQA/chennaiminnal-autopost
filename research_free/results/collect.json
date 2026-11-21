@@ -3,34 +3,33 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/chennai-heavy-rain-forecast-private-weather-center",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/upsc-personality-testapplications-invited-for-financial-assistance",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/student-wins-silver-medal-in-gatka-national-martial-arts-competition/4381609",
-  "manual link added: https://www.dinakaran.com/news/specialpolio-vaccination-camps-held-6districts-tamilnadu",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/amputation-due-to-diabetesone-person-affected-every-20-seconds",
-  "candidate filter: collected=5",
-  "to write: 5 Chennai district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "try (N) manual=True: https://www.dinakaran.com/news/specialpolio-vaccination-camp",
+  "manual link added: https://www.polimernews.com/districtnews/a-man-arrested-for-smuggling-liquor-from-other-states-into-chennai-12828819",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/companies-instructed-to-pay-the-2026-labor-welfare-fund-by-january",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/other-contractors-unhappy-with-additional-funding-for-saidapet-thenampet-flyover-request-for-funding-for-other-projects/4381853",
+  "candidate filter: collected=3",
+  "to write: 3 Chennai district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Chennai; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/companies-instru",
+  "try (N) manual=True: https://www.polimernews.com/districtnews/a-man-arrested-for-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "NOT filed (N) தமிழ்நாட்டில் 6 மாவட்டங்களில் நவம்பர் 22ம் தேதி சி: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/chennai-heavy-rai",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 78 min",
-  "filed: 4 Chennai district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
+  "filed: 3 Chennai district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
@@ -38,302 +37,239 @@
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "dead for this round: groq/qwen/qwen3.8-27b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கட்கா தேசிய போட்டியில் எண்ணூர் மாணவிக்கு வெள்ளி பதக்கம்",
-   "english_headline": "Ennore student wins silver medal in national Khatka martial arts competition",
-   "category": "Education",
-   "location": "Ennore, Chennai district",
-   "importance": "Medium",
+   "tamil_headline": "வெளிமாநில மதுபானங்களை சென்னைக்குக் கடத்தி வந்தவர் கைது",
+   "english_headline": "Man arrested for smuggling out-of-state liquor and ganja into Chennai by car",
+   "category": "Crime & Safety",
+   "location": "Porur Bypass Road, Chennai, Chennai district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "விளையாட்டு",
-    "loc": "எண்ணூர், சென்னை",
-    "hl1": "எண்ணூர் மாணவி தேசிய போட்டியில் சாதனை",
-    "hl2": "வெள்ளி பதக்கம் வென்றார்",
+    "cat": "போதைப்பொருள் கைது",
+    "loc": "போரூர் புறவழிச் சாலை, சென்னை",
+    "hl1": "போரூர் சாலையில் கடத்தல் கார் பிடிபட்டது",
+    "hl2": "ஒருவர் கைது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "எண்ணூரைச் சேர்ந்த 16 வயது மாணவி வெள்ளி பதக்கம் வென்றார்",
-       "கட்கா தற்காப்புக் கலை தேசிய போட்டியில் பங்கேற்றார்",
-       "தமிழகம் சார்பில் 17 வயதிற்குட்பட்ட பெண்கள் பிரிவில்"
+       "வெளிமாநில மதுபானங்களைக் காரில் கடத்தி வந்த நபர் கைது",
+       "சென்னை போரூர் புறவழிச் சாலையில் போலீசார் சோதனை",
+       "காரில் வெளிமாநில மதுபாட்டில்களும் கஞ்சாவும் இருந்தன"
       ]
      },
      {
-      "title": "போட்டி விவரம்",
+      "title": "யார் இவர்?",
       "lines": [
-       "ஸ்கூல் கேம்ஸ் பெடரேசன் ஆப் இந்தியா நடத்திய போட்டி",
-       "புதுடில்லி தியாக்ராஜ் மைதானத்தில் நடந்தது",
-       "இறுதிப் போட்டியில் டில்லி மாணவியுடன் மோதினார்"
+       "கோடம்பாக்கம் பகுதியைச் சேர்ந்த சாய்கரண்",
+       "அவர் ஓட்டி வந்த காரில் போலீசார் சோதனை செய்தனர்",
+       "பின்னர் அவரது வீட்டிலும் சோதனை நடத்தப்பட்டது"
       ]
      },
      {
-      "title": "புள்ளிகள்",
+      "title": "வீட்டில்",
       "lines": [
-       "இறுதிப் போட்டியில் <b>56 - 42</b> புள்ளிக் கணக்கில் இரண்டாம் இடம்",
-       "தமிழகத்திற்கு கட்கா போட்டியில் கிடைத்த முதல் பதக்கம்",
-       "பயிற்சியாளர்கள் மற்றும் ஊர் மக்கள் பாராட்டு"
+       "மெத்தம்பெட்டமைன், கஞ்சா, போதை சாக்லேட்டுகள் பறிமுதல்",
+       "இவை அனைத்தும் போலீசாரால் பறிமுதல் செய்யப்பட்டன",
+       "போதைப்பொருள் கடத்தல் குறித்து விசாரணை தொடர்கிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "எண்ணூர் மாணவி கட்கா தேசிய தற்காப்புக் கலை போட்டியில் வெள்ளி பதக்கம் வென்று சாதனை படைத்துள்ளார். எண்ணூரைச் சேர்ந்த 16 வயது மாணவி தேசிய அளவில் பங்கேற்றார். ஸ்கூல் கேம்ஸ் பெடரேசன் ஆப் இந்தியா சார்பில் தேசிய கட்கா போட்டி புதுடில்லியில் உள்ள தியாக்ராஜ் மைதானத்தில் நடைபெற்றது. தமிழகம் சார்பில் 17 வயதிற்குட்பட்ட பெண்கள் பிரிவில் அரசு பள்ளி 10ஆம் வகுப்பு மாணவி பங்கேற்றார். அவர் எண்ணூர் வீரத்தமிழர் பர்மா சிலம்ப கலைக்கூடத்தில் பயிற்சி பெற்று வருகிறார். இறுதிப் போட்டியில் டில்லி மாணவியுடன் கடுமையாக மோதினார். போட்டி கடுமையாக இருந்தபோதும், 56 - 42 புள்ளிக் கணக்கில் இரண்டாம் இடம் பெற்று வெள்ளி பதக்கத்தை வென்றார். பதக்கம் வென்ற மாணவியை பயிற்சியாளர்கள் மற்றும் ஊர் மக்கள் பாராட்டினர். கட்கா போட்டியில் தமிழகத்துக்குக் கிடைத்த முதல் பதக்கம் இது என்று பயிற்சியாளர்கள் தெரிவித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🥈 எண்ணூர் மாணவி கட்கா தேசிய போட்டியில் வெள்ளி பதக்கம்\n\n📰 முழு விவரம்:\nமரக்குச்சி மற்றும் கேடயம் பயன்படுத்தி விளையாடப்படும் கட்கா தற்காப்புக் கலை தேசிய போட்டியில் எண்ணூரைச் சேர்ந்த 16 வயது மாணவி வெள்ளி பதக்கம் வென்றார். ஸ்கூல் கேம்ஸ் பெடரேசன் ஆப் இந்தியா சார்பில் புதுடில்லி தியாக்ராஜ் மைதானத்தில் போட்டி நடைபெற்றது. தமிழகம் சார்பில் 17 வயதிற்குட்பட்ட பெண்கள் பிரிவில் அரசு பள்ளி 10ஆம் வகுப்பு மாணவி பங்கேற்றார். இறுதிப் போட்டியில் டில்லி மாணவியுடன் மோதி 56 - 42 புள்ளிக் கணக்கில் இரண்டாம் இடம் பெற்றார்.\n📍 இடம்: எண்ணூர், சென்னை மாவட்டம்\n🥈 பதக்கம்: வெள்ளி பதக்கம்\n🏅 சாதனை: கட்கா போட்டியில் தமிழகத்துக்குக் கிடைத்த முதல் பதக்கம்\n👏 பாராட்டு: பயிற்சியாளர்கள் உசேன், ஜீவன், திவாகர், ரித்திகா மற்றும் ஊர் மக்கள்\n\nEnnore student silver medal national Khatka competition | Chennai news\n📍 எண்ணூர், சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Ennore #விளையாட்டு #ChennaiNews",
-   "prompts": "A teenage girl in a Tamil Nadu government school uniform stands on a sports ground in a martial arts stance, holding a wooden stick and a round shield, while a small group of coaches watches from the edge of the ground. The place is an open outdoor stadium in Delhi, with a plain concrete boundary wall, a dusty ground of red earth and a few metal stands in the background. The coaches wear white shirts and trousers, and the spectators stand seen from behind and slightly blurred. Her opponent is a blurred figure at the other end of the mat. Daylight, bright and clear, without any readable banners. Camera at eye level, 35 mm, wide enough to show the whole ground and the people in it. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a silver medal hanging from a plain ribbon, resting on top of a pair of wooden sticks and a round shield laid on a wooden table. Behind them, slightly out of focus, a coach's hand in a white shirt sleeve and a few teenage girls in school uniform stand in a small training hall in Ennore, with a bare concrete floor and a plain wall. Daylight from a window at the side gives soft natural light. No readable text or logos. Camera a little above the table, 35 mm, shallow depth of field so the medal is sharp and the people behind are soft. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/student-wins-silver-medal-in-gatka-national-martial-arts-competition/4381609",
-   "published": "2026-11-20T19:05:03+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795235752/chennaiminnal/p8y9rgvudurysxftrc7z.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795235756/chennaiminnal/ttaboj8k7ok1y6tklbsc.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சாக்கரை நோயால் கால் அகற்றம்: 20 விநாடிகளுக்கு ஒருவா பாதிப்பு",
-   "english_headline": "Diabetic foot ulcers: one leg amputated every 20 seconds worldwide, doctors warn; free foot check-up camp held at Adyar MV Diabetes Centre",
-   "category": "Health",
-   "location": "Adyar, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சர்க்கரை நோய்",
-    "loc": "அடையாறு, சென்னை",
-    "hl1": "அடையாறில் சர்க்கரை பாத பரிசோதனை முகாம்",
-    "hl2": "ஒவ்வொரு 20 விநாடிக்கும்",
-    "slides": [
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "சர்க்கரை நோய் பாத புண்களால் உலக அளவில் <b>20 விநாடிக்கு</b>",
-       "மருத்துவர்கள் இதை எச்சரித்துள்ளனர்",
-       "உலக சர்க்கரை நோய் தினத்தை ஒட்டி நடந்த நிகழ்வு"
-      ]
-     },
-     {
-      "title": "முகாம் விவரம்",
-      "lines": [
-       "சென்னை, அடையாறு எம்.வி. சர்க்கரை நோய் மையம் நடத்திய இலவச",
-       "50-க்கும் மேற்பட்டோருக்கு பரிசோதனை",
-       "தொடக்க நிலை பாதிப்புகள் கண்டறியப்பட்டன"
-      ]
-     },
-     {
-      "title": "ஆபத்து",
-      "lines": [
-       "சிலருக்கு நரம்பியல் பாதிப்பு (டயபடிக் நியூரோபதி) இருந்தது",
-       "புண்களை அலட்சியப்படுத்தினால் கிருமித் தொற்று ஏற்படும்",
-       "சிகிச்சை பெற்றவர்களில் <b>40%</b> பேருக்கு ஓராண்டில்"
-      ]
-     },
-     {
-      "title": "என்ன செய்ய",
-      "lines": [
-       "சர்க்கரை நோயை கட்டுப்பாட்டில் வையுங்கள்",
-       "மருத்துவரை அவ்வப்போது அணுகி ஆலோசனை பெறுங்கள்",
-       "சிகிச்சைகளை முறையாகக் கடைப்பிடியுங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அடையாறில் சர்க்கரை நோய் பாத புண்களால் 20 விநாடிக்கு ஒருவரின் கால் அகற்றப்படுகிறது. உலக சர்க்கரை நோய் தினத்தை ஒட்டி, சென்னை அடையாறு எம் வி சர்க்கரை நோய் மையம் சார்பில் இலவச பாத பரிசோதனை முகாம் அண்மையில் நடைபெற்றது. இதில் 50-க்கும் மேற்பட்டோருக்குப் பரிசோதனை செய்யப்பட்டது. தொடக்க நிலை பாதிப்புகள் கண்டறியப்பட்டன. அவர்களில் சிலருக்கு சர்க்கரை நோய் சார்ந்த நரம்பியல் பாதிப்பு இருந்ததாக மருத்துவர்கள் தெரிவித்தனர். சர்க்கரை நோய் பாத புண்கள் உலக அளவில் அதிகரித்து வருகின்றன. பாதிக்கப்பட்டவர்களில் பாதிக்கும் மேற்பட்டோர் அதை அலட்சியப்படுத்துகின்றனர். இதனால் கிருமித் தொற்று ஏற்பட்டு காலின் ஒரு பகுதியை அகற்ற வேண்டிய நிலை ஏற்படுகிறது. சர்க்கரை நோய் பாத புண்களை உரிய நேரத்தில் கவனிக்காவிட்டால் உறுப்புகளை இழப்பது மட்டுமின்றி, புற்றுநோய் சிகிச்சையைக் காட்டிலும் அதிக பொருளாதார இழப்பும் ஏற்படும். சிகிச்சை பெற்று குணமடைந்தவர்களில் 40 சதவீதம் பேருக்கு அடுத்த ஓராண்டில் மீண்டும் அத்தகைய பாதிப்பு ஏற்படுகிறது. சர்க்கரை நோயைக் கட்டுப்பாட்டில் வைத்து, மருத்துவரை அவ்வப்போது அணுகி ஆலோசனை பெற்று, சிகிச்சைகளை முறையாகக் கடைப்பிடித்தால் இத்தகைய பாதிப்புகளைத் தடுக்கலாம் என மருத்துவர்கள் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🩺 அடையாறில் சர்க்கரை பாத பரிசோதனை முகாம்: 20 விநாடிக்கு ஒருவரின் கால் அகற்றம்\n\n📰 முழு விவரம்:\nஉலக அளவில் சர்க்கரை நோய் பாத புண்களால் ஒவ்வொரு 20 விநாடிகளுக்கும் ஒருவர் தனது கால்களை இழப்பதாக மருத்துவர்கள் எச்சரித்துள்ளனர். அவ்வாறாக ஒவ்வொரு 20 விநாடிகளுக்கு ஒருவரது கால் அகற்றப்படுவதாக தரவுகள் தெரிவிக்கின்றன.\nஉலக சர்க்கரை நோய் தினத்தை ஒட்டி, சென்னை அடையாறு எம்.வி. சர்க்கரை நோய் மையம் சார்பில் இலவச பாத பரிசோதனை முகாம் அண்மையில் நடைபெற்றது. இதில் 50-க்கும் மேற்பட்டோருக்குப் பரிசோதனை அளிக்கப்பட்டு தொடக்க நிலை பாதிப்புகள் கண்டறியப்பட்டன. அவர்களில் சிலருக்கு சர்க்கரை நோய் சார்ந்த நரம்பியல் பாதிப்பு (டயபடிக் நியூரோபதி) இருந்தது.\nபாதிக்கப்படுவோரில் பாதிக்கும் மேற்பட்டோர் அதை அலட்சியப்படுத்துகின்றனர். இதனால் பாதங்கள், கால்களில் கிருமித் தொற்று ஏற்பட்டு காலின் ஒரு பகுதியை அகற்ற வேண்டிய நிலை ஏற்படுகிறது.\nசர்க்கரை நோய் பாத புண்களை உரிய நேரத்தில் கவனிக்காவிட்டால் உறுப்புகளை இழப்பதுடன், புற்றுநோய்க்கான செலவைவிட கூடுதலான பொருளாதார இழப்பும் ஏற்படும்.\nசிகிச்சை பெற்று குணமடைந்தவர்களில் 40 சதவீதம் பேருக்கு அடுத்த ஓராண்டில் மீண்டும் அத்தகைய பாதிப்பு ஏற்படுகிறது.\nசர்க்கரை நோயைக் கட்டுப்பாட்டில் வைத்திருப்பது, மருத்துவரை அவ்வப்போது அணுகி ஆலோசனை பெறுவது, சிகிச்சைகளை முறையாகக் கடைப்பிடிப்பது ஆகியவை இத்தகைய பாதிப்புகளைத் தடுக்கும்.\n\nDiabetic foot ulcer amputation every 20 seconds | Adyar Chennai health\n📍 அடையாறு, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Adyar #சர்க்கரைநோய் #ChennaiNews",
-   "prompts": "A line of diabetic patients sits on plastic chairs in the waiting area of the Adyar MV Diabetes Centre in Chennai, where a free diabetic foot check-up camp is being held for World Diabetes Day. Seen from behind and slightly to the side, men in shirts and trousers and women in cotton sarees and salwar kameez wait in the morning daylight that spills through the windows of this clinic hall. At the front, a doctor in a white coat and a nurse in a light uniform stand beside an examination couch, reviewing forms on a clipboard. Several rows of plastic chairs, a folding table with stacked papers, and a tall floor fan show the simple, orderly setup of a community screening camp. The mood is calm and attentive; the camera sits at eye level, 35 mm, wide enough to show the whole room and the queue of more than fifty people. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a doctor's hands in white sleeves holding a diabetic foot examination instrument, a tuning fork and a monofilament test tool, resting on a clean white examination couch with a folded cotton sheet. Beside it lies a clipboard of screening forms and a small steel tray with cotton swabs. The background is softly blurred: a patient's bare ankle and foot partly visible at the edge of the frame, not showing any wound or injury, and the blurred shape of a nurse in a light uniform. Morning daylight from a nearby window gives soft, even light on the clinic setting. Shot at close range with a 35 mm lens, shallow depth of field, eye level. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/amputation-due-to-diabetesone-person-affected-every-20-seconds",
-   "published": "2026-11-20T19:47:37.253Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: stray Tamil sign '்' after 'ா' in «சா்க்க»; stray Tamil sign '்' after 'ா' in « ஒருவா் பா»",
+   "reel_script": "சென்னை போரூர் புறவழிச் சாலையில் வெளிமாநில மதுபானங்களைக் காரில் கடத்தி வந்த நபரைப் போலீசார் கைது செய்தனர். ரோந்துப் பணியில் இருந்த போலீசார் கோடம்பாக்கம் பகுதியைச் சேர்ந்த சாய்கரண் ஓட்டி வந்த காரைச் சோதனை செய்தனர். காரில் வெளிமாநில மதுபாட்டில்களும் கஞ்சாவும் இருந்தன. இதையடுத்து சாய்கரணின் வீட்டில் சோதனை நடத்தப்பட்டது. அங்கு மெத்தம்பெட்டமைன், கஞ்சா, போதை சாக்லேட்டுகள் ஆகியவை கண்டுபிடிக்கப்பட்டு பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 போரூர் சாலையில் வெளிமாநில மதுபானம் கடத்திய நபர் கைது\n\n📰 முழு விவரம்:\nசென்னை போரூர் புறவழிச் சாலையில் ரோந்துப் பணியில் இருந்த போலீசார், கோடம்பாக்கம் பகுதியைச் சேர்ந்த சாய்கரண் ஓட்டி வந்த காரைச் சோதனை செய்தனர். காரில் வெளிமாநில மதுபாட்டில்களும் கஞ்சாவும் இருந்தன. அதைத்தொடர்ந்து சாய்கரணின் வீட்டில் சோதனை நடத்தப்பட்டதில், மெத்தம்பெட்டமைன், கஞ்சா, போதை சாக்லேட்டுகள் உள்ளிட்டவை கண்டுபிடிக்கப்பட்டு பறிமுதல் செய்யப்பட்டன. இதையடுத்து சாய்கரண் கைது செய்யப்பட்டார்.\n📍 இடம்: போரூர் புறவழிச் சாலை, சென்னை\n👮 நடவடிக்கை: சாய்கரண் கைது; மதுபாட்டில்கள், கஞ்சா, மெத்தம்பெட்டமைன், போதை சாக்லேட்டுகள் பறிமுதல்\n\nChennai liquor smuggling arrest Porur | Chennai news\n📍 போரூர், சென்னை | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Porur #ChennaiNews #சென்னை",
+   "prompts": "A Tamil Nadu police officer in khaki uniform stands beside a stopped car on the Porur Bypass Road in Chennai, checking its boot while a second constable in khaki looks on. The setting is a wide multi-lane urban highway with moving traffic, two-wheelers, a passing bus and a row of street lamps lining the median. The driver of the car is seen from behind, standing at the side of the vehicle with his hands visible, not facing the camera. The car's open boot reveals stacked out-of-state liquor bottles and small packets of ganja. Daylight with a clear sky and soft sunlight across the tarmac. Camera at eye level, 35 mm lens, wide enough to show the road, the stopped car, the patrol officers and the traffic flowing past. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of seized contraband arranged on a plain table in a police station room in Chennai: rows of out-of-state liquor bottles, small plastic packets of ganja, a few small paper packets of white powder, and a scatter of brightly wrapped drug chocolates. A constable's khaki sleeve and gloved hand rest at the edge of the frame, with a blurred officer in khaki standing behind the table. Plain cream walls and a ceiling fan are visible in soft focus. Tubelight and daylight from a window falling across the table surface. Camera slightly high, looking down at the items, macro-style 50 mm lens, shallow depth of field to keep the packets sharp and the background softened. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.polimernews.com/districtnews/a-man-arrested-for-smuggling-liquor-from-other-states-into-chennai-12828819",
+   "published": "2026-11-21T13:00:25+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 51 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795235764/chennaiminnal/dk97ga3blpfuywwahn6l.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795235767/chennaiminnal/o8cpq7sxlzkupn2jlzlp.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246459/chennaiminnal/mayzdgbqacyct2xfwpjm.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246462/chennaiminnal/x0dbla1znpyzdnbyz8tm.jpg"
    ]
   },
   {
-   "tamil_headline": "யுபிஎஸ்சி முதன்மைத் தேர்வில் தேர்ச்சி பெற்றவர்கள் ரூ.50,000 உதவித்தொகைக்கு இன்று முதல் விண்ணப்பிக்கலாம்",
-   "english_headline": "UPSC mains qualifiers from Tamil Nadu can apply for Rs 50,000 aid from 21 Nov, last date 30 Nov",
-   "category": "Government & Services",
-   "location": "Tamil Nadu (no town named in the article)",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "சைதாப்பேட்டை – தேனாம்பேட்டை மேம்பாலத்துக்கு கூடுதலாக 50 கோடி ரூபாய் ஒதுக்கீடு; மற்ற ஒப்பந்ததாரர்கள் அதிருப்தி",
+   "english_headline": "Extra Rs 50 crore for Saidapet–Teynampet flyover angers other contractors, who demand funds for their projects too",
+   "category": "Roads & Transport",
+   "location": "Teynampet and Saidapet, Chennai city, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு உதவித்தொகை",
-    "loc": "தமிழ்நாடு",
-    "hl1": "UPSC தேர்ச்சி பெற்றவர்களுக்கு ரூ.50,000",
-    "hl2": "நவ. 30 வரை விண்ணப்பம்",
+    "cat": "சாலைப் பணி",
+    "loc": "சைதாப்பேட்டை, சென்னை",
+    "hl1": "சைதாப்பேட்டை – தேனாம்பேட்டை",
+    "hl2": "<b>50 கோடி ரூபாய்</b>",
     "slides": [
      {
-      "title": "யார்",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "UPSC முதன்மைத் தேர்வில் தேர்ச்சி பெற்ற தமிழக மாணவர்கள்",
-       "2026 ஆம் ஆண்டு முதன்மைத் தேர்வு தேர்ச்சியாளர்கள்"
+       "மேம்பாலப் பணிகளை முடிக்க <b>50 கோடி ரூபாய்</b> கூடுதல் நிதி",
+       "நெடுஞ்சாலைத்துறை இந்த நிதியை ஒதுக்கியுள்ளது",
+       "மற்ற ஒப்பந்ததாரர்கள் அதிருப்தியில் உள்ளனர்"
       ]
      },
      {
-      "title": "எவ்வளவு",
+      "title": "மேம்பாலப் பணி",
       "lines": [
-       "<b>ரூ.50,000</b> நேரடியாக வங்கிக் கணக்கில் செலுத்தப்படும்",
-       "தமிழக அரசின் UPSC குடிமைப் பணி ஊக்கத் தொகைத் திட்டம்"
+       "தேனாம்பேட்டை – சைதாப்பேட்டை இடையே 3 கி.மீ. மேம்பாலம்",
+       "மும்பை நிறுவனம் 621 கோடி ரூபாயில் பணியைத் தொடங்கியது",
+       "இப்போது <b>80 சதவீதம்</b> பணிகளே முடிந்துள்ளன"
       ]
      },
      {
-      "title": "எப்படி, எப்போது?",
+      "title": "தாமதத்துக்கான",
       "lines": [
-       "<b>நவ. 21</b> (சனி) முதல் இணையவழியில் விண்ணப்பிக்கலாம்",
-       "கடைசி நாள் <b>நவ. 30</b>"
+       "420 மீட்டருக்கு தூண் அமைப்பதில் சிக்கல் ஏற்பட்டது",
+       "திட்ட வடிவமைப்பு மாற்றப்பட்டு பணிகள் நடக்கின்றன",
+       "பாலம் <b>மே மாதம்</b> திறக்கப்படும் என அறிவிப்பு"
+      ]
+     },
+     {
+      "title": "ஒப்பந்ததாரர்கள்",
+      "lines": [
+       "கட்டுமானப் பொருள் விலை உயர்வால் பல பணிகள் தேங்கியுள்ளன",
+       "கூடுதல் நிதி கேட்டும் பொறியாளர்களுக்கு மறுப்பு",
+       "எங்களுக்கு ஒரு நியாயம், வெளிமாநில நிறுவனத்துக்கு ஒரு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தமிழகத்தில் யுபிஎஸ்சி முதன்மைத் தேர்வில் தேர்ச்சி பெற்ற மாணவர்களுக்கு ரூ.50,000 உதவித்தொகை வழங்கப்படுகிறது. இதற்கு நவம்பர் 21ஆம் தேதி சனிக்கிழமை முதல் விண்ணப்பிக்கலாம். மத்திய அரசின் குடிமைப் பணித் தேர்வில் தமிழக இளைஞர்களின் எண்ணிக்கையை அதிகரிக்கும் நோக்கில் தமிழக அரசு இத்திட்டத்தைச் செயல்படுத்தி வருகிறது. 2026ஆம் ஆண்டு முதன்மைத் தேர்வில் தேர்ச்சி பெற்ற தமிழக மாணவர்கள் இதற்குத் தகுதியானவர்கள். உதவித்தொகை நேரடியாக அவர்களின் வங்கிக் கணக்கில் செலுத்தப்படும். விண்ணப்பங்கள் இணையவழியில் மட்டுமே ஏற்றுக்கொள்ளப்படும். கடைசி நாள் நவம்பர் 30ஆம் தேதி. தகுதியுள்ள மாணவர்கள் உடனடியாக விண்ணப்பிக்குமாறு அறிவுறுத்தப்படுகிறார்கள். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎓 UPSC தேர்ச்சி பெற்ற தமிழக மாணவர்களுக்கு ரூ.50,000 உதவித்தொகை\n\n📰 முழு விவரம்:\nமத்திய அரசின் குடிமைப் பணித் தேர்வில் தமிழக இளைஞர்களை ஊக்குவிக்க, தமிழக அரசு UPSC குடிமைப் பணி ஊக்கத் தொகைத் திட்டத்தைச் செயல்படுத்தி வருகிறது.\n2026ஆம் ஆண்டு UPSC முதன்மைத் தேர்வில் தேர்ச்சி பெற்ற தமிழக மாணவர்களுக்கு ரூ.50,000 நேரடியாக அவர்களின் வங்கிக் கணக்கில் செலுத்தப்படும்.\nஇணையவழியில் நவம்பர் 21 முதல் நவம்பர் 30ஆம் தேதி வரை விண்ணப்பிக்கலாம்.\n\n💰 உதவித்தொகை: ரூ.50,000\n🗓️ விண்ணப்பம்: நவ. 21 (சனி) முதல் நவ. 30 வரை\n💻 முறை: இணையவழி மட்டும்\nℹ️ மக்கள் கவனத்திற்கு: தகுதியுள்ள மாணவர்கள் கடைசி நாளுக்கு முன் விண்ணப்பிக்கவும்.\n\nUPSC mains qualifiers Tamil Nadu Rs 50,000 aid | Chennai news\n📍 தமிழ்நாடு | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #UPSC #சென்னை",
-   "prompts": "A young Tamil Nadu graduate sits at a wooden desk in a bright study room in Chennai, filling in an online application form on a laptop screen that faces away from the camera. Beside the laptop lie a stack of UPSC study books, a notebook with handwritten notes, and a steel tumbler of filter coffee. The room has a window with daylight coming in, a ceiling fan above, and a framed calendar on the wall. The student wears a plain cotton shirt and is seen from behind over the shoulder, slightly blurred. Two other aspirants sit at a second desk further back, also seen from behind. Daylight, neutral mood, shot at eye level with a 35 mm lens, wide enough to show the room and the desk setup. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a bank passbook and a printed application sheet placed on a wooden table next to a laptop keyboard, with a pen resting across the papers. The passbook cover is plain and no text is readable. A small stack of mark sheets and a folded ID card sit beside them. Soft natural daylight falls across the papers from a nearby window, and a corner of a steel tumbler of tea is visible at the edge of the frame. No people visible except a hand resting near the keyboard. Shot at slightly high angle with a 35 mm lens to show the documents clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/upsc-personality-testapplications-invited-for-financial-assistance",
-   "published": "2026-11-20T19:24:10.938Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தமிழ்நாடு', e.g. 'தமிழ்நாடு: ...' or 'தமிழ்நாடு-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795235801/chennaiminnal/adqa2hgeafkfetih46px.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795235804/chennaiminnal/jzfsq4evlm3lk1p8kavb.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் 2 நாட்கள் கனமழைக்கு வாய்ப்பு: 24, 25 தேதிகளில் மழை",
-   "english_headline": "Chennai likely to get heavy rain for 2 days on 24 and 25 Nov, private weather forecaster says",
-   "category": "Weather & Agriculture",
-   "location": "Chennai, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மழை எச்சரிக்கை",
-    "loc": "சென்னை",
-    "hl1": "சென்னையில் 2 நாட்கள் கனமழைக்கு வாய்ப்பு",
-    "hl2": "24, 25 தேதிகளில் மழை",
-    "slides": [
-     {
-      "title": "எப்போது மழை?",
-      "lines": [
-       "சென்னையில் <b>24, 25</b> ஆகிய தேதிகளில் கனமழைக்கு வாய்ப்பு",
-       "தனியார் வானிலை ஆய்வாளர் ஹேமச்சந்தர் தகவல்",
-       "தமிழ்நாட்டில் <b>23ஆம் தேதி</b> முதல் 5 நாட்களுக்குப் பரவலாக மழை"
-      ]
-     },
-     {
-      "title": "எங்கு மிக கனமழை?",
-      "lines": [
-       "காவிரி-டெல்டா மாவட்டங்களில் மிக கனமழை",
-       "கடலூர், மயிலாடுதுறை, காரைக்கால், நாகை",
-       "திருவாரூர், தூத்துக்குடி, நெல்லையிலும் மிக கனமழை"
-      ]
-     },
-     {
-      "title": "மக்கள் கவனத்திற்கு",
-      "lines": [
-       "மழை நிலவரத்தை அவ்வப்போது கவனித்துக்கொள்ளுங்கள்",
-       "தாழ்வான பகுதியில் வசிப்போர் எச்சரிக்கையாக இருங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் 2 நாட்கள் கனமழைக்கு வாய்ப்பு உள்ளது. நவம்பர் 24, 25ஆம் தேதிகளில் சென்னையில் கனமழை பெய்ய வாய்ப்பு உள்ளதாக தனியார் வானிலை ஆய்வாளர் ஹேமச்சந்தர் தெரிவித்துள்ளார். தமிழ்நாட்டில் நவம்பர் 23ஆம் தேதி முதல் அடுத்த 5 நாட்களுக்குப் பரவலாகப் பருவமழை பெய்ய வாய்ப்பு உள்ளது. காவிரி-டெல்டா மாவட்டங்களில் மிக கனமழை பெய்யக்கூடும். கடலூர், மயிலாடுதுறை, காரைக்கால், நாகை, திருவாரூர், தூத்துக்குடி, நெல்லை ஆகிய பகுதிகளிலும் மிக கனமழைக்கு வாய்ப்பு உள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ சென்னையில் 2 நாட்கள் கனமழைக்கு வாய்ப்பு: 24, 25 தேதிகளில் மழை\n\n📰 முழு விவரம்:\nசென்னையில் வரும் 24, 25 ஆகிய தேதிகளில் கனமழைக்கு வாய்ப்புள்ளதாகத் தனியார் வானிலை ஆய்வாளர் ஹேமச்சந்தர் தெரிவித்துள்ளார்.\nதமிழ்நாட்டில் வரும் 23ஆம் தேதி முதல் அடுத்த 5 நாட்களுக்குப் பரவலாகப் பருவமழை பெய்ய வாய்ப்புள்ளதாகவும் அவர் தெரிவித்துள்ளார்.\nகாவிரி-டெல்டா மாவட்டங்களில் மிக கனமழைக்கு வாய்ப்புள்ளதாகவும், சென்னையில் 2 நாட்கள் கனமழைக்கு வாய்ப்புள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.\nகடலூர், மயிலாடுதுறை, காரைக்கால், நாகை, திருவாரூர், தூத்துக்குடி, நெல்லை ஆகியவற்றிலும் மிக கனமழைக்கு வாய்ப்புள்ளது.\n\n📍 இடம்: சென்னை\n🗓️ நாள்: நவம்பர் 24, 25 (23ஆம் தேதி முதல் 5 நாட்கள் பருவமழை)\nℹ️ மக்கள் கவனத்திற்கு: மழை நிலவரத்தை அவ்வப்போது கவனித்துக்கொள்ளுங்கள்.\n\nChennai 2 days heavy rain forecast | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiRain #மழை #ChennaiNews",
-   "prompts": "A Chennai street in the monsoon season under heavy grey clouds, with a steady rain falling on the road. Water is collecting in the low spots of the tarmac and reflecting the grey sky. Two-wheelers and an autorickshaw move slowly through the wet road with their headlights on, and a few pedestrians walk under black umbrellas, seen from behind and far away. Roadside shops and concrete buildings line both sides of the street, with the electric poles and overhead wires of the city visible above. It is daytime with dim, overcast light and the air looks heavy with rain. Shot at eye level, 35 mm, wide enough to show the whole street and the rain falling over it. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of rainwater pooling in a shallow puddle on a wet Chennai road surface, with raindrops making small rings across the water. The edge of the tarmac and a stretch of kerb are visible, with a few dead leaves floating in the water. In the background, slightly out of focus, a two-wheeler's tyre passes through the puddle and a damp drain grate lies at the roadside. The light is soft and grey from the overcast sky, showing the wet shine of the road. Shot at a low angle, 35 mm, focused on the rain-filled puddle and the falling drops. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/chennai-heavy-rain-forecast-private-weather-center",
-   "published": "2026-11-21T03:57:16Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 57 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "reel_script": "சைதாப்பேட்டை தேனாம்பேட்டை மேம்பாலத்துக்கு கூடுதலாக 50 கோடி ரூபாய் ஒதுக்கப்பட்டுள்ளது. தேனாம்பேட்டை முதல் சைதாப்பேட்டை வரை சுமார் 3 கிலோமீட்டர் தூரத்துக்கு இந்த மேம்பாலம் கட்டப்படுகிறது. அண்ணா சாலையில் நிலவும் போக்குவரத்து நெரிசலைக் குறைக்கவே இந்தப் பணி தி மு க ஆட்சியில் தொடங்கப்பட்டது. மும்பையைச் சேர்ந்த ஜெ.குமார் கட்டுமான நிறுவனம் 621 கோடி ரூபாய் மதிப்பில் இந்தப் பாலத்தைக் கட்டுகிறது. முதலில் பிப்ரவரி மாதம் பாலத்தைத் திறக்கத் திட்டமிடப்பட்டிருந்தது. ஆனால் இரவு நேரத்தில் மட்டுமே பணி செய்ய முடிந்ததால் குறித்த நேரத்தில் திறக்க முடியவில்லை. தற்போது 80 சதவீதப் பணிகளே முடிந்துள்ளன. மேம்பாலம் இறங்கும் இடத்தில் 420 மீட்டருக்குத் தூண் அமைப்பதில் சிக்கல் ஏற்பட்டதால் பணிகள் நிறுத்தப்பட்டன. பின்னர் திட்ட வடிவமைப்பை மாற்றி பணிகள் நடைபெறுகின்றன. இந்நிலையில் கூடுதல் நிதி ஒதுக்கப்பட்டதற்கு மற்ற ஒப்பந்ததாரர்கள் அதிருப்தி தெரிவித்துள்ளனர். திட்ட மதிப்பீட்டுக்கு மேல் நிதி கேட்கக்கூடாது என்றும், கேட்டால் பொறியாளரிடம் இருந்து பணம் வசூலிக்கப்படும் என்றும் முந்தைய உத்தரவு இருந்தது. கட்டுமானப் பொருள் விலை உயர்வால் பல பணிகள் தேங்கியுள்ளதாகவும், அவற்றுக்கு நிதி கேட்டும் மறுக்கப்படுவதாகவும் ஒப்பந்ததாரர்கள் கூறுகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 சைதாப்பேட்டை – தேனாம்பேட்டை மேம்பாலத்துக்கு 50 கோடி ரூபாய் கூடுதல் நிதி\n\n📰 முழு விவரம்:\nதேனாம்பேட்டை – சைதாப்பேட்டை இடையே 3 கி.மீ. மேம்பாலப் பணிகளை முடிக்க 50 கோடி ரூபாய் கூடுதல் நிதியை நெடுஞ்சாலைத்துறை ஒதுக்கியுள்ளது. அண்ணா சாலை நெரிசலைக் குறைக்க திமுக ஆட்சியில் தொடங்கப்பட்ட இப்பணியை மும்பையைச் சேர்ந்த ஜெ.குமார் நிறுவனம் 621 கோடி ரூபாயில் மேற்கொள்கிறது. பிப்ரவரியில் திறக்கத் திட்டமிடப்பட்டது, ஆனால் இரவு நேரத்தில் மட்டுமே பணி செய்ய முடிந்ததால் தாமதமானது. சட்டசபைத் தேர்தல் அறிவிப்புக்குப் பின் மே மாதம் திறக்கப்படும் என அறிவிக்கப்பட்டது. தற்போது 80 சதவீதப் பணிகளே முடிந்துள்ளன. கூடுதல் நிதி ஒதுக்கீட்டால் மற்ற ஒப்பந்ததாரர்கள் அதிருப்தி தெரிவித்து, தங்கள் பணிகளுக்கும் நிதி கேட்கின்றனர்.\n\n🗓️ திறப்பு: மே மாதம் (அறிவிக்கப்பட்டது)\n👮 முந்தைய உத்தரவு: திட்ட மதிப்பீட்டுக்கு மேல் நிதி கேட்கக்கூடாது; கேட்டால் பொறியாளரிடம் இருந்து பணம் வசூலிக்கப்படும்\n\nChennai Saidapet Teynampet flyover extra funds | Chennai news\n📍 சைதாப்பேட்டை, சென்னை | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Saidapet #ChennaiNews #சென்னை",
+   "prompts": "A row of concrete pillars and a partly built flyover deck rises above the busy Anna Salai (Mount Road) at Teynampet in Chennai city, with a crane lifting steel girders into place over the road. Below, a steady stream of two-wheelers, cars, autorickshaws and a town bus crawls through the traffic jam, while a few construction workers in helmets and high-visibility vests stand on the barricaded edge of the work zone, seen from behind and far away. Public works contractors and engineers in shirts and trousers can be seen gathered near a temporary site office at the roadside. The scene is in the evening, with street lamps glowing and the sky turning dusky blue. The photograph is taken at eye level from the pavement, with a 35 mm lens wide enough to show the flyover, the traffic and the construction site together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked concrete pillar blocks and rusted steel reinforcement bars lying beside a yellow barricade on the roadside at the Saidapet end of the flyover, with a few cement bags and a site tool box on the ground. Beyond the barricade, a blurred stream of two-wheelers and an autorickshaw passes on the busy road, and the edge of the half-built flyover deck looms overhead. A construction worker in a helmet is seen from behind, standing still near the materials. The light is soft evening light from street lamps mixed with fading daylight. The camera is slightly high, using a 35 mm lens, focused on the stacked materials with the traffic softly blurred behind them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/other-contractors-unhappy-with-additional-funding-for-saidapet-thenampet-flyover-request-for-funding-for-other-projects/4381853",
+   "published": "2026-11-20T21:16:55+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 420 ('மேம்பாலம் இறங்கும் இடத்தில், 420 மீட்டருக்கு தூண் அமைப்பதில்')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795235810/chennaiminnal/lrkecszpr9rnc76uoz0n.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795235814/chennaiminnal/ehrtxtwzckeothtjphb7.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246499/chennaiminnal/mdzyo1ma9vovdboorwmv.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246501/chennaiminnal/i1pqg2zwv7xtfqvetdbg.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "2026ஆம் ஆண்டுக்கான தொழிலாளர் நல நிதியை ஜனவரி 31க்குள் செலுத்த அறிவுறுத்தல்",
+   "english_headline": "Employers asked to pay 2026 labour welfare fund by 31 January",
+   "category": "Government & Services",
+   "location": "Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு அறிவிப்பு",
+    "loc": "சென்னை மாவட்டம்",
+    "hl1": "தொழிலாளர் நல நிதி: ஜனவரி 31க்குள்",
+    "hl2": "நிறுவனங்களுக்கு அறிவுறுத்தல்",
+    "slides": [
+     {
+      "title": "எவ்வளவு கட்டணம்?",
+      "lines": [
+       "ஒரு தொழிலாளிக்கு <b>ரூ.60</b> நல நிதி",
+       "தொழிலாளர் பங்கு <b>ரூ.20</b>, நிறுவனப் பங்கு <b>ரூ.40</b>",
+       "ஒவ்வொரு ஆண்டும் தொழிலாளர் நல வாரியத்துக்குச் செலுத்த"
+      ]
+     },
+     {
+      "title": "எப்போது செலுத்த",
+      "lines": [
+       "2026ஆம் ஆண்டுக்கான நிதியை",
+       "<b>2027 ஜனவரி 31</b>க்குள் செலுத்த வேண்டும்",
+       "நிறுவனங்களுக்கு அறிவுறுத்தப்பட்டுள்ளது"
+      ]
+     },
+     {
+      "title": "உதவித்தொகை",
+      "lines": [
+       "கல்வி, கல்வி ஊக்கத்தொகை, பாடநூல் உதவித்தொகை",
+       "2026-2027ஆம் ஆண்டுக்கு விண்ணப்பிக்கலாம்",
+       "இணையதளம்: www.lwb.tn.gov.in"
+      ]
+     },
+     {
+      "title": "விண்ணப்பம் அனுப்ப",
+      "lines": [
+       "பூர்த்தி செய்த விண்ணப்பங்களை <b>டிசம்பர் 31</b>க்குள் அனுப்புங்கள்",
+       "முகவரி: செயலாளர், தமிழ்நாடு தொழிலாளர் நல வாரியம், சென்னை-06",
+       "செய்திக்குறிப்பு வெளியிட்டவர்: வாரியச் செயலாளர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "நிறுவனங்கள் ஒரு தொழிலாளிக்கு ஆண்டுக்கு ரூ.60 நல நிதி செலுத்த வேண்டும். 2026ஆம் ஆண்டுக்கான இந்த நிதியை 2027 ஜனவரி 31ஆம் தேதிக்குள் செலுத்த வேண்டும் என அறிவுறுத்தப்பட்டுள்ளது. தமிழ்நாடு தொழிலாளர் நல நிதி சட்டத்தின்படி, தொழிற்சாலைகள், கடைகள், மோட்டார் போக்குவரத்து நிறுவனங்கள், உணவு நிறுவனங்கள் மற்றும் தோட்ட நிறுவனங்களில் பணிபுரியும் தொழிலாளர்களுக்கு இது பொருந்தும். தொழிலாளர் பங்கு ரூ.20, நிறுவனத்தின் பங்கு ரூ.40 ஆகும். இதை தொழிலாளர் நல வாரியத்துக்குச் செலுத்த வேண்டும். தொழிலாளர் நல வாரியத்தில் 2026-2027ஆம் ஆண்டுக்கான கல்வி உதவித்தொகை, கல்வி ஊக்கத்தொகை மற்றும் பாடநூல் உதவித்தொகைக்கு விண்ணப்பிக்கலாம். விண்ணப்பங்களை www.lwb.tn.gov.in இணையதளத்தில் பதிவிறக்கம் செய்யலாம். பூர்த்தி செய்த விண்ணப்பங்களை அடுத்த மாதம் டிசம்பர் 31ஆம் தேதிக்குள் செயலாளர், தமிழ்நாடு தொழிலாளர் நல வாரியம், சென்னை-06 என்ற முகவரிக்கு அனுப்ப வேண்டும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📢 தொழிலாளர் நல நிதியை ஜனவரி 31க்குள் செலுத்த நிறுவனங்களுக்கு அறிவுறுத்தல்\n\n📰 முழு விவரம்:\n2026ஆம் ஆண்டுக்கான தொழிலாளர் நல நிதியை 2027 ஜனவரி 31ஆம் தேதிக்குள் நிறுவனங்கள் செலுத்த வேண்டும் என அறிவுறுத்தப்பட்டுள்ளது. தமிழ்நாடு தொழிலாளர் நல நிதி சட்டத்தின்படி, தொழிற்சாலைகள், கடைகள், மோட்டார் போக்குவரத்து, உணவு மற்றும் தோட்ட நிறுவனங்களில் பணிபுரியும் ஒவ்வொரு தொழிலாளிக்கும் ரூ.60 கணக்கிடப்படும். தொழிலாளர் பங்கு ரூ.20, நிறுவனத்தின் பங்கு ரூ.40.\n💰 தொகை: ஒவ்வொரு தொழிலாளிக்கும் ஆண்டுக்கு ரூ.60\n🗓️ கடைசி நாள்: 2027 ஜனவரி 31\n🎓 உதவித்தொகை: 2026-2027ஆம் ஆண்டுக்கான கல்வி உதவித்தொகை, கல்வி ஊக்கத்தொகை, பாடநூல் உதவித்தொகைக்கு விண்ணப்பிக்கலாம். விண்ணப்பங்களை www.lwb.tn.gov.in இணையதளத்தில் பதிவிறக்கலாம்.\n📮 விண்ணப்பம் அனுப்ப கடைசி நாள்: டிசம்பர் 31. முகவரி: செயலாளர், தமிழ்நாடு தொழிலாளர் நல வாரியம், சென்னை-06\n\nTamil Nadu labour welfare fund 2026 due January 31 | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #தொழிலாளர்நலம்",
+   "prompts": "A Labour Welfare Board office in Chennai, with a clerk at a desk in a government office stacking application forms and a file marked for the fund. Office workers and a few employees, seen from behind, stand near a counter in a plain government hall with ceiling fans and tube lights. The wall calendar shows the turn of the year, and a stack of neatly bundled forms sits on the desk. Factory and shop workers in shirts and trousers, and a few in sarees, wait in a short queue at the counter, while a shop owner in a shirt holds a folder. Time is midday in daylight from the tall windows. Camera at eye level, 35 mm, wide enough to show the whole hall. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat wooden desk in a government office with a stack of printed application forms for education and scholarship grants, a blue pen, a stamp pad and a few rupee notes beside a bundle of paper. The papers are slightly fanned out, with a pen resting across the top sheet. Behind the desk, the edge of a steel almirah and a file tray are visible in soft focus. Daylight comes through a window from the left, giving a warm, even light. Camera slightly high, 35 mm, shallow depth of field so the forms stay sharp. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/companies-instructed-to-pay-the-2026-labor-welfare-fund-by-january",
+   "published": "2026-11-21T03:39:58Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has English words (gov, in, lwb, tn) - the voice cannot read them; write them in Tamil letters; reel_script must have no English letters (write English words and abbreviations in Tamil script); source/outlet name or link appears: www.; slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area); known issue english_in_voice: voice script has English words the voice skips (gov, in, lwb, tn) - rewrite so it does not happen again",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 5 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246507/chennaiminnal/x3voiqadzxucravmzqni.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246511/chennaiminnal/oudcpjw6pqicxnjbjzcl.jpg"
    ]
   }
  ]
