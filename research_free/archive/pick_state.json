@@ -499,7 +499,8 @@
     "https://www.dinakaran.com/news/tamil-nadu-nov-23-26-districts-receive-heavy-rain-meteorological-department-informs",
     "https://www.dinakaran.com/news/for-heavy-rain-in-districts-of-tamil-nadu-on-nov-23-and-26"
    ],
-   "listed_at": "2026-11-21T17:01:29.414679+05:30"
+   "listed_at": "2026-11-21T17:01:29.414679+05:30",
+   "picked_at": "2026-11-21T17:04:31.647797+05:30"
   },
   "C4cc4e2d": {
    "id": "C4cc4e2d",
@@ -511,7 +512,8 @@
    "category": "குற்றம்",
    "score": 11.83,
    "power_cut": false,
-   "listed_at": "2026-11-21T17:01:29.414679+05:30"
+   "listed_at": "2026-11-21T17:01:29.414679+05:30",
+   "picked_at": "2026-11-21T17:04:31.647801+05:30"
   },
   "Cafd1cc0": {
    "id": "Cafd1cc0",
@@ -523,7 +525,8 @@
    "category": "குற்றம்",
    "score": 10.83,
    "power_cut": false,
-   "listed_at": "2026-11-21T17:01:29.414679+05:30"
+   "listed_at": "2026-11-21T17:01:29.414679+05:30",
+   "picked_at": "2026-11-21T17:04:31.647802+05:30"
   },
   "C2915562": {
    "id": "C2915562",
@@ -535,7 +538,8 @@
    "category": "குற்றம்",
    "score": 10.83,
    "power_cut": false,
-   "listed_at": "2026-11-21T17:01:29.414679+05:30"
+   "listed_at": "2026-11-21T17:01:29.414679+05:30",
+   "picked_at": "2026-11-21T17:04:31.647804+05:30"
   },
   "C10424a8": {
    "id": "C10424a8",
@@ -559,7 +563,8 @@
    "category": "விபத்து",
    "score": 10.34,
    "power_cut": false,
-   "listed_at": "2026-11-21T17:01:29.414679+05:30"
+   "listed_at": "2026-11-21T17:01:29.414679+05:30",
+   "picked_at": "2026-11-21T17:04:31.647800+05:30"
   },
   "Cce27768": {
    "id": "Cce27768",
@@ -2783,8 +2788,24 @@
    ],
    "sent": false,
    "deadline": "2026-11-21T18:01:29.414679+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 55 by insights",
+    "ids": [
+     "Cd55344d",
+     "C942e3cd",
+     "C4cc4e2d",
+     "Cafd1cc0",
+     "C2915562"
+    ],
+    "at": "2026-11-21T17:04:31.647784+05:30"
+   },
+   "written": [
+    "C2915562",
+    "C4cc4e2d",
+    "C942e3cd",
+    "Cafd1cc0",
+    "Cd55344d"
+   ]
   }
  },
  "retry": {}
