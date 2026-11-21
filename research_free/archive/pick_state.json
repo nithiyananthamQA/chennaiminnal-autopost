@@ -798,7 +798,8 @@
    "category": "சாலை",
    "score": 10.16,
    "power_cut": false,
-   "listed_at": "2026-11-22T01:01:22.253828+05:30"
+   "listed_at": "2026-11-22T01:01:22.253828+05:30",
+   "picked_at": "2026-11-22T01:04:30.370299+05:30"
   },
   "C0e9dadc": {
    "id": "C0e9dadc",
@@ -810,7 +811,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T01:01:22.253828+05:30"
+   "listed_at": "2026-11-22T01:01:22.253828+05:30",
+   "picked_at": "2026-11-22T01:04:30.370302+05:30"
   },
   "Cf02d21f": {
    "id": "Cf02d21f",
@@ -2791,8 +2793,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-22T02:01:22.253828+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 2 of 58 by insights",
+    "ids": [
+     "C386baa3",
+     "C0e9dadc"
+    ],
+    "at": "2026-11-22T01:04:30.370288+05:30"
+   },
+   "written": [
+    "C0e9dadc",
+    "C386baa3"
+   ]
   }
  },
  "retry": {}
