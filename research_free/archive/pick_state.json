@@ -560,7 +560,8 @@
    "category": "விபத்து",
    "score": 10.34,
    "power_cut": false,
-   "listed_at": "2026-11-21T21:01:46.961307+05:30"
+   "listed_at": "2026-11-21T21:01:46.961307+05:30",
+   "picked_at": "2026-11-21T21:05:19.998201+05:30"
   },
   "C397a4cc": {
    "id": "C397a4cc",
@@ -572,7 +573,8 @@
    "category": "குற்றம்",
    "score": 10.34,
    "power_cut": false,
-   "listed_at": "2026-11-21T21:01:46.961307+05:30"
+   "listed_at": "2026-11-21T21:01:46.961307+05:30",
+   "picked_at": "2026-11-21T21:05:19.998207+05:30"
   },
   "Cff01f5a": {
    "id": "Cff01f5a",
@@ -584,7 +586,8 @@
    "category": "பொது",
    "score": 10.27,
    "power_cut": false,
-   "listed_at": "2026-11-21T21:01:46.961307+05:30"
+   "listed_at": "2026-11-21T21:01:46.961307+05:30",
+   "picked_at": "2026-11-21T21:05:19.998210+05:30"
   },
   "Cbbf04ee": {
    "id": "Cbbf04ee",
@@ -596,7 +599,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-21T21:01:46.961307+05:30"
+   "listed_at": "2026-11-21T21:01:46.961307+05:30",
+   "picked_at": "2026-11-21T21:05:19.998214+05:30"
   },
   "Cdb4bec6": {
    "id": "Cdb4bec6",
@@ -2825,8 +2829,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-21T22:01:46.961307+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 4 of 59 by insights",
+    "ids": [
+     "C6fcb432",
+     "C397a4cc",
+     "Cff01f5a",
+     "Cbbf04ee"
+    ],
+    "at": "2026-11-21T21:05:19.998182+05:30"
+   },
+   "written": [
+    "C397a4cc",
+    "C6fcb432",
+    "Cbbf04ee",
+    "Cff01f5a"
+   ]
   }
  },
  "retry": {}
