@@ -1,249 +1,67 @@
-06:25:59 round 2026-11-21_06: news published 21 Nov 05:01 -> 21 Nov 06:25 (தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Chennai)
-06:25:59 insights 2026-11-21T06:25+05:30 (139 reels): topic weights {'accident': 1.5, 'civic': 0.11, 'crime': -0.18, 'education': -0.48, 'jobs': -0.18, 'politics': 0.27, 'poultry_agri': 0.32, 'power_cut': 1.32, 'sports_culture': -0.29, 'temple': -0.31, 'weather': -0.12}; best openings ['🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை', '🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது']
-06:26:16 தினகரன் சென்னை list failed: 404 Client Error: Not Found for url: https://www.dinakaran.com/district/chennai/
-06:26:16 35 links on the two papers' Chennai pages
-06:26:30 skipped: published before this window=8, already posted=5, same event already posted=4, only a headline=1
-06:26:32 list: 1 new + 64 earlier news not posted yet
-06:26:32    1. [நீதிமன்றம்] பரந்தூர் விமான நிலையத் திட்டத்தை கைவிட்டது ஏன்? - மத்திய, மாநில அரசுகள (இந்து தமிழ்)
-06:26:32    2. [குற்றம்] போரூர் தி.மு.க., வட்ட செயலர் மகன் தற்கொலை (தினமலர்) (earlier)
-06:26:32    3. [குற்றம்] வெவ்வேறு சம்பவங்களில் 4 பேர் தூக்கிட்டு தற்கொலை (தினமலர்) (earlier)
-06:26:32    4. [பொது] ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம் (தினமலர்) (earlier)
-06:26:32    5. [ஆன்மிகம்] சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு.. (பாலிமர்) (earlier)
-06:26:32    6. [பொது] செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன் குடும்பத (மாலைமலர்) (earlier)
-06:26:32    7. [ரயில்] தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்தில் நெரிசல (தினமலர்) (earlier)
-06:26:32    8. [ரயில்] தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்தில் நெரிசல (தினமலர்) (earlier)
-06:26:32    9. [மாநகராட்சி] விருகை, நுங்கை பள்ளி அணிகள் மாநகராட்சி தடகளத்தில் ‘சாம்பியன்’ (தினமலர்) (earlier)
-06:26:32   10. [பொது] Survival Mode-ல் தவிக்கும் விவசாயிகளுக்கு, Silent Mode-ல் உள்ள CM-இன்  (தினகரன்) (earlier)
-06:26:32   11. [பொது] சென்னை வருகிறார் துணை ஜனாதிபதி; 2 நாட்கள் போக்குவரத்தில் மாற்றம் (தினமலர்) (earlier)
-06:26:32   12. [பொது] ‘கட்கா’ தேசிய தற்காப்பு கலை போட்டியில் வெள்ளி பதக்கம்: எண்ணூர் மாணவி அ (தினமலர்) (earlier)
-06:26:32   13. [சாலை] நெடுஞ்சாலை துறையிடம் ஓ.எம்.ஆர்., சாலை மேம்பாட்டு நிறுவனம் முடிவு (தினமலர்) (earlier)
-06:26:32   14. [கல்வி] அரசுக் கல்லூரி மூத்த முதல்வர் ஒருவரை கல்லூரிக் கல்வி இயக்குநராக நியமிக (இந்து தமிழ்) (earlier)
-06:26:32   15. [பொது] தமிழ்நாட்டில் 6 மாவட்டங்களில் நவம்பர் 22ம் தேதி சிறப்புப் போலியோ சொட்ட (தினகரன்) (earlier)
-06:26:32   16. [பொது] யுபிஎஸ்சி ஆளுமைத் தோ்வு: உதவித்தொகை பெற விண்ணப்பிக்கலாம் (தினமணி) (earlier)
-06:26:32   17. [விலை] GOLD PRICE TODAY: தங்கப் பிரியர்களுக்கு சரவெடி கொண்டாட்டம்... சவரனுக்க (மாலைமலர்) (earlier)
-06:26:32   18. [பொது] தமிழகத்தில் சினிமா படப்பிடிப்புக்கு இனி ஆன்லைனில் அனுமதி - அரசு புதிய  (தினத்தந்தி) (earlier)
-06:26:32   19. [கல்வி] பள்ளி மாணவர்களுக்கு ஐ.ஐ.டி., பயிற்சி (தினமலர்) (earlier)
-06:26:32   20. [பொது] நகர்ப்புற உள்ளாட்சியில் 4,758 பணிகளை மேற்கொள்ள ரூ.1,019 கோடி ஒதுக்கீடு (தினத்தந்தி) (earlier)
-06:26:32   21. [பொது] சென்னை: கல்பாக்கம் அணு மின் நிலையத்தில் அவசர கால தயார் நிலை ஒத்திகை (தினத்தந்தி) (earlier)
-06:26:32   22. [நீதிமன்றம்] திருப்பரங்குன்றம் விவகாரத்தில் உச்சநீதிமன்றத்தின் இடைக்கால உத்தரவு ஆழ் (தினகரன்) (earlier)
-06:26:32   23. [பொது] சமூக வலைத்தளங்களில் பரவும் தகவலால் பரபரப்பு; தங்கத்தில் ரீனியம் என்ற வ (தினகரன்) (earlier)
-06:26:32   24. [பொது] சா்க்கரை நோயால் கால் அகற்றம்: 20 விநாடிகளுக்கு ஒருவா் பாதிப்பு (தினமணி) (earlier)
-06:26:32   25. [பொது] சைதாப்பேட்டை – தேனாம்பேட்டை மேம்பால பணிக்கு கூடுதல் நிதி ஒதுக்கீட்டால் (தினமலர்) (earlier)
-06:26:32   26. [நீதிமன்றம்] சென்னை உயர்நீதிமன்றத்தில் இன்று (நவ.20) எந்தெந்த வழக்குகள் விசாரணை? (தினமணி) (earlier)
-06:26:32   27. [பொது] கடலூர் – சென்னைக்கு பஸ் வசதியின்றி மக்கள் தவிப்பு (தினமலர்) (earlier)
-06:26:32   28. [பொது] துணை ஜனாதிபதி வருகையால் கனரக வாகனங்களுக்கு கட்டுப்பாடு (தினமலர்) (earlier)
-06:26:32   29. [பொது] கொளத்தூர் எம்எல்ஏ வி.எஸ். பாபு மறைவு: அமைச்சர் அருண்ராஜ் இரங்கல் (தினமணி) (earlier)
-06:26:32   30. [பொது] திருப்பரங்குன்றம் கல்தூணில் 2 மணி நேரம் தீபம் ஏற்றுவதால் யாருக்கு என்ன (இந்து தமிழ்) (earlier)
-06:26:32   31. [பொது] சபரிமலை: இணையவழி முன்பதிவில் கூடுதலாக 5,000 பக்தா்களுக்கு அனுமதி (தினமணி) (earlier)
-06:26:32   32. [பொது] இன்று இனிதாக: சென்னை (தினமலர்) (earlier)
-06:26:32   33. [நீதிமன்றம்] புத்தகங்கள் கொள்முதல் முறைகேடு தொடா்பாக அரசு அதிகாரிகள் மீது ஏன் வழக்க (தினமணி) (earlier)
-06:26:32   34. [பொது] கடன் மூலம் கறுப்பு பணம் வெள்ளையாகும் அபாயம்: வங்கிகள் எச்சரிக்கையுடன்  (இந்து தமிழ்) (earlier)
-06:26:32   35. [பொது] பெரியார் அறிவுலக புத்தக கொள்முதல் முறைகேடு: திமுக தொடர்ந்த வழக்கு விசா (இந்து தமிழ்) (earlier)
-06:26:32   36. [பொது] “Guidance TN விவகாரத்தில் முதல்வர், தொழில்துறை அமைச்சர் விளக்கம் அளிக் (இந்து தமிழ்) (earlier)
-06:26:32   37. [பொது] எம்.எல்.ஏ.க்கள் ராஜினாமா-வி.எஸ்.பாபு மறைவு: தமிழகத்தில் 6 சட்டமன்ற தொக (மாலைமலர்) (earlier)
-06:26:32   38. [பொது] வி.எஸ். பாபுவின் உடல் இன்று மாலை நல்லடக்கம்! (தினமணி) (earlier)
-06:26:32   39. [பொது] உலக வங்கி கடன் கொடுத்த ரூ.15 கோடி மாயம்! - சி.எம்.டி.ஏ.வில் பரபரப்பு (தினத்தந்தி) (earlier)
-06:26:32   40. [பொது] 108 ஆம்புலன்ஸ் பணியாளர்களை உடனே அரசு ஊழியர்களாக அறிவிக்க வேண்டும்: அன் (தினத்தந்தி) (earlier)
-06:26:32   41. [பொது] வி.எஸ்.பாபு உடல் இன்று மாலை தகனம்: பொதுமக்கள் - தலைவர்கள் இறுதி அஞ்சலி (மாலைமலர்) (earlier)
-06:26:32   42. [பொது] பெற்ற உரிமைகளை காப்போம்; மறுக்கப்படும் உரிமைகளை வெல்வோம் - மு.க.ஸ்டாலி (தினத்தந்தி) (earlier)
-06:26:32   43. [பொது] “தமிழகத்துக்கு தொழில் முதலீடுகளை ஈர்க்கும் முகமையில் 15 பணியாளர்கள் நீ (இந்து தமிழ்) (earlier)
-06:26:32   44. [பொது] சென்னையில் எனக்கு பிடித்த சைவ உணவகம் - இசையமைப்பாளர் அனிருத் (மாலைமலர்) (earlier)
-06:26:32   45. [பொது] மதுபிரியர்களுக்கு மகிழ்ச்சி செய்தி.. 742 டாஸ்மாக் கடைகளில் விற்பனைக்கு (தினத்தந்தி) (earlier)
-06:26:32   46. [பொது] கைடன்ஸ் டிஎன் ஊழியர்களை களங்கப்படுத்துவதா? இபிஎஸ் கேள்வி (தினமலர்) (earlier)
-06:26:32   47. [பொது] திருப்பரங்குன்றம் வழக்கில் சீராய்வு மனு தாக்கல் செய்ய தமிழக அரசுக்கு இ (இந்து தமிழ்) (earlier)
-06:26:32   48. [பொது] பரந்தூர் விமான நிலைய திட்டத்தை பாதியில் எப்படி கைவிட முடியும்?: தமிழக  (தினகரன்) (earlier)
-06:26:32   49. [நீதிமன்றம்] “திருப்பரங்குன்றம் வழக்கில் நீதி வென்றது” - உச்ச நீதிமன்ற உத்தரவுக்கு  (இந்து தமிழ்) (earlier)
-06:26:32   50. [பொது] சென்னை- டெல்லி ஏர் இந்தியா விமானம் ஐந்தரை மணி நேரம் தாமதம்: பயணிகள் தவ (தினத்தந்தி) (earlier)
-06:26:32   51. [பொது] தொழில் முதலீடுகளை ஈர்க்கும் Guidance TN முகமையில் நடப்பது என்ன? 15 பணி (தினகரன்) (earlier)
-06:26:32   52. [பொது] ‘ஒருமுறை’ தீபம் ஏற்ற அனுமதி: ஸ்டாலின் முதல் அண்ணாமலை வரை கூறிய கருத்து (இந்து தமிழ்) (earlier)
-06:26:32   53. [பொது] திருப்பரங்குன்றம் தீப தீா்ப்பு: தலைவா்கள் கருத்து (தினமணி) (earlier)
-06:26:32   54. [பொது] ஊபா் நிறுவனத்தில் ஓட்டுநா்கள் உள்ளிருப்புப் போராட்டம் (தினமணி) (earlier)
-06:26:32   55. [பொது] முதியோர் இல்லம் மகளிர் விடுதிகளுக்கு உரிமம் கட்டாயம் (தினமலர்) (earlier)
-06:26:32   56. [பொது] கலப்பட மணல் பதுக்கி வைத்திருந்த கிடங்குகளுக்கு சீல்.. (பாலிமர்) (earlier)
-06:26:32   57. [பொது] விடுதலை போராட்ட வீரர் சின்ன அண்ணாமலை பற்றிய நூல் வெளியீடு (தினமலர்) (earlier)
-06:26:32   58. [பொது] வடசென்னை - 3 அனல் மின் நிலையத்தில் 2 மாதங்கள் மின் உற்பத்தி நிறுத்தம் (தினமணி) (earlier)
-06:26:32   59. [பொது] திட்டப் பணிகள் குறித்து வாரந்தோறும் அறிக்கை: குடிநீா் வாரிய அதிகாரிகளு (தினமணி) (earlier)
-06:26:32   60. [பொது] வர்த்தக, தொழில் சம்மேளனம் - ஜப்பான் குழு சந்திப்பு (தினமணி) (earlier)
-06:26:32   61. [பொது] ‘பவன்ஸ் மார்கழி மஹோத்சவ’ விழா தொடக்கம் (தினமலர்) (earlier)
-06:26:32   62. [பொது] சென்னையில் பிளம்பிங் கருத்தரங்கு (தினமலர்) (earlier)
-06:26:32   63. [பொது] ‘டாஸ்மாக்’ ஊழியர்கள் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
-06:26:32   64. [பொது] இழப்பு! சி.எம்.டி.ஏ.,வுக்கு 8 ஆண்டுகளில் ரூ.91 கோடி... பணி நிறைவு சான் (தினமலர்) (earlier)
-06:26:32   65. [பொது] “முதல்வர் மருந்தகங்களில் உயிர் காக்கும் மருந்து தட்டுப்பாடு” - தினகரன் (இந்து தமிழ்) (earlier)
-06:26:32 automatic pick (owner 2 Nov): no e-mail - the top 8 are written at once
-ROUND=2026-11-21_06
-06:26:34    not picked automatically (suicide / obituary - only when the owner ticks it): வெவ்வேறு சம்பவங்களில் 4 பேர் தூக்கிட்டு தற்கொலை
-06:26:34    not picked automatically (suicide / obituary - only when the owner ticks it): போரூர் தி.மு.க., வட்ட செயலர் மகன் தற்கொலை
-06:26:34    not picked automatically (ceremony / award / awareness event (low views)): விருகை, நுங்கை பள்ளி அணிகள் மாநகராட்சி தடகளத்தில் ‘சாம்பியன்’
-06:26:34    not picked automatically (suicide / obituary - only when the owner ticks it): கொளத்தூர் எம்எல்ஏ வி.எஸ். பாபு மறைவு: அமைச்சர் அருண்ராஜ் இரங்கல்
-06:26:34    not picked automatically (suicide / obituary - only when the owner ticks it): எம்.எல்.ஏ.க்கள் ராஜினாமா-வி.எஸ்.பாபு மறைவு: தமிழகத்தில் 6 சட்டமன்ற தொக
-06:26:34    not picked automatically (ceremony / shopping feature - only when the owner ticks it): சென்னையில் பிளம்பிங் கருத்தரங்கு
-06:26:34    not picked automatically (suicide / obituary - only when the owner ticks it): வி.எஸ்.பாபு உடல் இன்று மாலை தகனம்: பொதுமக்கள் - தலைவர்கள் இறுதி அஞ்சலி
-06:26:34 round 2026-11-21_06 (at least 5, up to 3 more of well-watched topics): 58 news to choose from (57 from earlier rounds), ranked by this page's insights
-06:26:34   PICK   1.   9.0 [other +0.00 pattern] (earlier) தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:26:34   PICK   2.   8.5 [other +0.00 pattern] (earlier) ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-06:26:34   PICK   3.   8.0 [other +0.00 pattern] (earlier) செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-06:26:34   PICK   4.   8.0 [other +0.00 pattern] (earlier) தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:26:34   PICK   5.   7.3 [temple -0.31 page] (earlier) சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-06:26:34          6.   7.2 [politics +0.27 page] (earlier) அரசுக் கல்லூரி மூத்த முதல்வர் ஒருவரை கல்லூரிக் கல்வி இயக்குந
-06:26:34          7.   7.1 [politics +0.27 page] (earlier) Survival Mode-ல் தவிக்கும் விவசாயிகளுக்கு, Silent Mode-ல் உள
-06:26:34          8.   7.0 [other +0.00 pattern] (earlier) சென்னை வருகிறார் துணை ஜனாதிபதி; 2 நாட்கள் போக்குவரத்தில் மாற
-06:26:34          9.   6.5 [other +0.00 pattern] (earlier) யுபிஎஸ்சி ஆளுமைத் தோ்வு: உதவித்தொகை பெற விண்ணப்பிக்கலாம்
-06:26:34         10.   6.2 [civic +0.11 page] (earlier) நெடுஞ்சாலை துறையிடம் ஓ.எம்.ஆர்., சாலை மேம்பாட்டு நிறுவனம் மு
-06:26:34         11.   5.8 [sports_culture -0.29 page] (earlier) ‘கட்கா’ தேசிய தற்காப்பு கலை போட்டியில் வெள்ளி பதக்கம்: எண்ணூ
-06:26:34         12.   5.5 [other +0.00 pattern] (earlier) சா்க்கரை நோயால் கால் அகற்றம்: 20 விநாடிகளுக்கு ஒருவா் பாதிப்
-06:26:34         13.   5.2 [poultry_agri +0.32 page] (earlier) GOLD PRICE TODAY: தங்கப் பிரியர்களுக்கு சரவெடி கொண்டாட்டம்..
-06:26:34         14.   5.0 [other +0.00 pattern] (earlier) தமிழ்நாட்டில் 6 மாவட்டங்களில் நவம்பர் 22ம் தேதி சிறப்புப் போ
-06:26:34         15.   5.0 [other +0.00 pattern] (earlier) சென்னை: கல்பாக்கம் அணு மின் நிலையத்தில் அவசர கால தயார் நிலை 
-06:26:34         16.   5.0 [other +0.00 pattern] (earlier) சைதாப்பேட்டை – தேனாம்பேட்டை மேம்பால பணிக்கு கூடுதல் நிதி ஒது
-06:26:34         17.   5.0 [other +0.00 pattern] பரந்தூர் விமான நிலையத் திட்டத்தை கைவிட்டது ஏன்? - மத்திய, மா
-06:26:34         18.   4.5 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் விவகாரத்தில் உச்சநீதிமன்றத்தின் இடைக்கால உ
-06:26:34         19.   4.5 [other +0.00 pattern] (earlier) சமூக வலைத்தளங்களில் பரவும் தகவலால் பரபரப்பு; தங்கத்தில் ரீனி
-06:26:34         20.   4.5 [other +0.00 pattern] (earlier) துணை ஜனாதிபதி வருகையால் கனரக வாகனங்களுக்கு கட்டுப்பாடு
-06:26:34         21.   4.3 [sports_culture -0.29 page] (earlier) தமிழகத்தில் சினிமா படப்பிடிப்புக்கு இனி ஆன்லைனில் அனுமதி - அ
-06:26:34         22.   4.1 [education -0.48 page] (earlier) பள்ளி மாணவர்களுக்கு ஐ.ஐ.டி., பயிற்சி
-06:26:34         23.   4.0 [other +0.00 pattern] (earlier) நகர்ப்புற உள்ளாட்சியில் 4,758 பணிகளை மேற்கொள்ள ரூ.1,019 கோடி
-06:26:34         24.   4.0 [other +0.00 pattern] (earlier) கடலூர் – சென்னைக்கு பஸ் வசதியின்றி மக்கள் தவிப்பு
-06:26:34         25.   3.9 [poultry_agri +0.32 page] (earlier) புத்தகங்கள் கொள்முதல் முறைகேடு தொடா்பாக அரசு அதிகாரிகள் மீது
-06:26:34         26.   3.5 [other +0.00 pattern] (earlier) சபரிமலை: இணையவழி முன்பதிவில் கூடுதலாக 5,000 பக்தா்களுக்கு அன
-06:26:34         27.   3.5 [other +0.00 pattern] (earlier) இன்று இனிதாக: சென்னை
-06:26:34         28.   3.0 [other +0.00 pattern] (earlier) திட்டப் பணிகள் குறித்து வாரந்தோறும் அறிக்கை: குடிநீா் வாரிய 
-06:26:34         29.   3.0 [other +0.00 pattern] (earlier) வர்த்தக, தொழில் சம்மேளனம் - ஜப்பான் குழு சந்திப்பு
-06:26:34         30.   2.5 [other +0.00 pattern] (earlier) சென்னை உயர்நீதிமன்றத்தில் இன்று (நவ.20) எந்தெந்த வழக்குகள் வ
-06:26:34         31.   2.5 [other +0.00 pattern] (earlier) ஊபா் நிறுவனத்தில் ஓட்டுநா்கள் உள்ளிருப்புப் போராட்டம்
-06:26:34         32.   2.5 [other +0.00 pattern] (earlier) வடசென்னை - 3 அனல் மின் நிலையத்தில் 2 மாதங்கள் மின் உற்பத்தி 
-06:26:34         33.   2.5 [other +0.00 pattern] (earlier) ‘டாஸ்மாக்’ ஊழியர்கள் ஆர்ப்பாட்டம்
-06:26:34         34.   2.5 [other +0.00 pattern] (earlier) இழப்பு! சி.எம்.டி.ஏ.,வுக்கு 8 ஆண்டுகளில் ரூ.91 கோடி... பணி ந
-06:26:34         35.   2.1 [politics +0.27 page] (earlier) “Guidance TN விவகாரத்தில் முதல்வர், தொழில்துறை அமைச்சர் விளக
-06:26:34         36.   2.0 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் வழக்கில் சீராய்வு மனு தாக்கல் செய்ய தமிழக 
-06:26:34         37.   2.0 [other +0.00 pattern] (earlier) “திருப்பரங்குன்றம் வழக்கில் நீதி வென்றது” - உச்ச நீதிமன்ற உத
-06:26:34         38.   2.0 [other +0.00 pattern] (earlier) சென்னை- டெல்லி ஏர் இந்தியா விமானம் ஐந்தரை மணி நேரம் தாமதம்: 
-06:26:34         39.   2.0 [other +0.00 pattern] (earlier) ‘ஒருமுறை’ தீபம் ஏற்ற அனுமதி: ஸ்டாலின் முதல் அண்ணாமலை வரை கூற
-06:26:34         40.   2.0 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் தீப தீா்ப்பு: தலைவா்கள் கருத்து
-06:26:34         41.   2.0 [other +0.00 pattern] (earlier) விடுதலை போராட்ட வீரர் சின்ன அண்ணாமலை பற்றிய நூல் வெளியீடு
-06:26:34         42.   2.0 [other +0.00 pattern] (earlier) ‘பவன்ஸ் மார்கழி மஹோத்சவ’ விழா தொடக்கம்
-06:26:34         43.   1.6 [politics +0.27 page] (earlier) பெரியார் அறிவுலக புத்தக கொள்முதல் முறைகேடு: திமுக தொடர்ந்த வ
-06:26:34         44.   1.5 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் கல்தூணில் 2 மணி நேரம் தீபம் ஏற்றுவதால் யார
-06:26:34         45.   1.5 [other +0.00 pattern] (earlier) “தமிழகத்துக்கு தொழில் முதலீடுகளை ஈர்க்கும் முகமையில் 15 பணிய
-06:26:34         46.   1.5 [other +0.00 pattern] (earlier) சென்னையில் எனக்கு பிடித்த சைவ உணவகம் - இசையமைப்பாளர் அனிருத்
-06:26:34         47.   1.5 [other +0.00 pattern] (earlier) மதுபிரியர்களுக்கு மகிழ்ச்சி செய்தி.. 742 டாஸ்மாக் கடைகளில் வ
-06:26:34         48.   1.5 [other +0.00 pattern] (earlier) தொழில் முதலீடுகளை ஈர்க்கும் Guidance TN முகமையில் நடப்பது என
-06:26:34         49.   1.5 [other +0.00 pattern] (earlier) முதியோர் இல்லம் மகளிர் விடுதிகளுக்கு உரிமம் கட்டாயம்
-06:26:34         50.   1.5 [other +0.00 pattern] (earlier) கலப்பட மணல் பதுக்கி வைத்திருந்த கிடங்குகளுக்கு சீல்..
-06:26:34         51.   1.0 [other +0.00 pattern] (earlier) 108 ஆம்புலன்ஸ் பணியாளர்களை உடனே அரசு ஊழியர்களாக அறிவிக்க வேண
-06:26:34         52.   1.0 [other +0.00 pattern] (earlier) பெற்ற உரிமைகளை காப்போம்; மறுக்கப்படும் உரிமைகளை வெல்வோம் - ம
-06:26:34         53.   1.0 [other +0.00 pattern] (earlier) கைடன்ஸ் டிஎன் ஊழியர்களை களங்கப்படுத்துவதா? இபிஎஸ் கேள்வி
-06:26:34         54.   1.0 [other +0.00 pattern] (earlier) பரந்தூர் விமான நிலைய திட்டத்தை பாதியில் எப்படி கைவிட முடியும
-06:26:34         55.   0.8 [crime -0.18 page] (earlier) “முதல்வர் மருந்தகங்களில் உயிர் காக்கும் மருந்து தட்டுப்பாடு”
-06:26:34         56.   0.5 [weather -0.12 page] (earlier) கடன் மூலம் கறுப்பு பணம் வெள்ளையாகும் அபாயம்: வங்கிகள் எச்சரி
-06:26:34         57.   0.5 [other +0.00 pattern] (earlier) வி.எஸ். பாபுவின் உடல் இன்று மாலை நல்லடக்கம்!
-06:26:34         58.   0.5 [other +0.00 pattern] (earlier) உலக வங்கி கடன் கொடுத்த ரூ.15 கோடி மாயம்! - சி.எம்.டி.ஏ.வில் 
-06:26:34 decided: automatic: top 5 of 58 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/commuters-suffer-as-auto-rickshaws-stop-at-central-railway-station-for-demanding-extra-fare/4382112 https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/si-dies-of-heart-attack-in-i-court-complex/4381475 https://www.maalaimalar.com/news/tamilnadu/custodial-death-in-chekkanurani-madurai-bench-high-court-orders-that-cctv-footage-be-shown-to-the-family https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/frequent-autos-crowd-central-railway-station-passengers-suffer-due-to-demand-for-extra-fee/4381607 https://www.polimernews.com/districtnews/recovery-of-temple-lands-worth-rs-3018-crore-in-chennai-12826455
-06:28:12 2 picked news refused by the writer - not offered again
-06:28:12 3 listed news now in the Sheet
-06:28:21 instagram duplicate check chennai: 50 recent posts read
-06:28:21 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:28:21    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:28:21    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-06:28:21    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:28:21    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-06:28:21    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-06:33:26 instagram duplicate check chennai: 50 recent posts read
-06:33:26 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:33:26    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:33:26    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-06:33:26    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:33:26    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-06:33:26    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-06:38:32 instagram duplicate check chennai: 50 recent posts read
-06:38:32 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:38:32    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:38:32    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-06:38:32    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:38:32    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-06:38:32    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-06:43:38 instagram duplicate check chennai: 50 recent posts read
-06:43:38 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:43:38    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:43:38    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-06:43:38    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:43:38    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-06:43:38    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-06:48:44 instagram duplicate check chennai: 50 recent posts read
-06:48:44 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:48:44    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:48:44    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-06:48:44    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:48:44    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-06:48:44    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-06:53:50 instagram duplicate check chennai: 50 recent posts read
-06:53:50 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:53:50    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:53:50    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-06:53:50    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:53:50    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-06:53:50    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-06:58:56 instagram duplicate check chennai: 50 recent posts read
-06:58:56 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:58:56    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:58:56    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-06:58:56    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-06:58:56    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-06:58:56    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:04:01 instagram duplicate check chennai: 50 recent posts read
-07:04:01 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:04:01    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:04:01    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:04:01    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:04:01    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-07:04:01    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:09:07 instagram duplicate check chennai: 50 recent posts read
-07:09:07 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:09:07    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:09:07    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:09:07    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:09:07    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-07:09:07    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:14:12 instagram duplicate check chennai: 50 recent posts read
-07:14:12 verify 2026-11-21_06: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:14:12    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:14:12    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:14:12    NOT POSTED C032f1c0: queued RN-163 (Queued) - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:14:12    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-07:14:12    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:19:17 instagram duplicate check chennai: 50 recent posts read
-07:19:17 verify 2026-11-21_06: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:19:17    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:19:17    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:19:17    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-07:19:17    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:24:24 instagram duplicate check chennai: 50 recent posts read
-07:24:24 verify 2026-11-21_06: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:24:24    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:24:24    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:24:24    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-07:24:24    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:29:29 instagram duplicate check chennai: 50 recent posts read
-07:29:29 verify 2026-11-21_06: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:29:29    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:29:29    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:29:29    NOT POSTED C70189da: queued RN-162 (Queued) - சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு..
-07:29:29    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:34:35 instagram duplicate check chennai: 50 recent posts read
-07:34:35 verify 2026-11-21_06: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:34:35    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:34:35    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:34:35    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:39:42 instagram duplicate check chennai: 50 recent posts read
-07:39:42 verify 2026-11-21_06: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:39:42    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:39:42    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:39:42    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:44:49 instagram duplicate check chennai: 50 recent posts read
-07:44:49 verify 2026-11-21_06: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:44:49    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:44:49    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
-07:44:49    NOT POSTED C9a465a9: queued RN-164 (Queued) - ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ., மரணம்
-07:49:55 verify 2026-11-21_06: 3 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-07:49:55    SKIPPED C09b9831: skipped: the writer refused it - not filed: duplicate after write - தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில் நிலையத்த
-07:49:55    SKIPPED Cf3e4649: skipped: the writer refused it - not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place) - செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நிபந்தனையுடன
+09:01:21 round 2026-11-21_09: news published 21 Nov 06:25 -> 21 Nov 09:01 (தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Chennai)
+09:01:21 insights 2026-11-21T09:01+05:30 (143 reels): topic weights {'accident': 1.41, 'civic': 0.09, 'crime': -0.18, 'education': -0.48, 'jobs': -0.19, 'politics': 0.25, 'poultry_agri': 0.29, 'power_cut': 1.32, 'sports_culture': -0.29, 'temple': -0.31, 'weather': -0.14}; best openings ['🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை', '🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது']
+09:01:58 தினகரன் சென்னை list failed: 404 Client Error: Not Found for url: https://www.dinakaran.com/district/chennai/
+09:01:58 46 links on the two papers' Chennai pages
+09:02:13 skipped: published before this window=8, already posted=8, same event already posted=7, not Chennai district=4, only a headline=1
+09:02:14 list: 4 new + 55 earlier news not posted yet
+09:02:14    1. [பொது] வி.எஸ்.பாபு மரணத்தில் சந்தேகம்: டிஜிபி, காவல் ஆணையரிடம் சமூக ஆர்வலர் ப (இந்து தமிழ்)
+09:02:14    2. [பொது] பொது சிவில் சட்டத்தின் நோக்கமே முஸ்லிம் எதிர்ப்புதான்: எம்.ஹெச்.ஜவாஹிர (இந்து தமிழ்)
+09:02:14    3. [பொது] வழிகாட்டி நிறுவன ஊழியர்கள் பெருமளவில் ராஜினாமாவா? - தமிழக அரசு விளக்கம (இந்து தமிழ்)
+09:02:14    4. [பொது] 1,695 காலி பணியிடங்களுக்கு செவிலியர் விண்ணப்பிக்கலாம் (இந்து தமிழ்)
+09:02:14    5. [குற்றம்] போரூர் தி.மு.க., வட்ட செயலர் மகன் தற்கொலை (தினமலர்) (earlier)
+09:02:14    6. [குற்றம்] வெவ்வேறு சம்பவங்களில் 4 பேர் தூக்கிட்டு தற்கொலை (தினமலர்) (earlier)
+09:02:14    7. [மாநகராட்சி] விருகை, நுங்கை பள்ளி அணிகள் மாநகராட்சி தடகளத்தில் ‘சாம்பியன்’ (தினமலர்) (earlier)
+09:02:14    8. [பொது] Survival Mode-ல் தவிக்கும் விவசாயிகளுக்கு, Silent Mode-ல் உள்ள CM-இன்  (தினகரன்) (earlier)
+09:02:14    9. [பொது] சென்னை வருகிறார் துணை ஜனாதிபதி; 2 நாட்கள் போக்குவரத்தில் மாற்றம் (தினமலர்) (earlier)
+09:02:14   10. [பொது] ‘கட்கா’ தேசிய தற்காப்பு கலை போட்டியில் வெள்ளி பதக்கம்: எண்ணூர் மாணவி அ (தினமலர்) (earlier)
+09:02:14   11. [சாலை] நெடுஞ்சாலை துறையிடம் ஓ.எம்.ஆர்., சாலை மேம்பாட்டு நிறுவனம் முடிவு (தினமலர்) (earlier)
+09:02:14   12. [கல்வி] அரசுக் கல்லூரி மூத்த முதல்வர் ஒருவரை கல்லூரிக் கல்வி இயக்குநராக நியமிக (இந்து தமிழ்) (earlier)
+09:02:14   13. [பொது] தமிழ்நாட்டில் 6 மாவட்டங்களில் நவம்பர் 22ம் தேதி சிறப்புப் போலியோ சொட்ட (தினகரன்) (earlier)
+09:02:14   14. [பொது] யுபிஎஸ்சி ஆளுமைத் தோ்வு: உதவித்தொகை பெற விண்ணப்பிக்கலாம் (தினமணி) (earlier)
+09:02:14   15. [விலை] GOLD PRICE TODAY: தங்கப் பிரியர்களுக்கு சரவெடி கொண்டாட்டம்... சவரனுக்க (மாலைமலர்) (earlier)
+09:02:14   16. [பொது] தமிழகத்தில் சினிமா படப்பிடிப்புக்கு இனி ஆன்லைனில் அனுமதி - அரசு புதிய  (தினத்தந்தி) (earlier)
+09:02:14   17. [கல்வி] பள்ளி மாணவர்களுக்கு ஐ.ஐ.டி., பயிற்சி (தினமலர்) (earlier)
+09:02:14   18. [பொது] நகர்ப்புற உள்ளாட்சியில் 4,758 பணிகளை மேற்கொள்ள ரூ.1,019 கோடி ஒதுக்கீடு (தினத்தந்தி) (earlier)
+09:02:14   19. [பொது] சென்னை: கல்பாக்கம் அணு மின் நிலையத்தில் அவசர கால தயார் நிலை ஒத்திகை (தினத்தந்தி) (earlier)
+09:02:14   20. [நீதிமன்றம்] திருப்பரங்குன்றம் விவகாரத்தில் உச்சநீதிமன்றத்தின் இடைக்கால உத்தரவு ஆழ் (தினகரன்) (earlier)
+09:02:14   21. [பொது] சமூக வலைத்தளங்களில் பரவும் தகவலால் பரபரப்பு; தங்கத்தில் ரீனியம் என்ற வ (தினகரன்) (earlier)
+09:02:14   22. [பொது] சா்க்கரை நோயால் கால் அகற்றம்: 20 விநாடிகளுக்கு ஒருவா் பாதிப்பு (தினமணி) (earlier)
+09:02:14   23. [பொது] சைதாப்பேட்டை – தேனாம்பேட்டை மேம்பால பணிக்கு கூடுதல் நிதி ஒதுக்கீட்டால் (தினமலர்) (earlier)
+09:02:14   24. [நீதிமன்றம்] சென்னை உயர்நீதிமன்றத்தில் இன்று (நவ.20) எந்தெந்த வழக்குகள் விசாரணை? (தினமணி) (earlier)
+09:02:14   25. [பொது] கடலூர் – சென்னைக்கு பஸ் வசதியின்றி மக்கள் தவிப்பு (தினமலர்) (earlier)
+09:02:14   26. [நீதிமன்றம்] பரந்தூர் விமான நிலையத் திட்டத்தை கைவிட்டது ஏன்? - மத்திய, மாநில அரசுகள (இந்து தமிழ்) (earlier)
+09:02:14   27. [பொது] துணை ஜனாதிபதி வருகையால் கனரக வாகனங்களுக்கு கட்டுப்பாடு (தினமலர்) (earlier)
+09:02:14   28. [பொது] கொளத்தூர் எம்எல்ஏ வி.எஸ். பாபு மறைவு: அமைச்சர் அருண்ராஜ் இரங்கல் (தினமணி) (earlier)
+09:02:14   29. [பொது] சபரிமலை: இணையவழி முன்பதிவில் கூடுதலாக 5,000 பக்தா்களுக்கு அனுமதி (தினமணி) (earlier)
+09:02:14   30. [பொது] இன்று இனிதாக: சென்னை (தினமலர்) (earlier)
+09:02:14   31. [நீதிமன்றம்] புத்தகங்கள் கொள்முதல் முறைகேடு தொடா்பாக அரசு அதிகாரிகள் மீது ஏன் வழக்க (தினமணி) (earlier)
+09:02:14   32. [பொது] “Guidance TN விவகாரத்தில் முதல்வர், தொழில்துறை அமைச்சர் விளக்கம் அளிக் (இந்து தமிழ்) (earlier)
+09:02:14   33. [பொது] எம்.எல்.ஏ.க்கள் ராஜினாமா-வி.எஸ்.பாபு மறைவு: தமிழகத்தில் 6 சட்டமன்ற தொக (மாலைமலர்) (earlier)
+09:02:14   34. [பொது] 108 ஆம்புலன்ஸ் பணியாளர்களை உடனே அரசு ஊழியர்களாக அறிவிக்க வேண்டும்: அன் (தினத்தந்தி) (earlier)
+09:02:14   35. [பொது] வி.எஸ்.பாபு உடல் இன்று மாலை தகனம்: பொதுமக்கள் - தலைவர்கள் இறுதி அஞ்சலி (மாலைமலர்) (earlier)
+09:02:14   36. [பொது] பெற்ற உரிமைகளை காப்போம்; மறுக்கப்படும் உரிமைகளை வெல்வோம் - மு.க.ஸ்டாலி (தினத்தந்தி) (earlier)
+09:02:14   37. [பொது] “தமிழகத்துக்கு தொழில் முதலீடுகளை ஈர்க்கும் முகமையில் 15 பணியாளர்கள் நீ (இந்து தமிழ்) (earlier)
+09:02:14   38. [பொது] சென்னையில் எனக்கு பிடித்த சைவ உணவகம் - இசையமைப்பாளர் அனிருத் (மாலைமலர்) (earlier)
+09:02:14   39. [பொது] மதுபிரியர்களுக்கு மகிழ்ச்சி செய்தி.. 742 டாஸ்மாக் கடைகளில் விற்பனைக்கு (தினத்தந்தி) (earlier)
+09:02:14   40. [பொது] கைடன்ஸ் டிஎன் ஊழியர்களை களங்கப்படுத்துவதா? இபிஎஸ் கேள்வி (தினமலர்) (earlier)
+09:02:14   41. [பொது] திருப்பரங்குன்றம் வழக்கில் சீராய்வு மனு தாக்கல் செய்ய தமிழக அரசுக்கு இ (இந்து தமிழ்) (earlier)
+09:02:14   42. [பொது] பரந்தூர் விமான நிலைய திட்டத்தை பாதியில் எப்படி கைவிட முடியும்?: தமிழக  (தினகரன்) (earlier)
+09:02:14   43. [நீதிமன்றம்] “திருப்பரங்குன்றம் வழக்கில் நீதி வென்றது” - உச்ச நீதிமன்ற உத்தரவுக்கு  (இந்து தமிழ்) (earlier)
+09:02:14   44. [பொது] சென்னை- டெல்லி ஏர் இந்தியா விமானம் ஐந்தரை மணி நேரம் தாமதம்: பயணிகள் தவ (தினத்தந்தி) (earlier)
+09:02:14   45. [பொது] தொழில் முதலீடுகளை ஈர்க்கும் Guidance TN முகமையில் நடப்பது என்ன? 15 பணி (தினகரன்) (earlier)
+09:02:14   46. [பொது] ‘ஒருமுறை’ தீபம் ஏற்ற அனுமதி: ஸ்டாலின் முதல் அண்ணாமலை வரை கூறிய கருத்து (இந்து தமிழ்) (earlier)
+09:02:14   47. [பொது] திருப்பரங்குன்றம் தீப தீா்ப்பு: தலைவா்கள் கருத்து (தினமணி) (earlier)
+09:02:14   48. [பொது] ஊபா் நிறுவனத்தில் ஓட்டுநா்கள் உள்ளிருப்புப் போராட்டம் (தினமணி) (earlier)
+09:02:14   49. [பொது] முதியோர் இல்லம் மகளிர் விடுதிகளுக்கு உரிமம் கட்டாயம் (தினமலர்) (earlier)
+09:02:14   50. [பொது] கலப்பட மணல் பதுக்கி வைத்திருந்த கிடங்குகளுக்கு சீல்.. (பாலிமர்) (earlier)
+09:02:14   51. [பொது] விடுதலை போராட்ட வீரர் சின்ன அண்ணாமலை பற்றிய நூல் வெளியீடு (தினமலர்) (earlier)
+09:02:14   52. [பொது] வடசென்னை - 3 அனல் மின் நிலையத்தில் 2 மாதங்கள் மின் உற்பத்தி நிறுத்தம் (தினமணி) (earlier)
+09:02:14   53. [பொது] திட்டப் பணிகள் குறித்து வாரந்தோறும் அறிக்கை: குடிநீா் வாரிய அதிகாரிகளு (தினமணி) (earlier)
+09:02:14   54. [பொது] வர்த்தக, தொழில் சம்மேளனம் - ஜப்பான் குழு சந்திப்பு (தினமணி) (earlier)
+09:02:14   55. [பொது] ‘பவன்ஸ் மார்கழி மஹோத்சவ’ விழா தொடக்கம் (தினமலர்) (earlier)
+09:02:14   56. [பொது] சென்னையில் பிளம்பிங் கருத்தரங்கு (தினமலர்) (earlier)
+09:02:14   57. [பொது] ‘டாஸ்மாக்’ ஊழியர்கள் ஆர்ப்பாட்டம் (தினமலர்) (earlier)
+09:02:14   58. [பொது] இழப்பு! சி.எம்.டி.ஏ.,வுக்கு 8 ஆண்டுகளில் ரூ.91 கோடி... பணி நிறைவு சான் (தினமலர்) (earlier)
+09:02:14   59. [பொது] “முதல்வர் மருந்தகங்களில் உயிர் காக்கும் மருந்து தட்டுப்பாடு” - தினகரன் (இந்து தமிழ்) (earlier)
+09:02:14 automatic pick (owner 2 Nov): no e-mail - the top 8 are written at once
+ROUND=2026-11-21_09
