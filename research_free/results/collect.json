@@ -3,65 +3,78 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/commuters-suffer-as-auto-rickshaws-stop-at-central-railway-station-for-demanding-extra-fare/4382112",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/si-dies-of-heart-attack-in-i-court-complex/4381475",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/custodial-death-in-chekkanurani-madurai-bench-high-court-orders-that-cctv-footage-be-shown-to-the-family",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/frequent-autos-crowd-central-railway-station-passengers-suffer-due-to-demand-for-extra-fee/4381607",
-  "manual link added: https://www.polimernews.com/districtnews/recovery-of-temple-lands-worth-rs-3018-crore-in-chennai-12826455",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/social-activist-lodge-complaint-for-suspicion-surrounding-v-s-babu-death",
+  "manual link added: https://www.hindutamil.in/news/education/govt-college-teachers-association-demands-cm-vijay-for-collegiate-education-director-post-appointment",
+  "manual link added: https://www.dinakaran.com/news/survivalmode-farmers-silentmode-cm-what-answer-mkstalin-question",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/vice-president-arrives-in-chennai-traffic-changes-for-2-days/4381917",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/omr-road-development-company-decides-to-approach-highways-department/4381415",
   "candidate filter: collected=5",
   "to write: 5 Chennai district candidates (max 5 stories)",
   "round: top 5 of 5 candidates",
   "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.polimernews.com/districtnews/recovery-of-temple-",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/custodial-death-i",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinakaran.com/news/survivalmode-farmers-silentmo",
+  "NOT filed (N) Survival Mode-ல் தவிக்கும் விவசாயிகளுக்கு, Silent : not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
+  "try (N) manual=True: https://www.hindutamil.in/news/education/govt-college-teache",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "NOT filed (N) செக்கானூரணி காவல் மரணம்: சிசிடிவி காட்சிகளை காண நி: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "NOT filed (N) தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்கள் சென்ட்ரல் ரயில: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 3}, time left 78 min",
-  "filed: 3 Chennai district stories (target 5), reels only",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/social-activist-lod",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 75 min",
+  "filed: 4 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (27s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (33s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (34s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (46s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "dead for this round: groq/qwen/qwen3.8-27b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -69,16 +82,16 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -88,6 +101,23 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -98,14 +128,7 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -115,182 +138,245 @@
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள் மீட்பு",
-   "english_headline": "Temple lands worth Rs 30.18 crore recovered from encroachment in Chennai",
-   "category": "Government & Services",
-   "location": "Purasaivakkam and Mylapore area, Chennai district, Chennai city",
-   "importance": "Medium",
+   "tamil_headline": "சென்னை வருகிறார் துணை ஜனாதிபதி; 2 நாட்கள் போக்குவரத்தில் மாற்றம்",
+   "english_headline": "Vice President visits Chennai on 21 and 22 Nov; traffic diverted for two days",
+   "category": "Roads & Transport",
+   "location": "Chennai city, Chennai district",
+   "importance": "High",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "கோயில் நிலம்",
-    "loc": "சென்னை",
-    "hl1": "சென்னையில் ரூ.30 கோடி கோயில் நிலம்",
-    "hl2": "<b>ரூ.30.18 கோடி</b> மதிப்பு",
+    "cat": "போக்குவரத்து மாற்றம்",
+    "loc": "சென்னை நகரம்",
+    "hl1": "நவ. 21, 22 சென்னையில் போக்குவரத்து",
+    "hl2": "துணை ஜனாதிபதி வருகை",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எப்போது?",
       "lines": [
-       "சென்னையில் ரூ.30.18 கோடி மதிப்பிலான கோயில் நிலங்கள்",
-       "ஆக்கிரமிப்பில் இருந்த நிலங்கள் இப்போது அரசு வசம் வந்தன",
-       "நீதிமன்ற உத்தரவின்படி ஆக்கிரமிப்பாளர்கள் வெளியேற்றப்பட்டனர்"
+       "நவ. <b>21</b> பிற்பகல் <b>2 மணி</b> முதல் இரவு <b>9 மணி</b> வரை",
+       "நவ. <b>22</b> காலை <b>8 மணி</b> முதல் <b>10.30 மணி</b> வரை",
+       "துணை ஜனாதிபதி சி.பி.ராதாகிருஷ்ணன் வருகையை முன்னிட்டு"
       ]
      },
      {
-      "title": "எந்த நிலங்கள்?",
+      "title": "21ஆம் தேதி மாற்றம்",
       "lines": [
-       "புரசைவாக்கம் கங்காதரேஸ்வரர் கோயில்: <b>24,934 சதுரடி</b>",
-       "மேற்கு மாம்பலம் ஆதிசென்ன கேசவப் பெருமாள் கோயில்: <b>4,061",
-       "பர்கிட் சாலையில் உள்ள நிலம்"
+       "தாம்பரம் வாகனங்கள்: திருநீர்மலை சந்திப்பில் திருப்பம்",
+       "பல்லாவரம் வாகனங்கள்: பன்னாட்டு விமான நிலைய சந்திப்பில்",
+       "போரூர், அசோக் பில்லர், அண்ணா சாலை, அடையாறு வழிகளிலும்"
       ]
      },
      {
-      "title": "யார் வழக்கு?",
+      "title": "22ஆம் தேதி மாற்றம்",
       "lines": [
-       "சென்னை மண்டல இணை ஆணையர் நீதிமன்றத்தில் வழக்கு தொடர்ந்தார்",
-       "ஆக்கிரமிப்பு நிலங்களை மீட்க நீதிமன்றம் உத்தரவிட்டது",
-       "அறநிலையத்துறை அதிகாரிகள் நிலங்களை மீட்டனர்"
+       "அடையாறிலிருந்து பாரிஸ் கார்னர் நோக்கி: கிரீன்வேஸ்",
+       "பாரிஸ் கார்னரிலிருந்து அடையாறு நோக்கி: உழைப்பாளர் சிலை",
+       "அண்ணா சாலை வழியாக இலக்கை அடையலாம்"
+      ]
+     },
+     {
+      "title": "பொதுமக்களுக்கு",
+      "lines": [
+       "நெரிசலைத் தவிர்க்க போக்குவரத்து காவல்துறைக்கு ஒத்துழையுங்கள்",
+       "தற்காலிக விதிமுறைகளை கருத்தில் கொண்டு பயணத்தை முன்கூட்டியே"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் ரூ.30.18 கோடி மதிப்புள்ள கோயில் நிலங்கள் ஆக்கிரமிப்பில் இருந்து மீட்கப்பட்டுள்ளன. புரசைவாக்கம் கங்காதரேஸ்வரர் கோயிலுக்குச் சொந்தமான 24,934 சதுரடி நிலம் ஆக்கிரமிக்கப்பட்டிருந்தது. மேற்கு மாம்பலம் ஆதிசென்ன கேசவப் பெருமாள் கோயிலுக்குச் சொந்தமான பர்கிட் சாலையில் உள்ள 4,061 சதுரடி நிலமும் ஆக்கிரமிக்கப்பட்டிருந்தது. இந்த ஆக்கிரமிப்புகள் குறித்து சென்னை மண்டல இணை ஆணையர் நீதிமன்றத்தில் வழக்கு தொடர்ந்தார். நீதிமன்ற உத்தரவின் பேரில் ஆக்கிரமிப்பாளர்கள் வெளியேற்றப்பட்டனர். பின்னர் இந்து சமய அறநிலையத்துறை அதிகாரிகள் நிலங்களை மீட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ சென்னையில் ரூ.30.18 கோடி கோயில் நிலங்கள் மீட்பு\n\n📰 முழு விவரம்:\nசென்னையில் ரூ.30.18 கோடி மதிப்புள்ள கோயில் நிலங்கள் ஆக்கிரமிப்பிலிருந்து மீட்கப்பட்டுள்ளன. புரசைவாக்கம் கங்காதரேஸ்வரர் கோயிலுக்கு உரிய 24,934 சதுரடி நிலமும், மேற்கு மாம்பலம் ஆதிசென்ன கேசவப் பெருமாள் கோயிலுக்கு உரிய பர்கிட் சாலை நிலம் 4,061 சதுரடியும் ஆக்கிரமிக்கப்பட்டிருந்தன. சென்னை மண்டல இணை ஆணையர் இதற்காக நீதிமன்றத்தில் வழக்குத் தொடர்ந்தார். நீதிமன்ற உத்தரவின்படி ஆக்கிரமிப்பாளர்கள் வெளியேற்றப்பட்டு, அறநிலையத்துறை அதிகாரிகள் நிலங்களை மீட்டனர்.\n📍 இடம்: புரசைவாக்கம், மேற்கு மாம்பலம் (பர்கிட் சாலை), சென்னை\n📊 பரப்பளவு: 24,934 சதுரடி மற்றும் 4,061 சதுரடி\n💰 மதிப்பு: ரூ.30.18 கோடி\n👮 நடவடிக்கை: நீதிமன்ற உத்தரவின் பேரில் ஆக்கிரமிப்பாளர்கள் வெளியேற்றம்\n\nChennai temple lands worth Rs 30 crore recovered | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Purasaivakkam #கோயில் #ChennaiNews",
-   "prompts": "Officials of the Hindu Religious and Charitable Endowments department stand inside a fenced vacant plot of temple land in a dense Chennai neighbourhood, as a row of men in khaki and white shirts from the department measure the ground with a tape and a few clerks hold files. Behind them a low compound wall of the recovered land runs along a narrow city street lined with old tiled-roof houses and small concrete shops, with two-wheelers and an autorickshaw parked at the edge. Seen from behind and at a distance, a few onlookers in shirts and sarees watch from the roadside. The area is cleared of cloth stalls and temporary sheds, leaving bare earth and a few scattered bricks. Daylight, clear weather, late morning. Camera at eye level, 35 mm, wide enough to show the plot, the wall and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a freshly erected stone boundary pillar and an iron-railed gate on the edge of recovered temple land, with a dusty mound of bricks and old broken furniture pushed to one side from the evicted encroachment. A department official's hand rests on a bundle of documents and a tape measure on the pillar base. Behind the pillar, a blurred view of a small temple gopuram tower rises above the rooftops of a Chennai street, with a corporation-style concrete electric pole at the edge of the frame. Plain daylight, dry morning light, no people's faces visible. Camera slightly high, 35 mm, shallow focus on the pillar. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.polimernews.com/districtnews/recovery-of-temple-lands-worth-rs-3018-crore-in-chennai-12826455",
-   "published": "2026-11-20T15:16:37+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 59 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795222633/chennaiminnal/upohg4uaxesewvmu7gcp.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795222636/chennaiminnal/nbzxl90bfgonphv8pent.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்ட்ரல் ரயில் நிலையம் அருகே தாறுமாறாக நிறுத்தப்படும் ஆட்டோக்களால் நெரிசல்; கூடுதல் கட்டணத்தால் பயணியர் அவதி",
-   "english_headline": "Autos parked randomly near Chennai Central station cause traffic jams; passengers hit with extra fares",
-   "category": "Roads & Transport",
-   "location": "Chennai Central railway station area, Chennai, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போக்குவரத்து நெரிசல்",
-    "loc": "சென்ட்ரல் ரயில் நிலையம், சென்னை",
-    "hl1": "சென்ட்ரல் அருகே ஆட்டோ நெரிசல்",
-    "hl2": "கூடுதல் கட்டணத்தால் பயணியர்",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சினை?",
-      "lines": [
-       "ஆட்டோக்கள் தாறுமாறாக நிறுத்தப்படுகின்றன",
-       "சுற்றியுள்ள சாலைகளில் போக்குவரத்து நெரிசல்",
-       "மற்ற வாகனங்கள் செல்ல முடியவில்லை"
-      ]
-     },
-     {
-      "title": "ஏன் கூட்டம்?",
-      "lines": [
-       "தினமும் லட்சக்கணக்கானோர் வந்து செல்கின்றனர்",
-       "மின்சார, விரைவு ரயில்கள் இயக்கப்படுகின்றன",
-       "அருகில் மெட்ரோ ரயில், பேருந்து நிலையங்கள் உள்ளன"
-      ]
-     },
-     {
-      "title": "கட்டணப் பிரச்சினை",
-      "lines": [
-       "அரசு நிர்ணயித்த கட்டணம் வசூலிக்கப்படுவதில்லை",
-       "பிரீபெய்டு மையங்கள் செயல்படவில்லை",
-       "ஆரம்பக் கட்டணமாக <b>300 முதல் 400 ரூபாய்</b> கேட்கின்றனர்"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "ஆட்டோக்களை முறைப்படுத்த வேண்டும்",
-       "நியாயமான கட்டணம் வசூலிக்க வேண்டும்",
-       "ரயில்வே நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்ட்ரல் ரயில் நிலையம் அருகே ஆட்டோக்கள் தாறுமாறாக நிறுத்தப்படுவதால் போக்குவரத்து நெரிசல் ஏற்படுகிறது. பயணியர் ஆரம்பக் கட்டணமாக 300 முதல் 400 ரூபாய் வரை கேட்கப்படுவதாகக் குற்றம் சாட்டுகின்றனர். சென்ட்ரல் ரயில் நிலையத்துக்குத் தினமும் லட்சக்கணக்கானோர் வந்து செல்கின்றனர். இங்கிருந்து மின்சார, விரைவு ரயில்கள் இயக்கப்படுகின்றன. அருகில் மெட்ரோ ரயில் மற்றும் பேருந்து நிலையங்களும் உள்ளன. ஆனால், ஆட்டோக்களைக் குறிப்பிட்ட இடங்களில் மட்டுமே நிறுத்தும் முறை இல்லை. இதனால் சுற்றியுள்ள சாலைகளில் ஆங்காங்கே ஆட்டோக்கள் நிறுத்தப்படுகின்றன. அரசு நிர்ணயித்த கட்டணம் வசூலிக்கப்படுவதில்லை என்றும், பிரீபெய்டு மையங்கள் செயல்படாமல் உள்ளன என்றும் பயணியர் தெரிவிக்கின்றனர். ஆட்டோக்களை முறைப்படுத்தி, நியாயமான கட்டணம் வசூலிக்க ரயில்வே நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும் என்று பயணியர் கோரியுள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚕 சென்ட்ரல் ரயில் நிலையம் அருகே ஆட்டோ நெரிசல்; கூடுதல் கட்டணத்தால் பயணியர் அவதி\n\n📰 முழு விவரம்:\nசென்ட்ரல் ரயில் நிலையத்தைச் சுற்றியுள்ள சாலைகளில் ஆட்டோக்கள் தாறுமாறாக நிறுத்தப்படுவதால் போக்குவரத்து நெரிசல் ஏற்படுகிறது. ஆட்டோ ஓட்டுநர்கள் கூடுதல் கட்டணம் வசூலிப்பதால் பயணியர் அவதிப்படுகின்றனர்.\nதினமும் லட்சக்கணக்கானோர் வந்து செல்லும் இந்த ரயில் நிலையத்தில், ஆட்டோக்களைக் குறிப்பிட்ட இடங்களில் மட்டுமே நிறுத்தும் முறை இல்லை.\nஅரசு நிர்ணயித்த கட்டணம் வசூலிக்கப்படுவதில்லை. பிரீபெய்டு மையங்களும் செயல்படாமல் உள்ளன. ஆரம்பக் கட்டணமாக 300 முதல் 400 ரூபாய் வரை கேட்கப்படுவதாகப் பயணியர் தெரிவிக்கின்றனர்.\n📍 இடம்: சென்ட்ரல் ரயில் நிலையம் சுற்றியுள்ள சாலைகள், சென்னை\n👮 கோரிக்கை: ஆட்டோக்களை முறைப்படுத்தி, நியாயமான கட்டணம் வசூலிக்க ரயில்வே நிர்வாகம் நடவடிக்கை எடுக்க வேண்டும்.\n\nAutos parked randomly near Chennai Central station, traffic jam | Chennai news\n📍 சென்ட்ரல், சென்னை | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiCentral #ChennaiNews #சென்னை",
-   "prompts": "A line of yellow-and-green autorickshaws is parked haphazardly on the road outside Chennai Central railway station, blocking the lane so that cars, two-wheelers and a town bus queue up behind them in a traffic jam. The place is the busy station forecourt in Chennai city, with the station's large old-style brick-and-stone building in the background and a flyover and metro pillars visible beyond. Commuters with suitcases and bags walk among the vehicles, some gathering near the autos, while auto drivers in shirts and veshti stand beside their vehicles, seen from behind and at a distance. The autos are parked at random angles across the road, and the traffic behind them is stopped with brake lights glowing. It is daytime under a bright, hazy sky. The camera sits at eye level, about 35 mm, wide enough to show the station, the jam and the crowd. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of autorickshaws parked tightly at random angles on the roadside near the entrance of Chennai Central railway station, their canopies and meters visible, with a commuter's rolling suitcase and a cloth bag resting on the pavement beside them. Behind the autos, the edge of a stalled bus and a two-wheeler are seen out of focus in a traffic jam. Pavement and kerb are crowded with waiting passengers, seen from behind. Daylight with a slightly hazy sky. The camera is at a low-to-eye-level angle, about 50 mm, focused on the parked autos and the luggage to show the disorder and the crowded roadside. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/frequent-autos-crowd-central-railway-station-passengers-suffer-due-to-demand-for-extra-fee/4381607",
-   "published": "2026-11-20T19:04:59+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (18 words in a row, 30% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "reel_script": "சென்னையில் நவம்பர் 21 மற்றும் 22ஆம் தேதிகளில் போக்குவரத்தில் மாற்றம் செய்யப்பட்டுள்ளது. துணை ஜனாதிபதி சி பி ராதாகிருஷ்ணன் இந்த இரண்டு நாட்களில் சென்னை வருகிறார். இதையொட்டி சென்னை போக்குவரத்து காவல்துறை அறிவிப்பு வெளியிட்டுள்ளது. நவம்பர் 21ஆம் தேதி பிற்பகல் 2 மணி முதல் இரவு 9 மணி வரை போக்குவரத்து மாற்றம் அமலில் இருக்கும். தாம்பரத்தில் இருந்து வரும் வாகனங்கள் திருநீர்மலை சந்திப்பில் திருப்பி விடப்பட்டு குன்றத்தூர் சாலை வழியாகச் செல்லலாம். பல்லாவரத்தில் இருந்து வரும் வாகனங்கள் பன்னாட்டு விமான நிலைய சந்திப்பில் திருப்பி விடப்பட்டு தாம்பரம் நோக்கிச் செல்லலாம். போரூரில் இருந்து வரும் வாகனங்கள் கத்திப்பாராவில் திருப்பி விடப்பட்டு வடபழனி வழியாகச் செல்லலாம். அடையாறில் இருந்து வரும் வாகனங்கள் எல் பி சாலையில் திருப்பி விடப்படும். நவம்பர் 22ஆம் தேதி காலை 8 மணி முதல் 10.30 மணி வரை மாற்றம் இருக்கும். அடையாறில் இருந்து பாரிஸ் கார்னர் நோக்கி வரும் வாகனங்கள் கிரீன்வேஸ் சந்திப்பில் திருப்பி விடப்படும். பாரிஸ் கார்னரில் இருந்து அடையாறு நோக்கி வரும் வாகனங்கள் உழைப்பாளர் சிலை பகுதியில் திருப்பி விடப்படும். நெரிசலைத் தவிர்க்க பொதுமக்கள் போக்குவரத்து காவல்துறைக்கு ஒத்துழைக்குமாறும், முன்கூட்டியே பயணத்தைத் திட்டமிடுமாறும் கேட்டுக்கொள்ளப்படுகிறார்கள். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚦 நவ. 21, 22 சென்னையில் போக்குவரத்து மாற்றம்: துணை ஜனாதிபதி வருகை\n\n📰 முழு விவரம்:\nதுணை ஜனாதிபதி சி.பி.ராதாகிருஷ்ணன் நவம்பர் 21, 22ஆம் தேதிகளில் சென்னை வருகிறார். இதை முன்னிட்டுச் சென்னை போக்குவரத்து காவல்துறை போக்குவரத்தில் மாற்றம் அறிவித்துள்ளது.\n🕘 நவ. 21: பிற்பகல் 2 மணி முதல் இரவு 9 மணி வரை\n🕗 நவ. 22: காலை 8 மணி முதல் 10.30 மணி வரை\n📍 21ஆம் தேதி: தாம்பரம் வாகனங்கள் திருநீர்மலை சந்திப்பில் திருப்பி விடப்பட்டுக் குன்றத்தூர் சாலை வழியாகச் செல்லலாம். பல்லாவரம் வாகனங்கள் பன்னாட்டு விமான நிலைய சந்திப்பில் (ஹோட்டல் ஏர்வே) திருப்பி விடப்பட்டுத் தாம்பரம் நோக்கிச் செல்லலாம். போரூர் வாகனங்கள் கத்திப்பாராவில் திருப்பி விடப்பட்டு வடபழனி வழியாகச் செல்லலாம். அசோக் பில்லர் வாகனங்கள் சிபெட் (CIPET) சந்திப்பில் திருப்பி விடப்பட்டுக் கிண்டி தொழிற்பேட்டை நோக்கிச் செல்லலாம். அண்ணா சாலை வாகனங்கள் எம்.சி. ராஜா யு-டர்னில் திருப்பி விடப்படும். அடையாறு வாகனங்கள் எல்.பி.சாலையில் திருப்பி விடப்படும். ஓஎம்ஆர் வாகனங்கள் எஸ்.ஆர்.பி. டூல்ஸ் பகுதியில் திருப்பி விடப்படும். இசிஆர் வாகனங்கள் அக்கரை சந்திப்பில் திருப்பி விடப்படும்.\n📍 22ஆம் தேதி: அடையாறிலிருந்து பாரிஸ் கார்னர் நோக்கி வரும் வாகனங்கள் கிரீன்வேஸ் சந்திப்பில் திருப்பி விடப்பட்டு, கிரீன்வேஸ் சாலை, ஆர்.ஏ.புரம் 2வது பிரதான சாலை சந்திப்பு, சேமியர்ஸ் சாலை, டி.டி.கே சாலை, மியூசிக் அகாடமி சந்திப்பு, ஆர்.கே. சாலை, அண்ணா சாலை வழியாகச் செல்லலாம். பாரிஸ் கார்னரிலிருந்து அடையாறு நோக்கி வரும் வாகனங்கள் உழைப்பாளர் சிலை பகுதியில் திருப்பி விடப்பட்டு, வாலாஜா சாலை, அண்ணா சாலை வழியாகச் செல்லலாம்.\nℹ️ மக்கள் கவனத்திற்கு: நெரிசல், அசௌகரியங்களைத் தவிர்க்கப் போக்குவரத்து காவல்துறைக்கு ஒத்துழையுங்கள். தற்காலிக விதிமுறைகளைக் கருத்தில் கொண்டு முன்கூட்டியே பயணத்தைத் திட்டமிடுங்கள்.\n\nChennai traffic diversion Nov 21 and 22 | Chennai news\n📍 சென்னை நகரம், சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #போக்குவரத்து #சென்னை",
+   "prompts": "Along a wide Chennai arterial road near a busy junction, khaki-uniformed Tamil Nadu traffic police stand beside metal barricades and a temporary diversion board, redirecting a line of stopped cars, autorickshaws, two-wheelers and an MTC town bus into a side lane. Daylight in the early afternoon, with a bright sky and heavy traffic. The road has concrete median dividers, street lamps and tall office buildings in the background. Several police officers wave their arms and point, while commuters on two-wheelers, some wearing helmets, wait patiently. People are seen from behind or at a distance, in shirts, sarees and salwar. Shot at eye level on a 35 mm lens, wide enough to show the junction, the barricades, the police and the long queue of vehicles being diverted. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a temporary metal traffic barricade placed across a Chennai road at a junction, with an orange-and-white striped barrier and a folding diversion board on the pavement. Beside it, a khaki-uniformed traffic police officer's boots and hand gesturing toward the side lane, while an autorickshaw and a two-wheeler slowly turn away from the main road. Tar road surface, painted white lane markings, a roadside kerb and a concrete median divider are visible. Morning light with a soft shadow. The background shows a few cars queuing at a distance, slightly blurred. Shot at a low angle with a 50 mm lens, focused on the barricade and the turning vehicles, with no readable text or signs. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/vice-president-arrives-in-chennai-traffic-changes-for-2-days/4381917",
+   "published": "2026-11-20T22:09:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'நகரம்' is not in the article",
    "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795222645/chennaiminnal/fweyxefvgbi2ljo335m9.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795222648/chennaiminnal/oxnfosbpxpxyf3uen37l.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795232118/chennaiminnal/bx36vpg9uz0gj8kq4pzy.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795232136/chennaiminnal/fyw8it5iji8b0ggx8liq.jpg"
    ]
   },
   {
-   "tamil_headline": "ஐ கோர்ட் வளாகத்தில் மாரடைப்பால் எஸ்.ஐ. உயிரிழப்பு",
-   "english_headline": "SI dies of heart attack inside Madras High Court premises",
-   "category": "Crime & Safety",
-   "location": "Chennai High Court premises, Chennai town, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
+   "tamil_headline": "சென்னை ஓ.எம்.ஆர். சாலையை நெடுஞ்சாலைத்துறையிடம் ஒப்படைக்க சாலை மேம்பாட்டு நிறுவனம் முடிவு",
+   "english_headline": "Road Development Company decides to hand over Chennai's 20-km OMR to Highways Department after toll closures",
+   "category": "Roads & Transport",
+   "location": "Old Mahabalipuram Road, Chennai town, Chennai district",
+   "importance": "High",
+   "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "சம்பவம்",
-    "loc": "சென்னை உயர் நீதிமன்ற வளாகம்",
-    "hl1": "ஐ கோர்ட் வளாகத்தில் எஸ்.ஐ. உயிரிழப்பு",
-    "hl2": "மாரடைப்பால் மரணம்",
+    "cat": "சாலை மேம்பாடு",
+    "loc": "சென்னை OMR",
+    "hl1": "சென்னை OMR சாலை ஒப்படைக்க முடிவு",
+    "hl2": "நெடுஞ்சாலைத்துறை வசமாகிறது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "பாதுகாப்புப் பணியில் இருந்த எஸ்.ஐ. சந்திரகாந்தன், 51",
-       "நவம்பர் 20 காலை சுமார் 10 மணிக்கு நிகழ்ந்தது",
-       "மாரடைப்பு ஏற்பட்டு உயிரிழந்தார்"
+       "சென்னை <b>OMR</b> சாலையை நெடுஞ்சாலைத்துறை வசம் ஒப்படைக்க முடிவு",
+       "<b>2008</b>-ல் உருவான <b>20 கி.மீ</b> நீள <b>6 வழி</b> சாலை",
+       "சுங்கக் கட்டண வருவாய் இல்லாததால் பராமரிப்பில் சிரமம்"
       ]
      },
      {
-      "title": "எங்கே?",
+      "title": "சுங்கச்சாவடிகள்",
       "lines": [
-       "சென்னை உயர் நீதிமன்ற பாரம்பரியக் கட்டடம் வழியாக நடந்தபோது",
-       "நான்காவது நுழைவாயிலை நோக்கிச் சென்றபோது",
-       "சென்னை பி-4 உயர் நீதிமன்ற காவல் நிலையத்தில் பணியாற்றியவர்"
+       "பெருங்குடி, துரைப்பாக்கம் உட்பட <b>5</b> சுங்கச்சாவடிகள் மூடல்",
+       "மெட்ரோ பணிகளுக்காக <b>2022</b> முதல் மூடப்பட்டன",
+       "சுங்கச்சாவடிகள் மீண்டும் திறக்க வாய்ப்பில்லை"
       ]
      },
      {
-      "title": "என்ன நடவடிக்கை?",
+      "title": "மெட்ரோ நிதி",
       "lines": [
-       "சக போலீசார் மீட்டு முதலுதவி அளித்தனர்",
-       "சென்னை ராஜிவ் காந்தி அரசு பொது மருத்துவமனைக்கு அனுப்பினர்",
-       "வழியிலேயே உயிரிழந்ததாக மருத்துவர்கள் தெரிவித்தனர்"
+       "புதுப்பிக்கப்பட்ட <b>5 கி.மீ</b> சாலைக்கு மெட்ரோ நிர்வாகம்",
+       "மீதி தொகையை மெட்ரோ நிர்வாகம் படிப்படியாக வழங்கும்",
+       "அரசு விரைவில் இதற்கான அறிவிப்பை வெளியிடும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஐ கோர்ட் வளாகத்தில் பாதுகாப்புப் பணியில் இருந்த காவல் உதவி ஆய்வாளர் ஒருவர் மாரடைப்பால் உயிரிழந்தார். சென்னை உயர் நீதிமன்ற வளாகத்தில் பணியில் இருந்த போலீஸ் காவல் உதவி ஆய்வாளர் சந்திரகாந்தன் (51 வயது), நவம்பர் 20ஆம் தேதி காலை சுமார் 10 மணிக்கு மயங்கி விழுந்தார். அவர் உயர் நீதிமன்ற பாரம்பரியக் கட்டடம் வழியாக நான்காவது நுழைவாயிலை நோக்கி நடந்து சென்றபோது திடீரென மாரடைப்பு ஏற்பட்டது. அவர் சென்னை பி-4 உயர் நீதிமன்ற காவல் நிலையத்தில் காவல் உதவி ஆய்வாளர்யாகப் பணியாற்றி வந்தவர். அங்கு பணியில் இருந்த சக போலீசார் அவரை மீட்டு முதல் உதவி சிகிச்சை அளித்தனர். பின்னர் மயக்க நிலையில் இருந்த அவரை ஆம்புலன்ஸில் சென்னை ராஜிவ் காந்தி அரசு பொது மருத்துவமனைக்கு அனுப்பினர். அங்கு பரிசோதித்த மருத்துவர்கள், அவர் மருத்துவமனைக்கு வரும் வழியிலேயே உயிரிழந்ததாகத் தெரிவித்தனர். இது குறித்து அவரது குடும்பத்தினருக்குத் தகவல் தெரிவிக்கப்பட்டது. இந்தச் சம்பவம் உயர் நீதிமன்ற வளாகத்தில் சோகத்தை ஏற்படுத்தியது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஐ கோர்ட் வளாகத்தில் பாதுகாப்புப் பணியில் இருந்த எஸ்.ஐ. மாரடைப்பால் உயிரிழப்பு\n\n📰 முழு விவரம்:\nசென்னை உயர் நீதிமன்ற வளாகத்தில் பாதுகாப்புப் பணியில் ஈடுபட்டிருந்த போலீஸ் எஸ்.ஐ. சந்திரகாந்தன் (51 வயது), மாரடைப்பால் உயிரிழந்தார். அவர் சென்னை பி-4 உயர் நீதிமன்ற காவல் நிலையத்தில் எஸ்.ஐ.யாகப் பணியாற்றி வந்தவர்.\nகாலை சுமார் 10 மணியளவில் உயர் நீதிமன்ற பாரம்பரியக் கட்டடம் வழியாக நான்காவது நுழைவாயிலை நோக்கி நடந்து சென்றபோது அவர் மயங்கி விழுந்தார். சக போலீசார் அவரை மீட்டு முதல் உதவி அளித்தனர். பின்னர் ஆம்புலன்ஸில் சென்னை ராஜிவ் காந்தி அரசு பொது மருத்துவமனைக்கு அனுப்பப்பட்டார். மருத்துவமனைக்கு வரும் வழியிலேயே உயிரிழந்ததாக மருத்துவர்கள் தெரிவித்தனர்.\nஇது குறித்து அவரது குடும்பத்தினருக்குத் தகவல் தெரிவிக்கப்பட்டது.\n\nSI dies of heart attack at Madras High Court premises | Chennai news\n📍 சென்னை உயர் நீதிமன்ற வளாகம், சென்னை மாவட்டம் | 20 நவம்பர்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Chennai",
-   "prompts": "In the forecourt of the Madras High Court in Chennai, a group of police in khaki uniforms gathers around a middle-aged sub-inspector who has collapsed on the stone walkway beside the heritage court building. Seen from a distance and from behind, two constables kneel beside him while a third runs toward the parked white ambulance near the fourth gate. The grand red-brick arches, pillars and towers of the old High Court building rise in the background under clear morning daylight around 10 am. A few lawyers in black coats and court staff stand at a distance, watching. The shot is taken at eye level, 35 mm, wide enough to show the colonial courtyard, the walkway and the ambulance, with the people small and faceless. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the ambulance's open rear door at the High Court's fourth gate, with a folded stretcher and an oxygen cylinder inside on a sunlit morning. In the foreground, the stone pavement is wet from a hosing, and a constable's khaki cap and a police belt are placed on the ground next to a folded bench. Behind, the arched pillars of the heritage court building are slightly out of focus in soft daylight. No faces are shown; the emphasis is on the emergency vehicle and the calm, solemn mood of the court premises, taken at eye level, 35 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/si-dies-of-heart-attack-in-i-court-complex/4381475",
-   "published": "2026-11-20T18:07:03+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "சென்னை ஓ எம் ஆர் சாலையை நெடுஞ்சாலைத்துறையிடம் ஒப்படைக்க முடிவு செய்யப்பட்டுள்ளது. மத்திய கைலாஷ் முதல் சிறுசேரி வரை உள்ள 20 கிலோமீட்டர் நீள இந்த சாலை 2008ஆம் ஆண்டு உருவாக்கப்பட்டது. பெருங்குடி, துரைப்பாக்கம், கே கே சாலை, செம்மொழி சாலை, சிறுசேரி என 5 இடங்களில் சுங்கச்சாவடிகள் இயங்கி வந்தன. மெட்ரோ ரயில் பணிகளுக்காக 2022ஆம் ஆண்டு முதல் இந்த 5 சுங்கச்சாவடிகளும் மூடப்பட்டன. சுங்கக் கட்டண வருவாய் இல்லாததால் சாலையை பராமரிக்க நிதி இன்றி சாலை மேம்பாட்டு நிறுவனம் திணறி வருகிறது. மெட்ரோ பணிகள் முடிந்த 5 கிலோமீட்டர் சாலையைப் புதுப்பிக்க மெட்ரோ நிர்வாகம் ரூ.60 கோடி வழங்கியுள்ளது. மீதி இடங்களுக்கு மெட்ரோ நிர்வாகம் நிதி வழங்கும் என்றும், மூடிய சுங்கச்சாவடிகள் மீண்டும் திறக்க வாய்ப்பில்லை என்றும் அதிகாரிகள் தெரிவித்தனர். இதனால் ஓ எம் ஆர் சாலையை நெடுஞ்சாலைத்துறை வசம் ஒப்படைக்க அரசு விரைவில் அறிவிப்பு வெளியிடும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚗 சென்னை OMR சாலையை நெடுஞ்சாலைத்துறையிடம் ஒப்படைக்க சாலை மேம்பாட்டு நிறுவனம் முடிவு\n\n📰 முழு விவரம்:\nசென்னையில் மத்திய கைலாஷ் முதல் சிறுசேரி வரை 20 கி.மீ நீளமுள்ள ஓ.எம்.ஆர். சாலை 2008-ல் உருவானது. பெருங்குடி, துரைப்பாக்கம், கே.கே.சாலை, செம்மொழி சாலை, சிறுசேரி ஆகிய 5 இடங்களில் சுங்கச்சாவடி அமைத்து பராமரிக்கப்பட்டு வந்தது.\n🚇 மெட்ரோ ரயில் பணிகளுக்காக 2022 முதல் 5 சுங்கச்சாவடிகளும் மூடப்பட்டன. கட்டண வருவாய் இல்லாததால் பராமரிக்க முடியாமல் சாலை மேம்பாட்டு நிறுவனம் திணறி வருகிறது.\n💰 மெட்ரோ பணி முடிந்த 5 கி.மீ சாலையைப் புதுப்பிக்க மெட்ரோ நிர்வாகம் ரூ.60 கோடி வழங்கியது. சுங்கச்சாவடிகள் மீண்டும் திறக்க வாய்ப்பில்லாததால் சாலையை நெடுஞ்சாலைத்துறையிடம் ஒப்படைக்க முடிவு செய்யப்பட்டுள்ளது.\n\n📍 இடம்: ஓ.எம்.ஆர். சாலை (மத்திய கைலாஷ் - சிறுசேரி), சென்னை\n🛣️ சாலை விவரம்: 20 கி.மீ நீளம், 6 வழி சாலை\n🛑 சுங்கச்சாவடிகள்: 5 இடங்கள் (2022 முதல் மூடல்)\nℹ️ மக்கள் கவனத்திற்கு: அரசு விரைவில் அதிகாரப்பூர்வ அறிவிப்பு வெளியிடும்\n\nOMR road handover to Highways Department | Chennai news\n📍 OMR, Chennai district | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #OMR #ChennaiNews #சென்னை",
+   "prompts": "A freshly resurfaced stretch of Old Mahabalipuram Road in Chennai carries light traffic of cars and two-wheelers across its wide six-lane carriageway, seen from a raised footbridge at eye level. Glass-fronted IT company offices and tall apartment blocks line both sides, with the Metro rail viaduct pillars running along the median. On the far side of the road, an empty toll booth stands closed, its barrier arm lifted and no vehicles queuing. A few government road workers in shirts and trousers stand at the kerb near a roadside post, seen from behind and at a distance. The light is bright daylight with a clear sky. Shot on a 35 mm lens, wide enough to show the full road, the closed toll booth and the viaduct. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a closed toll booth on Old Mahabalipuram Road: a small concrete booth with its lifted barrier arm and a freshly laid black asphalt surface stretching in front of it. Beside it, a yellow-painted roadside kerb and a line of traffic cones mark the resurfaced lane, with a pair of two-wheelers passing slightly blurred in the background. Metro rail pillars rise above the road edge. The surface is dark and smooth, showing the new road work. Bright daylight, no people in focus. Shot at eye level on a 35 mm lens, close enough to show the empty booth and the fresh tarmac as the detail that tells the story of toll closures and road handover. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/omr-road-development-company-decides-to-approach-highways-department/4381415",
+   "published": "2026-11-20T17:34:53+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795222680/chennaiminnal/duoas6f9g1ym1zv72mm2.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795222684/chennaiminnal/cff80wbx4jfmlvasgiyf.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795232143/chennaiminnal/dpbpmdiutfqurtyow7cl.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795232146/chennaiminnal/ahgnssbf9acrv7g29fbz.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரசுக் கல்லூரி மூத்த முதல்வரை கல்லூரிக் கல்வி இயக்குநராக நியமிக்க கோரிக்கை",
+   "english_headline": "Government college teachers' association asks Tamil Nadu CM to appoint a senior principal as Director of Collegiate Education",
+   "category": "Education",
+   "location": "Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "சென்னை",
+    "hl1": "மூத்த முதல்வரை இயக்குநராக நியமிக்க",
+    "hl2": "ஆசிரியர் கழகம் முதல்வருக்கு",
+    "slides": [
+     {
+      "title": "என்ன கோரிக்கை?",
+      "lines": [
+       "ஐஏஎஸ் அதிகாரிக்குப் பதில் மூத்த கல்லூரி முதல்வரை இயக்குநராக",
+       "அரசு கல்லூரி ஆசிரியர் கழகம் தமிழக முதல்வருக்கு வேண்டுகோள்",
+       "பொதுச்செயலாளர் சுரேஷ் அறிக்கையில் தெரிவித்தார்"
+      ]
+     },
+     {
+      "title": "ஏன் இந்த கோரிக்கை?",
+      "lines": [
+       "சுமார் <b>1,000</b> கலை, அறிவியல் கல்லூரிகளை நிர்வகிக்க",
+       "<b>2024</b> ஜனவரியில் மூத்த முதல்வர் பணியிடை நீக்கம்",
+       "அதன்பின் ஐஏஎஸ் அதிகாரிகள் நியமிக்கப்பட்டனர்"
+      ]
+     },
+     {
+      "title": "தற்போதைய நிலை",
+      "lines": [
+       "ஜூன் மாதம் ஐஏஎஸ் அதிகாரி பொன்னையா ஆணையராக நியமனம்",
+       "அவர் விடுப்பில் செல்லும்போது தொழில்நுட்பக் கல்வி",
+       "இது கூடுதல் நிர்வாகச் சுமையை ஏற்படுத்துகிறது"
+      ]
+     },
+     {
+      "title": "கழகத்தின்",
+      "lines": [
+       "மூத்த முதல்வர்களில் ஒருவரை உடனே இயக்குநராக நியமிக்க வேண்டும்",
+       "கல்லூரி நிர்வாகம் தடையின்றி நடைபெற இது உதவும்",
+       "அரசின் முடிவு இன்னும் அறிவிக்கப்படவில்லை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அரசுக் கல்லூரி மூத்த முதல்வர் ஒருவரை கல்லூரிக் கல்வி இயக்குநராக நியமிக்க வேண்டும் என ஆசிரியர் கழகம் கோரிக்கை வைத்துள்ளது. ஐஏஎஸ் அதிகாரியை நியமிக்கும் முறையைக் கைவிட்டு, முன்பு இருந்தது போல மூத்த முதல்வரை நியமிக்க வேண்டும் என தமிழக முதல்வருக்கு வேண்டுகோள் விடுக்கப்பட்டுள்ளது. கழகப் பொதுச்செயலாளர் சுரேஷ் வெளியிட்ட அறிக்கையில் இந்தக் கோரிக்கை இடம்பெற்றுள்ளது. சுமார் 1,000 கலை மற்றும் அறிவியல் கல்லூரிகளை நிர்வகிக்க நீண்ட அனுபவம் தேவை என அறிக்கை கூறுகிறது. 2024ஆம் ஆண்டு ஜனவரி 30ஆம் தேதி கல்லூரிக் கல்வி இயக்குநராக இருந்த மூத்த முதல்வர் நிர்வாகக் காரணங்களுக்காகப் பணியிடை நீக்கம் செய்யப்பட்டார். அதன்பின் ஐஏஎஸ் அதிகாரிகள் நியமிக்கப்பட்டனர். கடந்த ஜூன் மாதம் ஐஏஎஸ் அதிகாரி பொன்னையா கல்லூரிக் கல்வி ஆணையராக நியமிக்கப்பட்டார். தற்போது அவரது கூடுதல் பொறுப்பு தொழில்நுட்பக் கல்வி இயக்குநரிடம் ஒப்படைக்கப்படுகிறது. ஏற்கனவே பல நிறுவனங்களை நிர்வகிக்கும் அவருக்கு இது கூடுதல் சுமையாக உள்ளது. இதுகுறித்து அரசின் முடிவு இன்னும் அறிவிக்கப்படவில்லை. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎓 அரசுக் கல்லூரி இயக்குநர் நியமனம்: மூத்த முதல்வருக்கு வாய்ப்பு கேட்டு கோரிக்கை\n\n📰 முழு விவரம்:\nஅரசு கல்லூரி ஆசிரியர் கழகம், கல்லூரிக் கல்வி இயக்குநராக ஐஏஎஸ் அதிகாரிக்குப் பதில் மூத்த கல்லூரி முதல்வர் ஒருவரை நியமிக்க வேண்டும் என தமிழக முதல்வருக்கு வேண்டுகோள் விடுத்துள்ளது. கழகப் பொதுச்செயலாளர் சுரேஷ் வெளியிட்ட அறிக்கையில் இந்தக் கோரிக்கை இடம்பெற்றுள்ளது. சுமார் 1,000 கலை மற்றும் அறிவியல் கல்லூரிகளை நிர்வகிக்க நீண்ட அனுபவம் தேவை என அறிக்கை கூறுகிறது. 2024 ஜனவரி 30ஆம் தேதி மூத்த கல்லூரி முதல்வர் நிர்வாகக் காரணங்களுக்காகப் பணியிடை நீக்கம் செய்யப்பட்டார். அதன்பின் ஐஏஎஸ் அதிகாரிகள் நியமிக்கப்பட்டனர். ஜூன் மாதம் ஐஏஎஸ் அதிகாரி பொன்னையா கல்லூரிக் கல்வி ஆணையராக நியமிக்கப்பட்டார். தற்போது அவரது கூடுதல் பொறுப்பு தொழில்நுட்பக் கல்வி இயக்குநரிடம் வழங்கப்படுகிறது.\n🏫 சுமார் 1,000 கல்லூரிகள் - அரசு, உதவிபெறும், சுய நிதி\n👤 பொறுப்பு: கல்லூரிக் கல்வி இயக்குநர் நியமனம் கோரிக்கை\n📞 தொடர்புக்கு: அரசு கல்லூரி ஆசிரியர் கழகம்\n\nGovt college director appointment demand | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #கல்வி #சென்னை",
+   "prompts": "A group of government college teachers in shirts and sarees gathers in a meeting hall in Chennai, where association general secretary Suresh stands at a podium before a microphone and reads out a printed statement addressed to the Tamil Nadu Chief Minister. The hall is a plain state-government style room with a row of wooden chairs, a long table covered with a cloth, and a stack of petition papers and a bound file placed in front of him. Several teachers sit in the front rows, seen from behind, some holding notebooks, while others stand at the back of the hall. It is daytime, with soft daylight entering through tall windows, and the mood is serious and focused. Photographed at eye level from the back of the hall with a 35 mm lens, wide enough to show the whole room, the podium, the seated teachers and the windows, with no readable text, names or signboards visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of printed petition papers and a thin folder lying on a wooden table in a government office in Chennai, with a pen resting across the top sheet and a plain steel water glass beside it. The paper pages are blank of readable text and are slightly curled at the edges, suggesting they have been handled many times. Behind the table, out of focus, a few seated office figures are seen from behind, and the light is soft daytime light from a window. The camera is positioned slightly above the table at a 35 mm distance to show the stack of papers as the key detail, conveying a formal written appeal being submitted to the authorities. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/education/govt-college-teachers-association-demands-cm-vijay-for-collegiate-education-director-post-appointment",
+   "published": "2026-11-20T15:36:58Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795232151/chennaiminnal/mhaojitypdxr9nbmkngu.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795232153/chennaiminnal/dfyyvaref8ehuddilda9.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வி.எஸ்.பாபு மரணத்தில் சந்தேகம்: டிஜிபி, காவல் ஆணையரிடம் சமூக ஆர்வலர் புகார்",
+   "english_headline": "Doubt over V.S. Babu's death: social activist complains to DGP and Chennai Police Commissioner",
+   "category": "Crime & Safety",
+   "location": "Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சந்தேக மரணம்",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: வி.எஸ்.பாபு மரணத்தில் சந்தேகம்",
+    "hl2": "டிஜிபியிடம் புகார்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "மருத்துவமனையில் சிகிச்சையில் இருந்த வி.எஸ்.பாபு",
+       "இந்தத் தகவல் சந்தேகத்தை ஏற்படுத்தியுள்ளதாக சமூக ஆர்வலர்",
+       "செம்பியத்தைச் சேர்ந்த கோ.தேவராஜன் புகார் அளித்துள்ளார்"
+      ]
+     },
+     {
+      "title": "புகார் என்ன?",
+      "lines": [
+       "பாபுவின் உடல்நிலை குறித்து முறையான அறிவிப்பு வெளியாகவில்லை",
+       "ரத்த மாதிரிகள், மருத்துவ அறிக்கைகளைப் பாதுகாக்க கோரிக்கை",
+       "அரசு மருத்துவர்கள் மூலம் உடற்கூறு ஆய்வு நடத்தக் கோரிக்கை"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "மருத்துவமனை நிர்வாகம், டாக்டர்கள் மீது கொலை வழக்கு பதிவு",
+       "புகார் சென்னை காவல் ஆணையர், டிஜிபி அலுவலகங்களுக்கு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சிகிச்சையில் இருந்த வி எஸ் பாபுவின் மரணத்தில் சந்தேகம் எழுந்துள்ளது. அவர் உயிரிழந்ததாக வெளியான தகவல் சந்தேகத்தை ஏற்படுத்தியுள்ளதாக செம்பியத்தைச் சேர்ந்த சமூக ஆர்வலர் கோ.தேவராஜன் தெரிவித்துள்ளார். வி எஸ் பாபுவின் உடல்நிலை குறித்து மருத்துவமனை நிர்வாகம் உரிய தகவல்களை வெளியிடக் கோரி, தேவராஜன் ஏற்கெனவே சென்னை உயர் நீதிமன்றத்தில் வழக்குத் தொடர்ந்திருந்தார். அந்த வழக்கு விசாரணைக்கு வரவிருந்த நிலையில் இந்தத் தகவல் வெளியானது. பாபு அனுமதிக்கப்பட்ட மறுநாள் அவரது உடல்நிலை சீராக இருப்பதாகவும், ஓரிரு நாட்களில் வீடு திரும்புவார் என்றும் தகவல் வெளியானது. அதன் பின்னர் அவரது உடல்நிலை குறித்து முறையான அறிவிப்புகள் வெளியாகவில்லை. இதையடுத்து, சென்னை காவல் ஆணையர் அலுவலகம் மற்றும் டிஜிபி அலுவலகத்துக்கு ஆன்லைனில் தேவராஜன் புகார் அனுப்பினார். வி எஸ் பாபுவின் ரத்த மாதிரிகள், மருத்துவ அறிக்கைகள், சிகிச்சை வீடியோ பதிவுகளைப் பாதுகாக்க வேண்டும் என்றும், அரசு மருத்துவர்கள் மூலம் உடற்கூறு ஆய்வு நடத்த வேண்டும் என்றும் அவர் கோரியுள்ளார். மருத்துவமனை நிர்வாகம், சம்பந்தப்பட்ட டாக்டர்கள் மீது கொலை வழக்குப் பதிவு செய்ய வேண்டும் என்றும் கோரியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வி.எஸ்.பாபு மரணத்தில் சந்தேகம்: டிஜிபி, காவல் ஆணையரிடம் சமூக ஆர்வலர் புகார்\n\n📰 முழு விவரம்:\nமருத்துவமனையில் சிகிச்சையில் இருந்த வி.எஸ்.பாபு உயிரிழந்ததாக வெளியான தகவல் சந்தேகத்தை ஏற்படுத்தியுள்ளதாக, செம்பியத்தைச் சேர்ந்த சமூக ஆர்வலர் கோ.தேவராஜன் தெரிவித்துள்ளார்.\nபாபுவின் உடல்நிலை குறித்து மருத்துவமனை நிர்வாகம் உரிய தகவல்களை வெளியிடக் கோரி, தேவராஜன் ஏற்கெனவே சென்னை உயர் நீதிமன்றத்தில் வழக்குத் தொடர்ந்திருந்தார். அந்த வழக்கு விசாரணைக்கு வரவிருந்த நிலையில் இந்தத் தகவல் வெளியானது.\nபாபு அனுமதிக்கப்பட்ட மறுநாள் உடல்நிலை சீராக இருப்பதாகவும், ஓரிரு நாட்களில் வீடு திரும்புவார் என்றும் தகவல் வெளியானது. அதன் பின்னர் முறையான அறிவிப்புகள் வெளியாகவில்லை.\nசென்னை காவல் ஆணையர் அலுவலகம் மற்றும் டிஜிபி அலுவலகத்துக்கு ஆன்லைனில் புகார் அனுப்பியுள்ளார். ரத்த மாதிரிகள், மருத்துவ அறிக்கைகள், சிகிச்சை வீடியோ பதிவுகளைப் பாதுகாக்க வேண்டும்; அரசு மருத்துவர்கள் மூலம் உடற்கூறு ஆய்வு நடத்த வேண்டும் என்று கோரியுள்ளார்.\nமருத்துவமனை நிர்வாகம், சம்பந்தப்பட்ட டாக்டர்கள் மீது கொலை வழக்குப் பதிவு செய்ய வேண்டும் என்றும் கோரியுள்ளார்.\n\nDoubt over V.S. Babu death, activist complains to DGP | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Chennai #சென்னை #ChennaiNews",
+   "prompts": "A lone social activist in a plain shirt stands with his back to the camera at the gate of a Chennai city police commissioner's office, holding a folded stack of papers in one hand as he waits to submit a complaint. The place is a government office compound in central Chennai, with a low-rise concrete building, a khaki-uniformed Tamil Nadu police constable standing near the entrance and a few other visitors waiting at a distance. Beside the gate a parked two-wheeler and a passing MTC bus are blurred in the background. The scene is in daylight with a soft overcast sky, a calm, serious atmosphere. Shot at eye level, 35 mm, wide enough to show the building, the gate and the street, with the man small in the frame and his face not visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of printed complaint papers and a sealed set of medical files resting on a wooden table in a government office, with a black keyboard and a desktop computer screen turned away from the camera and blurred. A pen lies across the top sheet, and a khaki sleeve of a police constable is visible at the edge of the frame. The light is soft daylight from a window, showing the paper texture and folded edges. The mood is quiet and procedural. Shot from slightly above, 35 mm, shallow depth of field keeping the papers sharp and the background softly out of focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/tamilnadu/social-activist-lodge-complaint-for-suspicion-surrounding-v-s-babu-death",
+   "published": "2026-11-21T01:16:25Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சென்னை' and the news itself, e.g. 'சென்னை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795232181/chennaiminnal/g83gcedboexmc15nilul.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795232196/chennaiminnal/i1rgqk2cmqr4upnpbwan.jpg"
    ]
   }
  ]
