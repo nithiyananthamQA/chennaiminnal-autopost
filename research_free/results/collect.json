@@ -3,89 +3,53 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/seven-people-died-in-child-driving-accidents-this-year/4382476",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/youth-killed-in-bike-accident-friend-gets-2-years-in-jail/4382685",
-  "manual link added: https://www.dinamani.com/visual-stories/2026/Nov/21/appeal-in-tiruparangunram-case-minister-nirmal-kumars-answer-tvk",
-  "manual link added: https://www.dinamani.com/visual-stories/2026/Nov/21/driverless-car-parked-868-times-overnight-ev-china",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/even-women-in-high-ranking-positions-face-sexual-harassment-at-the-workplace-justice-victoria-gowri-concern",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/crime-corner---the-silver-robbers-caught/4382727",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/debt-seeking-rs-7-91-lakh-fraudulent-young-man-arrested/4382767",
+  "manual link added: https://www.dinamani.com/visual-stories/2026/Nov/21/the-video-shared-by-shalini-went-viral-on-the-internet-ajith-kumar",
   "candidate filter: collected=4",
   "to write: 4 Chennai district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/visual-stories/2026/Nov/21/driverle",
-  "try (N) manual=True: https://www.dinamani.com/visual-stories/2026/Nov/21/appeal-i",
+  "candidates waiting: 4 Chennai; time left 77 min",
+  "try (N) manual=True: https://www.dinamani.com/visual-stories/2026/Nov/21/the-vide",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "NOT filed (N) ஒரே இரவில் 868 முறை பார்க்கிங் செய்துகொண்ட ஓட்டுநர: not news: draft not grounded in the article (only 46% of its words come from it) - likely made up",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 75 min",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/even-women-in-high-",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "NOT filed (N) “உயர் பதவி வகிக்கும் பெண்களும் பணியிட பாலியல் துன்: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 72 min",
   "filed: 3 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "ok gemini/gemini-3.6-flash (55s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "dead for this round: groq/qwen/qwen3.8-27b",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -94,196 +58,185 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பரங்குன்றம் வழக்கில் மேல்முறையீடு: அமைச்சர் நிர்மல் குமார் பதில்",
-   "english_headline": "Minister Nirmal Kumar responds on Thiruparankundram case appeal",
-   "category": "Government & Services",
-   "location": "Chennai town, Chennai district",
-   "importance": "Medium",
-   "scope": "district",
+   "tamil_headline": "ஷாலினி பகிர்ந்த வீடியோ இணையத்தில் வைரல்",
+   "english_headline": "Shalini's shared video goes viral online",
+   "category": "Entertainment",
+   "location": "unknown",
+   "importance": "Low",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு அறிவிப்பு",
-    "loc": "சென்னை",
-    "hl1": "திருப்பரங்குன்றம் வழக்கு: அமைச்சர் பதில்",
-    "hl2": "மேல்முறையீடு குறித்து",
-    "slides": [
-     {
-      "title": "வழக்கு விவரம்",
-      "lines": [
-       "திருப்பரங்குன்றம் வழக்கில் <b>மேல்முறையீடு</b> செய்யப்படுமா?",
-       "அமைச்சர் <b>நிர்மல் குமார்</b> இதற்கு பதில் அளித்தார்"
-      ]
-     },
-     {
-      "title": "அமைச்சர் பதில்",
-      "lines": [
-       "அமைச்சர் நிர்மல் குமார் இந்த வழக்கு பற்றி பேசினார்",
-       "மேல்முறையீடு தொடர்பான கேள்விக்கு பதில் அளித்தார்"
-      ]
-     },
-     {
-      "title": "மக்கள் கவனம்",
-      "lines": [
-       "திருப்பரங்குன்றம் வழக்கு தொடர்பான முழு விவரம் இதோ",
-       "சென்னை மின்னல் பக்கத்தில் மேலும் செய்திகள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருப்பரங்குன்றம் வழக்கில் மேல்முறையீடு செய்யப்படுமா என்பது குறித்து அமைச்சர் நிர்மல் குமார் பதில் அளித்துள்ளார். சென்னை நகரில் உள்ள திருப்பரங்குன்றம் வழக்கு தொடர்பாக இந்த கேள்வி எழுந்தது. அமைச்சர் நிர்மல் குமார் இந்த வழக்கு பற்றி பேசும்போது மேல்முறையீடு குறித்த கேள்விக்கு பதில் அளித்தார். இந்த வழக்கு தொடர்பான முழு விவரங்களை அமைச்சர் விளக்கியுள்ளார். மக்கள் இந்த வழக்கு பற்றி அதிகம் அறிய விரும்புகின்றனர். அமைச்சரின் பதில் மக்களிடையே விவாதிக்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ திருப்பரங்குன்றம் வழக்கில் மேல்முறையீடு: அமைச்சர் நிர்மல் குமார் பதில்\n\n📰 முழு விவரம்:\nதிருப்பரங்குன்றம் வழக்கில் மேல்முறையீடு செய்யப்படுமா என்பது குறித்து அமைச்சர் நிர்மல் குமார் பதில் அளித்துள்ளார். சென்னை நகரில் உள்ள திருப்பரங்குன்றம் வழக்கு தொடர்பாக இந்த கேள்வி எழுந்தது. அமைச்சர் நிர்மல் குமார் இந்த வழக்கு பற்றி பேசும்போது மேல்முறையீடு குறித்த கேள்விக்கு பதில் அளித்தார். இந்த வழக்கு தொடர்பான முழு விவரங்களை அமைச்சர் விளக்கியுள்ளார். மக்கள் இந்த வழக்கு பற்றி அதிகம் அறிய விரும்புகின்றனர். அமைச்சரின் பதில் மக்களிடையே விவாதிக்கப்படுகிறது.\n\n📍 இடம்: சென்னை\nℹ️ மக்கள் கவனத்திற்கு: திருப்பரங்குன்றம் வழக்கு தொடர்பான மேல்முறையீடு குறித்து அமைச்சர் நிர்மல் குமார் பதில் அளித்துள்ளார்.\n\nChennai Thiruparankundram case appeal | Minister Nirmal Kumar response\n📍 Chennai town, Chennai | 21 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Thiruparankundram",
-   "prompts": "A group of Tamil Nadu government officials and a minister's aide sit at a long wooden table inside a government hall in Chennai, papers and folders spread out before them, as a minister responds to questions about a legal appeal. The room is a formal government office or secretariat-style hall with plain white walls, ceiling fans, and a row of chairs along the back wall. Behind the table stand a few uniformed Tamil Nadu police personnel in khaki, and a small cluster of reporters with notepads and microphones sit at a distance on the left. Everyone seen from behind or far away, faces not visible. Daylight streams through tall windows, giving a neutral indoor light. Camera at eye level, 35 mm, wide enough to show the full table and the hall. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official case files tied with red tape and a few loose printed pages lying on a polished wooden table, with a microphone and a small pile of notepads beside them. In the soft background, a blurred out-of-focus figure in a white shirt sits behind the desk. Plain indoor government-hall setting in Chennai with a ceiling fan overhead and daylight from a window on the side. No readable text or signboards visible. Camera slightly high, shallow depth of field, 35 mm, focusing on the documents and the microphone to suggest a legal appeal being discussed. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/visual-stories/2026/Nov/21/appeal-in-tiruparangunram-case-minister-nirmal-kumars-answer-tvk",
-   "published": "2026-11-21T14:20:49.869Z",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script has 56 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795275478/chennaiminnal/plu4hpka6nq4iidvgvhf.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795275511/chennaiminnal/wqialwmz9qds8atojupj.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பைக் விபத்தில் நண்பர் இறந்ததற்கு ஜாபருக்கு 2 ஆண்டு சிறை",
-   "english_headline": "Pillion rider dies after fall from bike; driver Jaffer gets 2 years in jail at Thiruvottiyur court",
-   "category": "Crime & Safety",
-   "location": "Thiruvottiyur, Chennai district",
-   "importance": "Medium",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விபத்து தீர்ப்பு",
-    "loc": "திருவொற்றியூர், சென்னை",
-    "hl1": "திருவொற்றியூரில் பைக் விபத்து வழக்கு: 2",
-    "hl2": "2 ஆண்டு சிறை, ரூ.10,000",
+    "cat": "சினிமா",
+    "loc": "unknown",
+    "hl1": "ஷாலினி பகிர்ந்த வீடியோ வைரல்",
+    "hl2": "இணையத்தில் பரவல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "2015 ஏப்ரல் 1ஆம் தேதி பைக் விபத்து நடந்தது",
-       "வேகத்தடையில் பைக் அதிவேகமாக ஏறி இறங்கியதால் விபத்து",
-       "பின்னால் அமர்ந்திருந்த சீனிவாசன் கீழே விழுந்தார்"
-      ]
-     },
-     {
-      "title": "உயிரிழப்பு",
-      "lines": [
-       "திருவொற்றியூர்–பேசின் சாலை, சர்ச் அருகே நடந்தது",
-       "சீனிவாசன் (36 வயது), அரசு ஸ்டான்லி மருத்துவமனையில்",
-       "2015 ஏப்ரல் 19ஆம் தேதி சிகிச்சை பலனின்றி உயிரிழந்தார்"
-      ]
-     },
-     {
-      "title": "தீர்ப்பு",
-      "lines": [
-       "பைக்கை ஓட்டிய ஜாபர் (41 வயது), குற்றவாளி என அறிவிக்கப்பட்டார்",
-       "2 ஆண்டு சிறை தண்டனை விதிக்கப்பட்டது",
-       "ரூ.10,000 அபராதமும் விதிக்கப்பட்டது"
+       "ஷாலினி பகிர்ந்த வீடியோ இணையத்தில் வைரலானது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருவொற்றியூரில் பைக் விபத்தில் நண்பர் உயிரிழந்த வழக்கில் ஓட்டுநருக்கு 2 ஆண்டு சிறை. இன்று நவம்பர் 21ஆம் தேதி திருவொற்றியூர் நீதிமன்றம் இந்தத் தீர்ப்பை வழங்கியது. பைக்கை ஓட்டிய ஜாபர் (41 வயது), குற்றவாளி என அறிவிக்கப்பட்டார். அவருக்கு 2 ஆண்டு சிறை தண்டனையும் ரூ.10,000 அபராதமும் விதிக்கப்பட்டது. சென்னை பூங்கா நகரைச் சேர்ந்த ஜாபர் 2015 ஏப்ரல் 1ஆம் தேதி தன் நண்பர் சீனிவாசனுடன் பைக்கில் திருவொற்றியூர்–பேசின் சாலையில் சென்றார். சர்ச் அருகே வேகத்தடையில் பைக் அதிவேகமாக ஏறி இறங்கியது. அதில் பின்னால் அமர்ந்திருந்த சீனிவாசன் (36 வயது), கீழே விழுந்து பலத்த காயமடைந்தார். அரசு ஸ்டான்லி மருத்துவமனையில் சேர்க்கப்பட்ட அவர் 2015 ஏப்ரல் 19ஆம் தேதி சிகிச்சை பலனின்றி உயிரிழந்தார். வண்ணாரப்பேட்டை போக்குவரத்து புலனாய்வுப் பிரிவு போலீசார் வழக்குப் பதிவு செய்து விசாரித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருவொற்றியூரில் பைக் விபத்து: நண்பர் இறப்புக்கு ஓட்டுநருக்கு 2 ஆண்டு சிறை\n\n📰 முழு விவரம்:\nபைக்கில் இருந்து தவறி விழுந்து நண்பர் உயிரிழந்த வழக்கில், பைக்கை ஓட்டிய ஜாபர் (41 வயது), குற்றவாளி என இன்று (நவ. 21) திருவொற்றியூர் நீதிமன்றம் அறிவித்தது. அவருக்கு 2 ஆண்டு சிறை தண்டனையும் ரூ.10,000 அபராதமும் விதிக்கப்பட்டது.\nசென்னை பூங்கா நகரைச் சேர்ந்த ஜாபர் 2015 ஏப்ரல் 1ஆம் தேதி தன் நண்பர் சீனிவாசன் (36 வயது), உடன் பைக்கில் திருவொற்றியூர்–பேசின் சாலை, சர்ச் அருகே சென்றார்.\nவேகத்தடையில் பைக் அதிவேகமாக ஏறி இறங்கியதில் பின்னால் அமர்ந்திருந்த சீனிவாசன் கீழே விழுந்து பலத்த காயமடைந்தார்.\nஅரசு ஸ்டான்லி மருத்துவமனையில் சேர்க்கப்பட்ட அவர் 2015 ஏப்ரல் 19ஆம் தேதி சிகிச்சை பலனின்றி உயிரிழந்தார்.\nவண்ணாரப்பேட்டை போக்குவரத்து புலனாய்வுப் பிரிவு போலீசார் வழக்குப் பதிவு செய்து விசாரித்தனர்.\n📍 இடம்: திருவொற்றியூர்–பேசின் சாலை, சர்ச் அருகே\n🗓️ நாள்: நவம்பர் 21, 2026 (தீர்ப்பு)\n👮 நடவடிக்கை: ஜாபருக்கு 2 ஆண்டு சிறை, ரூ.10,000 அபராதம்\n\nThiruvottiyur bike accident, driver jailed 2 years | Chennai news\n📍 திருவொற்றியூர், சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Thiruvottiyur #ChennaiNews #சென்னை",
-   "prompts": "A two-wheeler with a rider and an empty pillion seat slows down over a concrete speed breaker on a busy Thiruvottiyur road in Chennai, near a church spire visible in the background. The road is a typical Chennai city street with tarred surface, roadside shops, parked autorickshaws, and a town bus passing at a distance. Two men are seen only from behind: the rider in a shirt and trousers, gripping the handlebar, and a second person in a shirt walking away on the pavement. Daylight, soft late-morning sun, mild haze. Camera at eye level, 35 mm lens, wide enough to show the road, the hump, and the church building. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a concrete speed breaker painted with faded white stripes on a Chennai street, with the rear wheel of a motorcycle just past the hump. The tarmac is worn and slightly cracked near the edge, with a small patch of dust and a discarded plastic bottle at the roadside. A pair of worn chappals lies on the pavement edge, hinting at an accident without any injury. Background blurred: a low compound wall and a few parked two-wheelers. Daylight, neutral tones. Camera slightly high, 50 mm lens, shallow depth of field focused on the hump. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/youth-killed-in-bike-accident-friend-gets-2-years-in-jail/4382685",
-   "published": "2026-11-21T20:37:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 3 line 1 longer than 60 characters; caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('இவ்வழக்கில் இன்று ஜாபரை குற்றவாளி என அறிவித்த நீதிமன்றம், அவ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "reel_script": "",
+   "caption": "",
+   "prompts": "A young woman in a saree stands in a Chennai home courtyard, seen from behind, holding a smartphone whose screen glows with a video being shared, while a few relatives crowd close to look over her shoulder. The setting is a modest Chennai house with a tiled veranda, steel tumblers on a low table and a tulsi pot by the doorway, in soft daylight. The camera is at eye level, 35 mm, wide enough to show the room and the group, with no readable text on the phone. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a smartphone resting on a wooden table, its screen showing a blurred video frame with no readable text or logos, beside a steel tumbler of filter coffee and a folded newspaper. Soft morning daylight falls across the table from a window in a Chennai house, with a hand just entering the frame to tap the screen. The camera is slightly high, 35 mm close-up, shallow depth of field, showing the phone as the object that carries the viral video story. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/visual-stories/2026/Nov/21/the-video-shared-by-shalini-went-viral-on-the-internet-ajith-kumar",
+   "published": "2026-11-21T14:56:57.985Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: missing key: reel_script; missing key: caption",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795275548/chennaiminnal/rttl2nzfssiyb5xuxvy2.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795275586/chennaiminnal/b42wazkta4tubeieboph.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795282681/chennaiminnal/tnbkgip174xzdntflbvg.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795282684/chennaiminnal/rqxazkrbtakugfc4a7ed.jpg"
    ]
   },
   {
-   "tamil_headline": "சென்னை: நடப்பாண்டில் சிறார்கள் வாகனம் ஓட்டி விபத்து, 7 பேர் உயிரிழப்பு",
-   "english_headline": "Chennai: 7 killed in accidents caused by minors driving vehicles this year; parents face jail and fine",
+   "tamil_headline": "கடன் ஆசை காட்டி ரூ.7.91 லட்சம் மோசடி செய்த வாலிபர் கைது",
+   "english_headline": "19-year-old arrested for cheating two people of Rs 7.91 lakh with loan promises in Kasimedu",
    "category": "Crime & Safety",
-   "location": "Chennai city, Chennai district",
-   "importance": "High",
-   "scope": "",
+   "location": "Kasimedu, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: சிறார் ஓட்டிய வாகன விபத்தில் 7",
-    "hl2": "பெற்றோருக்கு சிறை, அபராதம்",
+    "cat": "மோசடி கைது",
+    "loc": "காசிமேடு, சென்னை",
+    "hl1": "காசிமேட்டில் கடன் மோசடி: வாலிபர் கைது",
+    "hl2": "ரூ.7.91 லட்சம் மோசடி",
     "slides": [
      {
-      "title": "எத்தனை பேர் பலி?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "நடப்பாண்டில் சிறார்கள் ஓட்டிய வாகன விபத்தில் <b>7 பேர்</b>",
-       "ஜன. 1 முதல் ஆக. 31 வரை",
-       "காவல் துறையினர் தகவல்"
+       "கடன் வாங்கித் தருவதாகக் கூறி <b>ரூ.7.91 லட்சம்</b> மோசடி",
+       "இருவரிடம் பணம் பெற்று ஏமாற்றினார்",
+       "காசிமேடு போலீசார் <b>19 வயது</b> வாலிபரை கைது செய்தனர்"
       ]
      },
      {
-      "title": "வழக்குகள்",
+      "title": "எப்படி",
       "lines": [
-       "<b>5 சிறார்கள்</b> மீது வழக்குப்பதிவு",
-       "<b>15 பேர்</b> படுகாயம்",
-       "<b>25 பேர்</b> லேசான காயம்"
+       "காசிமேடு சரவணன் (41 வயது), வீட்டுக்கடன்",
+       "ரூ.6 லட்சம் சிறுகச் சிறுக பெற்று கடன் வாங்கித் தரவில்லை",
+       "அருள்பிரகாஷிடம் ரூ.1.91 லட்சம் பெற்று மோசடி"
       ]
      },
      {
-      "title": "பெற்றோருக்கு",
+      "title": "கைது, தேடுதல்",
       "lines": [
-       "சிறார்களை ஓட்ட அனுமதிக்கும் பெற்றோருக்கு <b>3 ஆண்டுகள்</b> சிறை",
-       "<b>25 ஆயிரம் ரூபாய்</b> அபராதம்",
-       "வாகனப் பதிவு <b>12 மாதங்கள்</b> ரத்து"
-      ]
-     },
-     {
-      "title": "சிறாருக்கு உரிமம்",
-      "lines": [
-       "சம்பந்தப்பட்ட சிறார் <b>25 வயது</b> வரை ஓட்டுநர் உரிமம் பெற",
-       "சிறார்களை வாகனம் ஓட்ட விடாதீர்கள்"
+       "திருவொற்றியூர் ஆகாஷ், <b>19 வயது</b>, இன்று கைது",
+       "தலைமறைவான தட்சிணாமூர்த்தியை போலீசார் தேடுகின்றனர்",
+       "மோசடி புகார்கள் விசாரணையில் உள்ளன"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் சிறார்கள் ஓட்டிய வாகன விபத்தில் இந்த ஆண்டு 7 பேர் உயிரிழந்துள்ளனர். இந்தத் தகவலை காவல் துறையினர் தெரிவித்துள்ளனர். ஜனவரி 1ஆம் தேதி முதல் ஆகஸ்ட் 31ஆம் தேதி வரையிலான காலத்தில் இந்த உயிரிழப்புகள் நேர்ந்துள்ளன. இதுதொடர்பாக 5 சிறார்கள் மீது வழக்குப்பதிவு செய்யப்பட்டுள்ளது. 15 பேர் படுகாயமும், 25 பேர் லேசான காயமும் அடைந்துள்ளனர். சென்னை காவல் ஆணையரக எல்லைக்குட்பட்ட பகுதிகளில் 55 போக்குவரத்து காவல் நிலையங்கள் செயல்பட்டு வருகின்றன. அங்குள்ள போலீசார் போக்குவரத்து விதிகளை மீறுவோர் மீது நடவடிக்கை எடுத்து வருகின்றனர். பள்ளிகளிலும் சாலை விதிகள் குறித்த விழிப்புணர்வு ஏற்படுத்தப்படுகிறது. சிறார்களை வாகனம் ஓட்ட அனுமதிக்கும் பெற்றோர் மீது மோட்டார் வாகனச் சட்டம் 199ஏ பிரிவின்படி 3 ஆண்டுகள் சிறை தண்டனையும், 25 ஆயிரம் ரூபாய் அபராதமும் விதிக்கப்படும். வாகனத்தின் பதிவு 12 மாதங்களுக்கு ரத்து செய்யப்படும். சம்பந்தப்பட்ட சிறார் 25 வயது வரை ஓட்டுநர் உரிமம் பெற முடியாது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னையில் சிறார் ஓட்டிய வாகன விபத்தில் 7 பேர் பலி\n\n📰 முழு விவரம்:\nசென்னையில் நடப்பாண்டில் சிறார்கள் வாகனம் ஓட்டி ஏற்பட்ட விபத்துகளில் 7 பேர் உயிரிழந்துள்ளதாக காவல் துறையினர் தெரிவித்துள்ளனர். ஜனவரி 1 முதல் ஆகஸ்ட் 31 வரையிலான காலத்தில் இந்த உயிரிழப்புகள் நேர்ந்துள்ளன. இதுதொடர்பாக 5 சிறார்கள் மீது வழக்குப்பதிவு செய்யப்பட்டுள்ளது. 15 பேர் படுகாயமும், 25 பேர் லேசான காயமும் அடைந்தனர்.\nசென்னை காவல் ஆணையரக எல்லைக்குட்பட்ட பகுதிகளில் 55 போக்குவரத்து காவல் நிலையங்கள் செயல்பட்டு வருகின்றன. போலீசார் போக்குவரத்து விதிகளை மீறுவோர் மீது நடவடிக்கை எடுப்பதுடன், பள்ளிகளில் சாலை விதிகள் குறித்த விழிப்புணர்வையும் ஏற்படுத்தி வருகின்றனர்.\nசிறார்களை வாகனம் ஓட்ட அனுமதிக்கும் பெற்றோர், உறவினர்கள் மீது சட்டப்படி நடவடிக்கை எடுக்கப்பட்டு வருகிறது. மோட்டார் வாகனச் சட்டம் 199ஏ பிரிவின்படி 3 ஆண்டுகள் சிறை தண்டனை, 25 ஆயிரம் ரூபாய் அபராதம் விதிக்கப்படும். வாகனப் பதிவு 12 மாதங்களுக்கு ரத்து செய்யப்படும். சம்பந்தப்பட்ட சிறார் 25 வயது வரை ஓட்டுநர் உரிமம் பெற முடியாது.\n\nChennai minors driving accidents 7 dead | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #சாலை_பாதுகாப்பு",
-   "prompts": "A teenage boy in school uniform sits astride a two-wheeler on a busy Chennai road, his hands on the handlebars, while a traffic police constable in khaki stands beside him at the roadside and holds up a hand to stop him. The scene is a main road in Chennai city with a flyover pillar and passing MTC buses, autorickshaws and two-wheelers blurred in the background, with a traffic police booth at the kerb. Other pedestrians on the footpath are seen from behind and far away. The boy is shown from behind and slightly to the side, his face not visible. Daylight, mid-morning, clear sky with warm light. Camera at eye level, 35 mm, wide enough to show the road, the police constable and the vehicles around them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a two-wheeler parked on the roadside of a Chennai street, its front handlebar and headlight in sharp focus, with a folded police case file or a printed notice lying on the seat beside it. Behind it, out of focus, a traffic police constable in khaki stands at the kerb and a few onlookers are seen from behind. The background shows a blurred city road with autorickshaws and a town bus passing. The motorcycle has no visible number plate or readable text. Daylight, overcast soft light. Camera low and close, 50 mm, shallow depth of field to isolate the vehicle as the central object of the story. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/seven-people-died-in-child-driving-accidents-this-year/4382476",
-   "published": "2026-11-21T18:32:28+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "காசிமேட்டில் கடன் வாங்கித் தருவதாகக் கூறி ரூ.7.91 லட்சம் மோசடி செய்த 19 வயது வாலிபர் கைது செய்யப்பட்டார். சென்னை காசிமேடைச் சேர்ந்த சரவணன் (41 வயது), காது கேட்காத, வாய் பேச முடியாத மாற்றுத்திறனாளி. அவர் திருவொற்றியூரில் உள்ள தனியார் நிறுவனத்தில் கூலி வேலை செய்து வருகிறார். 2025ஆம் ஆண்டு அவரது மொபைல் போனுக்கு ஒரு தனியார் நிதி நிறுவனம் தொடர்பு கொண்டு, மூன்று லட்சம் ரூபாய் கடன் தருவதாகக் கூறியது. உடன் வேலை பார்க்கும் ஆகாஷ் மூலம் அவர் கடன் பெற்றார். அதற்காக ஆகாஷுக்கு 5,000 ரூபாய் கமிஷன் கொடுத்தார். சில மாதங்களுக்குப் பின், ஆகாஷ், தட்சிணாமூர்த்தி என்பவரை சரவணனுக்கு அறிமுகப்படுத்தினார். 25 லட்சம் ரூபாய் வீட்டுக்கடன் வாங்கித் தருவதாகக் கூறி, ஆறு லட்சம் ரூபாய் சிறுகச் சிறுகப் பெற்றார். ஆனால் கடன் வாங்கித் தரவில்லை. காசிமேடைச் சேர்ந்த அருள்பிரகாஷிடம் கடன் வாங்கித் தருவதாகக் கூறி 1.91 லட்சம் ரூபாய் பெற்று மோசடி செய்தார். புகார்களின் அடிப்படையில் விசாரணை நடத்திய காசிமேடு போலீசார், திருவொற்றியூர் எல்லையம்மன் கோவில் பகுதியைச் சேர்ந்த 19 வயது ஆகாஷை இன்று கைது செய்தனர். தலைமறைவாக உள்ள தட்சிணாமூர்த்தியை போலீசார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 காசிமேட்டில் கடன் ஆசை காட்டி ரூ.7.91 லட்சம் மோசடி: வாலிபர் கைது\n\n📰 முழு விவரம்:\nகடன் வாங்கித் தருவதாகக் கூறி மாற்றுத்திறனாளி உள்ளிட்ட இருவரிடம் ரூ.7.91 லட்சம் மோசடி செய்ததாக 19 வயது வாலிபர் காசிமேடு போலீசாரால் இன்று (நவ. 21) கைது செய்யப்பட்டார்.\nகாசிமேடைச் சேர்ந்த 41 வயது சரவணன், காது கேட்காத, வாய் பேச முடியாத மாற்றுத்திறனாளி. 2025ஆம் ஆண்டு மூன்று லட்சம் ரூபாய் கடன் பெற்றார்; அதற்காக ஆகாஷுக்கு 5,000 ரூபாய் கமிஷன் கொடுத்தார்.\nபின்னர் ஆகாஷ் தட்சிணாமூர்த்தியை அறிமுகப்படுத்தி, 25 லட்சம் ரூபாய் வீட்டுக்கடன் வாங்கித் தருவதாகக் கூறி ஆறு லட்சம் ரூபாய் பெற்று ஏமாற்றினார்.\nகாசிமேடைச் சேர்ந்த அருள்பிரகாஷிடம் கடன் வாங்கித் தருவதாகக் கூறி 1.91 லட்சம் ரூபாய் மோசடி செய்தார்.\n👮 நடவடிக்கை: புகார்களின் அடிப்படையில் விசாரணை நடத்திய காசிமேடு போலீசார், திருவொற்றியூர் எல்லையம்மன் கோவில் பகுதியைச் சேர்ந்த 19 வயது ஆகாஷை கைது செய்தனர். தலைமறைவான தட்சிணாமூர்த்தியை தேடி வருகின்றனர்.\n\nKasimedu loan fraud 7.91 lakh, youth arrested | Chennai news\n📍 காசிமேடு, சென்னை | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kasimedu #மோசடி #ChennaiNews",
+   "prompts": "Kasimedu police in khaki stand beside a 19-year-old youth seated on a wooden bench inside the Kasimedu police station in north Chennai, as a constable writes in a thick register on a table beside them. A ceiling fan turns above, and the walls are painted cream and stained with age. Through an open window a fishing harbour area is visible, with a few blue and white fishing boats, nets stacked on the ground and a two-wheeler parked outside the gate. Two men in shirts and veshti sit quietly on a bench, seen from behind, waiting to give their statement. Daylight streams through the window, the late-morning sun falls on the floor tiles, and the mood is calm and official. Photographed at eye level with a 35 mm lens, wide enough to show the room, the desk, the register and the harbour through the window, with the faces of the police and the accused turned away or in soft shadow. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a police table at the Kasimedu police station, showing a stack of loan application papers and a few cash bundles of Rs 500 notes laid out in a neat pile beside a black mobile phone and a steel tiffin box. A khaki-uniformed constable's hand rests on the open register, pen in hand, with a wooden desk and a worn plastic chair in the background. Soft daylight from a barred window falls across the papers, and a fan's shadow moves across the table. The paper stack and cash bundles tell the story of loans promised and money paid. Shot at slightly high angle with a 50 mm lens, shallow depth of field, focusing on the papers and cash while the background blurs into the police station interior. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/debt-seeking-rs-7-91-lakh-fraudulent-young-man-arrested/4382767",
+   "published": "2026-11-21T21:33:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795275591/chennaiminnal/qxlvwfd0zohmbyk0kibx.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795275595/chennaiminnal/b30yjgsw5t9sfi6tdg2r.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795282823/chennaiminnal/fz9js5mivanstja3n8kv.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795282825/chennaiminnal/naf7iynfxbvdvo8qzdtq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெருங்களத்தூரில் வெள்ளி கொள்ளை: 2 பேர் கைது",
+   "english_headline": "Perungalathur silver robbery: two more suspects arrested",
+   "category": "Crime & Safety",
+   "location": "Perungalathur, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கிரைம்",
+    "loc": "பெருங்களத்தூர், சென்னை",
+    "hl1": "பெருங்களத்தூரில் வெள்ளி கொள்ளை: 2 பேர்",
+    "hl2": "இதுவரை 8 பேர் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "நவ. 8ஆம் தேதி பெருங்களத்தூர் பேருந்து நிலையத்தில் கொள்ளை",
+       "திருச்சியைச் சேர்ந்த முகமது ஹூசைன், 46 வயது, தாக்கப்பட்டார்",
+       "46 கிலோ வெள்ளிப் பொருட்கள் கொள்ளை போனது"
+      ]
+     },
+     {
+      "title": "கைது விவரம்",
+      "lines": [
+       "பீர்க்கன்காரணை போலீசார் ஏற்கனவே 6 பேரை கைது செய்தனர்",
+       "தலைமறைவாக இருந்த கரண், 24 வயது, கைது",
+       "தலைமறைவாக இருந்த ஜோதீஸ்வரன், 24 வயது, கைது"
+      ]
+     },
+     {
+      "title": "இன்றைய நிலை",
+      "lines": [
+       "நவ. 21ஆம் தேதி இருவரும் கைது செய்யப்பட்டனர்",
+       "கரண், ஜோதீஸ்வரன் இருவரும் எண்ணூரைச் சேர்ந்தவர்கள்",
+       "விசாரணை தொடர்கிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பெருங்களத்தூரில் வெள்ளி கொள்ளை வழக்கில் இன்று இருவர் கைது செய்யப்பட்டனர். நவம்பர் 8ஆம் தேதி திருச்சியைச் சேர்ந்த முகமது ஹூசைன், 46 வயது, 46 கிலோ வெள்ளிப் பொருட்களுடன் பெருங்களத்தூர் பேருந்து நிலையத்தில் இறங்கினார். அப்போது மர்ம நபர்கள் அவரைத் தலையில் தாக்கி வெள்ளிப் பொருட்களைக் கொள்ளையடித்தனர். பீர்க்கன்காரணை போலீசார் விசாரணை நடத்தி ஏற்கனவே 6 பேரைக் கைது செய்திருந்தனர். தலைமறைவாக இருந்த எண்ணூரைச் சேர்ந்த கரண், 24 வயது, ஜோதீஸ்வரன், 24 வயது, ஆகிய இருவரையும் நவம்பர் 21ஆம் தேதி போலீசார் கைது செய்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பெருங்களத்தூரில் வெள்ளி கொள்ளை வழக்கில் 2 பேர் கைது\n\n📰 முழு விவரம்:\nநவ. 8ஆம் தேதி திருச்சியைச் சேர்ந்த முகமது ஹூசைன், 46 வயது, 46 கிலோ வெள்ளிப் பொருட்களுடன் பெருங்களத்தூர் பேருந்து நிலையத்தில் இறங்கினார். அப்போது மர்ம நபர்கள் அவரைத் தலையில் தாக்கி வெள்ளிப் பொருட்களைக் கொள்ளையடித்தனர்.\nபீர்க்கன்காரணை போலீசார் விசாரணை நடத்தி ஏற்கனவே 6 பேரைக் கைது செய்திருந்தனர்.\nதலைமறைவாக இருந்த எண்ணூரைச் சேர்ந்த கரண், 24 வயது, ஜோதீஸ்வரன், 24 வயது, ஆகிய இருவரும் நவ. 21ஆம் தேதி கைது செய்யப்பட்டனர்.\n\n📍 இடம்: பெருங்களத்தூர் பேருந்து நிலையம், சென்னை மாவட்டம்\n🗓️ நாள்: நவ. 8 (கொள்ளை), நவ. 21 (கைது)\n👮 நடவடிக்கை: பீர்க்கன்காரணை போலீசார் கைது செய்தனர்\n\nChennai silver robbery Perungalathur, two arrested | Chennai news\n📍 பெருங்களத்தூர், சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Perungalathur #கிரைம் #ChennaiNews",
+   "prompts": "Inside the bus stand at Perungalathur, a row of police in khaki uniform stand beside two young men seen from behind, their hands held in front, while a town bus waits at the platform in the background. Behind them a bus stand shelter with concrete pillars and a few waiting passengers far away give the suburban Chennai bus terminus feel. The bus stand is open to daylight with grey sky, and the scene is shot at eye level with a 35 mm lens wide enough to show the platform, the buses and the police. The police hold the arrested men near the bus stand boarding area, showing an arrest scene in progress. Both suspects are shown only from behind and far away, with no faces visible, and there are no readable signboards or text anywhere in the frame. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a canvas bag or sack placed on the concrete floor of a police station table, with silver articles such as utensils and bars spread out in a heap, sunlight from a window catching the metallic shine. A police officer's khaki sleeve and boot are visible at the edge of the frame, out of focus, while the silver pieces dominate the foreground. The table surface is plain and worn, with no text or labels visible. The lighting is natural daylight from one side, and the shot is taken from slightly high, around 45 degrees, with a 35 mm lens. The detail shows 46 kg of seized silver from the robbery, with the silver as the clear focus and the police presence suggested only at the edge of the frame. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/crime-corner---the-silver-robbers-caught/4382727",
+   "published": "2026-11-21T21:08:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795282831/chennaiminnal/gsujumvy4l5mhusdww6b.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795282833/chennaiminnal/pjufvypmcvcoyatseybd.jpg"
    ]
   }
  ]
