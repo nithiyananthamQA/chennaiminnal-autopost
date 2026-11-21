@@ -1,163 +1,265 @@
-writing [N]: வெளிமாநில மதுபானங்களை சென்னைக்குக் கடத்தி வந்தவர் கைது..!
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-writing [N]: 2026-ம் ஆண்டுக்கான தொழிலாளர் நல நிதியை ஜனவரி மாதத்துக்குள் ந
+writing [N]: பெரம்பூர் அம்மா உணவகத்தில் இளைஞர் மீது கொதிக்கும் சாம்பாரை ஊ
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+writing [N]: இயந்திரம் வாங்கி தருவதாக கூறி ரூ.2 கோடி மோசடி: பெண் கைது, கூ
+writing [N]: திருமண ஆசை காட்டி பெண்ணிடம் மோசடி: பிக்பாஸ் முத்துக்குமரன் ம
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (12s)
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  reel_script copies the article word for word (24 words in a row, 34% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (13s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high d
-writing [N]: சைதாப்பேட்டை – தேனாம்பேட்டை மேம்பால பணிக்கு கூடுதல் நிதி ஒது
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.5-flash for 10 min
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-ok groq/qwen/qwen3.8-27b (4s)
-attempt 1 groq/qwen/qwen3.8-27b: 2 problems
-  numbers not found in the article: 500
-  reel_script copies the article word for word (22 words in a row, 40% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok anthropic/claude-haiku-5-5
+    "code": 503,
+    "message": "This model is currently experiencing high d
+ok gemini/gemini-3-flash-preview (53s)
+factcheck by gemini/gemini-3-flash-preview: 0 problems
+attempt 2 gemini/gemini-3.6-flash: 0 problems
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.5-flash for 10 min
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok gemini/gemini-3-flash-preview (24s)
+proofread rejected (1 problems)
+  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/openai/gpt-oss-120b (2s)
+real photo step skipped for 'Amma Unavagam employee arrested in Peram': real photos switched off
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok groq/qwen/qwen3.8-27b (0s)
-factcheck by groq/qwen/qwen3.8-27b: 2 problems
-  Missing important fact: The article states that the flyover was scheduled to be opened in May (மே மாதம்), which is mentioned in the caption but omitted from the reel_script.
-  Missing important fact: The article mentions the previous DMK government's order regarding cost overruns (specifically that extra funds would be recovered from the engineer if requested), which provides context to the current controversy and is missing from the reel_script.
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  fact-check: Missing important fact: The article states that the flyover was scheduled to be opened in May (மே மாதம்), which is mentioned in the caption but omitted from the reel_script.
-  fact-check: Missing important fact: The article mentions the previous DMK government's order regarding cost overruns (specifically that extra funds would be recovered from the engineer if requested), which provides context to the current controversy and is missing from the reel_script.
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Amma Unavagam employee arrested in Peram'
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-dead for this round: groq/qwen/qwen3.8-27b
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption copies the article word for word (20 words in a row, 32% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-1707","first":"RN-176"}
+posting job started at once
+writing [N]: ரெயில் மோதி யானைகள் பலியாவதை தடுக்க நடவடிக்கை - கேரள அரசுக்க
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 420 ('மேம்பாலம் இறங்கும் இடத்தில், 420 மீட்டருக்கு தூண் அமைப்பதில்')
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'விருகம்பாக்கம்' and the news itself, e.g. 'விருகம்பாக்கம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+switching away from gemini/gemini-3-flash-preview for 10 min
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  slides must have 3 or 4 items
-  reel_script has 46 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 51 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  reel_script has English words (gov, in, lwb, tn) - the voice cannot read them; write them in Tamil letters
-  reel_script must have no English letters (write English words and abbreviations in Tamil script)
-  source/outlet name or link appears: www.
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
   hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
-  known issue english_in_voice: voice script has English words the voice skips (gov, in, lwb, tn) - rewrite so it does not happen again
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
   sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption copies the article word for word (18 words in a row, 21% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  caption copies the article word for word (20 words in a row, 32% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  reel_script has 172 words; need 96-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption copies the article word for word (18 words in a row, 36% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 54 ('அதைப் பெற்ற நிறுவன உரிமையாளர் ஜஸ்டின் பிரபாகர், 54 லட்சம் ரூ')
+ok groq/qwen/qwen3.8-27b (3s)
+proofread rejected (3 problems)
+  reel_script has English words (AI) - the voice cannot read them; write them in Tamil letters
+  reel_script must have no English letters (write English words and abbreviations in Tamil script)
+  known issue english_in_voice: voice script has English words the voice skips (AI) - rewrite so it does not happen again
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (4s)
+proofread rejected (4 problems)
+  slide 2 line 1 longer than 60 characters
+  slide 3 line 1 longer than 60 characters
+  slide 3 line 3 longer than 60 characters
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'விருகம்பாக்கம்' and the news itself, e.g. 'விருகம்பாக்கம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 8 problems
+  reel_script says the fraud was 'இயந்திரம் வாங்கித் தருவதாக ரூ.2 கோடிக்கு மேல்' - article gives Rs 2.64 crore loan, so 'over Rs 2 crore' is loosely consistent, but reel_script states Meena was arrested 'நேற்று முன்தினம்' while the article's arrest day is the same; no error there
+  reel_script says Manni's house deed was taken and that Manni 'தனது நிறுவனத்தின் பெயரில் கடன் பெற்று' and money was sent to Meena and Sankar 'இயந்திரம் வாங்குவதற்குப் பதிலாக' - article says the loan was taken in the name of VS Technology via a sales invoice, not Manni's company; the reel_script attributes the loan to Manni's company, which is a factual error
+  reel_script omits that the money passed through the company owner Justin Prabhakar and the Rs 10 lakh commission taken by Meena, and that Rs 2 crore was sent to Sankar - the transfer chain is missing
+  slides_spec and caption describe Manni as the one who 'அக்டோபரில் புகார் அளித்தார்' - correct, but slide 'என்ன நடந்தது?' says 'வழக்குப் பதிவு செய்தனர்' which the article does not state
+  slides_spec 'பணத்தை வாங்கிக்கொண்டு இயந்திரம் வாங்கித் தரவில்லை' is a loose paraphrase; the article says the machine was not bought and money was cheated, acceptable
+  caption says 'சங்கர் ... ரூ.10 கோடி வரை மோசடி செய்துள்ளதாகக் கூறப்படுகிறது' - the article says this about helping seekers, acceptable; but the caption and reel_script attribute the 'உதவி கேட்டு வருபவர்களிடம்' fraud to Sankar generically - fine
+  reel_script says 'முகப்பேரைச் சேர்ந்த மீனா (40 வயது), என்பவரை' - ungrammatical sentence with stray comma before 'என்பவரை' (minor), and 'மோசடி நடந்துள்ளது' phrasing fine
+  caption says 'மீனா நடத்தும் எம்.எம். நிறுவனத்துக்கு அனுப்பினார்' and 'ஜஸ்டின் பிரபாகர்' - consistent with article, fine
+claude rewrite 2 anthropic/claude-haiku-5-5: 8 problems
+  fact-check: reel_script says the fraud was 'இயந்திரம் வாங்கித் தருவதாக ரூ.2 கோடிக்கு மேல்' - article gives Rs 2.64 crore loan, so 'over Rs 2 crore' is loosely consistent, but reel_script states Meena was arrested 'நேற்று முன்தினம்' while the article's arrest day is the same; no error there
+  fact-check: reel_script says Manni's house deed was taken and that Manni 'தனது நிறுவனத்தின் பெயரில் கடன் பெற்று' and money was sent to Meena and Sankar 'இயந்திரம் வாங்குவதற்குப் பதிலாக' - article says the loan was taken in the name of VS Technology via a sales invoice, not Manni's company; the reel_script attributes the loan to Manni's company, which is a factual error
+  fact-check: reel_script omits that the money passed through the company owner Justin Prabhakar and the Rs 10 lakh commission taken by Meena, and that Rs 2 crore was sent to Sankar - the transfer chain is missing
+  fact-check: slides_spec and caption describe Manni as the one who 'அக்டோபரில் புகார் அளித்தார்' - correct, but slide 'என்ன நடந்தது?' says 'வழக்குப் பதிவு செய்தனர்' which the article does not state
+  fact-check: slides_spec 'பணத்தை வாங்கிக்கொண்டு இயந்திரம் வாங்கித் தரவில்லை' is a loose paraphrase; the article says the machine was not bought and money was cheated, acceptable
+  fact-check: caption says 'சங்கர் ... ரூ.10 கோடி வரை மோசடி செய்துள்ளதாகக் கூறப்படுகிறது' - the article says this about helping seekers, acceptable; but the caption and reel_script attribute the 'உதவி கேட்டு வருபவர்களிடம்' fraud to Sankar generically - fine
+  fact-check: reel_script says 'முகப்பேரைச் சேர்ந்த மீனா (40 வயது), என்பவரை' - ungrammatical sentence with stray comma before 'என்பவரை' (minor), and 'மோசடி நடந்துள்ளது' phrasing fine
+  fact-check: caption says 'மீனா நடத்தும் எம்.எம். நிறுவனத்துக்கு அனுப்பினார்' and 'ஜஸ்டின் பிரபாகர்' - consistent with article, fine
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+ok anthropic/claude-haiku-5-5
+real photo step skipped for 'Chennai High Court orders Kerala govt to': real photos switched off
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Chennai High Court orders Kerala govt to'
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-1708","first":"RN-177"}
+real photo step skipped for 'Bigg Boss personality Muthukumaran booke': real photos switched off
+writing [N]: தமிழகத்தில் நவ.23 முதல் 26 வரை பல்வேறு மாவட்டங்களில் கனமழைக்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 7 problems
+  reel_script says 'ஆவடியில் இயந்திரம் வாங்கித் தருவதாக ... மோசடி நடந்துள்ளது' - the article only says the fraud case was handled by Avadi Central Crime Branch; the location claim is a stretch but acceptable; main issue below
+  reel_script omits the fact that the complainant's money was taken with Justin Prabhakar keeping Rs 54 lakh, which is minor; however the slide and reel say 'ஆவடி மத்திய குற்றப்பிரிவு போலீசாரால்' correctly
+  slides_spec 'hl2' says 'கூட்டாளி ஆந்திராவில்' which is fine, but the slides and caption describe the arrest as 'நேற்று முன்தினம்' consistently with article
+  caption says 'ரூ.2.64 கோடி கடன் பெற்று மோசடி செய்த வழக்கில்' while the article says it was a 2.64 crore bank loan obtained via a demand draft - acceptable
+  caption: 'மீனாவும் சங்கரும் அம்பத்தூரில் உள்ள அரசு பொதுத்துறை வங்கி மேலாளர் மூலம் கடன் பெற்றுத் தருவதாகக் கூறினர்' - article says they claimed they knew the bank manager; wording is acceptable
+  reel_script omits that Justin Prabhakar (the company owner) received the demand draft and kept Rs 54 lakh, an important party in the flow of money, and that the arrested woman is Meena who ran M.M. company, which is a missing key fact from the reel
+  reel_script states 'வி எஸ் டெக்னாலஜி நிறுவனத்தின் பெயரில் இயந்திர விலைப்பட்டியலை வங்கியில் கொடுத்து' - fine, but the reel calls Meena's arrest the only arrest and says Sankar 'தலைமறைவாக' which is consistent
+claude rewrite 3 anthropic/claude-haiku-5-5: 7 problems
+  fact-check: reel_script says 'ஆவடியில் இயந்திரம் வாங்கித் தருவதாக ... மோசடி நடந்துள்ளது' - the article only says the fraud case was handled by Avadi Central Crime Branch; the location claim is a stretch but acceptable; main issue below
+  fact-check: reel_script omits the fact that the complainant's money was taken with Justin Prabhakar keeping Rs 54 lakh, which is minor; however the slide and reel say 'ஆவடி மத்திய குற்றப்பிரிவு போலீசாரால்' correctly
+  fact-check: slides_spec 'hl2' says 'கூட்டாளி ஆந்திராவில்' which is fine, but the slides and caption describe the arrest as 'நேற்று முன்தினம்' consistently with article
+  fact-check: caption says 'ரூ.2.64 கோடி கடன் பெற்று மோசடி செய்த வழக்கில்' while the article says it was a 2.64 crore bank loan obtained via a demand draft - acceptable
+  fact-check: caption: 'மீனாவும் சங்கரும் அம்பத்தூரில் உள்ள அரசு பொதுத்துறை வங்கி மேலாளர் மூலம் கடன் பெற்றுத் தருவதாகக் கூறினர்' - article says they claimed they knew the bank manager; wording is acceptable
+  fact-check: reel_script omits that Justin Prabhakar (the company owner) received the demand draft and kept Rs 54 lakh, an important party in the flow of money, and that the arrested woman is Meena who ran M.M. company, which is a missing key fact from the reel
+  fact-check: reel_script states 'வி எஸ் டெக்னாலஜி நிறுவனத்தின் பெயரில் இயந்திர விலைப்பட்டியலை வங்கியில் கொடுத்து' - fine, but the reel calls Meena's arrest the only arrest and says Sankar 'தலைமறைவாக' which is consistent
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-real photo step skipped for 'Man arrested for smuggling out-of-state ': real photos switched off
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  reel_script has English words (gov, in, lwb, tn) - the voice cannot read them; write them in Tamil letters
-  reel_script must have no English letters (write English words and abbreviations in Tamil script)
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  reel_script has numbers without their meaning (20); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
-  known issue english_in_voice: voice script has English words the voice skips (gov, in, lwb, tn) - rewrite so it does not happen again
-images made: 2 for 'Man arrested for smuggling out-of-state '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-1304","first":"RN-173"}
-posting job started at once
-real photo step skipped for 'Extra Rs 50 crore for Saidapet–Teynampet': real photos switched off
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  reel_script has English words (gov, in, lwb, tn) - the voice cannot read them; write them in Tamil letters
-  reel_script must have no English letters (write English words and abbreviations in Tamil script)
-  source/outlet name or link appears: www.
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 24, 25
   slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  known issue english_in_voice: voice script has English words the voice skips (gov, in, lwb, tn) - rewrite so it does not happen again
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  numbers not found in the article: 25
+  slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Extra Rs 50 crore for Saidapet–Teynampet'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-1305","first":"RN-174"}
-real photo step skipped for 'Employers asked to pay 2026 labour welfa': real photos switched off
+images made: 2 for 'Bigg Boss personality Muthukumaran booke'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-1709","first":"RN-178"}
+real photo step skipped for 'Woman arrested for ₹2 crore fraud in Ava': real photos switched off
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Employers asked to pay 2026 labour welfa'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-1305","first":"RN-175"}
+images made: 2 for 'Woman arrested for ₹2 crore fraud in Ava'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-1709","first":"RN-179"}
+real photo step skipped for 'Heavy rain likely in many Tamil Nadu dis': real photos switched off
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Heavy rain likely in many Tamil Nadu dis'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-1709","first":"RN-180"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.polimernews.com/districtnews/a-man-arrested-for-smuggling-liquor-from-other-states-into-chennai-12828819
-manual link added: https://www.dailythanthi.com/news/tamilnadu/companies-instructed-to-pay-the-2026-labor-welfare-fund-by-january
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/other-contractors-unhappy-with-additional-funding-for-saidapet-thenampet-flyover-request-for-funding-for-other-projects/4381853
-candidate filter: collected=3
-to write: 3 Chennai district candidates (max 3 stories)
-round: top 3 of 3 candidates
-candidates waiting: 3 Chennai; time left 79 min
+manual link added: https://www.dinakaran.com/news/tamil-nadu-nov-23-26-districts-receive-heavy-rain-meteorological-department-informs/amp
+manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-high-court-orders-kerala-government-to-take-action-to-prevent-elephants-from-being-hit-by-trains
+manual link added: https://www.dailythanthi.com/news/tamilnadu/employee-arrested-for-pouring-boiling-sambar-on-youth-at-perambur-amma-canteen
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/bigg-boss-muthukumaran-booked-for-cheating-woman-on-pretext-of-marriage/4382262
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-2-crore-fraud-claiming-to-buy-machine-web-to-female-arrested-partner/4382258
+candidate filter: collected=5
+to write: 5 Chennai district candidates (max 5 stories)
+round: top 5 of 5 candidates
+candidates waiting: 5 Chennai; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/companies-instru
-try (N) manual=True: https://www.polimernews.com/districtnews/a-man-arrested-for-
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/employee-arreste
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-high-cou
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+try (N) manual=True: https://www.dinakaran.com/news/tamil-nadu-nov-23-26-district
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min
-filed: 3 Chennai district stories (target 3), reels only
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})
+candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 75 min
+filed: 5 Chennai district stories (target 5), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":3,"updated":0} 
-stories: 3
+All News sheet: {"ok":true,"added":5,"updated":0} 
+stories: 5

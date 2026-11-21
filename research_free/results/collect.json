@@ -3,69 +3,117 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.polimernews.com/districtnews/a-man-arrested-for-smuggling-liquor-from-other-states-into-chennai-12828819",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/companies-instructed-to-pay-the-2026-labor-welfare-fund-by-january",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/other-contractors-unhappy-with-additional-funding-for-saidapet-thenampet-flyover-request-for-funding-for-other-projects/4381853",
-  "candidate filter: collected=3",
-  "to write: 3 Chennai district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Chennai; time left 79 min",
+  "manual link added: https://www.dinakaran.com/news/tamil-nadu-nov-23-26-districts-receive-heavy-rain-meteorological-department-informs/amp",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-high-court-orders-kerala-government-to-take-action-to-prevent-elephants-from-being-hit-by-trains",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/employee-arrested-for-pouring-boiling-sambar-on-youth-at-perambur-amma-canteen",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/bigg-boss-muthukumaran-booked-for-cheating-woman-on-pretext-of-marriage/4382262",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-2-crore-fraud-claiming-to-buy-machine-web-to-female-arrested-partner/4382258",
+  "candidate filter: collected=5",
+  "to write: 5 Chennai district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Chennai; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/companies-instru",
-  "try (N) manual=True: https://www.polimernews.com/districtnews/a-man-arrested-for-",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/employee-arreste",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-high-cou",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.dinakaran.com/news/tamil-nadu-nov-23-26-district",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
-  "filed: 3 Chennai district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 75 min",
+  "filed: 5 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3-flash-preview (53s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (24s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok groq/qwen/qwen3.8-27b (0s)",
   "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "ok anthropic/claude-haiku-5-5",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
@@ -74,7 +122,6 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -86,190 +133,296 @@
  ],
  "stories": [
   {
-   "tamil_headline": "வெளிமாநில மதுபானங்களை சென்னைக்குக் கடத்தி வந்தவர் கைது",
-   "english_headline": "Man arrested for smuggling out-of-state liquor and ganja into Chennai by car",
+   "tamil_headline": "பெரம்பூர் அம்மா உணவகத்தில் இளைஞர் மீது கொதிக்கும் சாம்பாரை ஊற்றிய ஊழியர் கைது",
+   "english_headline": "Amma Unavagam employee arrested in Perambur for pouring boiling sambar on youth's face",
    "category": "Crime & Safety",
-   "location": "Porur Bypass Road, Chennai, Chennai district",
+   "location": "Perambur, Chennai district",
    "importance": "High",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "போதைப்பொருள் கைது",
-    "loc": "போரூர் புறவழிச் சாலை, சென்னை",
-    "hl1": "போரூர் சாலையில் கடத்தல் கார் பிடிபட்டது",
-    "hl2": "ஒருவர் கைது",
+    "cat": "குற்றச் செய்தி",
+    "loc": "பெரம்பூர், சென்னை",
+    "hl1": "பெரம்பூர் அம்மா உணவகத்தில் கொடூரம்",
+    "hl2": "சாம்பார் ஊற்றிய ஊழியர் கைது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "வெளிமாநில மதுபானங்களைக் காரில் கடத்தி வந்த நபர் கைது",
-       "சென்னை போரூர் புறவழிச் சாலையில் போலீசார் சோதனை",
-       "காரில் வெளிமாநில மதுபாட்டில்களும் கஞ்சாவும் இருந்தன"
+       "சென்னை <b>பெரம்பூர்</b> அம்மா உணவகத்தில் சம்பவம்",
+       "இளைஞர் மீது கொதிக்கும் <b>சாம்பார்</b> ஊற்றப்பட்டது",
+       "இன்று சனிக்கிழமை பரபரப்பு"
       ]
      },
      {
-      "title": "யார் இவர்?",
+      "title": "தகராறு ஏன்?",
       "lines": [
-       "கோடம்பாக்கம் பகுதியைச் சேர்ந்த சாய்கரண்",
-       "அவர் ஓட்டி வந்த காரில் போலீசார் சோதனை செய்தனர்",
-       "பின்னர் அவரது வீட்டிலும் சோதனை நடத்தப்பட்டது"
+       "சமையல் முடியும் முன்பே <b>ராஜேஷ்</b> சாப்பாடு கேட்டார்",
+       "ஊழியர் <b>உதயபானு</b>வுடன் வாக்குவாதம் ஏற்பட்டது",
+       "ஆத்திரத்தில் கொதிக்கும் சாம்பார் ஊற்றப்பட்டது"
       ]
      },
      {
-      "title": "வீட்டில்",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "மெத்தம்பெட்டமைன், கஞ்சா, போதை சாக்லேட்டுகள் பறிமுதல்",
-       "இவை அனைத்தும் போலீசாரால் பறிமுதல் செய்யப்பட்டன",
-       "போதைப்பொருள் கடத்தல் குறித்து விசாரணை தொடர்கிறது"
+       "தீக்காயமடைந்த ராஜேஷ் <b>மருத்துவமனையில்</b> அனுமதி",
+       "பெரம்பூர் போலீசார் வழக்குப் பதிவு செய்தனர்",
+       "ஊழியர் உதயபானுவை போலீசார் <b>கைது</b> செய்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை போரூர் புறவழிச் சாலையில் வெளிமாநில மதுபானங்களைக் காரில் கடத்தி வந்த நபரைப் போலீசார் கைது செய்தனர். ரோந்துப் பணியில் இருந்த போலீசார் கோடம்பாக்கம் பகுதியைச் சேர்ந்த சாய்கரண் ஓட்டி வந்த காரைச் சோதனை செய்தனர். காரில் வெளிமாநில மதுபாட்டில்களும் கஞ்சாவும் இருந்தன. இதையடுத்து சாய்கரணின் வீட்டில் சோதனை நடத்தப்பட்டது. அங்கு மெத்தம்பெட்டமைன், கஞ்சா, போதை சாக்லேட்டுகள் ஆகியவை கண்டுபிடிக்கப்பட்டு பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 போரூர் சாலையில் வெளிமாநில மதுபானம் கடத்திய நபர் கைது\n\n📰 முழு விவரம்:\nசென்னை போரூர் புறவழிச் சாலையில் ரோந்துப் பணியில் இருந்த போலீசார், கோடம்பாக்கம் பகுதியைச் சேர்ந்த சாய்கரண் ஓட்டி வந்த காரைச் சோதனை செய்தனர். காரில் வெளிமாநில மதுபாட்டில்களும் கஞ்சாவும் இருந்தன. அதைத்தொடர்ந்து சாய்கரணின் வீட்டில் சோதனை நடத்தப்பட்டதில், மெத்தம்பெட்டமைன், கஞ்சா, போதை சாக்லேட்டுகள் உள்ளிட்டவை கண்டுபிடிக்கப்பட்டு பறிமுதல் செய்யப்பட்டன. இதையடுத்து சாய்கரண் கைது செய்யப்பட்டார்.\n📍 இடம்: போரூர் புறவழிச் சாலை, சென்னை\n👮 நடவடிக்கை: சாய்கரண் கைது; மதுபாட்டில்கள், கஞ்சா, மெத்தம்பெட்டமைன், போதை சாக்லேட்டுகள் பறிமுதல்\n\nChennai liquor smuggling arrest Porur | Chennai news\n📍 போரூர், சென்னை | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Porur #ChennaiNews #சென்னை",
-   "prompts": "A Tamil Nadu police officer in khaki uniform stands beside a stopped car on the Porur Bypass Road in Chennai, checking its boot while a second constable in khaki looks on. The setting is a wide multi-lane urban highway with moving traffic, two-wheelers, a passing bus and a row of street lamps lining the median. The driver of the car is seen from behind, standing at the side of the vehicle with his hands visible, not facing the camera. The car's open boot reveals stacked out-of-state liquor bottles and small packets of ganja. Daylight with a clear sky and soft sunlight across the tarmac. Camera at eye level, 35 mm lens, wide enough to show the road, the stopped car, the patrol officers and the traffic flowing past. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of seized contraband arranged on a plain table in a police station room in Chennai: rows of out-of-state liquor bottles, small plastic packets of ganja, a few small paper packets of white powder, and a scatter of brightly wrapped drug chocolates. A constable's khaki sleeve and gloved hand rest at the edge of the frame, with a blurred officer in khaki standing behind the table. Plain cream walls and a ceiling fan are visible in soft focus. Tubelight and daylight from a window falling across the table surface. Camera slightly high, looking down at the items, macro-style 50 mm lens, shallow depth of field to keep the packets sharp and the background softened. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.polimernews.com/districtnews/a-man-arrested-for-smuggling-liquor-from-other-states-into-chennai-12828819",
-   "published": "2026-11-21T13:00:25+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 51 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "பெரம்பூரில் இளைஞர் மீது சாம்பார் ஊற்றிய ஊழியர் கைதானார். சென்னை பெரம்பூர் மாநகராட்சி அம்மா உணவகத்தில் உதயபானு என்பவர் ஊழியராகப் பணிபுரிகிறார். இன்று சனிக்கிழமை அப்பகுதியைச் சேர்ந்த ராஜேஷ் என்பவர் சாப்பிட வந்துள்ளார். உணவகத்தில் சமையல் முடியும் முன்பே தினமும் சாப்பாடு கேட்டு அவர் தொந்தரவு செய்ததாகக் கூறப்படுகிறது. இன்றும் உணவு தயாராவதற்கு முன்பே ராஜேஷ் சாப்பாடு கேட்டதால் இருவருக்கும் இடையே வாக்குவாதம் உருவானது. இதனால் ஆத்திரமடைந்த ஊழியர் உதயபானு அடுப்பில் இருந்த கொதிக்கும் சாம்பாரை ராஜேஷின் முகத்தில் ஊற்றினார். முகத்தில் பலத்த தீக்காயமடைந்த ராஜேஷ் உடனடியாக மருத்துவமனையில் அனுமதிக்கப்பட்டார். இந்த சம்பவம் தொடர்பாகப் பெரம்பூர் காவல் நிலைய போலீசார் வழக்குப் பதிவு செய்தனர். அதைத் தொடர்ந்து இளைஞர் மீது சாம்பார் ஊற்றிய ஊழியர் உதயபானுவை போலீசார் கைது செய்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னை பெரம்பூர் அம்மா உணவகத்தில் இளைஞர் மீது கொதிக்கும் சாம்பார் ஊற்றிய ஊழியர் கைது!\n\n📰 முழு விவரம்:\nசென்னை பெரம்பூர் பகுதியில் உள்ள மாநகராட்சி அம்மா உணவகத்தில் உதயபானு என்பவர் ஊழியராகப் பணியாற்றி வருகிறார். இன்று (சனிக்கிழமை) அப்பகுதியைச் சேர்ந்த ராஜேஷ் என்ற இளைஞர் உணவகத்திற்குச் சாப்பிட வந்தார். சமையல் முழுமையாக முடிவதற்கு முன்பே அவர் உணவு கேட்டதால் உதயபானுவுக்கும் ராஜேஷுக்கும் இடையே வாக்குவாதம் ஏற்பட்டது. ஆத்திரமடைந்த உதயபானு அடுப்பில் கொதித்துக் கொண்டிருந்த சாம்பாரை ராஜேஷின் முகத்தில் ஊற்றினார். இதில் தீக்காயமடைந்த ராஜேஷ் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார். இச்சம்பவம் குறித்து பெரம்பூர் போலீசார் வழக்குப் பதிவு செய்து, ஊழியர் உதயபானுவை கைது செய்தனர்.\n\n📍 இடம்: அம்மா உணவகம், பெரம்பூர், சென்னை\n🗓️ நாள்: 21 நவம்பர் 2026 (சனிக்கிழமை)\n👮 நடவடிக்கை: பெரம்பூர் போலீசார் ஊழியர் உதயபானுவை கைது செய்தனர்\n\nமுக்கியமான இந்த செய்தியை தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nPerambur Amma Unavagam hot sambar incident employee arrested | Chennai news\n📍 Perambur, Chennai | 21 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Perambur #ChennaiNews #PeramburNews #சென்னை",
+   "prompts": "A canteen employee in a plain white shirt lifts a steaming pot and pours the boiling sambar toward the face of a young man standing at the service counter, the stream of hot soup arcing through the air. The setting is the interior of an Amma Unavagam government canteen in Perambur, recognizable by its simple tiled floor, low‑mounted kitchen counter, and a wall banner that reads “Amma Unavagam” in Tamil (the text is not readable in the frame). From behind, the employee’s back and the youth’s shoulders are visible; both are mid‑action, with the youth’s head turned slightly away. A stainless‑steel pot on a gas burner, a wooden serving tray, and a few empty plates sit on the counter. Bright daylight filters through a high window, casting even light; no rain or clouds are evident. The shot is taken at eye level with a 35 mm lens, framing the counter and the two figures to capture the violent act clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up focuses on the stainless‑steel pot of boiling sambar as it tilts, steam rising in visible curls and bright orange‑red broth spilling over the rim onto a metal ladle. The pot sits on a gas stove with a single burner glowing blue, and the canteen’s tiled floor is reflected in its polished surface. In the blurred background, a police officer in khaki uniform stands with handcuffs in hand, indicating the arrest that follows. The scene captures the hot liquid, the pot’s handle, and the police presence, all within the same Amma Unavagam canteen space. Daylight continues to illuminate the area, giving clear visibility of the steam and the metallic sheen. The camera is positioned slightly high, using a 35 mm lens to isolate the pot and the officer while keeping the canteen’s simple interior recognizable. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/employee-arrested-for-pouring-boiling-sambar-on-youth-at-perambur-amma-canteen",
+   "published": "2026-11-21T10:15:52Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246459/chennaiminnal/mayzdgbqacyct2xfwpjm.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246462/chennaiminnal/x0dbla1znpyzdnbyz8tm.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261053/chennaiminnal/rvk3ofyka779pjtimudq.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261056/chennaiminnal/fs3b004bg8oxlfei3al1.jpg"
    ]
   },
   {
-   "tamil_headline": "சைதாப்பேட்டை – தேனாம்பேட்டை மேம்பாலத்துக்கு கூடுதலாக 50 கோடி ரூபாய் ஒதுக்கீடு; மற்ற ஒப்பந்ததாரர்கள் அதிருப்தி",
-   "english_headline": "Extra Rs 50 crore for Saidapet–Teynampet flyover angers other contractors, who demand funds for their projects too",
-   "category": "Roads & Transport",
-   "location": "Teynampet and Saidapet, Chennai city, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலைப் பணி",
-    "loc": "சைதாப்பேட்டை, சென்னை",
-    "hl1": "சைதாப்பேட்டை – தேனாம்பேட்டை",
-    "hl2": "<b>50 கோடி ரூபாய்</b>",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "மேம்பாலப் பணிகளை முடிக்க <b>50 கோடி ரூபாய்</b> கூடுதல் நிதி",
-       "நெடுஞ்சாலைத்துறை இந்த நிதியை ஒதுக்கியுள்ளது",
-       "மற்ற ஒப்பந்ததாரர்கள் அதிருப்தியில் உள்ளனர்"
-      ]
-     },
-     {
-      "title": "மேம்பாலப் பணி",
-      "lines": [
-       "தேனாம்பேட்டை – சைதாப்பேட்டை இடையே 3 கி.மீ. மேம்பாலம்",
-       "மும்பை நிறுவனம் 621 கோடி ரூபாயில் பணியைத் தொடங்கியது",
-       "இப்போது <b>80 சதவீதம்</b> பணிகளே முடிந்துள்ளன"
-      ]
-     },
-     {
-      "title": "தாமதத்துக்கான",
-      "lines": [
-       "420 மீட்டருக்கு தூண் அமைப்பதில் சிக்கல் ஏற்பட்டது",
-       "திட்ட வடிவமைப்பு மாற்றப்பட்டு பணிகள் நடக்கின்றன",
-       "பாலம் <b>மே மாதம்</b> திறக்கப்படும் என அறிவிப்பு"
-      ]
-     },
-     {
-      "title": "ஒப்பந்ததாரர்கள்",
-      "lines": [
-       "கட்டுமானப் பொருள் விலை உயர்வால் பல பணிகள் தேங்கியுள்ளன",
-       "கூடுதல் நிதி கேட்டும் பொறியாளர்களுக்கு மறுப்பு",
-       "எங்களுக்கு ஒரு நியாயம், வெளிமாநில நிறுவனத்துக்கு ஒரு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சைதாப்பேட்டை தேனாம்பேட்டை மேம்பாலத்துக்கு கூடுதலாக 50 கோடி ரூபாய் ஒதுக்கப்பட்டுள்ளது. தேனாம்பேட்டை முதல் சைதாப்பேட்டை வரை சுமார் 3 கிலோமீட்டர் தூரத்துக்கு இந்த மேம்பாலம் கட்டப்படுகிறது. அண்ணா சாலையில் நிலவும் போக்குவரத்து நெரிசலைக் குறைக்கவே இந்தப் பணி தி மு க ஆட்சியில் தொடங்கப்பட்டது. மும்பையைச் சேர்ந்த ஜெ.குமார் கட்டுமான நிறுவனம் 621 கோடி ரூபாய் மதிப்பில் இந்தப் பாலத்தைக் கட்டுகிறது. முதலில் பிப்ரவரி மாதம் பாலத்தைத் திறக்கத் திட்டமிடப்பட்டிருந்தது. ஆனால் இரவு நேரத்தில் மட்டுமே பணி செய்ய முடிந்ததால் குறித்த நேரத்தில் திறக்க முடியவில்லை. தற்போது 80 சதவீதப் பணிகளே முடிந்துள்ளன. மேம்பாலம் இறங்கும் இடத்தில் 420 மீட்டருக்குத் தூண் அமைப்பதில் சிக்கல் ஏற்பட்டதால் பணிகள் நிறுத்தப்பட்டன. பின்னர் திட்ட வடிவமைப்பை மாற்றி பணிகள் நடைபெறுகின்றன. இந்நிலையில் கூடுதல் நிதி ஒதுக்கப்பட்டதற்கு மற்ற ஒப்பந்ததாரர்கள் அதிருப்தி தெரிவித்துள்ளனர். திட்ட மதிப்பீட்டுக்கு மேல் நிதி கேட்கக்கூடாது என்றும், கேட்டால் பொறியாளரிடம் இருந்து பணம் வசூலிக்கப்படும் என்றும் முந்தைய உத்தரவு இருந்தது. கட்டுமானப் பொருள் விலை உயர்வால் பல பணிகள் தேங்கியுள்ளதாகவும், அவற்றுக்கு நிதி கேட்டும் மறுக்கப்படுவதாகவும் ஒப்பந்ததாரர்கள் கூறுகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 சைதாப்பேட்டை – தேனாம்பேட்டை மேம்பாலத்துக்கு 50 கோடி ரூபாய் கூடுதல் நிதி\n\n📰 முழு விவரம்:\nதேனாம்பேட்டை – சைதாப்பேட்டை இடையே 3 கி.மீ. மேம்பாலப் பணிகளை முடிக்க 50 கோடி ரூபாய் கூடுதல் நிதியை நெடுஞ்சாலைத்துறை ஒதுக்கியுள்ளது. அண்ணா சாலை நெரிசலைக் குறைக்க திமுக ஆட்சியில் தொடங்கப்பட்ட இப்பணியை மும்பையைச் சேர்ந்த ஜெ.குமார் நிறுவனம் 621 கோடி ரூபாயில் மேற்கொள்கிறது. பிப்ரவரியில் திறக்கத் திட்டமிடப்பட்டது, ஆனால் இரவு நேரத்தில் மட்டுமே பணி செய்ய முடிந்ததால் தாமதமானது. சட்டசபைத் தேர்தல் அறிவிப்புக்குப் பின் மே மாதம் திறக்கப்படும் என அறிவிக்கப்பட்டது. தற்போது 80 சதவீதப் பணிகளே முடிந்துள்ளன. கூடுதல் நிதி ஒதுக்கீட்டால் மற்ற ஒப்பந்ததாரர்கள் அதிருப்தி தெரிவித்து, தங்கள் பணிகளுக்கும் நிதி கேட்கின்றனர்.\n\n🗓️ திறப்பு: மே மாதம் (அறிவிக்கப்பட்டது)\n👮 முந்தைய உத்தரவு: திட்ட மதிப்பீட்டுக்கு மேல் நிதி கேட்கக்கூடாது; கேட்டால் பொறியாளரிடம் இருந்து பணம் வசூலிக்கப்படும்\n\nChennai Saidapet Teynampet flyover extra funds | Chennai news\n📍 சைதாப்பேட்டை, சென்னை | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Saidapet #ChennaiNews #சென்னை",
-   "prompts": "A row of concrete pillars and a partly built flyover deck rises above the busy Anna Salai (Mount Road) at Teynampet in Chennai city, with a crane lifting steel girders into place over the road. Below, a steady stream of two-wheelers, cars, autorickshaws and a town bus crawls through the traffic jam, while a few construction workers in helmets and high-visibility vests stand on the barricaded edge of the work zone, seen from behind and far away. Public works contractors and engineers in shirts and trousers can be seen gathered near a temporary site office at the roadside. The scene is in the evening, with street lamps glowing and the sky turning dusky blue. The photograph is taken at eye level from the pavement, with a 35 mm lens wide enough to show the flyover, the traffic and the construction site together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked concrete pillar blocks and rusted steel reinforcement bars lying beside a yellow barricade on the roadside at the Saidapet end of the flyover, with a few cement bags and a site tool box on the ground. Beyond the barricade, a blurred stream of two-wheelers and an autorickshaw passes on the busy road, and the edge of the half-built flyover deck looms overhead. A construction worker in a helmet is seen from behind, standing still near the materials. The light is soft evening light from street lamps mixed with fading daylight. The camera is slightly high, using a 35 mm lens, focused on the stacked materials with the traffic softly blurred behind them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/other-contractors-unhappy-with-additional-funding-for-saidapet-thenampet-flyover-request-for-funding-for-other-projects/4381853",
-   "published": "2026-11-20T21:16:55+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 420 ('மேம்பாலம் இறங்கும் இடத்தில், 420 மீட்டருக்கு தூண் அமைப்பதில்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246499/chennaiminnal/mdzyo1ma9vovdboorwmv.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246501/chennaiminnal/i1pqg2zwv7xtfqvetdbg.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "2026ஆம் ஆண்டுக்கான தொழிலாளர் நல நிதியை ஜனவரி 31க்குள் செலுத்த அறிவுறுத்தல்",
-   "english_headline": "Employers asked to pay 2026 labour welfare fund by 31 January",
+   "tamil_headline": "ரெயில் மோதி யானைகள் பலியாவதைத் தடுக்க கேரள அரசுக்கு சென்னை ஐகோர்ட்டு உத்தரவு",
+   "english_headline": "Chennai High Court orders Kerala govt to install AI cameras on rail tracks to stop elephant deaths",
    "category": "Government & Services",
-   "location": "Chennai, Chennai district",
+   "location": "Tamil Nadu-Kerala border, Chennai district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு அறிவிப்பு",
-    "loc": "சென்னை மாவட்டம்",
-    "hl1": "தொழிலாளர் நல நிதி: ஜனவரி 31க்குள்",
-    "hl2": "நிறுவனங்களுக்கு அறிவுறுத்தல்",
+    "cat": "யானை பாதுகாப்பு",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: யானைகள் ரெயில் மோதி",
+    "hl2": "2 மாதங்களில் AI கேமரா",
     "slides": [
      {
-      "title": "எவ்வளவு கட்டணம்?",
+      "title": "என்ன வழக்கு?",
       "lines": [
-       "ஒரு தொழிலாளிக்கு <b>ரூ.60</b> நல நிதி",
-       "தொழிலாளர் பங்கு <b>ரூ.20</b>, நிறுவனப் பங்கு <b>ரூ.40</b>",
-       "ஒவ்வொரு ஆண்டும் தொழிலாளர் நல வாரியத்துக்குச் செலுத்த"
+       "தமிழக-கேரள எல்லையில் ரெயில் மோதி யானைகள் உயிரிழப்பது",
+       "இதைத் தடுக்க உத்தரவிடக் கோரி சென்னை ஐகோர்ட்டில் வழக்கு",
+       "வழக்கு இன்று விசாரணைக்கு வந்தது"
       ]
      },
      {
-      "title": "எப்போது செலுத்த",
+      "title": "கேரள அரசுக்கு",
       "lines": [
-       "2026ஆம் ஆண்டுக்கான நிதியை",
-       "<b>2027 ஜனவரி 31</b>க்குள் செலுத்த வேண்டும்",
-       "நிறுவனங்களுக்கு அறிவுறுத்தப்பட்டுள்ளது"
+       "ரெயில் தண்டவாளங்களில் AI கேமராக்களை அமைக்க வேண்டும்",
+       "இந்த உத்தரவை <b>2 மாதங்களில்</b> செயல்படுத்த வேண்டும்",
+       "நீதிபதி இவ்வாறு உத்தரவிட்டார்"
       ]
      },
      {
-      "title": "உதவித்தொகை",
+      "title": "தமிழக அரசின்",
       "lines": [
-       "கல்வி, கல்வி ஊக்கத்தொகை, பாடநூல் உதவித்தொகை",
-       "2026-2027ஆம் ஆண்டுக்கு விண்ணப்பிக்கலாம்",
-       "இணையதளம்: www.lwb.tn.gov.in"
-      ]
-     },
-     {
-      "title": "விண்ணப்பம் அனுப்ப",
-      "lines": [
-       "பூர்த்தி செய்த விண்ணப்பங்களை <b>டிசம்பர் 31</b>க்குள் அனுப்புங்கள்",
-       "முகவரி: செயலாளர், தமிழ்நாடு தொழிலாளர் நல வாரியம், சென்னை-06",
-       "செய்திக்குறிப்பு வெளியிட்டவர்: வாரியச் செயலாளர்"
+       "தமிழக அரசு AI கேமராக்களைப் பயன்படுத்தி வெற்றி கண்டுள்ளது",
+       "அதேபோல் கேரள அரசும் AI கேமராக்களைப் பயன்படுத்த வேண்டும்",
+       "யானைகளின் உயிரிழப்பைத் தடுப்பதே நோக்கம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "நிறுவனங்கள் ஒரு தொழிலாளிக்கு ஆண்டுக்கு ரூ.60 நல நிதி செலுத்த வேண்டும். 2026ஆம் ஆண்டுக்கான இந்த நிதியை 2027 ஜனவரி 31ஆம் தேதிக்குள் செலுத்த வேண்டும் என அறிவுறுத்தப்பட்டுள்ளது. தமிழ்நாடு தொழிலாளர் நல நிதி சட்டத்தின்படி, தொழிற்சாலைகள், கடைகள், மோட்டார் போக்குவரத்து நிறுவனங்கள், உணவு நிறுவனங்கள் மற்றும் தோட்ட நிறுவனங்களில் பணிபுரியும் தொழிலாளர்களுக்கு இது பொருந்தும். தொழிலாளர் பங்கு ரூ.20, நிறுவனத்தின் பங்கு ரூ.40 ஆகும். இதை தொழிலாளர் நல வாரியத்துக்குச் செலுத்த வேண்டும். தொழிலாளர் நல வாரியத்தில் 2026-2027ஆம் ஆண்டுக்கான கல்வி உதவித்தொகை, கல்வி ஊக்கத்தொகை மற்றும் பாடநூல் உதவித்தொகைக்கு விண்ணப்பிக்கலாம். விண்ணப்பங்களை www.lwb.tn.gov.in இணையதளத்தில் பதிவிறக்கம் செய்யலாம். பூர்த்தி செய்த விண்ணப்பங்களை அடுத்த மாதம் டிசம்பர் 31ஆம் தேதிக்குள் செயலாளர், தமிழ்நாடு தொழிலாளர் நல வாரியம், சென்னை-06 என்ற முகவரிக்கு அனுப்ப வேண்டும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📢 தொழிலாளர் நல நிதியை ஜனவரி 31க்குள் செலுத்த நிறுவனங்களுக்கு அறிவுறுத்தல்\n\n📰 முழு விவரம்:\n2026ஆம் ஆண்டுக்கான தொழிலாளர் நல நிதியை 2027 ஜனவரி 31ஆம் தேதிக்குள் நிறுவனங்கள் செலுத்த வேண்டும் என அறிவுறுத்தப்பட்டுள்ளது. தமிழ்நாடு தொழிலாளர் நல நிதி சட்டத்தின்படி, தொழிற்சாலைகள், கடைகள், மோட்டார் போக்குவரத்து, உணவு மற்றும் தோட்ட நிறுவனங்களில் பணிபுரியும் ஒவ்வொரு தொழிலாளிக்கும் ரூ.60 கணக்கிடப்படும். தொழிலாளர் பங்கு ரூ.20, நிறுவனத்தின் பங்கு ரூ.40.\n💰 தொகை: ஒவ்வொரு தொழிலாளிக்கும் ஆண்டுக்கு ரூ.60\n🗓️ கடைசி நாள்: 2027 ஜனவரி 31\n🎓 உதவித்தொகை: 2026-2027ஆம் ஆண்டுக்கான கல்வி உதவித்தொகை, கல்வி ஊக்கத்தொகை, பாடநூல் உதவித்தொகைக்கு விண்ணப்பிக்கலாம். விண்ணப்பங்களை www.lwb.tn.gov.in இணையதளத்தில் பதிவிறக்கலாம்.\n📮 விண்ணப்பம் அனுப்ப கடைசி நாள்: டிசம்பர் 31. முகவரி: செயலாளர், தமிழ்நாடு தொழிலாளர் நல வாரியம், சென்னை-06\n\nTamil Nadu labour welfare fund 2026 due January 31 | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #தொழிலாளர்நலம்",
-   "prompts": "A Labour Welfare Board office in Chennai, with a clerk at a desk in a government office stacking application forms and a file marked for the fund. Office workers and a few employees, seen from behind, stand near a counter in a plain government hall with ceiling fans and tube lights. The wall calendar shows the turn of the year, and a stack of neatly bundled forms sits on the desk. Factory and shop workers in shirts and trousers, and a few in sarees, wait in a short queue at the counter, while a shop owner in a shirt holds a folder. Time is midday in daylight from the tall windows. Camera at eye level, 35 mm, wide enough to show the whole hall. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat wooden desk in a government office with a stack of printed application forms for education and scholarship grants, a blue pen, a stamp pad and a few rupee notes beside a bundle of paper. The papers are slightly fanned out, with a pen resting across the top sheet. Behind the desk, the edge of a steel almirah and a file tray are visible in soft focus. Daylight comes through a window from the left, giving a warm, even light. Camera slightly high, 35 mm, shallow depth of field so the forms stay sharp. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/companies-instructed-to-pay-the-2026-labor-welfare-fund-by-january",
-   "published": "2026-11-21T03:39:58Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has English words (gov, in, lwb, tn) - the voice cannot read them; write them in Tamil letters; reel_script must have no English letters (write English words and abbreviations in Tamil script); source/outlet name or link appears: www.; slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area); known issue english_in_voice: voice script has English words the voice skips (gov, in, lwb, tn) - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 5 validator problem(s)",
+   "reel_script": "சென்னை ஐகோர்ட்டு, ரெயில் மோதி யானைகள் பலியாவதைத் தடுக்க கேரள அரசுக்கு அதிரடி உத்தரவிட்டுள்ளது. தமிழக-கேரள எல்லையில் ரெயில் மோதி யானைகள் உயிரிழக்கும் சம்பவங்கள் தொடர்ந்து அதிகரித்து வருகின்றன. இதைத் தடுக்க அரசு உரிய நடவடிக்கை எடுக்க உத்தரவிட வேண்டும் என்று கோரி சென்னை ஐகோர்ட்டில் வழக்கு தாக்கல் செய்யப்பட்டது. இந்த வழக்கு இன்று விசாரணைக்கு வந்தது. வழக்கை விசாரித்த நீதிபதி, ரெயில் தண்டவாளங்களில் கேரள அரசு ஏ ஐ கேமராக்களை அமைக்க வேண்டும் என உத்தரவிட்டார். இந்த உத்தரவை இன்னும் 2 மாதங்களில் செயல்படுத்த வேண்டும் எனவும் நீதிபதி கூறியுள்ளார். தமிழக அரசு ஏ ஐ கேமராக்களைப் பயன்படுத்தி வெற்றி கண்டுள்ளதாக நீதிபதி குறிப்பிட்டார். யானைகளின் உயிரிழப்பைத் தடுக்க கேரள அரசும் ஏ ஐ கேமராக்களைப் பயன்படுத்த வேண்டும் என்றும் அவர் தனது உத்தரவில் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐘 ரெயில் மோதி யானைகள் பலியாவதைத் தடுக்க கேரள அரசுக்கு சென்னை ஐகோர்ட்டு உத்தரவு\n\n📰 முழு விவரம்:\nதமிழக-கேரள எல்லையில் ரெயில் மோதி யானைகள் உயிரிழக்கும் சம்பவங்கள் தொடர்ந்து அதிகரித்து வருகின்றன. இதைத் தடுக்க உரிய நடவடிக்கை எடுக்க உத்தரவிடக் கோரி சென்னை ஐகோர்ட்டில் தாக்கல் செய்யப்பட்ட வழக்கு இன்று விசாரணைக்கு வந்தது.\nநீதிபதி, ரெயில் தண்டவாளங்களில் கேரள அரசு AI கேமராக்களை அமைக்க வேண்டும் என உத்தரவிட்டார். இந்த உத்தரவை 2 மாதங்களில் செயல்படுத்த வேண்டும் எனவும் கூறினார்.\nதமிழக அரசு AI கேமராக்களைப் பயன்படுத்தி வெற்றி கண்டுள்ளது. யானைகளின் உயிரிழப்பைத் தடுக்க கேரள அரசும் AI கேமராக்களைப் பயன்படுத்த வேண்டும் என நீதிபதி தனது உத்தரவில் குறிப்பிட்டுள்ளார்.\n📍 இடம்: தமிழக-கேரள எல்லை\n🗓️ நாள்: 21 நவம்பர் 2026\n\nChennai High Court orders Kerala AI cameras to stop train-elephant deaths | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #TamilNaduKerala",
+   "prompts": "A pair of wild elephants stands at the edge of a dense green forest beside a railway track on the Tamil Nadu-Kerala border, a few metres from the steel rails. A tall grey pole carrying a small AI surveillance camera rises beside the track, its lens pointed toward the line. Further along the track a railway signal post and gravel ballast stretch into the distance. No people are close; a forest guard in khaki stands far off near the trees, seen from behind. The scene is in soft morning daylight under a pale sky, with light green paddy fields and palm trees on the far side. The camera is at eye level, 35 mm, wide enough to show the forest, the track and the elephants together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an AI surveillance camera fixed to a grey metal pole beside a railway track, its black lens and protective housing clearly in focus. Behind it the steel rails and wooden sleepers run into the distance, with gravel ballast along the sides. Blurred green forest leaves frame the top of the shot, and a faint trace of an elephant's footprint is pressed into the damp soil near the track. The light is soft morning daylight, and the camera sits slightly low, 35 mm, showing the camera and the track line clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/chennai-high-court-orders-kerala-government-to-take-action-to-prevent-elephants-from-being-hit-by-trains",
+   "published": "2026-11-21T09:05:58Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246507/chennaiminnal/x3voiqadzxucravmzqni.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795246511/chennaiminnal/oudcpjw6pqicxnjbjzcl.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261102/chennaiminnal/pkj9q91qf9mafpqqv39j.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261104/chennaiminnal/fhppb96trzkttdi88inx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பிக்பாஸ் முத்துக்குமரன் மீது திருமண ஆசை காட்டி மோசடி வழக்கு",
+   "english_headline": "Bigg Boss personality Muthukumaran booked for cheating a young woman on marriage promise",
+   "category": "Crime & Safety",
+   "location": "Virugambakkam, Chennai district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "விருகம்பாக்கம்",
+    "hl1": "விருகம்பாக்கத்தில் திருமண மோசடி வழக்கு",
+    "hl2": "முத்துக்குமரன் மீது புகார்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருமணம் செய்வதாக கூறி இளம்பெண்ணை ஏமாற்றியதாக புகார்",
+       "பிக்பாஸ் பிரபலம் முத்துக்குமரன் மீது <b>வழக்குப் பதிவு</b>",
+       "விருகம்பாக்கம் மகளிர் போலீசார் விசாரித்து வருகின்றனர்"
+      ]
+     },
+     {
+      "title": "பின்னணி",
+      "lines": [
+       "இளம்பெண் சமூக வலைதளத்தில் வீடியோ வெளியிட்டு குற்றம்",
+       "அவர் தற்கொலைக்கு முயன்ற சம்பவமும் நடந்தது",
+       "இருவரும் ஒருவர் மீது ஒருவர் வீடியோ மூலம் குற்றச்சாட்டு"
+      ]
+     },
+     {
+      "title": "புகார் நிலை",
+      "lines": [
+       "முத்துக்குமரன் தன் மீது அவதூறு பரப்பியவர் மீது சென்னை",
+       "இளம்பெண்ணும் கமிஷனர் அலுவலகத்தில் புகார் அளித்தார்",
+       "இரு புகார்களும் விருகம்பாக்கம் மகளிர் காவல் நிலையத்திற்கு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பிக்பாஸ் பிரபலம் முத்துக்குமரன் மீது மோசடி வழக்கு பதிவாகியுள்ளது. விருகம்பாக்கத்தைச் சேர்ந்த ஓர் இளம்பெண் அளித்த புகாரின் அடிப்படையில் விருகம்பாக்கம் மகளிர் போலீசார் வழக்குப் பதிவு செய்துள்ளனர். திருமணம் செய்துகொள்வதாக நம்பவைத்துப் பழகிய முத்துக்குமரன், பின்னர் திருமணம் செய்ய மறுத்து ஏமாற்றியதாக அந்த இளம்பெண் குற்றம் சாட்டியுள்ளார். இளம்பெண் சமூக வலைதளத்தில் வீடியோ வெளியிட்டு இதை வெளிப்படுத்தினார். அவர் தற்கொலைக்கு முயன்ற சம்பவமும் பரபரப்பை ஏற்படுத்தியது. இதைத் தொடர்ந்து இருவரும் சமூக வலைதளங்களில் ஒருவர் மீது ஒருவர் குற்றச்சாட்டுகளை முன்வைத்து வீடியோ வெளியிட்டனர். தன் மீது அவதூறு பரப்பும் இளம்பெண் மீது நடவடிக்கை கோரி, முத்துக்குமரன் சென்னை போலீஸ் கமிஷனர் அலுவலகத்தில் புகார் அளித்தார். இளம்பெண்ணும் தன்னை ஏமாற்றிய முத்துக்குமரன் மீது சட்டப்படி நடவடிக்கை வேண்டும் என்று கமிஷனர் அலுவலகத்தில் புகார் அளித்தார். இரு புகார்களும் விருகம்பாக்கம் மகளிர் காவல் நிலையத்திற்கு அனுப்பப்பட்டன. போலீசார் தற்போது வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 விருகம்பாக்கத்தில் திருமண மோசடி புகார்: பிக்பாஸ் முத்துக்குமரன் மீது வழக்கு\n\n📰 முழு விவரம்:\nதிருமணம் செய்வதாகக் கூறி பழகிய பின் ஏமாற்றியதாக ஓர் இளம்பெண் அளித்த புகாரில் விருகம்பாக்கம் மகளிர் போலீசார் பிக்பாஸ் பிரபலம் முத்துக்குமரன் மீது வழக்குப் பதிவு செய்துள்ளனர். சமூக வலைதளத்தில் வீடியோ வெளியிட்ட அந்த இளம்பெண் தற்கொலை முயற்சி செய்த சம்பவமும் நடந்தது. இதன் பின் இருவரும் ஒருவர் மீது ஒருவர் வீடியோவில் குற்றம் சாட்டினர். முத்துக்குமரன் தன் மீது அவதூறு பரப்பியவர் மீது நடவடிக்கை கோரி சென்னை போலீஸ் கமிஷனர் அலுவலகத்தில் புகார் அளித்தார். இளம்பெண்ணும் தன்னை ஏமாற்றியவர் மீது சட்டப்படி நடவடிக்கை கேட்டு அதே அலுவலகத்தில் புகார் அளித்தார். இரு புகார்களும் விருகம்பாக்கம் மகளிர் காவல் நிலையத்திற்கு அனுப்பப்பட்டன.\n🔎 நடவடிக்கை: விருகம்பாக்கம் மகளிர் போலீசார் வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர்.\n📍 இடம்: விருகம்பாக்கம், சென்னை மாவட்டம்\n\nBigg Boss Muthukumaran case Virugambakkam | Chennai news\n📍 விருகம்பாக்கம், சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Virugambakkam #குற்றச்செய்தி #ChennaiNews",
+   "prompts": "A pair of Tamil Nadu police officers in khaki uniform stand at the entrance of the Virugambakkam Women's Police Station in Chennai, taking a written complaint from a young woman who is seen only from behind, her face hidden by a dupatta. The scene is set at the station's front gate on a busy Chennai road, with a two-wheeler parked at the kerb, an autorickshaw passing, and a concrete compound wall behind them. A few other people wait nearby in the background, seen from far away. Officers hold a clipboard and file papers, and a mobile phone rests in the young woman's hand. It is daylight with a bright, hazy Chennai sky. Shot at eye level on a 35 mm lens, wide enough to show the station gate, road and the people involved in the case. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of handwritten complaint papers and a black mobile phone lying on a wooden desk inside a police station office in Chennai, with a khaki police cap placed beside them. Behind the desk, a blurred grey steel almirah and a tube light are visible, and a folded Tamil Nadu police service file sits near the edge of the frame. A hand in a khaki uniform sleeve rests lightly on the papers, while the rest of the room stays soft and out of focus. Natural daylight from a window falls across the desk. Shot slightly from above on a 50 mm lens to highlight the documents and phone that tell the story of the complaint being registered. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/bigg-boss-muthukumaran-booked-for-cheating-woman-on-pretext-of-marriage/4382262",
+   "published": "2026-11-21T16:28:45+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'விருகம்பாக்கம்' and the news itself, e.g. 'விருகம்பாக்கம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261138/chennaiminnal/jqyvdsor9es1w2mrp0ih.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261141/chennaiminnal/oq2c2j9ba0t87yliogrk.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "இயந்திரம் வாங்கித் தருவதாகக் கூறி ரூ.2 கோடி மோசடி: பெண் கைது",
+   "english_headline": "Woman arrested for ₹2 crore fraud in Avadi, promising to buy a machine on loan",
+   "category": "Crime & Safety",
+   "location": "Avadi, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மோசடி வழக்கு",
+    "loc": "ஆவடி",
+    "hl1": "ஆவடியில் ரூ.2 கோடி வங்கிக் கடன் மோசடி",
+    "hl2": "பெண் கைது, கூட்டாளி",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "இயந்திரம் வாங்கித் தருவதாகக் கூறி வங்கியில் <b>2.64",
+       "முகப்பேரைச் சேர்ந்த மீனா, <b>40</b> வயது கைது",
+       "ஆவடி மத்திய குற்றப்பிரிவு போலீசார் கைது செய்தனர்"
+      ]
+     },
+     {
+      "title": "எப்படி ஏமாற்றினர்?",
+      "lines": [
+       "திருமுல்லைவாயல் மணி, <b>67</b> வயது முதியவரை ஏமாற்றினர்",
+       "அவரின் வீட்டுப் பத்திரத்தைப் பெற்று கடன் பெற்றனர்",
+       "மீதப் பணம் <b>2 கோடி</b> ரூபாய் சங்கருக்கு அனுப்பப்பட்டது"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "அக்டோபரில் மணி புகார் அளித்தார்",
+       "இன்ஸ்பெக்டர் செங்குட்டுவன் தலைமையிலான தனிப்படை விசாரணை",
+       "கூட்டாளி சங்கர் ஆந்திராவில் தலைமறைவு, தேடப்படுகிறார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஆவடியில் இயந்திரம் வாங்கித் தருவதாகக் கூறி 2 கோடியே 64 லட்சம் ரூபாய் வங்கிக் கடன் மோசடி செய்யப்பட்டது. இந்த வழக்கில் முகப்பேரைச் சேர்ந்த 40 வயது மீனா என்பவரை ஆவடி மத்திய குற்றப்பிரிவு போலீசார் நேற்று முன்தினம் கைது செய்தனர். திருமுல்லைவாயல், திருவள்ளுவர் நகரைச் சேர்ந்த 67 வயது மணி என்பவர் ரஞ்சனா என்டர்பிரைசஸ் நிறுவனம் நடத்தி வருகிறார். கடந்த ஜூலை மாதம் மீனாவும் சங்கரும் மணிக்கு அறிமுகமானார்கள். சமையல் பருப்பு சுத்தம் செய்யும் இயந்திரம் வாங்கி கூட்டாகத் தொழில் செய்தால் அதிக லாபம் கிடைக்கும் என்று ஆசை காட்டினர். அம்பத்தூரில் உள்ள அரசு பொதுத்துறை வங்கி மேலாளர் மூலம் கடன் பெற்றுத் தருவதாகவும் கூறினர். மணியின் வீட்டுப் பத்திரத்தைப் பெற்ற சங்கர், வி எஸ் டெக்னாலஜி நிறுவனத்தின் பெயரில் விலைப்பட்டியலைச் சமர்ப்பித்து 2 கோடியே 64 லட்சம் ரூபாய்க்கு வரைவோலை பெற்றார். நிறுவன உரிமையாளர் ஜஸ்டின் பிரபாகர் 54 லட்சம் ரூபாயை வைத்துக்கொண்டு, மீதமுள்ள 2 கோடியே 10 லட்சம் ரூபாயை மீனா நடத்தும் எம் எம் நிறுவனத்துக்கு அனுப்பினார். மீனா 10 லட்சம் ரூபாயைக் கமிஷனாக எடுத்துக்கொண்டு, மீதமுள்ள 2 கோடி ரூபாயை சங்கருக்கு அனுப்பினார். இயந்திரம் வாங்கித் தராமல் பணத்தை ஏமாற்றியதால் மணி அக்டோபர் மாதம் ஆவடி மத்திய குற்றப்பிரிவில் புகார் அளித்தார். இன்ஸ்பெக்டர் செங்குட்டுவன் தலைமையிலான தனிப்படை போலீசார் விசாரித்து மீனாவைக் கைது செய்தனர். ஆந்திராவில் தலைமறைவாக உள்ள சங்கரைத் தேடி வருகின்றனர். உதவி கேட்டு வருபவர்களிடம் 10 கோடி ரூபாய் வரை சங்கர் மோசடி செய்துள்ளதாகக் கூறப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஆவடியில் இயந்திரம் வாங்கித் தருவதாக ரூ.2 கோடி மோசடி: பெண் கைது\n\n📰 முழு விவரம்:\nஇயந்திரம் வாங்கித் தருவதாகக் கூறி வங்கியில் 2 கோடியே 64 லட்சம் ரூபாய் கடன் பெற்று மோசடி செய்த வழக்கில், முகப்பேரைச் சேர்ந்த 40 வயது மீனாவை ஆவடி மத்திய குற்றப்பிரிவு போலீசார் நேற்று முன்தினம் கைது செய்தனர்.\nதிருமுல்லைவாயல், திருவள்ளுவர் நகரைச் சேர்ந்த 67 வயது மணி, கடந்த ஜூலை மாதம் மீனா, சங்கர் ஆகியோரிடம் அறிமுகமானார்.\nசமையல் பருப்பு சுத்தம் செய்யும் இயந்திரம் வாங்கி கூட்டாகத் தொழில் செய்தால் அதிக லாபம் கிடைக்கும் என அவர்கள் ஆசை காட்டினர்.\nமணியின் வீட்டுப் பத்திரத்தைப் பெற்ற சங்கர், வி.எஸ்.டெக்னாலஜி பெயரில் விலைப்பட்டியலை வங்கியில் சமர்ப்பித்து 2 கோடியே 64 லட்சம் ரூபாய்க்கு வரைவோலை பெற்றார்.\nஇயந்திரம் வாங்கித் தராமல் பணத்தை ஏமாற்றியதால், மணி அக்டோபரில் ஆவடி மத்திய குற்றப்பிரிவில் புகார் அளித்தார்.\nஇன்ஸ்பெக்டர் செங்குட்டுவன் தலைமையிலான தனிப்படை போலீசார் விசாரித்து மீனாவைக் கைது செய்தனர். ஆந்திராவில் தலைமறைவாக உள்ள சங்கரைத் தேடி வருகின்றனர்.\nஉதவி கேட்டு வருபவர்களிடம் 10 கோடி ரூபாய் வரை சங்கர் மோசடி செய்துள்ளதாகக் கூறப்படுகிறது.\n\nAvadi loan fraud, woman arrested | Chennai news\n📍 ஆவடி, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Avadi #ChennaiNews #சென்னை",
+   "prompts": "A pair of khaki-uniformed Tamil Nadu police officers escort a woman in a plain saree, seen from behind, out of the gate of the Avadi Central Crime Branch office in Avadi, Chennai district. The street is a busy suburban road with a tar surface, a few two-wheelers and an autorickshaw parked by the kerb, and low concrete office buildings with flat roofs. A small group of onlookers stands far back, faces not visible. The woman walks with her head lowered and her hands held together in front of her, her figure small against the entrance. It is daylight, with a flat, overcast midday light. Shot at eye level on a 35 mm lens, wide enough to show the gate, the police jeep parked at the side and the roadside shops, with no readable signboards visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a wooden table in a police office in Avadi, Chennai district, with a neat stack of official papers and a folder of photocopied documents, property deed pages and bank demand draft slips laid out in a row. Beside them sits a small bundle of tied files and a blue ballpoint pen, with a khaki-sleeved arm of a police officer resting at the edge of the frame, partially blurred. Behind the table, a grey steel almirah and a plain white wall with a ceiling fan. Light comes from a window on the left, giving soft daylight with gentle shadows. No faces visible, no readable text. Shot at a close, slightly high angle on a 35 mm lens to make the stacked documents the clear focal point. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-2-crore-fraud-claiming-to-buy-machine-web-to-female-arrested-partner/4382258",
+   "published": "2026-11-21T16:31:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 172 words; need 96-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption copies the article word for word (18 words in a row, 36% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence; caption misses facts of the article (put every one in 📰 முழு விவரம்): 54 ('அதைப் பெற்ற நிறுவன உரிமையாளர் ஜஸ்டின் பிரபாகர், 54 லட்சம் ரூ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 4 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261146/chennaiminnal/wn5gnrrli7uayt95mill.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261149/chennaiminnal/bjrryb3iqe7zlbjerhlz.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "நவ. 23 முதல் 26 வரை பல மாவட்டங்களில் கனமழைக்கு வாய்ப்பு",
+   "english_headline": "Heavy rain likely in many Tamil Nadu districts from 23 to 26 Nov, Chennai and Tiruvallur among them, says weather centre",
+   "category": "Weather & Agriculture",
+   "location": "Chennai, Tiruvallur, Chengalpattu and other Tamil Nadu districts (Chennai district named in forecast)",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மழை எச்சரிக்கை",
+    "loc": "சென்னை, திருவள்ளூர்",
+    "hl1": "சென்னை, திருவள்ளூரில் மழைக்கு வாய்ப்பு",
+    "hl2": "நவ. 23 முதல் 26 வரை",
+    "slides": [
+     {
+      "title": "நாளை மழை",
+      "lines": [
+       "நவ. 23 முதல் 26 வரை பல மாவட்டங்களில் மழை",
+       "சென்னை, திருவள்ளூர், செங்கல்பட்டில் ஓரிரு இடங்களில் மிதமான",
+       "புதுவை, காரைக்காலிலும் மிதமான மழை"
+      ]
+     },
+     {
+      "title": "நாளை மறுநாள்",
+      "lines": [
+       "கடலூர், தஞ்சாவூர், திருவாரூர், நாகப்பட்டினத்தில் கனமழை",
+       "இடி மின்னல், பலத்த காற்றுடன் மழை பெய்யலாம்",
+       "தூத்துக்குடி, திருநெல்வேலி, கன்னியாகுமரியிலும் கனமழை"
+      ]
+     },
+     {
+      "title": "பலத்த காற்று",
+      "lines": [
+       "சென்னை, கோயம்புத்தூர், திருச்சி உள்ளிட்ட பல மாவட்டங்களில்",
+       "காற்று மணிக்கு 40 முதல் 50 கிலோ மீட்டர் வேகத்தில் வீசலாம்",
+       "ஒருசில இடங்களில் இடி மின்னலுடன் லேசான மழை"
+      ]
+     },
+     {
+      "title": "கவனமாக இருங்கள்",
+      "lines": [
+       "மின்கம்பம், மரங்களுக்கு அருகில் நிற்க வேண்டாம்",
+       "மழையில் வாகனங்களை மெதுவாக ஓட்டுங்கள்",
+       "வானிலை அறிவிப்புகளை கவனித்து செயல்படுங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னை, திருவள்ளூர், செங்கல்பட்டில் நவம்பர் 23 முதல் 26ஆம் தேதி வரை மழைக்கு வாய்ப்பு உள்ளது. தமிழகத்தில் பல மாவட்டங்களில் கனமழை பெய்யக்கூடும் என வானிலை ஆய்வு மையம் தெரிவித்துள்ளது. நாளை சென்னை, திருவள்ளூர், செங்கல்பட்டு, விழுப்புரம், கடலூர் உள்ளிட்ட மாவட்டங்களில் ஓரிரு இடங்களில் மிதமான மழை பெய்யக்கூடும். புதுவை மற்றும் காரைக்காலிலும் மிதமான மழை பெய்யலாம். மற்ற பகுதிகளில் பொதுவாக வறண்ட வானிலை நிலவும். நாளை மறுநாள் கடலூர், தஞ்சாவூர், திருவாரூர், நாகப்பட்டினம், தூத்துக்குடி, திருநெல்வேலி, கன்னியாகுமரி மாவட்டங்களில் ஓரிரு இடங்களில் இடி மின்னல் மற்றும் பலத்த காற்றுடன் கனமழை பெய்யக்கூடும். சென்னை, கோயம்புத்தூர், திருச்சி உள்ளிட்ட பல மாவட்டங்களில் ஒருசில இடங்களில் மணிக்கு 40 முதல் 50 கிலோமீட்டர் வேகக் காற்றுடன் மிதமான மழை பெய்யலாம். மின்கம்பம், மரங்களுக்கு அருகில் நிற்க வேண்டாம்; வானிலை அறிவிப்புகளை கவனியுங்கள். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌧️ சென்னை, திருவள்ளூரில் நவ. 23 முதல் 26 வரை மழைக்கு வாய்ப்பு\n\n📰 முழு விவரம்:\nநவம்பர் 23 முதல் 26ஆம் தேதி வரை தமிழகத்தில் பல மாவட்டங்களில் மழை பெய்யக்கூடும் என வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.\nநாளை சென்னை, திருவள்ளூர், செங்கல்பட்டு உள்ளிட்ட மாவட்டங்களில் ஓரிரு இடங்களில் மிதமான மழை பெய்யக்கூடும். புதுவை, காரைக்காலிலும் மிதமான மழை பெய்யலாம்.\nநாளை மறுநாள் கடலூர், தஞ்சாவூர், திருவாரூர், நாகப்பட்டினம், தூத்துக்குடி, திருநெல்வேலி, கன்னியாகுமரி மாவட்டங்களில் ஓரிரு இடங்களில் இடி மின்னல், பலத்த காற்றுடன் கனமழை பெய்யக்கூடும்.\nசென்னை, கோயம்புத்தூர், திருச்சி உள்ளிட்ட பல மாவட்டங்களில் ஒருசில இடங்களில் மணிக்கு 40 முதல் 50 கிலோமீட்டர் வேகக் காற்றுடன் மிதமான மழை பெய்யலாம்.\n🌦️ மற்ற பகுதிகளில் பொதுவாக வறண்ட வானிலை நிலவும்.\nℹ️ மக்கள் கவனத்திற்கு: மின்கம்பம், மரங்களுக்கு அருகில் நிற்க வேண்டாம். வானிலை அறிவிப்புகளை கவனித்து செயல்படுங்கள்.\n\nHeavy rain likely Chennai Tiruvallur 23-26 Nov | Chennai news\n📍 சென்னை, திருவள்ளூர் | 21 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #ChennaiRain #சென்னை",
+   "prompts": "Under a heavy grey monsoon sky in Chennai city, rain begins to fall on a busy road as commuters take shelter. Along a city street lined with concrete shops and low-rise buildings, a few men in shirts and women in sarees hold umbrellas and walk quickly, some with their heads covered. Two-wheelers and an MTC town bus move slowly through the wet tarmac, their headlights on in the dim light. Dark clouds hang over the rooftops, with strong gusts bending a few roadside trees. The scene is shot in late afternoon light at eye level from a slightly high position, with a 35 mm lens wide enough to show the full street and the rain-soaked road. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of rainwater pooled in a roadside pothole on a Chennai street, reflecting the grey sky. Thin rain drops ripple across the surface, and a few dry leaves float on the water near the kerb. Behind it, the wet tarmac shines and the edge of a two-wheeler tyre is visible at the frame border. Overcast daylight, cool and dull, with no direct sun. Shot at ground level with a 35 mm lens to show the water and the road surface clearly, with a shallow depth of field keeping the background soft. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/tamil-nadu-nov-23-26-districts-receive-heavy-rain-meteorological-department-informs/amp",
+   "published": "2026-11-21T13:20:09+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261157/chennaiminnal/rk09rinbfpukupmsv6gg.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795261160/chennaiminnal/pjigpw4wptyg1wbuoqvz.jpg"
    ]
   }
  ]
