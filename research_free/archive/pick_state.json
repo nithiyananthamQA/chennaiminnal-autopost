@@ -561,7 +561,8 @@
    "score": 10.34,
    "power_cut": false,
    "listed_at": "2026-11-21T21:01:46.961307+05:30",
-   "picked_at": "2026-11-21T21:05:19.998201+05:30"
+   "picked_at": "2026-11-21T21:05:19.998201+05:30",
+   "posted": true
   },
   "C397a4cc": {
    "id": "C397a4cc",
@@ -574,7 +575,8 @@
    "score": 10.34,
    "power_cut": false,
    "listed_at": "2026-11-21T21:01:46.961307+05:30",
-   "picked_at": "2026-11-21T21:05:19.998207+05:30"
+   "picked_at": "2026-11-21T21:05:19.998207+05:30",
+   "posted": true
   },
   "Cff01f5a": {
    "id": "Cff01f5a",
@@ -587,7 +589,8 @@
    "score": 10.27,
    "power_cut": false,
    "listed_at": "2026-11-21T21:01:46.961307+05:30",
-   "picked_at": "2026-11-21T21:05:19.998210+05:30"
+   "picked_at": "2026-11-21T21:05:19.998210+05:30",
+   "posted": true
   },
   "Cbbf04ee": {
    "id": "Cbbf04ee",
@@ -600,7 +603,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-21T21:01:46.961307+05:30",
-   "picked_at": "2026-11-21T21:05:19.998214+05:30"
+   "picked_at": "2026-11-21T21:05:19.998214+05:30",
+   "refused": "not filed: not news: draft not grounded in the article (only 46% of its words come from it) - likely made up"
   },
   "Cdb4bec6": {
    "id": "Cdb4bec6",
@@ -2844,7 +2848,10 @@
     "C6fcb432",
     "Cbbf04ee",
     "Cff01f5a"
-   ]
+   ],
+   "refused": {
+    "Cbbf04ee": "not filed: not news: draft not grounded in the article (only 46% of its words come from it) - likely made up"
+   }
   }
  },
  "retry": {}
