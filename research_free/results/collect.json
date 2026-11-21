@@ -3,69 +3,83 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/lorry-collides-with-motorcycleprivate-company-manager-killed",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/ganja-and-methamphetamine-seized2-arrested",
-  "candidate filter: collected=2",
-  "to write: 2 Chennai district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Chennai; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/rs-10-lakh-snatched-from-businessman-police-searching-for-gnanasekarans-brother",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/back-to-the-handler/4381945",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/pedestrian-network-spanning-200-km-municipal-commissioner",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%8B-%E0%AE%93%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%A8%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-10-%E0%AE%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%88%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%A9%E0%AF%88",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/crime-connor/4381320",
+  "candidate filter: collected=5",
+  "to write: 5 Chennai district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min",
-  "filed: 2 Chennai district stories (target 2), reels only",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "NOT filed (N) கைவரிசை காட்டியவருக்கு ‘காப்பு’: all free models failed: no usable answer from the models",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 75 min",
+  "filed: 4 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (27s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (31s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (25s)",
+  "ok gemini/gemini-3.6-flash (36s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok gemini/gemini-3-flash-preview (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok gemini/gemini-3.5-flash (32s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -74,134 +88,276 @@
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னை ஐஸ்ஹவுஸில் 24 கிலோ கஞ்சா, மெத்தம்பெட்டமைன் பறிமுதல்: திருவல்லிக்கேணியைச் சேர்ந்த 2 பேர் கைது",
-   "english_headline": "24 kg cannabis and 51g methamphetamine seized in Ice House, Chennai; 2 Triplicane residents arrested",
+   "tamil_headline": "ஐஸ்ஹவுஸில் கஞ்சா விற்ற இருவர் கைது: 24 கிலோ கஞ்சா பறிமுதல்",
+   "english_headline": "Two arrested in Icehouse with 24 kg ganja and 51 g methamphetamine seized",
    "category": "Crime & Safety",
-   "location": "Ice House, Triplicane, Chennai district",
+   "location": "Icehouse, Triplicane, Chennai district",
    "importance": "High",
-   "scope": "district",
+   "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
+    "cat": "போலீஸ் நடவடிக்கை",
     "loc": "ஐஸ்ஹவுஸ், சென்னை",
-    "hl1": "சென்னை ஐஸ்ஹவுஸில் 24 கிலோ கஞ்சா பறிமுதல்",
-    "hl2": "2 பேர் அதிரடி கைது",
+    "hl1": "ஐஸ்ஹவுஸில் கஞ்சா கும்பல் கைது",
+    "hl2": "24 கிலோ கஞ்சா பறிமுதல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சென்னை ஐஸ்ஹவுஸில் <b>24 கிலோ கஞ்சா</b> பறிமுதல்",
-       "<b>51 கிராம்</b> மெத்தம்பெட்டமைனும் சிக்கியது",
-       "ராயப்பேட்டை மதுவிலக்கு அமல் பிரிவு சோதனை"
+       "திருவல்லிக்கேணி, பெரிய மலையப்பன் தெருவில் இருவர் கைது",
+       "சந்தேகப்படும் வகையில் சுற்றித்திரிந்ததால் பிடிபட்டனர்",
+       "ஐஸ்ஹவுஸ் போலீசார் இருவரையும் பிடித்தனர்"
       ]
      },
      {
-      "title": "கைதானவர்கள் யார்?",
+      "title": "யார்?",
       "lines": [
-       "<b>23 வயது</b> அ.முகமது மொய்தீன்",
-       "<b>30 வயது</b> அ.அப்துல் மசர் உல்லா",
+       "முகமது மொய்தீன், <b>23</b> வயது",
+       "அப்துல் மசர் உல்லா, <b>30</b> வயது",
        "இருவரும் திருவல்லிக்கேணியைச் சேர்ந்தவர்கள்"
       ]
      },
      {
-      "title": "பின்னணி என்ன?",
+      "title": "பறிமுதல் பொருட்கள்",
       "lines": [
-       "பெங்களூரில் இருந்து போதைப் பொருட்கள் கடத்தல்",
-       "சென்னையில் விற்க திட்டமிட்டது அம்பலம்",
-       "ஐஸ்ஹவுஸ் போலீசார் வழக்குப் பதிவு செய்து கைது"
+       "<b>24 கிலோ</b> கஞ்சா பறிமுதல்",
+       "<b>51 கிராம்</b> மெத்ஆம்பெட்டமைன் பறிமுதல்",
+       "இருவரும் கைது செய்யப்பட்டனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை ஐஸ்ஹவுஸில் 24 கிலோ கஞ்சா மற்றும் மெத்தம்பெட்டமைன் பறிமுதல் செய்யப்பட்டது. ராயப்பேட்டை போதைப் பொருள் தடுப்புப் பிரிவு போலீஸாருக்குக் கிடைத்த ரகசிய தகவலின்படி ஐஸ்ஹவுஸ் பகுதியில் தீவிர கண்காணிப்பு நடத்தப்பட்டது. அங்கு சந்தேகத்துக்குரிய வகையில் சுற்றிய 2 பேரைப் பிடித்து போலீஸார் விசாரித்தனர். அவர்கள் முன்னுக்குப் பின் முரணாகப் பதிலளித்ததால் சந்தேகமடைந்த போலீஸார் பையைச் சோதனையிட்டனர். அதில் 24 கிலோ கஞ்சா மற்றும் 51 கிராம் மெத்தம்பெட்டமைன் போதைப் பொருட்கள் இருந்தது கண்டுபிடிக்கப்பட்டது. விசாரணையில் கைதானவர்கள் திருவல்லிக்கேணி பேகம் 3வது தெருவைச் சேர்ந்த 23 வயது அ.முகமது மொய்தீன் மற்றும் முக்தருன்னிசா பேகம் தெருவைச் சேர்ந்த 30 வயது அ.அப்துல் மசர் உல்லா என்பது தெரியவந்தது. இவர்கள் கர்நாடக மாநிலம் பெங்களூரில் இருந்து போதைப் பொருட்களை வாங்கி வந்து சென்னையில் விற்கத் திட்டமிட்டுள்ளனர். இதுகுறித்து ஐஸ்ஹவுஸ் போலீஸார் வழக்குப் பதிவு செய்து 2 பேரையும் கைது செய்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை ஐஸ்ஹவுஸில் 24 கிலோ கஞ்சா, மெத்தம்பெட்டமைன் பறிமுதல்: 2 பேர் கைது\n\n📰 முழு விவரம்:\nசென்னை ஐஸ்ஹவுஸ் பகுதியில் போதைப் பொருள் கடத்தப்படுவதாக ராயப்பேட்டை போதைப் பொருள் தடுப்புப் பிரிவு போலீஸாருக்கு ரகசிய தகவல் கிடைத்தது. அதனடிப்படையில் அங்கு கண்காணிப்பில் ஈடுபட்ட போலீஸார், சந்தேகத்திற்குரிய முறையில் இருந்த 2 பேரைப் பிடித்து சோதனையிட்டனர்.\nஅவர்கள் வைத்திருந்த பையில் 24 கிலோ கஞ்சா மற்றும் 51 கிராம் மெத்தம்பெட்டமைன் இருந்தது கண்டறியப்பட்டு பறிமுதல் செய்யப்பட்டது.\n\n📍 இடம்: ஐஸ்ஹவுஸ், சென்னை\n👮 கைது செய்யப்பட்டவர்கள்: திருவல்லிக்கேணி பேகம் 3வது தெருவைச் சேர்ந்த அ.முகமது மொய்தீன் (23 வயது), முக்தருன்னிசா பேகம் தெருவைச் சேர்ந்த அ.அப்துல் மசர் உல்லா (30 வயது).\nℹ️ இவர்கள் கர்நாடக மாநிலம் பெங்களூரில் இருந்து போதைப் பொருட்களை வாங்கி வந்து சென்னையில் விற்கத் திட்டமிட்டது தெரியவந்தது. ஐஸ்ஹவுஸ் போலீஸார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nபாதுகாப்பு விழிப்புணர்வுக்கு இந்தச் செய்தியை Share செய்யுங்கள்.\n\nChennai Ice House drug bust 24 kg ganja methamphetamine seized 2 arrested | Chennai news\n📍 ஐஸ்ஹவுஸ், சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #IceHouse #ChennaiNews #சென்னை",
-   "prompts": "Tamil Nadu police in khaki from the anti-narcotics wing escort two men, seen from behind, with their hands restrained, along a busy street in Ice House, Triplicane, Chennai. Old multi-storey residential buildings with balconies, a few two-wheelers parked at the kerb and an autorickshaw pass by in daylight. The officers and suspects are shown from behind and at a distance so no faces are visible. A large sealed plastic bag bulging with seized material is held by one of the officers. Bright daytime light, slightly overcast. Shot at eye level, 35 mm lens, wide enough to show the street and buildings around the group. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an opened black bag lying on a police table or the bonnet of a police jeep, filled with dried cannabis packed in plastic packets, with a small transparent packet of white crystal methamphetamine placed beside them. Khaki-clad police sleeves and a folded police notebook are visible at the edge of the frame. Daylight from a nearby window, shallow depth of field, plain background of a street outside Ice House police station. No readable text, labels or signboards. Shot at slightly high angle, 50 mm lens. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/ganja-and-methamphetamine-seized2-arrested",
-   "published": "2026-11-20T19:28:07.130Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: fact-check: In slides_spec, Slide 1 mentions 'ராயப்பேட்டை மதுவிலக்கு அமல் பிரிவு' (Prohibition Enforcement Wing), but the article states it was the 'ராயப்பேட்டை போதைப் பொருள் தடுப்புப் பிரிவு' (Narcotics Intelligence Bureau).",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஐஸ்ஹவுஸில் கஞ்சா, போதைப்பொருளுடன் இருவர் கைது செய்யப்பட்டனர். திருவல்லிக்கேணி, பெரிய மலையப்பன் தெருவில் சந்தேகப்படும் வகையில் சுற்றித்திரிந்த இருவரை ஐஸ்ஹவுஸ் போலீசார் பிடித்தனர். கைது செய்யப்பட்டவர்கள் திருவல்லிக்கேணியைச் சேர்ந்த முகமது மொய்தீன், 23 வயது மற்றும் அப்துல் மசர் உல்லா, 30 வயது ஆகியோர். அவர்களிடமிருந்து 24 கிலோ கஞ்சாவும், 51 கிராம் மெத்ஆம்பெட்டமைன் போதைப்பொருளும் பறிமுதல் செய்யப்பட்டன. இருவரும் கைது செய்யப்பட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஐஸ்ஹவுஸில் கஞ்சா, போதைப்பொருளுடன் இருவர் கைது\n\n📰 முழு விவரம்:\nதிருவல்லிக்கேணி, பெரிய மலையப்பன் தெருவில் சந்தேகப்படும் வகையில் சுற்றித்திரிந்த இருவரை ஐஸ்ஹவுஸ் போலீசார் பிடித்தனர். கைது செய்யப்பட்டவர்கள் திருவல்லிக்கேணியைச் சேர்ந்த முகமது மொய்தீன், 23 வயது மற்றும் அப்துல் மசர் உல்லா, 30 வயது. அவர்களிடமிருந்து 24 கிலோ கஞ்சாவும், 51 கிராம் மெத்ஆம்பெட்டமைன் போதைப்பொருளும் பறிமுதல் செய்யப்பட்டன. இருவரும் கைது செய்யப்பட்டனர்.\n📍 இடம்: திருவல்லிக்கேணி, பெரிய மலையப்பன் தெரு, ஐஸ்ஹவுஸ்\n👮 நடவடிக்கை: ஐஸ்ஹவுஸ் போலீசார் பிடித்து, கஞ்சா மற்றும் போதைப்பொருளைப் பறிமுதல் செய்து கைது செய்தனர்.\n\nIcehouse ganja arrest, 24 kg seized | Chennai news\n📍 ஐஸ்ஹவுஸ், சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Triplicane",
+   "prompts": "A row of Tamil Nadu police in khaki stand behind two young men in plain shirts and trousers, seen from behind, as they are taken to a waiting police jeep on a narrow residential street in Triplicane, Chennai. The street is lined with old low-rise houses with tiled roofs, concrete balconies and a few hanging electric wires, and a small group of onlookers stands far off near a doorway. The men are shown from behind, faces not visible, hands held loosely by constables. It is daylight with soft, overcast light and dust on the road. The camera is at eye level, 35 mm, wide enough to show the whole street, the police jeep and the old houses. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up on a wooden table or police station desk in a dim room, where large bulky packets of dried green ganja lie in a heap beside a small transparent packet holding a few grams of white crystal methamphetamine. A khaki-uniformed police hand rests at the edge of the frame, with a plain steel tray and a bundle of seizure papers beside the goods. The background is blurred police station wall in pale cream paint and a tubelight overhead. The light is cool and neutral, and the camera is slightly high, 35 mm, close enough to show the texture of the ganja and the crystals clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/crime-connor/4381320",
+   "published": "2026-11-20T17:09:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 51 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795203286/chennaiminnal/tterpqbtji9lsvo74wwy.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795203316/chennaiminnal/obtx7t58rp0svnkpgmbw.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795217692/chennaiminnal/pinh4zjitkgmyurms7kb.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795217695/chennaiminnal/uwj9y1jg7ytvic5ymolc.jpg"
    ]
   },
   {
-   "tamil_headline": "பள்ளிக்கரணையில் பைக் மீது லாரி மோதி விபத்து: தனியார் நிறுவன மேலாளர் உயிரிழப்பு",
-   "english_headline": "Private company manager killed in bike-lorry collision at Pallikaranai, Chennai",
+   "tamil_headline": "கஞ்சா கடத்தல்: ஆட்டோ ஓட்டுநருக்கு 10 ஆண்டுகள் சிறைத் தண்டனை",
+   "english_headline": "Auto driver gets 10 years jail for smuggling 40 kg ganja",
    "category": "Crime & Safety",
-   "location": "Pallikaranai, Chennai district",
+   "location": "Chennai city (Santhome area), Chennai district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "விபத்து",
-    "loc": "பள்ளிக்கரணை, சென்னை",
-    "hl1": "பள்ளிக்கரணையில் லாரி மோதி விபத்து",
-    "hl2": "மேலாளர் உயிரிழப்பு",
+    "cat": "குற்றச் செய்தி",
+    "loc": "சென்னை",
+    "hl1": "கஞ்சா கடத்திய ஓட்டுநருக்கு 10 ஆண்டு சிறை",
+    "hl2": "ரூ.1 லட்சம் அபராதமும்",
     "slides": [
      {
-      "title": "விபத்து விவரம்",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "பள்ளிக்கரணையில் பைக் மீது லாரி மோதி விபத்து",
-       "தனியார் நிறுவன மேலாளர் <b>பிரகாஷ்ராஜ்</b> உயிரிழப்பு",
-       "மடிப்பாக்கம் நேரு நகரைச் சேர்ந்தவர்"
+       "40 கிலோ கஞ்சா கடத்திய வழக்கில் தீர்ப்பு",
+       "ஆட்டோ ஓட்டுநர் செல்வத்துக்கு <b>10 ஆண்டு</b> சிறை",
+       "<b>ரூ.1 லட்சம்</b> அபராதமும் விதிப்பு"
       ]
      },
      {
-      "title": "எங்கே நடந்தது?",
+      "title": "எப்படி கைது?",
       "lines": [
-       "துரைப்பாக்கம் <b>200 அடி</b> ரேடியல் சாலை",
-       "யூ-டர்ன் திரும்பும்போது லாரி மோதியது",
-       "சம்பவ இடத்திலேயே பிரகாஷ்ராஜ் பலி"
+       "2023 மார்ச் மாதம் சாந்தோம் விளையாட்டுத் திடல் அருகே கைது",
+       "சுமார் <b>40 கிலோ</b> கஞ்சா கடத்தியதாக குற்றச்சாட்டு",
+       "இரு பைகளில் கஞ்சா பறிமுதல் செய்யப்பட்டது"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "தீர்ப்பு",
       "lines": [
-       "லாரி ஓட்டுநர் அங்கிருந்து தப்பியோட்டம்",
-       "உடல் தாம்பரம் அரசு மருத்துவமனைக்கு மாற்றம்",
-       "போலீசார் ஓட்டுநரைத் தேடி வருகின்றனர்"
+       "சென்னை போதைப் பொருள் தடுப்பு சிறப்பு நீதிமன்றம் தீர்ப்பு",
+       "குற்றச்சாட்டுகள் சந்தேகத்துக்கு இடமின்றி நிரூபிக்கப்பட்டன",
+       "செல்வம் நிரபராதி என வாதிட்டார்; நீதிபதி ஏற்கவில்லை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பள்ளிக்கரணையில் பைக் மீது லாரி மோதிய விபத்தில் தனியார் நிறுவன மேலாளர் ஒருவர் உயிரிழந்தார். சென்னை மடிப்பாக்கம் நேரு நகரைச் சேர்ந்த 29 வயது பிரகாஷ்ராஜ் என்பவர் இந்த விபத்தில் பலியானார். இவர் ஒரு தனியார் பெயிண்ட் நிறுவனத்தில் மேலாளராகப் பணியாற்றி வந்தார். கடந்த வியாழக்கிழமை அன்று பிரகாஷ்ராஜ் துரைப்பாக்கம் 200 அடி ரேடியல் சாலை வழியாகத் தனது பைக்கில் வீட்டிற்குச் சென்று கொண்டிருந்தார். பள்ளிக்கரணை அருகே உள்ள ஒரு யூ-டர்னில் திரும்ப முயன்றபோது அங்கு வந்த டாரஸ் லாரி ஒன்று பைக் மீது பலமாக மோதியது. இந்த விபத்தில் பிரகாஷ்ராஜ் சம்பவ இடத்திலேயே பரிதாபமாக உயிரிழந்தார். விபத்தை ஏற்படுத்திய லாரி ஓட்டுநர் அங்கிருந்து தப்பியோடிவிட்டார். தகவலறிந்து வந்த பள்ளிக்கரணை போக்குவரத்து புலனாய்வுப் பிரிவு போலீசார் பிரகாஷ்ராஜின் உடலை மீட்டனர். உடல் பிரேத பரிசோதனைக்காகத் தாம்பரம் அரசு மருத்துவமனைக்கு அனுப்பி வைக்கப்பட்டுள்ளது. போலீசார் இதுகுறித்து வழக்குப் பதிவு செய்து தப்பியோடிய லாரி ஓட்டுநரைத் தீவிரமாகத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பள்ளிக்கரணையில் பைக் மீது லாரி மோதி விபத்து: தனியார் நிறுவன மேலாளர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nசென்னை மடிப்பாக்கம் நேரு நகரைச் சேர்ந்த 29 வயது பிரகாஷ்ராஜ், ஒரு தனியார் பெயிண்ட் நிறுவனத்தில் மேலாளராகப் பணியாற்றி வந்தார். இவர் வியாழக்கிழமை அன்று துரைப்பாக்கம் 200 அடி ரேடியல் சாலை வழியாகத் தனது பைக்கில் வீட்டிற்குச் சென்று கொண்டிருந்தார். பள்ளிக்கரணை அருகே உள்ள யூ-டர்னில் திரும்ப முயன்றபோது, ஒரு டாரஸ் லாரி பைக் மீது மோதியது. இதில் பிரகாஷ்ராஜ் சம்பவ இடத்திலேயே உயிரிழந்தார்.\n🚛 விபத்தை ஏற்படுத்திய லாரி ஓட்டுநர் அங்கிருந்து தப்பியோடிவிட்டார். பள்ளிக்கரணை போக்குவரத்து புலனாய்வுப் பிரிவு போலீசார் உடலை மீட்டு தாம்பரம் அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். போலீசார் வழக்குப் பதிவு செய்து தப்பியோடிய ஓட்டுநரைத் தேடி வருகின்றனர்.\n\n📍 இடம்: பள்ளிக்கரணை, சென்னை\n🗓️ நாள்: 19 நவம்பர் 2026 (வியாழக்கிழமை)\n👮 நடவடிக்கை: போலீசார் வழக்குப்பதிவு செய்து விசாரணை\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nChennai Pallikaranai road accident | Chennai news\n📍 பள்ளிக்கரணை, சென்னை | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Pallikaranai #Accident #ChennaiNews #சென்னை",
-   "prompts": "A damaged two-wheeler lies on the side of a wide multi-lane Radial Road in Pallikaranai, Chennai, near a U-turn gap in the median, where a tipper lorry has been involved in a fatal collision. Police in khaki stand at a distance beside a parked police vehicle, with a few onlookers gathered far off on the footpath, seen from behind and slightly blurred. Traffic moves slowly in both directions on the grey tarmac, with a green-and-white painted roadside divider and a line of concrete median dividers stretching into the distance. Daylight, dry road, no visible injuries or bodies. Camera at eye level, 35 mm, wide enough to show the full road and the damaged bike with the police cordon in the frame. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a damaged two-wheeler with a crumpled front wheel and bent handlebar lying on the grey tarmac beside a concrete median divider on a Chennai arterial road. Behind it, a police cone and a red-and-white barricade mark the spot, with a blurred tipper lorry's rear tyres and dusty body partly visible at the edge of the frame, no readable number plates or text. Daylight, dry road surface with skid marks, no people in focus. Camera at low angle, 50 mm, shallow depth of field to isolate the damaged bike against the road. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/lorry-collides-with-motorcycleprivate-company-manager-killed",
-   "published": "2026-11-20T19:28:45.254Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 6",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "செல்வத்துக்கு 10 ஆண்டு சிறை தண்டனை கிடைத்தது. 40 கிலோ கஞ்சா கடத்திய வழக்கில் இந்தத் தீர்ப்பு வழங்கப்பட்டது. சென்னை செங்குன்றம் காவாங்கரை பகுதியைச் சேர்ந்த செல்வம் ஆட்டோ ஓட்டுநர். கடந்த 2023 மார்ச் மாதம் சாந்தோம் விளையாட்டுத் திடல் அருகே சுமார் 40 கிலோ கஞ்சா கடத்தியதாகக் கைது செய்யப்பட்டார். இந்த வழக்கு சென்னை போதைப் பொருள்கள் கடத்தல் தடுப்பு சிறப்பு நீதிமன்றத்தில் விசாரிக்கப்பட்டது. கஞ்சா கடத்தி வந்த ஆட்டோ செல்வத்துக்குச் சொந்தமானது என்று காவல் துறை தரப்பு வாதிட்டது. ஆட்டோவில் இருந்த இரு பைகளில் 40 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டது. இரு தரப்பு வாதங்களையும் கேட்ட நீதிபதி, குற்றச்சாட்டுகள் சந்தேகத்துக்கு இடமின்றி நிரூபிக்கப்பட்டதாகக் கூறி, 10 ஆண்டு சிறையும் ரூ.1 லட்சம் அபராதமும் விதித்தார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கஞ்சா கடத்திய ஆட்டோ ஓட்டுநருக்கு 10 ஆண்டு சிறை\n\n📰 முழு விவரம்:\nசென்னை செங்குன்றம் காவாங்கரையைச் சேர்ந்த ஆட்டோ ஓட்டுநர் செல்வத்துக்கு 10 ஆண்டு சிறைத் தண்டனையும் ரூ.1 லட்சம் அபராதமும் விதிக்கப்பட்டது.\n2023 மார்ச் மாதம் சாந்தோம் விளையாட்டுத் திடல் அருகே சுமார் 40 கிலோ கஞ்சா கடத்தியதாக அவர் கைது செய்யப்பட்டார்.\nஆட்டோவில் இருந்த இரு பைகளில் 40 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டது.\nசென்னை போதைப் பொருள்கள் கடத்தல் தடுப்பு சிறப்பு நீதிமன்ற நீதிபதி எஸ்.கோவிந்தராஜன் முன் வெள்ளிக்கிழமை விசாரணை நடைபெற்றது.\nகுற்றச்சாட்டுகள் சந்தேகத்துக்கு இடமின்றி நிரூபிக்கப்பட்டதாக நீதிபதி தீர்ப்பளித்தார்.\n\nAuto driver gets 10 years jail for ganja smuggling | Chennai news\n📍 சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #போதைப்பொருள்",
+   "prompts": "A three-wheeler auto-rickshaw is parked on the edge of an open sports ground near Santhome in Chennai city, with two large sealed cloth bags of seized ganja placed on the back seat and a khaki-uniformed Tamil Nadu police officer standing beside the vehicle, seen from a distance. The Santhome area has wide roads, low-rise shops, and the open green field of a playground behind a chain-link fence, with a few two-wheelers passing on the road. Several police personnel stand together at a respectful distance, while a man in a plain shirt and veshti is seen only from behind, his hands held together. The scene is in bright daylight with a clear sky, typical of a Chennai afternoon. Shot at eye level, 35 mm lens, wide enough to show the auto, the bags, the field and the road in one frame, with no readable signboards or number plates visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of two large bundles of seized ganja packed in coarse white gunny-type bags, lying on the floor of an auto-rickshaw's rear seat, with a blue plastic sheet partly covering the contents. Only a pair of black-trousered police legs in khaki are visible at the edge of the frame. The black-and-green dried plant material is tightly packed and tied, showing the scale of the seizure of around 40 kg. Behind the auto, out of focus, the edge of a playground fence and a green field appear under soft daylight. The image uses a shallow depth of field at a slightly high angle, 50 mm lens, so the bags and the cracked vinyl seat dominate the frame. No faces, no text, no labels are visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%8B-%E0%AE%93%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%A8%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-10-%E0%AE%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%88%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%A9%E0%AF%88",
+   "published": "2026-11-20T19:06:58.144Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795203354/chennaiminnal/yca3aiwung7zfqryp8wh.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795203387/chennaiminnal/vklw2w4yjjkxswwxkz8w.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795217702/chennaiminnal/c9swrrkbcdsszyxj53ub.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795217722/chennaiminnal/rbhexfkxhhsqdleyeior.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை மாநகராட்சியில் 200 கி.மீ. பாதசாரிகள் வலையமைப்பு அமைக்கப்படும்: ஆணையர் ஜி.எஸ்.சமீரன்",
+   "english_headline": "Chennai Corporation to build 200 km pedestrian network, says Commissioner G.S. Sameeran",
+   "category": "Civic Issues",
+   "location": "Chennai city, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நகர்ப்புற திட்டம்",
+    "loc": "சென்னை மாநகராட்சி",
+    "hl1": "சென்னையில் 200 கி.மீ. பாதசாரிகள்",
+    "hl2": "ஆணையர் ஜி.எஸ்.சமீரன்",
+    "slides": [
+     {
+      "title": "என்ன அறிவிப்பு?",
+      "lines": [
+       "சென்னை மாநகராட்சியில் <b>200 கி.மீ.</b> பாதசாரிகள்",
+       "ஆணையர் ஜி.எஸ்.சமீரன் தெரிவித்தார்",
+       "கால நிலை மீள்திறன் கொண்ட நகராக்கம் நோக்கம்"
+      ]
+     },
+     {
+      "title": "எங்கு, எப்போது?",
+      "lines": [
+       "சி-40 அமைப்பின் 20ஆம் ஆண்டு விழாவை முன்னிட்டு நடந்த",
+       "தனியார் விடுதியில் வெள்ளிக்கிழமை நடைபெற்றது",
+       "சென்னை மாநகராட்சியுடன் இணைந்து நடத்தப்பட்டது"
+      ]
+     },
+     {
+      "title": "பிற திட்டங்கள்",
+      "lines": [
+       "நீர் உறிஞ்சும் பூங்காக்கள் திட்டம் விரிவுபடுத்தப்படும்",
+       "மெட்ரோ ரயில், ஒருங்கிணைந்த போக்குவரத்து ஆணையம், மின்சார",
+       "இரண்டு நூல்கள் வெளியிடப்பட்டன"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னை மாநகராட்சியில் 200 கிலோமீட்டர் தூரத்துக்கு பாதசாரிகள் வலையமைப்பு அமைக்கப்படும். மாநகராட்சி ஆணையர் ஜி எஸ் சமீரன் இதைத் தெரிவித்தார். சி-40 அமைப்பின் 20ஆம் ஆண்டு விழாவை முன்னிட்டு, கால நிலை சார்ந்த நகர்ப்புற திட்டமிடல் மாநாடு சென்னையில் வெள்ளிக்கிழமை நடைபெற்றது. இந்த மாநாடு சென்னை மாநகராட்சியுடன் இணைந்து நடத்தப்பட்டது. மாநாட்டில் கால நிலை செயல் வழிகாட்டி, இந்திய நகரங்களுக்கான தூய்மையான காற்று மண்டல வரைபடம் ஆகிய நூல்கள் வெளியிடப்பட்டன. கால நிலைச் சவால்களை எதிர்கொள்ள மெட்ரோ ரயில் நிறுவனம், ஒருங்கிணைந்த போக்குவரத்து ஆணையம், மின்சார வாரியம், வருவாய்த் துறை ஆகியவற்றுடன் இணைந்து செயல்பட வேண்டும் என ஆணையர் கூறினார். நீர் உறிஞ்சும் பூங்காக்கள் திட்டமும் விரிவுபடுத்தப்படவுள்ளது. சி-40 அமைப்புடன் இணைந்து சென்னையைக் கால நிலை மீள்திறன் கொண்ட நகராக்க நடவடிக்கை எடுக்கப்படும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚶 சென்னையில் 200 கி.மீ. பாதசாரிகள் வலையமைப்பு அமைக்கப்படும்\n\n📰 முழு விவரம்:\nசென்னை மாநகராட்சியில் 200 கி.மீ. தூரத்துக்கு பாதசாரிகள் வலையமைப்பு அமைக்கப்படும் என மாநகராட்சி ஆணையர் ஜி.எஸ்.சமீரன் தெரிவித்தார்.\nசி-40 அமைப்பின் 20ஆம் ஆண்டு விழாவை முன்னிட்டு, கால நிலை சார்ந்த நகர்ப்புற திட்டமிடல் மாநாடு தனியார் விடுதியில் வெள்ளிக்கிழமை நடைபெற்றது. சென்னை மாநகராட்சியுடன் இணைந்து இந்த மாநாடு நடத்தப்பட்டது.\nமாநாட்டில் கால நிலை செயல் வழிகாட்டி, இந்திய நகரங்களுக்கான தூய்மையான காற்று மண்டல வரைபடம் ஆகிய நூல்கள் வெளியிடப்பட்டன.\n📍 இடம்: சென்னை மாநகராட்சி பகுதி\n🗓️ நாள்: வெள்ளிக்கிழமை (நவம்பர் 20, 2026 தேதியிட்ட செய்தி)\n👮 நடவடிக்கை: நீர் உறிஞ்சும் பூங்காக்கள் திட்டம் விரிவுபடுத்தப்படும்; சி-40 அமைப்புடன் இணைந்து கால நிலை மீள்திறன் கொண்ட நகராக்க நடவடிக்கை\n\nChennai 200 km pedestrian network | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Chennai",
+   "prompts": "A row of officials sits behind a long draped table at a climate-planning conference hall in a private hotel in Chennai city, with a printed banner behind them and a stack of two newly released books lying on the table in front of them. Commissioner G.S. Sameeran, a middle-aged man in a formal shirt, speaks at a wooden podium with a microphone, while three colleagues in formal wear and a woman in a cream saree listen. Rows of audience chairs with delegates in shirts and sarees fill the foreground, seen from behind and slightly blurred. Bright indoor ceiling lights and carpet give a daytime-hotel look, with a sense of city planning. Photographed at eye level, 35 mm, wide enough to show the full stage and hall. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/pedestrian-network-spanning-200-km-municipal-commissioner",
+   "published": "2026-11-20T21:29:56.820Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (17 words in a row, 41% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795217743/chennaiminnal/hjgey77vfdkvblfaqmnd.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வியாபாரியிடம் ரூ.10 லட்சம் பறிப்பு: ஞானசேகரன் தம்பியை போலீஸார் தேடுகின்றனர்",
+   "english_headline": "Rs.10 lakh robbed from jeweller in Kotturpuram; police search for Gnanasekaran's brother",
+   "category": "Crime & Safety",
+   "location": "Kotturpuram, Chennai district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வழிப்பறி",
+    "loc": "கோட்டூர்புரம், சென்னை",
+    "hl1": "கோட்டூர்புரத்தில் ரூ.10 லட்சம் வழிப்பறி",
+    "hl2": "ஞானசேகரன் தம்பி",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கோட்டூர்புரத்தில் வியாபாரியிடம் <b>ரூ.10 லட்சம்</b> வழிப்பறி",
+       "பாதிக்கப்பட்டவர் அ.யாசின் (39 வயது), நகைக் கடை வைத்துள்ளார்",
+       "நண்பர் சி.நூருதீன் (37 வயது) மூலம் பணம் கொடுக்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "நகை அடகு மீட்க <b>ரூ.10 லட்சம்</b> கேட்கப்பட்டது",
+       "கோட்டூர்புரம் நகைக் கடை அருகே பணம் ஒப்படைக்கப்பட்டது",
+       "பணம் பெற்ற பின் மூவரும் மோட்டார் சைக்கிளில் தப்பினர்"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "கோட்டூர்புரம் போலீஸார் வழக்குப் பதிவு செய்தனர்",
+       "சுரேஷ், <b>ஞானசேகரன்</b> தம்பி என தெரியவந்தது",
+       "<b>ரூ.10 லட்சம்</b> மீட்கப்பட்டது; மற்றவர்கள் தேடப்படுகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கோட்டூர்புரத்தில் வியாபாரியிடம் ரூ.10 லட்சம் வழிப்பறி செய்யப்பட்டுள்ளது. நகைக் கடை வைத்துள்ள அ.யாசின் (39 வயது) பாதிக்கப்பட்டவர். அவரது நண்பர் சி.நூருதீன் (37 வயது), தனது நண்பருக்குச் சொந்தமான தங்க நகை ரூ.10 லட்சத்துக்கு அடகு வைக்கப்பட்டுள்ளதாகக் கூறினார். நகையை மீட்க ரூ.10 லட்சம் கேட்டார். நகையை விற்ற பின் ரூ.10.50 லட்சம் தருவதாகவும் உறுதி அளித்தார். வியாழக்கிழமை யாசின் ரூ.10 லட்சத்துடன் கோட்டூர்புரம் எல்லையம்மன் கோயில் அருகே உள்ள நகைக் கடைக்குச் சென்றார். அங்கு நூருதீன், தா.சுரேஷ் (34 வயது), கு.பிரசாந்த் (30 வயது) ஆகியோர் இருந்தனர். பணத்தைப் பிரசாந்திடம் கொடுத்தார்; அவர் சுரேஷிடம் ஒப்படைத்தார். பணம் பெற்றதும் மூவரும் மோட்டார் சைக்கிளில் தப்பினர். கோட்டூர்புரம் போலீஸார் வழக்குப் பதிவு செய்தனர். விசாரணையில் சுரேஷ், அண்ணா பல்கலைக்கழக மாணவி பாலியல் வன்கொடுமை வழக்கில் சிறையில் இருக்கும் ஞானசேகரனின் தம்பி என தெரியவந்தது. போலீஸார் ரூ.10 லட்சத்தை மீட்டனர். சுரேஷ் உள்ளிட்ட மற்றவர்களை போலீஸார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கோட்டூர்புரத்தில் வியாபாரியிடம் ரூ.10 லட்சம் வழிப்பறி: ஞானசேகரன் தம்பியை போலீஸார் தேடுகின்றனர்\n\n📰 முழு விவரம்:\nகோட்டூர்புரத்தில் நகைக் கடை வைத்துள்ள அ.யாசின் (39 வயது) என்பவரிடம் ரூ.10 லட்சம் வழிப்பறி செய்யப்பட்டது. பழைய வண்ணாரப்பேட்டை டாக்டர் விஜயராகவலு சாலையைச் சேர்ந்தவர் யாசின். அவரது நண்பர் வியாசர்பாடி சத்தியமூர்த்தி நகரைச் சேர்ந்த சி.நூருதீன் (37 வயது), தனது நண்பருக்குச் சொந்தமான தங்க நகை ரூ.10 லட்சத்துக்கு அடகு வைக்கப்பட்டுள்ளதாகக் கூறினார். நகையை மீட்க ரூ.10 லட்சம் கொடுத்தால், நகையை விற்ற பின் ரூ.10.50 லட்சம் தருவதாகத் தெரிவித்தார்.\nவியாழக்கிழமை யாசின் ரூ.10 லட்சத்துடன் கோட்டூர்புரம் எல்லையம்மன் கோயில் அருகே உள்ள நகைக் கடைக்குச் சென்றார். அங்கு நூருதீன், கோட்டூர்புரம் மண்டபம் சாலையைச் சேர்ந்த தா.சுரேஷ் (34 வயது), கொட்டிவாக்கம் துலுக்கானத்தம்மன் கோயில் தெருவைச் சேர்ந்த கு.பிரசாந்த் (30 வயது) ஆகியோர் இருந்தனர். யாசின் பணத்தைப் பிரசாந்திடம் கொடுத்தார்; அவர் சுரேஷிடம் ஒப்படைத்தார். பணத்தைப் பெற்ற மூவரும் மோட்டார் சைக்கிளில் தப்பியோடினர்.\nகோட்டூர்புரம் போலீஸார் வழக்குப் பதிவு செய்தனர். விசாரணையில் சுரேஷ், அண்ணா பல்கலைக்கழக மாணவி பாலியல் வன்கொடுமை வழக்கில் சிறையில் இருக்கும் ஞானசேகரனின் தம்பி என தெரியவந்தது. போலீஸார் ரூ.10 லட்சத்தை மீட்டனர். சுரேஷ் உள்ளிட்ட மற்றவர்களை போலீஸார் தேடி வருகின்றனர்.\n\nChennai jeweller robbed Rs.10 lakh in Kotturpuram | Chennai news\n📍 கோட்டூர்புரம், சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kotturpuram #கிரைம் #ChennaiNews",
+   "prompts": "A police officer in khaki uniform stands beside a table in a Chennai police station where bundles of Rs.500 cash notes, recovered from the robbery, are neatly stacked and laid out for counting. Behind him, a second police constable in khaki and a jeweller in a white shirt sit at the edge of the frame, seen from the side and slightly out of focus, with their faces turned away from the camera. The room has plain cream walls, a wooden desk, a ceiling fan and a tube light overhead. Daylight filters in from a barred window. The table holds stacks of cash bundles, a notebook and a pen, and no text or logos are visible. Camera at eye level, 35 mm lens, wide enough to show the table, the officers and the room, soft natural light. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA two-wheeler motorcycle parked on the roadside of a busy street in Kotturpuram, Chennai, in front of a small jewellery shop with a closed shutter and a narrow glass display behind it. A few pedestrians in shirts and sarees walk at a distance on the pavement, seen from behind. Across the road, a small temple gopuram rises above the rooftops near Ellaiamman temple. The street is lined with low concrete buildings and a few parked two-wheelers, with an ordinary midday light and a clear sky. No signboards or readable text are visible. Camera at eye level, 35 mm lens, showing the motorcycle, the shop front and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/rs-10-lakh-snatched-from-businessman-police-searching-for-gnanasekarans-brother",
+   "published": "2026-11-20T21:31:35.089Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script copies the article word for word (17 words in a row, 13% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence; caption copies the article word for word (17 words in a row, 12% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795217785/chennaiminnal/srenjai2vdzqenxftzhe.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795217818/chennaiminnal/bwdko0b6dqrwc9rtropn.jpg"
    ]
   }
  ]
