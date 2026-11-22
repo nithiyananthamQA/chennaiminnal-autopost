@@ -521,7 +521,8 @@
    "score": 11.06,
    "power_cut": false,
    "listed_at": "2026-11-23T01:01:58.389197+05:30",
-   "picked_at": "2026-11-23T01:05:15.018366+05:30"
+   "picked_at": "2026-11-23T01:05:15.018366+05:30",
+   "posted": true
   },
   "C2dd07d2": {
    "id": "C2dd07d2",
@@ -534,7 +535,8 @@
    "score": 10.92,
    "power_cut": false,
    "listed_at": "2026-11-23T01:01:58.389197+05:30",
-   "picked_at": "2026-11-23T01:05:15.018370+05:30"
+   "picked_at": "2026-11-23T01:05:15.018370+05:30",
+   "posted": true
   },
   "Ce36afb3": {
    "id": "Ce36afb3",
@@ -547,7 +549,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-23T01:01:58.389197+05:30",
-   "picked_at": "2026-11-23T01:05:15.018372+05:30"
+   "picked_at": "2026-11-23T01:05:15.018372+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "Ccb05f53": {
    "id": "Ccb05f53",
@@ -560,7 +563,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-23T01:01:58.389197+05:30",
-   "picked_at": "2026-11-23T01:05:15.018373+05:30"
+   "picked_at": "2026-11-23T01:05:15.018373+05:30",
+   "posted": true
   },
   "C638e281": {
    "id": "C638e281",
@@ -2495,7 +2499,10 @@
     "C2dd07d2",
     "Ccb05f53",
     "Ce36afb3"
-   ]
+   ],
+   "refused": {
+    "Ce36afb3": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {
