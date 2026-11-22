@@ -1,28 +1,4 @@
-bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-03:14:58 from_google 'சென்னை மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:15:45 from_google 'சென்னை மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:16:30 from_google 'சென்னை மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:17:12 from_google 'சென்னை மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:17:53 from_google 'நாளைய மின்தடை சென்னை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:18:35 from_google 'நாளைய மின்தடை சென்னை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:19:17 from_google 'சென்னை மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:19:53 from_google 'சென்னை மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:20:38 from_google 'சென்னை மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:21:21 from_google 'சென்னை மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:22:02 from_google 'சூலூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:22:40 from_google 'சூலூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:23:24 from_google 'அன்னூர் மின்தடை' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:24:05 from_google 'அன்னூர் மின்தடை' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:24:48 from_google 'சென்னை மின் நிறுத்தம்' dinamani.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:25:31 from_google 'சென்னை மின் நிறுத்தம்' dinamalar.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:26:14 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:26:54 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:27:33 from_google 'தமிழகத்தில் நாளை மின்தடை' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:28:18 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.news18.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:28:58 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.abplive.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:29:38 from_google 'தமிழ்நாட்டில் நாளை மின்தடை பகுதிகள்' tamil.samayam.com failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-03:29:40   other district: நாளைய மின்தடை: கவுண்டம்பாளையம் <https://www.dinamani.com/all-editions/edition-coimbatore/coimbatore/2026/Nov/21/power-outage-tomorrow-goundampalayam>
-03:29:40   other district: அகரம் சீகூா் சுற்று வட்டாரப் பகுதிகளில் நாளை மின்தடை <https://www.dinamani.com/all-editions/edition-trichy/perambalur/2026/Nov/21/power-outage-tomorrow-in-the-agaram-seekur-and-surrounding-areas>
-03:29:40   other district: கல்லக்குடி பகுதிகளில் நாளை மின்தடை <https://www.dinamani.com/all-editions/edition-trichy/trichy/2026/Nov/21/power-outage-in-kallakudi-areas-tomorrow>
-03:29:52 skipped: not a power cut=11, other district=3, could not open=2
-03:29:52 no new power-cut notice
+bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+05:59:30   other district: 5 மணி நேரம் மின் தடை: சீரமைக்க மக்கள் வலியுறுத்தல் <https://www.dinamalar.com/news/tamil-nadu-district-news-tiruppur/power-outage-for-5-hours-people-call-for-restoration/4382854>
+05:59:31 skipped: not a power cut=11, could not open=8, other district=1
+05:59:31 no new power-cut notice
