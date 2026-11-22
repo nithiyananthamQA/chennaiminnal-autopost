@@ -321,7 +321,8 @@
    "score": 7.27,
    "power_cut": false,
    "listed_at": "2026-11-21T21:01:46.961307+05:30",
-   "picked_at": "2026-11-22T09:15:51.683689+05:30"
+   "picked_at": "2026-11-22T09:15:51.683689+05:30",
+   "posted": true
   },
   "C80c12e1": {
    "id": "C80c12e1",
@@ -495,7 +496,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-21T23:04:03.081160+05:30",
-   "picked_at": "2026-11-22T09:15:51.683691+05:30"
+   "picked_at": "2026-11-22T09:15:51.683691+05:30",
+   "posted": true
   },
   "C98a1fbb": {
    "id": "C98a1fbb",
@@ -640,7 +642,8 @@
    "score": 6.74,
    "power_cut": false,
    "listed_at": "2026-11-22T08:14:26.697408+05:30",
-   "picked_at": "2026-11-22T09:15:51.683693+05:30"
+   "picked_at": "2026-11-22T09:15:51.683693+05:30",
+   "posted": true
   },
   "C05afc01": {
    "id": "C05afc01",
@@ -653,7 +656,8 @@
    "score": 6.74,
    "power_cut": false,
    "listed_at": "2026-11-22T08:14:26.697408+05:30",
-   "picked_at": "2026-11-22T09:15:51.683695+05:30"
+   "picked_at": "2026-11-22T09:15:51.683695+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C18d35a3": {
    "id": "C18d35a3",
@@ -690,7 +694,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-22T09:15:07.104674+05:30",
-   "picked_at": "2026-11-22T09:15:51.683687+05:30"
+   "picked_at": "2026-11-22T09:15:51.683687+05:30",
+   "posted": true
   },
   "Ca63c4ca": {
    "id": "Ca63c4ca",
@@ -2606,7 +2611,10 @@
     "C9febad3",
     "Cb3a09be",
     "Ce450e3d"
-   ]
+   ],
+   "refused": {
+    "C05afc01": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
