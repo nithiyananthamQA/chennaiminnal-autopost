@@ -1,67 +1,67 @@
 {
- "updated": "2026-11-20T17:02+05:30",
- "posts_measured": 118,
+ "updated": "2026-11-22T13:01+05:30",
+ "posts_measured": 175,
  "topic_weight": {
-  "accident": 0.29,
-  "civic": 0.3,
-  "crime": -0.13,
-  "education": -0.5,
-  "jobs": -0.41,
-  "politics": 0.29,
-  "poultry_agri": -0.12,
-  "power_cut": 1.34,
-  "sports_culture": -0.17,
-  "temple": -0.23,
-  "weather": 0.19
+  "accident": 0.16,
+  "civic": 0.21,
+  "crime": -0.11,
+  "education": -0.19,
+  "jobs": -0.16,
+  "politics": 0.25,
+  "poultry_agri": -0.4,
+  "power_cut": 1.26,
+  "sports_culture": -0.27,
+  "temple": -0.3,
+  "weather": 0.22
  },
  "topic_n": {
-  "politics": 5,
-  "accident": 9,
-  "crime": 48,
-  "weather": 16,
-  "power_cut": 32,
-  "civic": 13,
-  "education": 49,
-  "poultry_agri": 7,
-  "temple": 27,
-  "jobs": 3,
-  "sports_culture": 5
+  "politics": 11,
+  "accident": 16,
+  "crime": 63,
+  "weather": 19,
+  "power_cut": 5,
+  "civic": 22,
+  "education": 5,
+  "poultry_agri": 11,
+  "temple": 5,
+  "jobs": 4,
+  "sports_culture": 7
  },
  "best_hours_ist": [
   2,
-  22,
   6,
-  5
+  5,
+  22
  ],
  "top_openings": [
   "🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை",
-  "🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது",
-  "🚨 புழல் சிறைக்குள் கஞ்சா கடத்தல்: செவிலியர் உதவியாளர் கைது",
-  "🚨 மடிப்பாக்கத்தில் கால்வாயில் விழுந்து இளைஞர் உயிரிழப்பு"
+  "🚨 பல்லாவரம் அருகே திருடிய செல்போன் தகராறில் இளைஞர் வெட்டிக் கொலை",
+  "🚨 வண்ணாரப்பேட்டை ரவுடி பாம்முரளி கைது: போலீசார் துரத்தியபோது கீழே விழுந்து கை உட",
+  "🚨 ஐஸ்ஹவுஸில் கஞ்சா, போதைப்பொருளுடன் இருவர் கைது"
  ],
- "avg_watch_s": 6.1,
+ "avg_watch_s": 6.3,
  "best_topics": [
   "power_cut",
-  "civic",
-  "accident"
+  "politics",
+  "weather"
  ],
  "weak_topics": [
-  "education",
-  "jobs"
+  "poultry_agri",
+  "temple"
  ],
  "topic_source": {
   "accident": "ours",
   "civic": "ours",
   "crime": "ours",
-  "education": "reference",
-  "jobs": "reference",
+  "education": "ours",
+  "jobs": "ours",
   "politics": "ours",
   "poultry_agri": "ours",
-  "power_cut": "reference",
+  "power_cut": "ours",
   "sports_culture": "reference",
-  "temple": "reference",
+  "temple": "ours",
   "weather": "ours"
  },
- "reference_posts_measured": 438,
- "reference_updated": "2026-11-20T17:00+05:30"
+ "reference_posts_measured": 494,
+ "reference_updated": "2026-11-22T12:29+05:30"
 }

@@ -3,226 +3,260 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/raids-at-the-residence-of-former-dmk-minister-moorthy-mk-stalin-condemns-the-action",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/commercial-establishments-must-not-hold-a-sugar-stock-exceeding-1000-quintals-tamil-nadu-government-announcement",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-industrial-investors-conference-to-be-held-on-the-25th",
+  "manual link added: https://www.hindutamil.in/news/crime/mother-arrested-who-involved-theft-case-search-for-escape-daughter",
+  "manual link added: https://pukaarpetti.dailythanthi.com/garbage/news-68699",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/crops-are-burning-in-the-delta-drought-relief-should-be-announced-immediately-to-alleviate-the-suffering-of-farmers-udhayanidhi-stalin",
   "candidate filter: collected=3",
   "to write: 3 Chennai district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-indust",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/commercial-estab",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/raids-at-the-res",
-  "NOT filed (N) திமுக முன்னாள் அமைச்சர் மூர்த்தி வீட்டில் சோதனை: ம: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/crops-are-burnin",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/garbage/news-68699",
+  "try (N) manual=True: https://www.hindutamil.in/news/crime/mother-arrested-who-inv",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
-  "filed: 2 Chennai district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
+  "filed: 3 Chennai district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (2s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சர்க்கரை இருப்பு வரம்பு குறைப்பு: வியாபாரிகள் 1,000 குவிண்டாலுக்கு மேல் வைக்கக்கூடாது",
-   "english_headline": "Sugar stock limit cut for traders: 1,000 quintals cap and 15-day holding period under new order",
-   "category": "Business & Prices",
-   "location": "Tamil Nadu, Chennai district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "சென்னை கொரட்டூரில் சாலையோரம் குப்பை கொட்டுவதால் துர்நாற்றம், நோய் பரவும் அபாயம்",
+   "english_headline": "Garbage dumped on the roadside in Korattur, Chennai; foul smell and disease risk, residents demand civic body action",
+   "category": "Civic Issues",
+   "location": "Korattur, Sivasakthi Nagar 2nd Street, Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "சர்க்கரை இருப்பு",
-    "loc": "தமிழ்நாடு",
-    "hl1": "சர்க்கரை இருப்பு வரம்பு குறைப்பு",
-    "hl2": "<b>1,000 குவிண்டால்</b> வரை",
+    "cat": "குப்பை பிரச்சனை",
+    "loc": "கொரட்டூர், சென்னை",
+    "hl1": "கொரட்டூரில் சாலையோரம் குப்பை",
+    "hl2": "நோய் பரவும் அபாயம்",
     "slides": [
      {
-      "title": "புதிய வரம்பு",
+      "title": "என்ன பிரச்சனை?",
       "lines": [
-       "வியாபாரிகள் சர்க்கரை இருப்பை 15 நாட்கள் வரை மட்டுமே வைக்க",
-       "இதற்கு முன் இந்த கால அளவு <b>30 நாட்கள்</b>",
-       "மத்திய அரசின் புதிய உத்தரவு"
+       "கொரட்டூர், சிவசக்தி நகர் 2-வது தெருவில் குப்பை",
+       "சாலையின் ஓரத்தில் சில வாரங்களாகக் குப்பை கொட்டப்படுகிறது",
+       "இதனால் தெருவில் மிகுந்த துர்நாற்றம் வீசுகிறது"
       ]
      },
      {
-      "title": "அளவு வரம்பு",
+      "title": "மக்கள் அச்சம்",
       "lines": [
-       "எந்த இடத்திலும் <b>1,000 குவிண்டால்</b> மேல் இருப்பு கூடாது",
-       "முன்பு வரம்பு <b>2,000 குவிண்டால்</b> ஆக இருந்தது",
-       "அரசிதழில் மறுபதிப்பு செய்யப்பட்டுள்ளது"
+       "நோய் பரவும் அபாயம் உள்ளது",
+       "தெருவில் வசிப்போர் சிரமத்தில் உள்ளனர்",
+       "உடனடி தீர்வு தேவை"
       ]
      },
      {
-      "title": "ஏன் இந்த முடிவு?",
+      "title": "கோரிக்கை",
       "lines": [
-       "சர்க்கரை விநியோகத்தை முறைப்படுத்த",
-       "பதுக்கலைத் தவிர்க்க இந்த நடவடிக்கை"
+       "சம்பந்தப்பட்ட மாநகராட்சித் துறை அதிகாரிகள் நடவடிக்கை எடுக்க",
+       "குப்பை கொட்டுவதைத் தடுக்க வேண்டும்",
+       "தெருவைச் சுத்தம் செய்ய வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வியாபாரிகளின் சர்க்கரை இருப்பு வரம்பு குறைக்கப்பட்டுள்ளது. வியாபாரிகள் வாங்கிய சர்க்கரையை இனி அதிகபட்சம் 15 நாட்களுக்கு மட்டுமே வைத்திருக்க வேண்டும். இதற்கு முன் இந்த கால அளவு 30 நாட்களாக இருந்தது. எந்த இடத்திலும் வியாபாரிகள் வைத்திருக்கக்கூடிய சர்க்கரை 1,000 குவிண்டாலுக்கு மிகாமல் இருக்க வேண்டும். முன்பு இந்த வரம்பு 2,000 குவிண்டாலாக இருந்தது. மத்திய அரசு பிறப்பித்த இந்த புதிய உத்தரவை தமிழ்நாடு அரசின் கூட்டுறவு, உணவு மற்றும் நுகர்வோர் பாதுகாப்புத் துறை அரசிதழில் மறுபதிப்பு செய்துள்ளது. சர்க்கரை விநியோகத்தை முறைப்படுத்தவும், பதுக்கலைத் தவிர்க்கவும் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சர்க்கரை வியாபாரிகளுக்கு இருப்பு வரம்பு குறைப்பு: 15 நாட்கள், 1,000 குவிண்டால் மட்டுமே\n\n📰 முழு விவரம்:\nமத்திய அரசு சர்க்கரை வியாபாரிகளுக்கான இருப்பு வரம்பையும் கால அளவையும் குறைத்து புதிய உத்தரவு பிறப்பித்துள்ளது. இந்த அறிவிப்பை தமிழ்நாடு அரசின் கூட்டுறவு, உணவு மற்றும் நுகர்வோர் பாதுகாப்புத் துறை அரசிதழில் மறுபதிப்பு செய்துள்ளது. வியாபாரிகள் வாங்கிய சர்க்கரையை அதிகபட்சம் 15 நாட்களுக்கு மட்டுமே வைத்திருக்க வேண்டும்; இதற்கு முன் 30 நாட்கள் இருந்தது. எந்த இடத்திலும் இருப்பு 1,000 குவிண்டாலுக்கு மிகாமல் இருக்க வேண்டும்; முன்பு இது 2,000 குவிண்டால். சர்க்கரை விநியோகத்தை முறைப்படுத்தவும், பதுக்கலைத் தவிர்க்கவும் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.\n\nSugar stock limit cut for traders, 1,000 quintal cap | Tamil Nadu news\n📍 தமிழ்நாடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சர்க்கரை #சென்னை",
-   "prompts": "A row of sugar traders in shirts and veshtis stands with their backs to the camera inside a crowded wholesale godown in Chennai, where white sugar sacks are stacked floor to ceiling on wooden pallets. Several sacks are tied with rope and labelled only by their colour; no text is readable. A few men look at a folded paper notice held by one trader, suggesting a new rule being read. The building is a single-storey warehouse with a corrugated roof, tube lights hanging overhead and a shutter door open to a narrow lane of two-wheelers parked outside. The light is soft daylight from the door. Shot at eye level on 35 mm, wide enough to show the stacked sacks, the traders and the lane beyond. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a tall stack of white sugar sacks inside a Chennai wholesale godown, the top sacks partly loosened as if being counted or moved. Beside them sits a large old-style weighing scale with a steel platform and a few sacks placed on it. In the soft daylight from an open shutter, the grain of the jute sacks and the fine white sugar spilling from one torn corner are clearly visible. A folded gazette-style paper rests on the scale's edge, out of focus. No faces are shown; the frame is tight on the sacks and the scale, shot at eye level on 35 mm. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/commercial-establishments-must-not-hold-a-sugar-stock-exceeding-1000-quintals-tamil-nadu-government-announcement",
-   "published": "2026-11-20T05:26:40Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'தமிழ்நாடு', e.g. 'தமிழ்நாடு: ...' or 'தமிழ்நாடு-இல் ...' - viewers share news of their own area",
+   "reel_script": "சென்னை கொரட்டூரில் சாலையோரம் குப்பை கொட்டப்படுவதால் தெருவெங்கும் துர்நாற்றம் வீசுகிறது. கொரட்டூர், சிவசக்தி நகர் 2-வது தெருவில் கடந்த சில வாரங்களாக சாலையின் ஓரத்தில் குப்பைகள் கொட்டப்படுகின்றன. இதனால் அந்தப் பகுதியில் மிகுந்த துர்நாற்றம் வீசுகிறது. மேலும் நோய் பரவும் அபாயமும் உள்ளது என்று அந்தப் பகுதி மக்கள் கவலை தெரிவிக்கின்றனர். எனவே சம்பந்தப்பட்ட மாநகராட்சித் துறை அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்று கோரப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗑️ சென்னை கொரட்டூரில் சாலையோரம் குப்பை கொட்டுவதால் துர்நாற்றம்\n\n📰 முழு விவரம்:\nகொரட்டூர், சிவசக்தி நகர் 2-வது தெருவில் கடந்த சில வாரங்களாக சாலையின் ஓரத்தில் குப்பைகள் கொட்டப்படுகின்றன. இதனால் தெருவில் மிகுந்த துர்நாற்றம் வீசுகிறது. மேலும் நோய் பரவும் அபாயமும் உள்ளது. எனவே சம்பந்தப்பட்ட மாநகராட்சித் துறை அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என்று கோரப்படுகிறது.\n📍 இடம்: கொரட்டூர், சிவசக்தி நகர் 2-வது தெரு, சென்னை\nℹ️ மக்கள் கவனத்திற்கு: குப்பை கொட்டுவதைத் தவிர்த்து, மாநகராட்சி அதிகாரிகளின் நடவடிக்கைக்காகக் காத்திருங்கள்.\n\nChennai garbage dumping Korattur | Chennai news\n📍 கொரட்டூர், சென்னை | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Korattur #ChennaiNews #சென்னை",
+   "prompts": "A heap of mixed household garbage, plastic bags and dry leaves, lies piled along the roadside edge of a narrow residential street in Korattur, Chennai, where the civic problem of dumped waste is clearly visible. On both sides stand small single-storey houses with tiled roofs and low compound walls, with a concrete drain running along the kerb. A few two-wheelers are parked at the far end of the lane, and a couple of residents in a cotton shirt and a sari stand far away, seen from behind, looking toward the heap. The daylight is hazy and overcast, giving a dull, sombre feel. Camera: eye level, 35 mm, wide enough to show the street and the heap together, with the garbage in the foreground. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the garbage dumped at the edge of the road: torn plastic carry bags, wet food waste, dry leaves and loose rubbish spilling onto a cracked concrete kerb and damp soil. A stray dog sniffs at one edge of the pile, and a thin strip of a drain is visible beside it, showing how the waste blocks the street. Behind the heap the wall of a house is slightly out of focus, suggesting a residential lane in Chennai. Overcast daylight with a grey, dull tone. Camera: low angle, 50 mm, shallow depth of field so the pile stays sharp while the background blurs. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/garbage/news-68699",
+   "published": "2026-11-22T12:10:16+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160073/chennaiminnal/n5hpxgmblbr7rtrce6zf.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160109/chennaiminnal/kbueya5rmzhftdehkmns.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795332908/chennaiminnal/xuvlde9nnze6z1amtmjy.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795332912/chennaiminnal/gmi3iedwl1kjmehagenn.jpg"
    ]
   },
   {
-   "tamil_headline": "2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு: 25-ந்தேதி நடக்கிறது",
-   "english_headline": "2nd Vetri Tamil Nadu investors' conference to be held on the 25th in Chennai, chaired by CM Vijay",
-   "category": "Business & Prices",
-   "location": "Chennai, Chennai district",
+   "tamil_headline": "டெல்டாவில் பயிர்கள் கருகுகின்றன: விவசாயிகளுக்கு உடனே வறட்சி நிவாரணம் அறிவிக்க வேண்டும்",
+   "english_headline": "Crops wither in Delta; Udhayanidhi Stalin urges immediate drought relief for farmers",
+   "category": "Weather & Agriculture",
+   "location": "Delta region, Chennai district",
    "importance": "High",
-   "scope": "district",
+   "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "முதலீட்டு மாநாடு",
-    "loc": "சென்னை",
-    "hl1": "சென்னையில் 2-வது முதலீட்டாளர்கள் மாநாடு",
-    "hl2": "25-ம் தேதி நடைபெறும்",
+    "cat": "விவசாயம்",
+    "loc": "டெல்டா பகுதி",
+    "hl1": "டெல்டாவில் பயிர்கள் கருகுகின்றன",
+    "hl2": "உடனே வறட்சி நிவாரணம் தேவை",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "<b>25-ம் தேதி</b> (புதன்கிழமை) நடைபெறும்",
-       "முதல்-அமைச்சர் விஜய் தலைமையில் மாநாடு",
-       "சென்னையில் 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு"
+       "டெல்டாவில் பயிர்கள் தண்ணீரின்றி கருகுகின்றன",
+       "உதயநிதி ஸ்டாலின் 'எக்ஸ்' தளத்தில் கருத்து வெளியிட்டார்",
+       "விவசாயிகளின் துயர் துடைக்க உடனே வறட்சி நிவாரணம் அறிவிக்க"
       ]
      },
      {
-      "title": "முதல் மாநாடு",
+      "title": "ஏன் பயிர்கள்",
       "lines": [
-       "ஆகஸ்ட் மாதம் சென்னை நட்சத்திர ஓட்டலில் நடைபெற்றது",
-       "<b>67,452 கோடி ரூபாய்</b> முதலீடு உறுதி",
-       "<b>1,06,998</b> வேலைவாய்ப்புகள் உருவாகும்"
+       "ஜூன் <b>12</b>ஆம் தேதி மேட்டூர் அணை திறக்கப்படவில்லை",
+       "குறுவை சாகுபடி பொய்த்தது",
+       "செப்டம்பர் <b>1</b> அன்று முன்கூட்டியே தண்ணீர் திறக்கப்பட்டது"
       ]
      },
      {
-      "title": "அடிக்கல், தொடக்கம்",
+      "title": "அரசுக்கு கோரிக்கை",
       "lines": [
-       "<b>8</b> திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது",
-       "<b>4,476 கோடி ரூபாய்</b> முதலீடு, <b>5,074</b> வேலைவாய்ப்பு",
-       "<b>5</b> திட்டப் பணிகள் தொடங்கப்பட்டன"
-      ]
-     },
-     {
-      "title": "நோக்கம்",
-      "lines": [
-       "புதிய தொழில் முதலீடுகளை ஈர்ப்பது",
-       "தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு எடுத்துச் செல்வது",
-       "இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகள் உருவாக்குவது"
+       "வெளிப்படையான கள ஆய்வை உடனடியாக மேற்கொள்ள வேண்டும்",
+       "பயிர்ச்சேதம் குறித்து தாமதமின்றி நிவாரணம் வழங்க வேண்டும்",
+       "எதிர்க்கட்சிகள் முன்பு இரண்டு முறை எச்சரித்ததாக கூறினார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் 25ஆம் தேதி புதன்கிழமை 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு நடைபெறுகிறது. முதல்-அமைச்சர் விஜய் தலைமையில் இந்த மாநாடு நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. தமிழக அரசு பொறுப்பேற்ற பிறகு நடைபெறும் முதல் வெற்றி தமிழ்நாடு முதலீட்டாளர்கள் மாநாடு கடந்த ஆகஸ்ட் மாதம் சென்னையில் உள்ள நட்சத்திர ஓட்டலில் நடைபெற்றது. அந்த மாநாட்டில் 67,452 கோடி ரூபாய் முதலீடு மற்றும் 1,06,998 வேலைவாய்ப்புகள் உருவாக்கும் வகையில் 97 புரிந்துணர்வு ஒப்பந்தங்கள் போடப்பட்டன. 8 திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது. அவற்றின் மூலம் 4,476 கோடி ரூபாய் முதலீடும் 5,074 வேலைவாய்ப்புகளும் உருவாகும். 5 திட்டப் பணிகளை முதல்-அமைச்சர் விஜய் தொடங்கி வைத்தார். அவற்றால் 2,676 கோடி ரூபாய் முதலீடும் 1,550 வேலைவாய்ப்புகளும் கிடைக்கும். தமிழகத்தில் புதிய தொழில் முதலீடுகளை ஈர்ப்பது, தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு எடுத்துச் செல்வது, இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகளை உருவாக்குவது ஆகியவை இந்த மாநாட்டின் நோக்கங்கள். இம்மாநாட்டில் கையெழுத்தாகவுள்ள ஒப்பந்தங்கள் மற்றும் இடம் குறித்த அதிகாரப்பூர்வ அறிவிப்புகள் விரைவில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💼 சென்னையில் 25-ம் தேதி 2-வது வெற்றி தொழில் முதலீட்டாளர்கள் மாநாடு\n\n📰 முழு விவரம்:\nதமிழக அரசு பொறுப்பேற்ற பிறகு நடைபெறும் முதல் வெற்றி தமிழ்நாடு முதலீட்டாளர்கள் மாநாடு கடந்த ஆகஸ்ட் மாதம் சென்னையில் உள்ள நட்சத்திர ஓட்டலில் நடைபெற்றது. முதல்-அமைச்சர் விஜய் முன்னிலையில் தொழில், முதலீட்டு ஊக்குவிப்பு மற்றும் வர்த்தகத் துறை சார்பில் 67,452 கோடி ரூபாய் முதலீடு மற்றும் 1,06,998 வேலைவாய்ப்புகள் உருவாக்கும் வகையில் 97 புரிந்துணர்வு ஒப்பந்தங்கள் மேற்கொள்ளப்பட்டன.\n🏗️ 8 திட்டப் பணிகளுக்கு அடிக்கல் நாட்டப்பட்டது: 4,476 கோடி ரூபாய் முதலீடு, 5,074 வேலைவாய்ப்புகள்.\n🚧 5 திட்டப் பணிகளை முதல்-அமைச்சர் விஜய் தொடங்கி வைத்தார்: 2,676 கோடி ரூபாய் முதலீடு, 1,550 வேலைவாய்ப்புகள்.\n🗓️ இரண்டாவது மாநாடு வருகிற 25-ம் தேதி (புதன்கிழமை) சென்னையில் முதல்-அமைச்சர் விஜய் தலைமையில் நடைபெறும்.\n🎯 நோக்கம்: புதிய தொழில் முதலீடுகளை ஈர்ப்பது, தொழில் வளர்ச்சியை அடுத்த கட்டத்திற்கு கொண்டு செல்வது, இளைஞர்களுக்கு அதிக வேலைவாய்ப்புகளை உருவாக்குவது.\nℹ️ மாநாட்டில் கையெழுத்தாகவுள்ள ஒப்பந்தங்கள், இடம் குறித்த அதிகாரப்பூர்வ அறிவிப்புகள் விரைவில் வெளியாகும்.\n\nChennai 2nd investors conference on 25th | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #முதலீடு",
-   "prompts": "Inside a large air-conditioned conference hall of a Chennai hotel, rows of white cushioned chairs face a long wooden stage with a dais and a set of microphones, and a small table in front holds neatly stacked folders and papers ready for signing. Seen from the back of the hall at eye level with a 35 mm lens, several businessmen in formal shirts and trousers, some men in white shirts with veshti, and women in sarees sit in the front rows, their backs to the camera, listening attentively. Cool ceiling lights and tall hall curtains frame the stage, and a few corporate staff in dark formal wear stand near the side doors. The scene is daytime indoors with soft warm light, wide enough to show the full hall and the stage, conveying an investors' meeting in progress. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/2nd-vetri-industrial-investors-conference-to-be-held-on-the-25th",
-   "published": "2026-11-20T05:59:27Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (15 words in a row, 17% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "reel_script": "டெல்டா பகுதியில் பயிர்கள் தண்ணீரின்றி கருகுகின்றன. சட்டமன்ற எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலின், விவசாயிகளின் துயர் துடைக்க உடனே வறட்சி நிவாரணம் அறிவிக்க வேண்டும் என்று கோரியுள்ளார். ஜூன் 12ஆம் தேதி மேட்டூர் அணை திறக்கப்படாததால் குறுவை சாகுபடி பொய்த்ததாக அவர் குற்றம் சாட்டியுள்ளார். சம்பா சாகுபடிக்கு சரியான நேரத்தில் தண்ணீர் திறக்க வேண்டும் என விவசாயிகளும் எதிர்க்கட்சிகளும் கோரிய நிலையில், செப்டம்பர் 1ஆம் தேதி முன்கூட்டியே தண்ணீர் திறக்கப்பட்டது. அதனால் இப்போது டெல்டாவில் பயிர்கள் கருகுவதாக அவர் கூறியுள்ளார். இதுகுறித்து இரண்டு முறை அரசை எச்சரித்ததாகவும் அவர் தெரிவித்துள்ளார். பயிர்ச்சேதம் குறித்து வெளிப்படையான கள ஆய்வை அரசு உடனடியாக மேற்கொள்ள வேண்டும் என்றும், தாமதமின்றி வறட்சி நிவாரணம் வழங்க வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 டெல்டாவில் கருகும் பயிர்கள்: உடனே வறட்சி நிவாரணம் அறிவிக்க வேண்டும்\n\n📰 முழு விவரம்:\nடெல்டா பகுதியில் பயிர்கள் தண்ணீரின்றி கருகுகின்றன. சட்டமன்ற எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலின் 'எக்ஸ்' தளத்தில் வெளியிட்ட பதிவில், விவசாயிகளின் துயர் துடைக்க உடனே வறட்சி நிவாரணம் அறிவிக்க வேண்டும் என்று கோரியுள்ளார்.\nஜூன் 12ஆம் தேதி மேட்டூர் அணை திறக்கப்படாததால் குறுவை சாகுபடி பொய்த்ததாக அவர் குற்றம் சாட்டியுள்ளார். சம்பா சாகுபடிக்கு சரியான நேரத்தில் தண்ணீர் திறக்க வேண்டும் என்ற விவசாயிகள் மற்றும் எதிர்க்கட்சிகளின் கோரிக்கையை ஏற்காமல், செப்டம்பர் 1ஆம் தேதி முன்கூட்டியே தண்ணீர் திறக்கப்பட்டது என்றும், அதனால் பயிர்கள் கருகுவதாகவும் கூறியுள்ளார்.\nஇந்த நிலை ஏற்படக்கூடும் என்று கடந்த மாதமும் அதற்கு முன்பும் இரண்டு முறை அரசை எச்சரித்ததாக அவர் தெரிவித்துள்ளார்.\n👉 பயிர்ச்சேதம் குறித்து வெளிப்படையான கள ஆய்வை அரசு உடனடியாக மேற்கொள்ள வேண்டும்.\n👉 தாமதமின்றி வறட்சி நிவாரணம் வழங்க வேண்டும் என்று வலியுறுத்தியுள்ளார்.\n\nDelta crops withering, urgent drought relief demanded | Chennai news\n📍 டெல்டா பகுதி, சென்னை மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #டெல்டா #விவசாயம் #ChennaiNews",
+   "prompts": "A farmer stands in a dry paddy field in the Delta region of Tamil Nadu, looking over rows of wilting, yellowed and browning paddy plants that are withering from lack of water. The setting is open farmland near Chennai district, with flat fields stretching toward a line of distant palm trees and a dry earthen irrigation channel running along the edge. Two or three other farmers in white veshti and checked towels stand far away among the crop, seen from behind, while a government field officer in a shirt and trousers holds a clipboard at a distance. The soil is cracked and parched, and some stalks lie flat and dried out. It is bright midday daylight with a hot, cloudless sky and a dry, hazy heat. Shot at eye level on a 35 mm lens, wide enough to show the full field and the dry canal. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of cracked, dry earth at the base of withered paddy stalks in a Delta field. The brown, curled and yellowed paddy leaves are bent over the parched soil, and a dried-up irrigation channel with a thin crust of mud runs beside them. A farmer's bare feet and the hem of a veshti are visible at the edge of the frame, seen from behind and out of focus. Harsh midday sunlight casts sharp shadows over the dead crop. Shot close at eye level on a 35 mm lens, emphasising the drought damage to the kuruvai crop. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/crops-are-burning-in-the-delta-drought-relief-should-be-announced-immediately-to-alleviate-the-suffering-of-farmers-udhayanidhi-stalin",
+   "published": "2026-11-22T03:49:41Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'பகுதி' is not in the article",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795160147/chennaiminnal/l4gxeashmzbpavnebynn.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795332924/chennaiminnal/jlznijvvpofbmbbp1zuz.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795332929/chennaiminnal/b5velack8lu0tdpono4v.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருவொற்றியூரில் பர்தா அணிந்து மூதாட்டியிடம் கைவரிசை: தாய் கைது, மகளுக்கு வலை",
+   "english_headline": "Woman arrested for stealing Rs 15,000 from 65-year-old banana seller in Thiruvottiyur; daughter sought",
+   "category": "Crime & Safety",
+   "location": "Thiruvottiyur Market Road, Thiruvottiyur, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றம்",
+    "loc": "திருவொற்றியூர், சென்னை",
+    "hl1": "திருவொற்றியூரில் மூதாட்டியிடம் ரூ.15",
+    "hl2": "தாய் கைது, மகள் தலைமறைவு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருவொற்றியூர் மார்க்கெட் சாலையில் வாழைப்பழ வியாபாரம்",
+       "பர்தா அணிந்த 2 பெண்கள் கடந்த 7ஆம் தேதி இரவு கடைக்கு வந்தனர்",
+       "<b>ரூ.15 ஆயிரம்</b> இருந்த சுருக்குப்பை மாயமானது"
+      ]
+     },
+     {
+      "title": "போலீஸ் விசாரணை",
+      "lines": [
+       "புரசைவாக்கம் வெங்கடாசலம் தெருவைச் சேர்ந்த உதயகுமாரி (43 வயது)",
+       "அவரது மகளும் இந்தத் திருட்டில் ஈடுபட்டார்",
+       "மகள் தலைமறைவாக உள்ளார், தேடப்படுகிறார்"
+      ]
+     },
+     {
+      "title": "மீட்கப்பட்டவை",
+      "lines": [
+       "ரூ.2 ஆயிரம் பணம் மீட்பு",
+       "சுமார் <b>5 பவுன்</b> தங்க நகைகள் மீட்பு",
+       "<b>540 கிராம்</b> வெள்ளி நகைகள் மீட்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருவொற்றியூரில் மூதாட்டியிடம் ரூ.15 ஆயிரம் திருடிய தாய் கைது செய்யப்பட்டார். திருவொற்றியூர் மார்க்கெட் சாலையில் வாழைப்பழ வியாபாரம் செய்யும் ஆந்திராவைச் சேர்ந்த பத்மா (65 வயது) இந்தத் திருட்டில் பாதிக்கப்பட்டார். கடந்த 7ஆம் தேதி இரவு பர்தா அணிந்த 2 பெண்கள் அவரது கடைக்கு வந்து 7 டஜன் வாழைப்பழங்கள் கேட்டனர். அருகிலுள்ள குடோனுக்கு அழைத்துச் சென்று காண்பித்தபோது, மறுநாள் வருவதாகக் கூறி இருவரும் சென்றனர். பின்னர் கடைக்குத் திரும்பிய பத்மா, ரூ.15 ஆயிரம் இருந்த சுருக்குப்பை மாயமானதைக் கண்டார். போலீசார் நடத்திய விசாரணையில் புரசைவாக்கம் வெங்கடாசலம் தெருவைச் சேர்ந்த உதயகுமாரி (43 வயது) மற்றும் அவரது மகள் இந்தத் திருட்டில் ஈடுபட்டது தெரியவந்தது. இருவரும் ஏற்கெனவே ராயபுரம், தண்டையார்பேட்டை பகுதிகளிலும் முதியவர்களை ஏமாற்றித் திருடியுள்ளனர். திருடிய பணத்தில் செலவு போக மீதமுள்ள ரூ.2 ஆயிரம், பிற வழக்குகளில் திருடப்பட்ட சுமார் 5 பவுன் தங்க நகைகள், 540 கிராம் வெள்ளி நகைகள் மீட்கப்பட்டன. உதயகுமாரி கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டார். தலைமறைவாக உள்ள அவரது மகளை போலீசார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருவொற்றியூரில் பர்தா அணிந்து மூதாட்டியிடம் கைவரிசை: தாய் கைது, மகளுக்கு வலை\n\n📰 முழு விவரம்:\nதிருவொற்றியூர் மார்க்கெட் சாலையில் வாழைப்பழ வியாபாரம் செய்யும் ஆந்திராவைச் சேர்ந்த பத்மா (65 வயது) ஏமாற்றப்பட்டார். கடந்த 7ஆம் தேதி இரவு பர்தா அணிந்த 2 பெண்கள் கடைக்கு வந்து 7 டஜன் வாழைப்பழங்கள் கேட்டனர். அருகிலுள்ள குடோனுக்கு அழைத்துச் சென்று காண்பித்தபோது, மறுநாள் வருவதாகக் கூறி இருவரும் சென்றனர். பின்னர் கடைக்குத் திரும்பிய பத்மா, ரூ.15 ஆயிரம் இருந்த சுருக்குப்பை மாயமானதைக் கண்டார்.\nபோலீசார் நடத்திய விசாரணையில் புரசைவாக்கம் வெங்கடாசலம் தெருவைச் சேர்ந்த உதயகுமாரி (43 வயது) மற்றும் அவரது மகள் இந்தத் திருட்டில் ஈடுபட்டது தெரியவந்தது. இருவரும் ஏற்கெனவே ராயபுரம், தண்டையார்பேட்டை பகுதிகளில் முதியவர்களின் கவனத்தைத் திசை திருப்பித் திருடியுள்ளனர்.\n💰 திருடிய பணத்தில் செலவு போக மீதமுள்ள ரூ.2 ஆயிரம் மீட்கப்பட்டது.\n🥇 பிற வழக்குகளில் திருடப்பட்ட சுமார் 5 பவுன் தங்க நகைகள், 540 கிராம் வெள்ளி நகைகள் மீட்கப்பட்டன.\n👮 உதயகுமாரி கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டார். தலைமறைவாக உள்ள அவரது மகளை போலீசார் தேடி வருகின்றனர்.\n📌 தொழிலதிபரிடம் ரூ.2.64 கோடி மோசடி செய்ததாக ஒரு பெண் கைது செய்யப்பட்டார்.\n\nThiruvottiyur woman arrested for theft from elderly vendor | Chennai news\n📍 திருவொற்றியூர், சென்னை மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Thiruvottiyur #குற்றம் #ChennaiNews",
+   "prompts": "A row of banana bunches hangs and lies stacked at a roadside fruit stall on Thiruvottiyur Market Road in Chennai, where an elderly vendor in a cotton saree sits behind her heap of bananas while two women in black burqas stand at the edge of the stall, turned partly away from the camera. The street is a busy market lane in Thiruvottiyur, with two-wheelers parked along the kerb, a few shuttered shop fronts, and an overhead street lamp casting warm light over the night scene. The vendor and the two women are seen from behind or from the side at a distance, slightly blurred, with no faces visible. It is night, lit by the street lights and shop bulbs, with the market still active. Shot at eye level with a 35 mm lens, wide enough to show the stall, the road and the market around it. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a small, worn cloth drawstring purse lying open on a table, with a few crumpled Rs 500 notes and Rs 2,000 cash beside it, and a small pile of gold jewellery and silver ornaments laid out next to the purse on a plain wooden table. Behind the table, a police constable in khaki uniform stands slightly out of focus, seen from behind, with the blurred shape of a police station room around him. The scene is lit by a single overhead tube light, warm and even, with no readable text, labels or signboards anywhere in frame. The purse and the seized jewellery are the sharp focal point, with shallow depth of field. Shot from slightly above at around 45 degrees with a 35 mm lens to show the cash, the purse and the seized gold and silver together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/crime/mother-arrested-who-involved-theft-case-search-for-escape-daughter",
+   "published": "2026-11-22T06:15:50Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 2 line 1 longer than 60 characters",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795332936/chennaiminnal/w0vestfqszbejd5i0eoe.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795332939/chennaiminnal/tlxsj68sbzkpcdewfd44.jpg"
    ]
   }
  ]
