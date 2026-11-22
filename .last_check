@@ -1,68 +1,68 @@
-06:43:50 bridge get 'queue' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-06:44:13 SKIP RN-1 stale: published 11 Nov, older than yesterday
-06:44:13 SKIP RN-11 stale: published 14 Nov, older than yesterday
-06:44:13 SKIP RN-13 stale: published 14 Nov, older than yesterday
-06:44:13 SKIP RN-14 stale: published 14 Nov, older than yesterday
-06:44:13 SKIP RN-17 stale: published 15 Nov, older than yesterday
-06:44:13 SKIP RN-19 stale: published 15 Nov, older than yesterday
-06:44:13 SKIP RN-24 stale: published 15 Nov, older than yesterday
-06:44:13 SKIP RN-33 stale: published 16 Nov, older than yesterday
-06:44:13 SKIP RN-40 stale: published 16 Nov, older than yesterday
-06:44:13 SKIP RN-47 stale: published 17 Nov, older than yesterday
-06:44:13 SKIP RN-57 stale: published 17 Nov, older than yesterday
-06:44:13 SKIP RN-67 stale: published 17 Nov, older than yesterday
-06:44:13 SKIP RN-87 stale: published 19 Nov, older than yesterday
-06:44:13 SKIP RN-95 stale: published 19 Nov, older than yesterday
-06:44:13 SKIP RN-96 stale: published 19 Nov, older than yesterday
-06:44:13 SKIP RN-97 known issue english_in_voice: voice script has English words the voice skips (Complaint, Register, gov, in)
-06:44:13 SKIP RN-98 stale: published 18 Nov, older than yesterday
-06:44:13 SKIP RN-99 stale: published 19 Nov, older than yesterday
-06:44:13 SKIP RN-101 stale: published 19 Nov, older than yesterday
-06:44:14 SKIP RN-123 held: fact-check problems - numbers not found in the article: 25
-06:44:14 SKIP RN-129 held: fact-check problems - day word wrong: the draft says நாளை, written from the paper of 19 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together with the date
-06:44:14 SKIP RN-136 held: location unknown
-06:44:14 SKIP RN-146 held: fact-check problems - fact-check: reel_script says the policy-holder Vijayakumar's Rs 3.22 lakh cheque was sent to his home, but the article gives the amount as 3.22 lakh and the headline says Rs 3 lakh
-06:44:14 SKIP RN-151 held: fact-check problems - numbers not found in the article: 134400
-06:44:14 SKIP RN-156 held: fact-check problems - fact-check: In slides_spec, Slide 1 mentions 'ராயப்பேட்டை மதுவிலக்கு அமல் பிரிவு' (Prohibition Enforcement Wing), but the article states it was the 'ராயப்பேட்டை போதைப் பொருள் தடுப்புப் பிரிவு' (Narcot
-06:44:16 SKIP RN-165 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
+06:53:31 bridge get 'autoPending' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+06:53:57 SKIP RN-1 stale: published 11 Nov, older than yesterday
+06:53:57 SKIP RN-11 stale: published 14 Nov, older than yesterday
+06:53:57 SKIP RN-13 stale: published 14 Nov, older than yesterday
+06:53:57 SKIP RN-14 stale: published 14 Nov, older than yesterday
+06:53:57 SKIP RN-17 stale: published 15 Nov, older than yesterday
+06:53:57 SKIP RN-19 stale: published 15 Nov, older than yesterday
+06:53:57 SKIP RN-24 stale: published 15 Nov, older than yesterday
+06:53:57 SKIP RN-33 stale: published 16 Nov, older than yesterday
+06:53:57 SKIP RN-40 stale: published 16 Nov, older than yesterday
+06:53:57 SKIP RN-47 stale: published 17 Nov, older than yesterday
+06:53:57 SKIP RN-57 stale: published 17 Nov, older than yesterday
+06:53:57 SKIP RN-67 stale: published 17 Nov, older than yesterday
+06:53:57 SKIP RN-87 stale: published 19 Nov, older than yesterday
+06:53:57 SKIP RN-95 stale: published 19 Nov, older than yesterday
+06:53:57 SKIP RN-96 stale: published 19 Nov, older than yesterday
+06:53:57 SKIP RN-97 known issue english_in_voice: voice script has English words the voice skips (Complaint, Register, gov, in)
+06:53:57 SKIP RN-98 stale: published 18 Nov, older than yesterday
+06:53:57 SKIP RN-99 stale: published 19 Nov, older than yesterday
+06:53:57 SKIP RN-101 stale: published 19 Nov, older than yesterday
+06:53:57 SKIP RN-123 held: fact-check problems - numbers not found in the article: 25
+06:53:57 SKIP RN-129 held: fact-check problems - day word wrong: the draft says நாளை, written from the paper of 19 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together with the date
+06:53:57 SKIP RN-136 held: location unknown
+06:53:57 SKIP RN-146 held: fact-check problems - fact-check: reel_script says the policy-holder Vijayakumar's Rs 3.22 lakh cheque was sent to his home, but the article gives the amount as 3.22 lakh and the headline says Rs 3 lakh
+06:53:57 SKIP RN-151 held: fact-check problems - numbers not found in the article: 134400
+06:53:57 SKIP RN-156 held: fact-check problems - fact-check: In slides_spec, Slide 1 mentions 'ராயப்பேட்டை மதுவிலக்கு அமல் பிரிவு' (Prohibition Enforcement Wing), but the article states it was the 'ராயப்பேட்டை போதைப் பொருள் தடுப்புப் பிரிவு' (Narcot
+06:53:59 SKIP RN-165 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
 ::warning title=Held from posting RN-165::held: fact-check problems - not grounded: location 'நகரம்' is not in the article
-06:44:16 SKIP RN-175 known issue english_in_voice: voice script has English words the voice skips (gov, in, lwb, tn)
-06:44:16 SKIP RN-184 held: location unknown
+06:53:59 SKIP RN-175 known issue english_in_voice: voice script has English words the voice skips (gov, in, lwb, tn)
+06:53:59 SKIP RN-184 held: location unknown
 ::warning title=Held from posting RN-184::held: location unknown
-06:44:16 SKIP RN-188 held: fact-check problems - numbers not found in the article: 21800, 800
+06:53:59 SKIP RN-188 held: fact-check problems - numbers not found in the article: 21800, 800
 ::warning title=Held from posting RN-188::held: fact-check problems - numbers not found in the article: 21800, 800
-06:44:16 SKIP RN-192 held: location unknown
+06:53:59 SKIP RN-192 held: location unknown
 ::warning title=Held from posting RN-192::held: location unknown
-06:44:18 story catch-up chennai: quota 34/50, 40 recent posts, 7 live stories, owner ids ['17841452418440882']
-06:44:18 30 stories in the queue, ready to post: 0
-06:44:18   keys: ['batch', 'caption', 'category', 'coimbatore_link', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-06:44:18    RN-1 review= 'Auto' images= 201 spec= 616 pages= ['chennai'] links= None '' age_h= 200.3 ready= False set_started= True
-06:44:18    RN-11 review= 'Auto' images= 201 spec= 551 pages= ['chennai'] links= None '' age_h= 168.4 ready= False set_started= True
-06:44:18    RN-13 review= 'Auto' images= 205 spec= 637 pages= ['chennai'] links= None '' age_h= 168.0 ready= False set_started= True
-06:44:18    RN-14 review= 'Auto' images= 205 spec= 953 pages= ['chennai'] links= None '' age_h= 167.8 ready= False set_started= True
-06:44:18    RN-17 review= 'Auto' images= 201 spec= 729 pages= ['chennai'] links= None '' age_h= 164.2 ready= False set_started= True
-06:44:18    RN-19 review= 'Auto' images= 201 spec= 859 pages= ['chennai'] links= None '' age_h= 164.1 ready= False set_started= True
-06:44:18    RN-24 review= 'Auto' images= 201 spec= 660 pages= ['chennai'] links= None '' age_h= 155.2 ready= False set_started= True
-06:44:18    RN-33 review= 'Auto' images= 201 spec= 899 pages= ['chennai'] links= None '' age_h= 140.3 ready= False set_started= True
-06:44:18    RN-40 review= 'Auto' images= 201 spec= 915 pages= ['chennai'] links= None '' age_h= 120.6 ready= False set_started= True
-06:44:18    RN-47 review= 'Auto' images= 201 spec= 887 pages= ['chennai'] links= None '' age_h= 109.4 ready= False set_started= True
-06:44:18    RN-57 review= 'Auto' images= 205 spec= 834 pages= ['chennai'] links= None '' age_h= 99.3 ready= False set_started= True
-06:44:18    RN-67 review= 'Auto' images= 205 spec= 780 pages= ['chennai'] links= None '' age_h= 89.6 ready= False set_started= True
-06:44:18    RN-87 review= 'Auto' images= 205 spec= 935 pages= ['chennai'] links= None '' age_h= 71.8 ready= False set_started= True
-06:44:18    RN-95 review= 'Auto' images= 205 spec= 887 pages= ['chennai'] links= None '' age_h= 69.7 ready= False set_started= True
-06:44:18    RN-96 review= 'Auto' images= 205 spec= 797 pages= ['chennai'] links= None '' age_h= 68.7 ready= False set_started= True
-06:44:18    RN-97 review= 'Auto' images= 205 spec= 922 pages= ['chennai'] links= None '' age_h= 68.7 ready= False set_started= True
-06:44:18    RN-98 review= 'Auto' images= 205 spec= 924 pages= ['chennai'] links= None '' age_h= 68.7 ready= False set_started= True
-06:44:18    RN-99 review= 'Auto' images= 205 spec= 779 pages= ['chennai'] links= None '' age_h= 68.7 ready= False set_started= True
-06:44:18    RN-101 review= 'Auto' images= 205 spec= 663 pages= ['chennai'] links= None '' age_h= 65.7 ready= False set_started= True
-06:44:18    RN-123 review= 'Auto' images= 205 spec= 696 pages= ['chennai'] links= None '' age_h= 49.6 ready= False set_started= True
-06:44:18    RN-129 review= 'Auto' images= 205 spec= 656 pages= ['chennai'] links= None '' age_h= 45.4 ready= False set_started= True
-06:44:18    RN-136 review= 'Auto' images= 205 spec= 710 pages= ['chennai'] links= None '' age_h= 44.7 ready= False set_started= True
-06:44:18    RN-146 review= 'Auto' images= 205 spec= 840 pages= ['chennai'] links= None '' age_h= 33.7 ready= False set_started= True
-06:44:18    RN-151 review= 'Auto' images= 205 spec= 691 pages= ['chennai'] links= None '' age_h= 32.2 ready= False set_started= True
-06:44:18    RN-156 review= 'Auto' images= 205 spec= 664 pages= ['chennai'] links= None '' age_h= 29.7 ready= False set_started= True
-06:44:18    RN-165 review= 'Auto' images= 205 spec= 926 pages= ['chennai'] links= None '' age_h= 21.7 ready= False set_started= True
-06:44:18    RN-175 review= 'Auto' images= 205 spec= 880 pages= ['chennai'] links= None '' age_h= 17.7 ready= False set_started= True
-06:44:18    RN-184 review= 'Auto' images= 205 spec= 209 pages= ['chennai'] links= None '' age_h= 7.6 ready= False set_started= True
-06:44:18    RN-188 review= 'Auto' images= 205 spec= 857 pages= ['chennai'] links= None '' age_h= 5.6 ready= False set_started= True
-06:44:18    RN-192 review= 'Auto' images= 205 spec= 72 pages= ['chennai'] links= None '' age_h= 1.6 ready= False set_started= True
+06:54:00 story catch-up chennai: quota 34/50, 40 recent posts, 7 live stories, owner ids ['17841452418440882']
+06:54:00 30 stories in the queue, ready to post: 0
+06:54:00   keys: ['batch', 'caption', 'category', 'coimbatore_link', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+06:54:00    RN-1 review= 'Auto' images= 201 spec= 616 pages= ['chennai'] links= None '' age_h= 200.5 ready= False set_started= True
+06:54:00    RN-11 review= 'Auto' images= 201 spec= 551 pages= ['chennai'] links= None '' age_h= 168.5 ready= False set_started= True
+06:54:00    RN-13 review= 'Auto' images= 205 spec= 637 pages= ['chennai'] links= None '' age_h= 168.2 ready= False set_started= True
+06:54:00    RN-14 review= 'Auto' images= 205 spec= 953 pages= ['chennai'] links= None '' age_h= 168.0 ready= False set_started= True
+06:54:00    RN-17 review= 'Auto' images= 201 spec= 729 pages= ['chennai'] links= None '' age_h= 164.3 ready= False set_started= True
+06:54:00    RN-19 review= 'Auto' images= 201 spec= 859 pages= ['chennai'] links= None '' age_h= 164.3 ready= False set_started= True
+06:54:00    RN-24 review= 'Auto' images= 201 spec= 660 pages= ['chennai'] links= None '' age_h= 155.3 ready= False set_started= True
+06:54:00    RN-33 review= 'Auto' images= 201 spec= 899 pages= ['chennai'] links= None '' age_h= 140.4 ready= False set_started= True
+06:54:00    RN-40 review= 'Auto' images= 201 spec= 915 pages= ['chennai'] links= None '' age_h= 120.8 ready= False set_started= True
+06:54:00    RN-47 review= 'Auto' images= 201 spec= 887 pages= ['chennai'] links= None '' age_h= 109.5 ready= False set_started= True
+06:54:00    RN-57 review= 'Auto' images= 205 spec= 834 pages= ['chennai'] links= None '' age_h= 99.5 ready= False set_started= True
+06:54:00    RN-67 review= 'Auto' images= 205 spec= 780 pages= ['chennai'] links= None '' age_h= 89.8 ready= False set_started= True
+06:54:00    RN-87 review= 'Auto' images= 205 spec= 935 pages= ['chennai'] links= None '' age_h= 72.0 ready= False set_started= True
+06:54:00    RN-95 review= 'Auto' images= 205 spec= 887 pages= ['chennai'] links= None '' age_h= 69.8 ready= False set_started= True
+06:54:00    RN-96 review= 'Auto' images= 205 spec= 797 pages= ['chennai'] links= None '' age_h= 68.8 ready= False set_started= True
+06:54:00    RN-97 review= 'Auto' images= 205 spec= 922 pages= ['chennai'] links= None '' age_h= 68.8 ready= False set_started= True
+06:54:00    RN-98 review= 'Auto' images= 205 spec= 924 pages= ['chennai'] links= None '' age_h= 68.8 ready= False set_started= True
+06:54:00    RN-99 review= 'Auto' images= 205 spec= 779 pages= ['chennai'] links= None '' age_h= 68.8 ready= False set_started= True
+06:54:00    RN-101 review= 'Auto' images= 205 spec= 663 pages= ['chennai'] links= None '' age_h= 65.8 ready= False set_started= True
+06:54:00    RN-123 review= 'Auto' images= 205 spec= 696 pages= ['chennai'] links= None '' age_h= 49.8 ready= False set_started= True
+06:54:00    RN-129 review= 'Auto' images= 205 spec= 656 pages= ['chennai'] links= None '' age_h= 45.5 ready= False set_started= True
+06:54:00    RN-136 review= 'Auto' images= 205 spec= 710 pages= ['chennai'] links= None '' age_h= 44.8 ready= False set_started= True
+06:54:00    RN-146 review= 'Auto' images= 205 spec= 840 pages= ['chennai'] links= None '' age_h= 33.8 ready= False set_started= True
+06:54:00    RN-151 review= 'Auto' images= 205 spec= 691 pages= ['chennai'] links= None '' age_h= 32.4 ready= False set_started= True
+06:54:00    RN-156 review= 'Auto' images= 205 spec= 664 pages= ['chennai'] links= None '' age_h= 29.8 ready= False set_started= True
+06:54:00    RN-165 review= 'Auto' images= 205 spec= 926 pages= ['chennai'] links= None '' age_h= 21.8 ready= False set_started= True
+06:54:00    RN-175 review= 'Auto' images= 205 spec= 880 pages= ['chennai'] links= None '' age_h= 17.8 ready= False set_started= True
+06:54:00    RN-184 review= 'Auto' images= 205 spec= 209 pages= ['chennai'] links= None '' age_h= 7.7 ready= False set_started= True
+06:54:00    RN-188 review= 'Auto' images= 205 spec= 857 pages= ['chennai'] links= None '' age_h= 5.7 ready= False set_started= True
+06:54:00    RN-192 review= 'Auto' images= 205 spec= 72 pages= ['chennai'] links= None '' age_h= 1.7 ready= False set_started= True
