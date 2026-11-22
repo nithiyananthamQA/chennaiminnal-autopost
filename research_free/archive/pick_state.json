@@ -119,7 +119,8 @@
    "category": "மாநகராட்சி",
    "score": 9.07,
    "power_cut": false,
-   "listed_at": "2026-11-21T17:01:29.414679+05:30"
+   "listed_at": "2026-11-21T17:01:29.414679+05:30",
+   "picked_at": "2026-11-22T08:20:00.585777+05:30"
   },
   "Ce9fd042": {
    "id": "Ce9fd042",
@@ -131,7 +132,8 @@
    "category": "குடிநீர்",
    "score": 9.07,
    "power_cut": false,
-   "listed_at": "2026-11-21T17:01:29.414679+05:30"
+   "listed_at": "2026-11-21T17:01:29.414679+05:30",
+   "picked_at": "2026-11-22T08:20:00.585780+05:30"
   },
   "C2122af6": {
    "id": "C2122af6",
@@ -347,7 +349,8 @@
    "alts": [
     "https://www.maalaimalar.com/news/topnews/vice-president-cp-radhakrishnan-chennai-visit"
    ],
-   "listed_at": "2026-11-21T21:01:46.961307+05:30"
+   "listed_at": "2026-11-21T21:01:46.961307+05:30",
+   "picked_at": "2026-11-22T08:20:00.585782+05:30"
   },
   "Cef9e53c": {
    "id": "Cef9e53c",
@@ -359,7 +362,8 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-21T21:01:46.961307+05:30"
+   "listed_at": "2026-11-21T21:01:46.961307+05:30",
+   "picked_at": "2026-11-22T08:20:00.585784+05:30"
   },
   "Ce86da24": {
    "id": "Ce86da24",
@@ -628,7 +632,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T01:01:22.253828+05:30"
+   "listed_at": "2026-11-22T01:01:22.253828+05:30",
+   "picked_at": "2026-11-22T08:20:00.585786+05:30"
   },
   "Cf9f5c86": {
    "id": "Cf9f5c86",
@@ -2676,8 +2681,24 @@
    ],
    "sent": false,
    "deadline": "2026-11-22T09:14:26.697408+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 52 by insights",
+    "ids": [
+     "Cffda0a2",
+     "Ce9fd042",
+     "C9815b13",
+     "Cef9e53c",
+     "Cf02d21f"
+    ],
+    "at": "2026-11-22T08:20:00.585762+05:30"
+   },
+   "written": [
+    "C9815b13",
+    "Ce9fd042",
+    "Cef9e53c",
+    "Cf02d21f",
+    "Cffda0a2"
+   ]
   }
  },
  "retry": {}
