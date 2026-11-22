@@ -82,34 +82,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-19 | `557e67a` | Same code as Kovai Minnal 372461bc PAGE_SETUP: power-cut page in one day - the full Salem runbook + the mistakes not to repeat (owner 19 Nov) |
-| 2026-11-19 | `1357fe1` | powercut: notices written |
-| 2026-11-19 | `451e172` | pick: written and posted |
-| 2026-11-19 | `1ac740e` | facebook RN-104 |
-| 2026-11-19 | `0ca7827` | powercut: notices written |
-| 2026-11-19 | `8f1b2ca` | facebook RN-107 |
-| 2026-11-19 | `f6b332c` | facebook RN-105 |
-| 2026-11-19 | `9b6f53e` | facebook RN-106 |
-| 2026-11-19 | `1f29f6c` | facebook RN-103 |
-| 2026-11-19 | `97b1166` | pick: picked news saved |
-| 2026-11-19 | `85650b7` | pick: picked news saved |
-| 2026-11-19 | `4c0034d` | pick: list sent |
-| 2026-11-19 | `2ed68f3` | powercut: notices written |
-| 2026-11-19 | `90446ff` | comments: normal comments recorded (not e-mailed) |
-| 2026-11-19 | `372dcae` | Same code as Kovai Minnal 41fb7446 Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
-| 2026-11-19 | `8e5bc09` | powercut: notices written |
-| 2026-11-19 | `c39ec29` | powercut: notices written |
-| 2026-11-19 | `76d96c5` | powercut: notices written |
-| 2026-11-19 | `cf78b2e` | Same code as Kovai Minnal 0a18c576 No rasipalan post (owner 19 Nov: 'that rasipalan news we dont need') |
-| 2026-11-19 | `7fb751b` | pick: written and posted |
-| 2026-11-19 | `adfe431` | Same code as Kovai Minnal 19b5830a Same-cut check: the page's own city name never makes two power cuts one (Chennai: 'சென்னை' is in every notice) |
-| 2026-11-19 | `d9ca85e` | facebook RN-102 |
-| 2026-11-19 | `e5942b0` | powercut: notices written |
-| 2026-11-19 | `6d3316e` | pick: picked news saved |
-| 2026-11-19 | `9b8e830` | pick: picked news saved |
-| 2026-11-19 | `99fafc3` | pick: list sent |
-| 2026-11-19 | `6a0cafd` | powercut: notices written |
-| 2026-11-19 | `74f08eb` | Same code as Kovai Minnal 9f6335dc The right day: never 'நாளை' about a day that came; power cuts only before their day, first in the queue; party names spoken letter by letter (owner 19 Nov) |
-| 2026-11-19 | `eb856bc` | powercut: notices written |
-| 2026-11-19 | `11e8b4c` | powercut: notices written |
+| 2026-11-22 | `600ad4d` | Same code as Kovai Minnal 825e3663 Never நாளை alone: the date goes with it in the voice, caption, headline and screen lines (owner 22 Nov, viewer comment) |
+| 2026-11-22 | `0b3ad35` | powercut: notices written |
+| 2026-11-22 | `355aa42` | powercut: notices written |
+| 2026-11-22 | `2baca25` | powercut: notices written |
+| 2026-11-22 | `62c45d6` | pick: written and posted |
+| 2026-11-22 | `025236e` | facebook RN-205 |
+| 2026-11-22 | `39892b4` | facebook RN-203 |
+| 2026-11-22 | `d5abd7b` | pick: picked news saved |
+| 2026-11-22 | `56013a4` | pick: picked news saved |
+| 2026-11-22 | `96f8e6f` | pick: list sent |
+| 2026-11-22 | `a8ba06f` | powercut: notices written |
+| 2026-11-22 | `b51f12a` | powercut: notices written |
+| 2026-11-22 | `119d213` | powercut: notices written |
+| 2026-11-22 | `3ad6b6d` | powercut: notices written |
+| 2026-11-22 | `6ca7c58` | pick: written and posted |
+| 2026-11-22 | `78a4160` | facebook RN-201 |
+| 2026-11-22 | `8bbffc4` | facebook RN-200 |
+| 2026-11-22 | `942afe6` | powercut: notices written |
+| 2026-11-22 | `9a542e1` | goldrate posted |
+| 2026-11-22 | `f43d35a` | facebook RN-199 |
+| 2026-11-22 | `524f336` | pick: picked news saved |
+| 2026-11-22 | `3280e13` | pick: picked news saved |
+| 2026-11-22 | `c4fe828` | pick: list sent |
+| 2026-11-22 | `e26545e` | facebook RN-196 |
+| 2026-11-22 | `d43658e` | pick: written and posted |
+| 2026-11-22 | `5665d91` | powercut: notices written |
+| 2026-11-22 | `fcc06f1` | facebook RN-195 |
+| 2026-11-22 | `7a98989` | facebook RN-198 |
+| 2026-11-22 | `79c2534` | facebook RN-194 |
+| 2026-11-22 | `f7e446a` | pick: picked news saved |
 <!-- recent-changes:end -->
