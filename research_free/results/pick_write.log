@@ -1,226 +1,226 @@
-writing [N]: சென்னையில் இன்றும் நாளையும் வாக்காளா் சோ்க்கை முகாம்
-writing [N]: 2 நாள் பயணமாக சென்னை வந்தார் துணை ஜனாதிபதி சி.பி.ராதாகிருஷ்ண
-writing [N]: ஐ.எஸ்.எல் -  சொந்த மண்ணில் வெற்றியை தவறவிட்ட சென்னை.... பஞ்ச
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+writing [N]: சென்னையில் இன்றைய பெட்ரோல்-டீசல் விலை விவரம்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: நவம்பர் 22: பெட்ரோல் விலை ரூ.107.77, டீசல் விலை ரூ.99.55- க்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
+writing [N]: சொத்து வரி செலுத்தாத 30,891 பேருக்கு ‘நோட்டீஸ்’
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3-flash-preview (11s)
-attempt 1 gemini/gemini-3-flash-preview: 4 problems
-  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  reel_script copies the article word for word (15 words in a row, 20% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 27 ('.முன்னிலைஇந்தியன் சூப்பர் லீக் (ISL) 2026-27 கால்பந்து தொடரி')
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (14s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (16s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok gemini/gemini-3.6-flash (13s)
-attempt 1 gemini/gemini-3.6-flash: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 12 ('21, 22) ஆகிய இரு நாள்கள் நடைபெறவுள்ளது..சென்னை மாநகராட்சியில'); 29 ('அதன்படி, மாநகராட்சிக்கு உள்பட்ட 16 சட்டப்பேரவைத் தொகுதிகளிலு'); 14 ('அதன்படி, மாநகராட்சிக்கு உள்பட்ட 16 சட்டப்பேரவைத் தொகுதிகளிலு'); 4 ('இதையடுத்து ஜன.4-ஆம் தேதியை அடிப்படையாகக் கொண்ட வாக்காளா் திர')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok groq/openai/gpt-oss-120b (6s)
-attempt 2 groq/openai/gpt-oss-120b: 1 problems
-  missing key: scenes
+ok groq/openai/gpt-oss-120b (3s)
+factcheck by groq/openai/gpt-oss-120b: 1 problems
+  Caption states a specific date (22 நவம்பர் 2026) which is not mentioned in the article
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  fact-check: Caption states a specific date (22 நவம்பர் 2026) which is not mentioned in the article
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 dead for this round: groq/openai/gpt-oss-120b
-ok gemini/gemini-3.6-flash (28s)
-attempt 1 gemini/gemini-3.6-flash: 2 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  reel_script copies the article word for word (19 words in a row, 43% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+ok gemini/gemini-3-flash-preview (6s)
+factcheck by gemini/gemini-3-flash-preview: 2 problems
+  The draft mentions it is Sunday (ஞாயிற்றுக்கிழமை) in the reel script, slides, and caption, which is not stated in the article.
+  The caption mentions the year 2026, which is not in the article and is an invented detail.
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  fact-check: The draft mentions it is Sunday (ஞாயிற்றுக்கிழமை) in the reel script, slides, and caption, which is not stated in the article.
+  fact-check: The caption mentions the year 2026, which is not in the article and is an invented detail.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/qwen/qwen3.8-27b (4s)
-attempt 2 groq/qwen/qwen3.8-27b: 1 problems
-  day word wrong: the draft says நாளை but its day (21 Nov) is over - write the day as it is TODAY (இன்று / நாளை from today) together with the date
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-dead for this round: groq/openai/gpt-oss-120b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
+dead for this round: groq/qwen/qwen3.8-27b
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('2 நாள் பயணமாக சென்னை வந்தார் துணை ஜனாதிபதி சி.பி.ராதாகிருஷ்ண')
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  day word wrong: the draft says நாளை but its day (22 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-real photo step skipped for 'ISL: Chennai and Punjab draw 1-1 at Jawa': real photos switched off
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  day word wrong: the draft says நாளை but its day (22 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'ISL: Chennai and Punjab draw 1-1 at Jawa'
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  day word wrong: the draft says நாளை but its day (22 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0821","first":"RN-194"}
-posting job started at once
-real photo step skipped for 'Vice President C.P. Radhakrishnan arrive': real photos switched off
-ok anthropic/claude-haiku-5-5
-writing [N]: குடிநீர் கேன் நிறுவனத்திற்குள் புகுந்த 7 அடி நீள நல்லபாம்பு
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free models unavailable: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 44 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 58 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  reel_script must tell how the story ENDED, as the article's last lines say ('சொத்து வரி செலுத்தாத 30,891 பேருக்கு ‘நோட்டீஸ்’') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption copies the article word for word (18 words in a row, 30% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The caption says the date is 'நேற்று (நவம்பர் 21)' (Nov 21), a specific date the article does not give; the article only says 'நேற்று' (yesterday).
-  The reel_script says the snake was 'பாம்பு பிடிக்கும் கருவி மூலம்' caught and then taken to the forest, which matches the article, but the reel_script calls Sasikumar the 'நிறுவன உரிமையாளர்' (company owner); the article only says the company is 'சசிகுமார் என்பவரது' (belonging to Sasikumar), so the role is an inferred detail not stated in the article.
-  The slides_spec line 'உரிமையாளர் சசிகுமார் தீயணைப்பு நிலையத்திற்கு தகவல்' repeats the same unsupported 'owner' role claim.
-  The caption's English line 'Maduravoyal 7 ft cobra caught in water can company | Chennai news' is an addition beyond the article text, though it summarises it; the caption's phrase 'நேற்று (நவம்பர் 21)' is the main invented date.
-claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The caption says the date is 'நேற்று (நவம்பர் 21)' (Nov 21), a specific date the article does not give; the article only says 'நேற்று' (yesterday).
-  fact-check: The reel_script says the snake was 'பாம்பு பிடிக்கும் கருவி மூலம்' caught and then taken to the forest, which matches the article, but the reel_script calls Sasikumar the 'நிறுவன உரிமையாளர்' (company owner); the article only says the company is 'சசிகுமார் என்பவரது' (belonging to Sasikumar), so the role is an inferred detail not stated in the article.
-  fact-check: The slides_spec line 'உரிமையாளர் சசிகுமார் தீயணைப்பு நிலையத்திற்கு தகவல்' repeats the same unsupported 'owner' role claim.
-  fact-check: The caption's English line 'Maduravoyal 7 ft cobra caught in water can company | Chennai news' is an addition beyond the article text, though it summarises it; the caption's phrase 'நேற்று (நவம்பர் 21)' is the main invented date.
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Vice President C.P. Radhakrishnan arrive'
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-bridge: 500 <!DOCTYPE html><html><head><script nonce="yolEqX9SkRvFAqyvxtUJ8w">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use st
-bridge: 500 <!DOCTYPE html><html><head><script nonce="8A4RLSQNfKCto4A8PxLosA">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use st
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0826","first":"RN-195"}
-real photo step skipped for '7 ft cobra that entered a drinking water': real photos switched off
-writing [N]: சென்னையில் வாக்காளர் பட்டியல் சிறப்பு முகாம்: மாநகராட்சி ஆணை
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for '7 ft cobra that entered a drinking water'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0826","first":"RN-196"}
-real photo step skipped for 'Voter enrolment camps in Chennai today a': real photos switched off
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  reel_script must end with exactly: மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 05 ('காலை 10.00 மணி முதல் மாலை 05.00 மணி வரை சென்னை மாவட்டத்தில் ')
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Voter enrolment camps in Chennai today a'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0826","first":"RN-197"}
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('இது தொடர்பாக, தமிழக அரசு வெளியிட்டுள்ள அறிக்கையில் தெரிவித்த'); 11 ('இந்த ஆய்வின்போது, வாக்காளர் பதிவு அலுவலர், உதவி வாக்காளர் பத')
+  The article gives 4.57 crore rupees as the unpaid tax of the 56 buildings and 16.31 crore as the total for the 30,891 people; the reel_script's line 'நீண்ட காலமாக 4.57 கோடி ரூபாய் சொத்து வரி செலுத்தாத 56 கட்டடங்களின்' is fine, but slides_spec slide 2 says 30,891 people's total is 16.31 crore and presents the 56 buildings' dues as 4.57 crore, which matches the article.
+  The caption's 'நடவடிக்கை: வரி பாக்கியாளர்களுக்கு நோட்டீஸ் வழங்கப்படுகிறது' ('Action: notices are being issued to tax defaulters') and 'வரி பாக்கியாளர்களுக்கு' are phrasing not present in the article, which says notices go to property owners of the buildings.
+  The reel_script states 'நோட்டீஸ் பெற்றவர்கள் உடனடியாக வரியைச் செலுத்தினால் நடவடிக்கைகள் தவிர்க்கப்படும்' (those who pay promptly avoid action), an outcome the article does not state as a guarantee, only that the notices aim to help avoid sealing and water disconnection.
+  The slides_spec line 'சொத்து வரி பாக்கி வைத்தவர்களுக்கு வழங்கப்படுகிறது' and the headline's 'உடனே வரி செலுத்த வேண்டும்' are reasonable, but the caption's 'நோட்டீஸ் வழங்கப்படுகிறது' combined with the 30,891 figure is attributed to 'பேருக்கு' while the article says 16.31 crore is owed by those 30,891 persons across 48 wards, which the caption does not mention wards (minor omission).
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The article gives 4.57 crore rupees as the unpaid tax of the 56 buildings and 16.31 crore as the total for the 30,891 people; the reel_script's line 'நீண்ட காலமாக 4.57 கோடி ரூபாய் சொத்து வரி செலுத்தாத 56 கட்டடங்களின்' is fine, but slides_spec slide 2 says 30,891 people's total is 16.31 crore and presents the 56 buildings' dues as 4.57 crore, which matches the article.
+  fact-check: The caption's 'நடவடிக்கை: வரி பாக்கியாளர்களுக்கு நோட்டீஸ் வழங்கப்படுகிறது' ('Action: notices are being issued to tax defaulters') and 'வரி பாக்கியாளர்களுக்கு' are phrasing not present in the article, which says notices go to property owners of the buildings.
+  fact-check: The reel_script states 'நோட்டீஸ் பெற்றவர்கள் உடனடியாக வரியைச் செலுத்தினால் நடவடிக்கைகள் தவிர்க்கப்படும்' (those who pay promptly avoid action), an outcome the article does not state as a guarantee, only that the notices aim to help avoid sealing and water disconnection.
+  fact-check: The slides_spec line 'சொத்து வரி பாக்கி வைத்தவர்களுக்கு வழங்கப்படுகிறது' and the headline's 'உடனே வரி செலுத்த வேண்டும்' are reasonable, but the caption's 'நோட்டீஸ் வழங்கப்படுகிறது' combined with the 30,891 figure is attributed to 'பேருக்கு' while the article says 16.31 crore is owed by those 30,891 persons across 48 wards, which the caption does not mention wards (minor omission).
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('இது தொடர்பாக, தமிழக அரசு வெளியிட்டுள்ள அறிக்கையில் தெரிவித்த'); 11 ('இந்த ஆய்வின்போது, வாக்காளர் பதிவு அலுவலர், உதவி வாக்காளர் பத'); 05 ('காலை 10.00 மணி முதல் மாலை 05.00 மணி வரை சென்னை மாவட்டத்தில் ')
+  hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
-real photo step skipped for 'Special voter list camp in Chennai: Corp': real photos switched off
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  reel_script must tell how the story ENDED, as the article's last lines say ('சொத்து வரி செலுத்தாத 30,891 பேருக்கு ‘நோட்டீஸ்’') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+writing [N]: தொழிற்பயிற்சி நிலையங்களில் தேர்ச்சி பெற்ற 520 மாணவர்களுக்கு 
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+real photo step skipped for 'Avadi Corporation issues notices to 30,8': real photos switched off
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok gemini/gemini-3.6-flash (56s)
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  reel_script has 79 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption copies the article word for word (18 words in a row, 48% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 132 ('மேலும், 4 அலுவலர்களுக்கு பணி நியமன ஆணைகளையும் வழங்கினார்..அர'); 277 ('மேலும், 4 அலுவலர்களுக்கு பணி நியமன ஆணைகளையும் வழங்கினார்..அர')
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 83 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('அதன்படி, 5-வது திறன் பட்டமளிப்பு விழா, அனைத்து அரசு மற்றும் ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 96 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  reel_script copies the article word for word (15 words in a row, 12% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+image match: False The image is a generic stock/AI-generated photo of a desk with paperwork and does not show Avadi Corporation officials, 
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Avadi Corporation issues notices to 30,8'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0919","first":"RN-199"}
+posting job started at once
+writing [N]: தமிழகத்தில் 6 மாவட்டங்களில் இன்று சிறப்பு போலியோ சொட்டு மருந
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 88 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 81 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption copies the article word for word (20 words in a row, 32% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+real photo step skipped for '520 students receive national trade cert': real photos switched off
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  numbers not found in the article: 6647
+  reel_script copies the article word for word (15 words in a row, 20% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  hl1 (the first headline on screen) must name the place 'தமிழகம்', e.g. 'தமிழகம்: ...' or 'தமிழகம்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 647 ('இந்த மாவட்டங்களில் மொத்தம் 6 ஆயிரத்து 647 போலியோ சொட்டு மருந')
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+image match: False The image is AI-generated and does not depict Minister Mohammed Parvez presenting certificates to students at the event.
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  numbers not found in the article: 6647
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 647 ('இந்த மாவட்டங்களில் மொத்தம் 6 ஆயிரத்து 647 போலியோ சொட்டு மருந')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  numbers not found in the article: 6647
+  hl1 (the first headline on screen) must name the place 'தமிழ்நாடு', e.g. 'தமிழ்நாடு: ...' or 'தமிழ்நாடு-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 647 ('இந்த மாவட்டங்களில் மொத்தம் 6 ஆயிரத்து 647 போலியோ சொட்டு மருந')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+image match: False The image appears to be a generic or AI-generated stock illustration of certificates on a table during a ceremony, rathe
+images made: 2 for '520 students receive national trade cert'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0920","first":"RN-200"}
+real photo step skipped for 'Chennai petrol, diesel and CNG prices un': real photos switched off
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Special voter list camp in Chennai: Corp'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0826","first":"RN-198"}
+images made: 2 for 'Chennai petrol, diesel and CNG prices un'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0923","first":"RN-201"}
+real photo step skipped for 'Special polio drops camp today in 6 Tami': real photos switched off
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Special polio drops camp today in 6 Tami'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-0926","first":"RN-202"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dailythanthi.com/news/tamilnadu/special-voter-list-camp-in-chennai-corporation-commissioner-conducts-in-person-inspection
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/7-feet-long-snake-enters-water-tank/4382264
-manual link added: https://www.dailythanthi.com/news/tamilnadu/vice-president-cp-radhakrishnan-arrived-in-chennai-on-a-2-day-visit
-manual link added: https://www.dailythanthi.com/sports/football/isl-chennai-punjab-draw-1-1
-manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/21/voter-registration-camp-in-chennai-today-and-tomorrow
+manual link added: https://www.dailythanthi.com/news/tamilnadu/special-polio-camp-tamil-nadu-6-districts
+manual link added: https://www.dailythanthi.com/news/tamilnadu/minister-parvez-presents-certificates-to-520-students-who-passed-vocational-training-centers
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/notice-to-30891-people-for-not-paying-property-tax/4382740
+manual link added: https://www.maalaimalar.com/news/business-and-gold-rate/chennai-petrol-diesel-prices-november-22-2026
+manual link added: https://www.dinakaran.com/news/november-22-petrol-and-diesel-prices-sales
 candidate filter: collected=5
 to write: 5 Chennai district candidates (max 5 stories)
 round: top 5 of 5 candidates
-candidates waiting: 5 Chennai; time left 79 min
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna
-try (N) manual=True: https://www.dailythanthi.com/sports/football/isl-chennai-pun
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/vice-president-c
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
-posting job started at once
+candidates waiting: 5 Chennai; time left 77 min
+try (N) manual=True: https://www.dinakaran.com/news/november-22-petrol-and-diesel
+try (N) manual=True: https://www.maalaimalar.com/news/business-and-gold-rate/chen
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-voter-li
+NOT filed (N) நவம்பர் 22: பெட்ரோல் விலை ரூ.107.77, டீசல் விலை ரூ: duplicate after write
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/minister-parvez-
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
+posting job started at once
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-polio-ca
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})
-candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 73 min
-filed: 5 Chennai district stories (target 5), reels only
+candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 69 min
+filed: 4 Chennai district stories (target 5), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":5,"updated":0} 
-stories: 5
+stories: 4
