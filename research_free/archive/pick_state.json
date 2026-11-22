@@ -194,7 +194,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-22T17:01:39.754906+05:30",
-   "picked_at": "2026-11-23T05:03:24.545466+05:30"
+   "picked_at": "2026-11-23T05:03:24.545466+05:30",
+   "refused": "not filed: stale: says 'today' but was published 22 Nov"
   },
   "Ce2ef09a": {
    "id": "Ce2ef09a",
@@ -464,7 +465,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-23T01:01:58.389197+05:30",
-   "picked_at": "2026-11-23T05:03:24.545462+05:30"
+   "picked_at": "2026-11-23T05:03:24.545462+05:30",
+   "posted": true
   },
   "C28c0ec7": {
    "id": "C28c0ec7",
@@ -477,7 +479,8 @@
    "score": 9.92,
    "power_cut": false,
    "listed_at": "2026-11-23T01:01:58.389197+05:30",
-   "picked_at": "2026-11-23T05:03:24.545464+05:30"
+   "picked_at": "2026-11-23T05:03:24.545464+05:30",
+   "posted": true
   },
   "Ca0e8f0b": {
    "id": "Ca0e8f0b",
@@ -598,7 +601,8 @@
    "score": 11.06,
    "power_cut": false,
    "listed_at": "2026-11-23T05:01:40.329451+05:30",
-   "picked_at": "2026-11-23T05:03:24.545457+05:30"
+   "picked_at": "2026-11-23T05:03:24.545457+05:30",
+   "posted": true
   },
   "C14a5f47": {
    "id": "C14a5f47",
@@ -611,7 +615,8 @@
    "score": 10.92,
    "power_cut": false,
    "listed_at": "2026-11-23T05:01:40.329451+05:30",
-   "picked_at": "2026-11-23T05:03:24.545459+05:30"
+   "picked_at": "2026-11-23T05:03:24.545459+05:30",
+   "posted": true
   },
   "C8bdb0ba": {
    "id": "C8bdb0ba",
@@ -624,7 +629,8 @@
    "score": 10.32,
    "power_cut": false,
    "listed_at": "2026-11-23T05:01:40.329451+05:30",
-   "picked_at": "2026-11-23T05:03:24.545453+05:30"
+   "picked_at": "2026-11-23T05:03:24.545453+05:30",
+   "posted": true
   },
   "Ca335043": {
    "id": "Ca335043",
@@ -637,7 +643,8 @@
    "score": 9.17,
    "power_cut": false,
    "listed_at": "2026-11-23T05:01:40.329451+05:30",
-   "picked_at": "2026-11-23T05:03:24.545460+05:30"
+   "picked_at": "2026-11-23T05:03:24.545460+05:30",
+   "posted": true
   },
   "C08b597e": {
    "id": "C08b597e",
@@ -2512,7 +2519,10 @@
     "C8bdb0ba",
     "Ca335043",
     "Ce4070d7"
-   ]
+   ],
+   "refused": {
+    "C68af92b": "not filed: stale: says 'today' but was published 22 Nov"
+   }
   }
  },
  "retry": {
