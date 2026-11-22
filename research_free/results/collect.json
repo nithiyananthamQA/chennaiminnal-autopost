@@ -3,187 +3,390 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/21/avcr-koolttil-vitikllai-miirri-ciirmaikkppttum-caalaip-pllllngkll",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/21/bail-plea-of-gem-veeramanis-car-driver-court-directs-police-to-file-a-response",
-  "candidate filter: collected=2",
-  "to write: 2 Chennai district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/21/bail-granted-to-an-individual-who-had-been-held-in-custody-for-over-24-hours-prior-to-their-formal-arrest-delhi-court-issues-order",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/word-for-word-coffee-shocking-complaint-against-woman-journalist/4382655",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-man-found-dead-in-field/4382683",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/namma-little-heroes-event-by-greater-chennai-corporation-children-of-sanitation-workers-filled-with-enthusiasm",
+  "manual link added: https://www.dinakaran.com/news/gem-veeramani-arrested-driver-parthiban-bail-application",
+  "candidate filter: collected=5",
+  "to write: 5 Chennai district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dinakaran.com/news/gem-veeramani-arrested-driver",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/namma-little-her",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/word-for-word",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 73 min",
-  "filed: 2 Chennai district stories (target 2), reels only",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 72 min",
+  "filed: 5 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: <!DOCTYPE html><html><head><script nonce=\"x0ErP4Zb2RbITWUq-RTlww\">window['ppConfig'] = {productName:"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.5-flash (39s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (14s)",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (21s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஜெம் வீரமணி ஓட்டுநர் பிணை மனு: பதிலளிக்க போலீசாருக்கு ஐகோர்ட் உத்தரவு",
-   "english_headline": "Gem Veeramani's driver bail plea: Chennai High Court orders police to respond in POCSO case",
+   "tamil_headline": "பட்டாபிராமில் வயலில் முதியவர் மர்ம மரணம்: போலீசார் விசாரணை",
+   "english_headline": "Elderly man found dead in a field in Pattabiram; police probing cause of death",
    "category": "Crime & Safety",
-   "location": "Chennai town, Chennai district",
+   "location": "Pattabiram, Chennai district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "வழக்கு அப்டேட்",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: ஜெம் வீரமணி ஓட்டுநர் பிணை மனு",
-    "hl2": "போலீஸ் பதிலளிக்க உத்தரவு",
+    "cat": "மர்ம மரணம்",
+    "loc": "பட்டாபிராம்",
+    "hl1": "பட்டாபிராமில் வயலில் முதியவர் மர்ம மரணம்",
+    "hl2": "போலீசார் விசாரணை",
     "slides": [
      {
-      "title": "யார் இந்த",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "ஜெம் வீரமணியின் கார் ஓட்டுநர்",
-       "சிறுமிகள் பாலியல் வன்கொடுமை வழக்கு",
-       "கடந்த <b>அக்டோபர் 5</b>-ல் கைது"
+       "பட்டாபிராமில் வயலில் முதியவர் இறந்து கிடந்தார்",
+       "ராதாகிருஷ்ணன், <b>68</b> வயது",
+       "உடல் மீட்கப்பட்டு இறப்புக்கான காரணம் விசாரிக்கப்படுகிறது"
       ]
      },
      {
-      "title": "வழக்கின் பின்னணி",
+      "title": "எங்கே, எப்போது?",
       "lines": [
-       "வீரமணி மீது <b>8</b> போக்ஸோ வழக்குகள்",
-       "<b>720</b> பக்க குற்றப்பத்திரிகை தாக்கல்",
-       "வழக்கில் மொத்தம் <b>40</b> சாட்சிகள்"
+       "அணைகட்டுச்சேரி சிவன் கோவில் தெருவைச் சேர்ந்தவர்",
+       "இன்று (<b>நவ. 21</b>) மதியம், வயல்வெளிக்குச் சென்றார்",
+       "நீண்ட நேரமாகியும் வீடு திரும்பவில்லை"
+      ]
+     },
+     {
+      "title": "உறவினர்கள் கண்டது",
+      "lines": [
+       "உறவினர்கள் வயலுக்குச் சென்று பார்த்தனர்",
+       "அங்கு அவர் இறந்து கிடந்தார்",
+       "இறப்புக்கான காரணம் குறித்து போலீசார் விசாரிக்கின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பட்டாபிராமில் வயலில் முதியவர் ஒருவர் மர்மமான முறையில் இறந்து கிடந்தார். அணைகட்டுச்சேரி சிவன் கோவில் தெருவைச் சேர்ந்த ராதாகிருஷ்ணன், 68 வயது முதியவர். வயது மூப்பு காரணமாக, பல ஆண்டுகளாக வீட்டிலேயே மகனின் பராமரிப்பில் இருந்தார். இன்று நவம்பர் 21ஆம் தேதி மதியம், இயற்கை உபாதை கழிப்பதற்காக அருகே உள்ள வயல்வெளிக்குச் சென்றார். நீண்ட நேரமாகியும் அவர் வீடு திரும்பவில்லை. உறவினர்கள் வயலுக்குச் சென்று பார்த்தபோது, அவர் இறந்து கிடந்தார். போலீசார் உடலை மீட்டு, இறப்புக்கான காரணம் குறித்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பட்டாபிராமில் வயலில் முதியவர் மர்ம மரணம்: போலீசார் விசாரணை\n\n📰 முழு விவரம்:\nபட்டாபிராம், அணைகட்டுச்சேரி சிவன் கோவில் தெருவைச் சேர்ந்த ராதாகிருஷ்ணன் (68 வயது), வயது மூப்பு காரணமாக பல ஆண்டுகளாக வீட்டில் மகனின் பராமரிப்பில் இருந்தார்.\nஇன்று (நவ. 21) மதியம் இயற்கை உபாதை கழிக்க அருகே உள்ள வயல்வெளிக்குச் சென்றவர், நீண்ட நேரமாகியும் வீடு திரும்பவில்லை.\nஉறவினர்கள் அங்கு சென்று பார்த்தபோது, அவர் மர்மமான முறையில் இறந்து கிடந்தார். போலீசார் உடலை மீட்டு, இறப்புக்கான காரணம் குறித்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: பட்டாபிராம், அணைகட்டுச்சேரி அருகே வயல்வெளி\n🗓️ நாள்: நவ. 21, 2026\n🕘 நேரம்: மதியம்\n👮 நடவடிக்கை: போலீசார் உடலை மீட்டு விசாரணை\n\nஇதே போல் பள்ளிக்கரணை, நாராயணபுரம் ஏரி நீரில் அடையாளம் தெரியாத ஆண் உடல் இன்று மிதந்தது; போலீசார் விசாரித்து வருகின்றனர்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Pattabiram #ChennaiNews #சென்னை",
+   "prompts": "A Tamil Nadu police constable in khaki uniform stands at the edge of a green paddy field in Pattabiram, Chennai, while two relatives in plain shirts and veshti stand a short distance away, one with a hand covering their mouth. The field is flat, with knee-high green paddy crops in the foreground and a line of low houses with tiled roofs along a dirt track behind. A narrow mud bund separates the field from a cement path. Two-wheelers are parked near the path, and a few neighbours in sarees and lungis stand far back, seen from behind. Light is bright afternoon daylight with a clear sky. Camera: eye level, 35 mm lens, wide enough to show the field, the houses and the people, with no visible faces. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a muddy paddy field edge in Pattabiram, Chennai, showing a flattened patch of green paddy stalks and wet mud near a narrow earthen bund. Beside the flattened area lie a rolled-up cotton towel and a worn plastic slipper, the only signs of recent activity. In the background, out of focus, a khaki-clad police constable's boots stand on the mud, and a corner of a white veshti of a relative is visible. The paddy stalks are bright green, the mud is dark and damp, and the light is soft afternoon daylight. Camera: low angle, 50 mm macro-style lens, shallow depth of field, focused on the flattened paddy and the towel, no readable text or faces. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-man-found-dead-in-field/4382683",
+   "published": "2026-11-21T20:37:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (17 words in a row, 27% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304177/chennaiminnal/nfuw8d0vvogjltbpkgtb.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304180/chennaiminnal/kfrh9evtqoji7fzu1hbu.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஜெம் வீரமணி வழக்கில் கைதான ஓட்டுநர் பார்த்திபன் ஜாமீன் கோரி மனு",
+   "english_headline": "Driver Parthiban, arrested in the Gem Veeramani case, files bail plea in Madras High Court; hearing on 24 November",
+   "category": "Crime & Safety",
+   "location": "Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வழக்கு",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: ஜெம் வீரமணி வழக்கில் ஜாமீன் மனு",
+    "hl2": "விசாரணை நவ. 24-க்கு",
+    "slides": [
+     {
+      "title": "யார் மனு?",
+      "lines": [
+       "ஜெம் வீரமணி வழக்கில் கைதான ஓட்டுநர் பார்த்திபன்",
+       "ஜாமீன் கோரி சென்னை உயர்நீதிமன்றத்தில் மனு தாக்கல்",
+       "கைது செய்யப்பட்டது <b>அக்டோபர் 5</b>"
       ]
      },
      {
       "title": "நீதிமன்ற உத்தரவு",
       "lines": [
-       "பிணை மனுவுக்கு பதிலளிக்க உத்தரவு",
-       "விசாரணை <b>நவம்பர் 24</b>-க்கு ஒத்திவைப்பு",
-       "சென்னை உயர்நீதிமன்றம் அதிரடி"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஜெம் வீரமணி ஓட்டுநரின் பிணை மனுவுக்கு பதிலளிக்க காவல்துறைக்கு உத்தரவு. சிறுமிகளை பாலியல் வன்கொடுமை செய்த வழக்கில் ஜெம் கிரானைட்ஸ் உரிமையாளர் வீரமணி கைது செய்யப்பட்டுள்ளார். இந்த வழக்கில் வீரமணியின் கார் ஓட்டுநர் பார்த்திபனும் கடந்த அக்டோபர் 5ஆம் தேதி கைது செய்யப்பட்டார். தற்போது சிறையில் உள்ள பார்த்திபன் பிணை கோரி சென்னை உயர்நீதிமன்றத்தில் மனு தாக்கல் செய்துள்ளார். தனக்கும் இந்த வழக்குக்கும் எந்தத் தொடர்பும் இல்லை என்று பார்த்திபன் தனது மனுவில் குறிப்பிட்டுள்ளார். இந்த மனுவை விசாரித்த நீதிபதி என். ரமேஷ் காவல்துறை பதிலளிக்க உத்தரவிட்டுள்ளார். வீரமணிக்கு எதிராக 8 போக்ஸோ வழக்குகள் உட்பட மொத்தம் 9 வழக்குகள் பதிவு செய்யப்பட்டுள்ளன. இதில் முதல் வழக்கில் 720 பக்கங்கள் கொண்ட குற்றப்பத்திரிகையை சிறப்புப் புலனாய்வுக் குழு தாக்கல் செய்துள்ளது. இந்த வழக்கில் மொத்தம் 40 சாட்சிகள் சேர்க்கப்பட்டுள்ளனர். பிணை மனு மீதான அடுத்த கட்ட விசாரணையை நவம்பர் 24ஆம் தேதிக்கு நீதிபதி ஒத்திவைத்தார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ ஜெம் வீரமணி ஓட்டுநர் பிணை மனு: பதிலளிக்க போலீசாருக்கு சென்னை உயர்நீதிமன்றம் உத்தரவு\n\n📰 முழு விவரம்:\nசிறுமிகளை பாலியல் வன்கொடுமை செய்த வழக்கில் கைதாகியுள்ள ஜெம் கிரானைட்ஸ் உரிமையாளர் வீரமணியின் கார் ஓட்டுநர் பார்த்திபன் பிணை கோரி மனு தாக்கல் செய்துள்ளார். இந்த மனுவை விசாரித்த சென்னை உயர்நீதிமன்ற நீதிபதி என். ரமேஷ், இது குறித்து காவல்துறை பதிலளிக்க உத்தரவிட்டுள்ளார். வீரமணி மீது 8 போக்ஸோ வழக்குகள் உட்பட மொத்தம் 9 வழக்குகள் பதிவு செய்யப்பட்டுள்ளன. இதில் முதல் வழக்கில் 720 பக்கங்கள் கொண்ட குற்றப்பத்திரிகையை சிறப்புப் புலனாய்வுக் குழு தாக்கல் செய்துள்ளது. இந்த வழக்கில் 40 சாட்சிகள் உள்ளனர்.\n\n📍 இடம்: சென்னை உயர்நீதிமன்றம்\n🗓️ அடுத்த விசாரணை: நவம்பர் 24\n👮 நடவடிக்கை: காவல்துறை பதிலளிக்க நீதிமன்றம் உத்தரவு\n\nGem Veeramani driver bail petition | Chennai POCSO case update\n📍 Chennai town, Chennai district | 22 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #POCSO #சென்னை",
-   "prompts": "Inside a Chennai High Court courtroom, a judge sits high on the bench under the ceiling fans while a few lawyers in black coats and white bands stand before him, their backs to the camera. Along one side, police in khaki uniform stand near a stack of thick case files and a bound chargesheet on the wooden table. In the far background, a small group of relatives and reporters sit quietly on wooden benches, seen from behind and slightly blurred. Tall pillars and high arched windows let in soft daylight, and the cream-coloured walls show the sober look of an old government building in Chennai. The scene is daytime and calm. Shot at eye level with a 35 mm lens, wide enough to show the whole courtroom and the bench. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a thick bundle of court files tied with red tape, placed on a worn wooden table, with a thick chargesheet of hundreds of pages stacked on top. A khaki-clad policeman's sleeve and hand rest beside the pile, out of focus. Behind the table, the blurred edge of a black lawyer's coat and a wooden bench suggest a courtroom in Chennai. Soft daylight falls through a high window, lighting the paper edges and the tape. No readable text is visible. Shot slightly from above at a close distance with a 35 mm lens, focusing on the stack of case papers. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/21/bail-plea-of-gem-veeramanis-car-driver-court-directs-police-to-file-a-response",
-   "published": "2026-11-21T19:24:01.777Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சென்னை' and the news itself, e.g. 'சென்னை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 3 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795289807/chennaiminnal/pdy2stvv7gmtxlojwi6x.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795289853/chennaiminnal/mgc5debtvgbmp5jl7ved.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை மாநகராட்சி சாலைப் பள்ளங்கள்: அவசரமாக சீரமைப்பு, விதிமீறல் புகார்",
-   "english_headline": "Chennai Corporation road potholes repaired in haste, rules violated, complaints rise",
-   "category": "Civic Issues",
-   "location": "Chennai city, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலைப் பள்ளம்",
-    "loc": "சென்னை மாநகராட்சி",
-    "hl1": "சென்னை சாலைப் பள்ளங்கள் அவசர சீரமைப்பு",
-    "hl2": "21,800 மி.கோடி ஒதுக்கீடு",
-    "slides": [
-     {
-      "title": "பள்ளங்கள் எத்தனை?",
-      "lines": [
-       "உள்புறச் சாலைகளில் <b>11,645</b> இடங்களில் பள்ளங்கள்",
-       "போக்குவரத்து சாலைகளில் <b>2,494</b> இடங்களில் பள்ளங்கள்",
-       "வாகன ஓட்டிகள் பெரும் சிரமம்"
-      ]
-     },
-     {
-      "title": "நிதி ஒதுக்கீடு",
-      "lines": [
-       "போக்குவரத்து சாலைகளுக்கு <b>ரூ.9.25 கோடி</b>",
-       "உள்புறச் சாலைகளுக்கு <b>ரூ.12.80 கோடி</b>",
-       "மொத்தம் <b>ரூ.21.80 கோடி</b> ஒதுக்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "விதிமீறல்",
-      "lines": [
-       "பல சாலைகளில் பள்ளங்கள் முழுமையாக மூடப்படவில்லை",
-       "மூடிய இடங்களில் சாலை மேடாக உள்ளது",
-       "வாகன ஓட்டிகள் தடுமாறி விழும் நிலை"
+       "மனு குறித்து காவல்துறை பதிலளிக்க நீதிமன்றம் உத்தரவு",
+       "விசாரணை <b>நவம்பர் 24</b>க்கு ஒத்திவைக்கப்பட்டது"
       ]
      },
      {
       "title": "அடுத்து என்ன?",
       "lines": [
-       "நவ. 27இல் <b>ரூ.149.12 கோடி</b> ஒப்பந்தம் கோரப்படும்",
-       "டிச. 3இல் <b>ரூ.150 கோடி</b> புதிய ஒப்பந்தம் கோரப்படும்",
-       "இதுவரை இதன் மீது நடவடிக்கை இல்லை"
+       "நவ. 24 அன்று நீதிமன்ற விசாரணை நடைபெறும்",
+       "அதன் பின் நீதிமன்ற முடிவு தெரியவரும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை மாநகராட்சியில் அவசர கோலத்தில் சாலைப் பள்ளங்கள் சீரமைக்கப்படுவதால் வாகன ஓட்டிகள் பெரும் அவதிக்குள்ளாகியுள்ளனர். உள்புறச் சாலைகளில் 11,645 இடங்களிலும், போக்குவரத்து சாலைகளில் 2,494 இடங்களிலும் பள்ளங்கள் கண்டறியப்பட்டன. இவற்றைச் சீரமைக்க மொத்தம் ரூ.21.80 கோடி ஒதுக்கப்பட்டது. ஆனால், எழும்பூர், சென்ட்ரல், கே கே நகர், அம்பத்தூர், வேப்பேரி உள்ளிட்ட பல சாலைகளில் பள்ளங்கள் முழுமையாக மூடப்படவில்லை. மூடிய இடங்கள் சுற்றியுள்ள சாலையை விட மேடாக உள்ளதால் வாகன ஓட்டிகள் தடுமாறி விழும் நிலை உள்ளது. சீரமைப்பு விதிமுறைப்படி நடைபெறவில்லை என்பது உறுதிப்படுத்தப்பட்டுள்ளது. இதன் மீது இதுவரை நடவடிக்கை எடுக்கப்படவில்லை. இதனால் நவம்பர் 27ஆம் தேதி ரூ.149.12 கோடியில் 753 சாலைகளை மறுசீரமைக்க ஒப்பந்தம் கோரப்படவுள்ளது. டிசம்பர் 3ஆம் தேதி ரூ.150 கோடியில் சுமார் 700 சாலைகளுக்கு புதிய ஒப்பந்தம் கோரப்பட உள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 சென்னை சாலைப் பள்ளங்கள்: அவசர சீரமைப்பால் வாகன ஓட்டிகள் அவதி\n\n📰 முழு விவரம்:\nசென்னை மாநகராட்சியில் அவசர கோலத்தில் சாலைப் பள்ளங்கள் சீரமைக்கப்படுவதாகப் புகார்கள் எழுந்துள்ளன. நவம்பர் 20ஆம் தேதி வெளியான தகவலின்படி, மாநகராட்சியில் 35,978 உள்புறச் சாலைகளும், 443 போக்குவரத்துச் சாலைகளும் உள்ளன. கடந்த அக்டோபர் மழைக்காலத்துக்கு முன் 2,766 உள்புறச் சாலைகளும், 184 போக்குவரத்துச் சாலைகளும் சேதமடைந்திருந்தன. வழக்கமாக மழைக்கு முன் 2,500 சாலைகள் சீரமைக்கப்படும். இந்த முறை சட்டப்பேரவைத் தேர்தல் மற்றும் ஆட்சி மாற்றத்தால் பணிகள் நடைபெறவில்லை.\nபின்னர் பெய்த மழையில் கூடுதலாக 2,060 உள்புறச் சாலைகளும், 148 போக்குவரத்துச் சாலைகளும் சேதமடைந்தன.\n📍 இடம்: சென்னை மாநகராட்சி முழுவதும்\n🕳️ பள்ளங்கள்: உள்புறச் சாலைகளில் 11,645 இடங்களிலும், போக்குவரத்துச் சாலைகளில் 2,494 இடங்களிலும்\n💰 ஒதுக்கீடு: போக்குவரத்துச் சாலைகளுக்கு ரூ.9.25 கோடி, உள்புறச் சாலைகளுக்கு ரூ.12.80 கோடி; மொத்தம் ரூ.21.80 கோடி\n👮 நடவடிக்கை: கடந்த அக்டோபரில் மட்டும் 7,393 உள்புறச் சாலைப் பள்ளங்களும், 1,910 போக்குவரத்துச் சாலைப் பள்ளங்களும் மூடப்பட்டதாக மாநகராட்சி தெரிவித்துள்ளது.\n⚠️ எழும்பூர், சென்ட்ரல், கே.கே. நகர், அம்பத்தூர், வேப்பேரி உள்ளிட்ட பல சாலைகளில் பள்ளங்கள் மூடப்படாமல் உள்ளன. சேத்துப்பட்டு உள்ளிட்ட பகுதிகளில் மண், தார் கலவையால் மூடப்பட்டுள்ளன. பல இடங்களில் மூடப்பட்ட பகுதி சுற்றியுள்ள சாலையை விட மேடாக உள்ளது.\n📅 அடுத்து: நவம்பர் 27ஆம் தேதி ரூ.149.12 கோடியில் 753 சாலைகளுக்கு (167.55 கி.மீ.) ஒப்பந்தம் கோரப்படும்; இதில் 66 முக்கியப் போக்குவரத்துச் சாலைகள். டிசம்பர் 3ஆம் தேதி ரூ.150 கோடியில் சுமார் 700 சாலைகளுக்கு புதிய ஒப்பந்தம் கோரப்படும்.\n🏛️ பொதுப்பணித் துறை பராமரிக்க அனுமதிக்கப்பட்ட 75 சாலைகளின் பள்ளங்களையும் மாநகராட்சியே சீரமைக்க வேண்டிய நிலை உள்ளது.\nசாலைகளில் பயணிக்கும்போது கவனமாக இருங்கள்.\n\nChennai road potholes repaired in haste | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #ChennaiRoads",
-   "prompts": "A Chennai Corporation road-repair crew on a city street fills a pothole with a wet mix of soil and tar, while a two-wheeler and an MTC bus slow down nearby. The place is a main bus-route road in Chennai city, with concrete shop fronts, a few parked two-wheelers, and overhead wires on tall poles. Several workers in plain shirts and lungis stand near a heap of black tar mix and a shovel, seen from behind and from a distance. A red-and-white MTC bus and a line of two-wheelers pass slowly on the damp, freshly patched tarmac, and a small grey autorickshaw waits at the kerb. It is mid-morning in November, after recent rain, with soft grey light and wet patches on the road. Shot at eye level, 35 mm lens, wide enough to show the road, the workers and the traffic. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a freshly patched pothole on a Chennai city road, where the dark soil and tar mix has been packed in and rises slightly above the old road surface. The raised edge forms a small ridge, with a rim of wet, uneven tar and loose gravel around it. A worn leather sandal and the front wheel of a two-wheeler sit at the edge of the frame, showing how a rider could wobble on the bump. Puddles of rainwater lie on the surrounding cracked asphalt, and a shovel rests against the kerb nearby. Daylight, after rain, overcast soft light. Shot at low-medium height, 35 mm lens, shallow depth of field to focus on the raised patch and the tar texture. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/21/avcr-koolttil-vitikllai-miirri-ciirmaikkppttum-caalaip-pllllngkll",
-   "published": "2026-11-21T19:18:07.704Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 93 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); numbers not found in the article: 21800, 800",
+   "reel_script": "சென்னை-இல் ஜெம் வீரமணி வழக்கில் கைதான ஓட்டுநர் பார்த்திபன் ஜாமீன் கோரி மனு செய்துள்ளார். அவர் அக்டோபர் 5ஆம் தேதி கைது செய்யப்பட்டார். ஜாமீன் கோரி சென்னை உயர்நீதிமன்றத்தில் அவர் மனு தாக்கல் செய்துள்ளார். மனு குறித்து காவல்துறை பதிலளிக்க நீதிமன்றம் உத்தரவிட்டது. விசாரணை நவம்பர் 24ஆம் தேதிக்கு ஒத்திவைக்கப்பட்டது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ சென்னை: ஜெம் வீரமணி வழக்கில் ஓட்டுநர் பார்த்திபன் ஜாமீன் மனு\n\n📰 முழு விவரம்:\nஜெம் வீரமணி வழக்கில் அக்டோபர் 5ஆம் தேதி கைது செய்யப்பட்ட ஓட்டுநர் பார்த்திபன், ஜாமீன் கோரி சென்னை உயர்நீதிமன்றத்தில் மனு தாக்கல் செய்துள்ளார். மனு குறித்து காவல்துறை பதிலளிக்க நீதிமன்றம் உத்தரவிட்டது. விசாரணை நவம்பர் 24ஆம் தேதிக்கு ஒத்திவைக்கப்பட்டது.\n📍 இடம்: சென்னை உயர்நீதிமன்றம்\n🗓️ நாள்: விசாரணை நவம்பர் 24ஆம் தேதி\n👮 நடவடிக்கை: மனு குறித்து காவல்துறை பதிலளிக்க உத்தரவு\n\nChennai bail plea Gem Veeramani case | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Chennai",
+   "prompts": "A group of advocates in black coats and white bands walks across the open courtyard of the Madras High Court in Chennai, carrying bundles of legal files tied with red tape while a Tamil Nadu police constable in khaki stands guard near the tall stone pillars of the entrance. The Madras High Court is a large, old, colonial-style red-brick and grey-stone building with arched verandas, high windows and a clock tower, set in a busy city-centre compound with tall trees and a few parked two-wheelers along the gate. The lawyers are seen from behind and at a distance, some with their black robes flowing, and a few litigants stand in small clusters on the steps waiting for their cases to be called. It is bright daylight under a clear sky with strong sunshine casting short shadows across the courtyard. The camera is at eye level, shot on a 35 mm lens from a slightly wide angle so the full courthouse facade, the entrance pillars and the moving crowd of lawyers are all visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of legal case files and bail papers held in the hands of a lawyer in a black coat, the papers bound together with string and red tape, with the blurred stone wall and arched doorway of the Madras High Court building behind them. The lawyer's hands are the only visible part of the person, shown from the side and out of focus at the edges. The shallow depth of field keeps the bundle of papers sharp, emphasising the bail petition as the key document in the news. The light is natural bright daylight from the open courtyard, giving the paper a crisp, even look with soft shadows. The camera is at a slightly low eye level, 35 mm, close enough to fill the frame with the documents while the old courthouse stonework is faintly visible in the background. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/gem-veeramani-arrested-driver-parthiban-bail-application",
+   "published": "2026-11-21T14:13:12+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 42 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption copies the article word for word (16 words in a row, 47% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304187/chennaiminnal/kpqwezvapoqsclxihkh2.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304209/chennaiminnal/qn1wzwgivz9sygd8zmkk.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை மாநகராட்சி சார்பில் 'நம்ம லிட்டில் ஹீரோஸ்' விழா: தூய்மைப் பணியாளர் குழந்தைகள் உற்சாகம்",
+   "english_headline": "Namma Little Heroes 2026 event held for children of Chennai Corporation sanitation workers at Women's Christian College hall",
+   "category": "Government & Services",
+   "location": "Women's Christian College hall, Thenampettai zone, Chennai city, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு நிகழ்வு",
+    "loc": "தேனாம்பேட்டை, சென்னை",
+    "hl1": "தேனாம்பேட்டையில் 'நம்ம லிட்டில் ஹீரோஸ்'",
+    "hl2": "தூய்மைப் பணியாளர்",
+    "slides": [
+     {
+      "title": "என்ன நிகழ்வு?",
+      "lines": [
+       "சென்னை மாநகராட்சி சார்பில் 'நம்ம லிட்டில் ஹீரோஸ் - 2026'",
+       "தூய்மைப் பணியாளர்களின் குழந்தைகளின் திறமைகளைக் கொண்டாடும்",
+       "இது 4ஆவது ஆண்டு விழா"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "தேனாம்பேட்டை மண்டலம், மகளிர் கிறிஸ்தவக் கல்லூரி அரங்கு",
+       "நவம்பர் <b>21, 2026</b> அன்று நடைபெற்றது",
+       "ஆணையாளர் ஜி.எஸ்.சமீரன் தலைமையில்"
+      ]
+     },
+     {
+      "title": "பரிசுகள்",
+      "lines": [
+       "அதிக மதிப்பெண் பெற்ற குழந்தைகளுக்கு <b>மடிக்கணினி</b> (ரூ.35,000)",
+       "டேப்லெட்டுகள் (ரூ.16,000 மதிப்பு) வழங்கப்பட்டன",
+       "போட்டி வெற்றியாளர்களுக்கு கோப்பைகள், பங்கேற்றோருக்கு"
+      ]
+     },
+     {
+      "title": "நிகழ்ச்சிகள்",
+      "lines": [
+       "நடனம், பாட்டு, ஓவியம், சிலம்பம், கராத்தே போட்டிகள்",
+       "பேச்சுப் போட்டி, புகைப்பட கலை நிகழ்ச்சிகள்",
+       "தேனாம்பேட்டை, கோடம்பாக்கம், வளசரவாக்கம், ஆலந்தூர், அடையாறு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தேனாம்பேட்டை மண்டலத்தில் தூய்மைப் பணியாளர்களின் 3 குழந்தைகளுக்கு சிறப்பு விழா நடைபெற்றது. இந்த நிகழ்ச்சியை சென்னை மாநகராட்சி சார்பில் நடத்தியது. இந்த விழா நவம்பர் 21ஆம் தேதி மகளிர் கிறிஸ்தவக் கல்லூரி அரங்கில் நடைபெற்றது. மாநகராட்சி ஆணையாளர் ஜி எஸ் சமீரன் தலைமையில் விழா நடைபெற்றது. அதிக மதிப்பெண் பெற்ற குழந்தைகளுக்கு தலா ரூ.35,000 மதிப்புள்ள மடிக்கணினிகள் வழங்கப்பட்டன. ரூ.16,000 மதிப்புள்ள டேப்லெட்டுகளும் வழங்கப்பட்டன. நடனம், பாட்டு, ஓவியம், சிலம்பம், கராத்தே, பேச்சுப் போட்டி, புகைப்பட கலை உள்ளிட்ட நிகழ்ச்சிகளில் குழந்தைகள் தங்கள் திறமைகளை வெளிப்படுத்தினர். போட்டிகளில் வெற்றி பெற்ற குழந்தைகளுக்கு வெற்றிக் கோப்பைகள் வழங்கப்பட்டன. பங்கேற்ற அனைத்துக் குழந்தைகளுக்கும் சான்றிதழ்கள் வழங்கப்பட்டன. தேனாம்பேட்டை, கோடம்பாக்கம், வளசரவாக்கம், ஆலந்தூர், அடையாறு, பெருங்குடி மண்டலங்களைச் சேர்ந்த குழந்தைகளும் பெற்றோர்களும் பங்கேற்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎓 தேனாம்பேட்டையில் தூய்மைப் பணியாளர் குழந்தைகளுக்கு 'நம்ம லிட்டில் ஹீரோஸ் - 2026' விழா\n\n📰 முழு விவரம்:\nசென்னை மாநகராட்சி சார்பில் தூய்மைப் பணியாளர்களின் குழந்தைகளுக்கான 'நம்ம லிட்டில் ஹீரோஸ் - 2026' விழா நடைபெற்றது. இது தொடர்பாக வெளியிடப்பட்டுள்ள செய்திக்குறிப்பில் இந்தத் தகவல்கள் தெரிவிக்கப்பட்டுள்ளன.\nமாநகராட்சி ஆணையாளர் ஜி.எஸ்.சமீரன் தலைமையில் நவம்பர் 21 அன்று மகளிர் கிறிஸ்தவக் கல்லூரி அரங்கில் விழா நடைபெற்றது.\nஅதிக மதிப்பெண் பெற்ற தூய்மைப் பணியாளர்களின் குழந்தைகளுக்கு தலா ரூ.35,000 மதிப்புள்ள மடிக்கணினிகளும், ரூ.16,000 மதிப்புள்ள டேப்லெட்டுகளும் வழங்கப்பட்டன.\nநடனம், பாட்டு, ஓவியம், சிலம்பம், கராத்தே, பேச்சுப் போட்டி, புகைப்பட கலை நிகழ்ச்சிகளில் குழந்தைகள் திறமைகளை வெளிப்படுத்தினர். போட்டிகளில் வெற்றி பெற்ற குழந்தைகளுக்கு வெற்றிக் கோப்பைகளும், பங்கேற்ற அனைத்துக் குழந்தைகளுக்கும் சான்றிதழ்களும் வழங்கப்பட்டன.\nஇது 4ஆவது ஆண்டு விழா. தேனாம்பேட்டை, கோடம்பாக்கம், வளசரவாக்கம், ஆலந்தூர், அடையாறு, பெருங்குடி மண்டலங்களைச் சேர்ந்த குழந்தைகளும் பெற்றோர்களும் பங்கேற்றனர்.\nஇணை ஆணையாளர் (பணிகள்) சரவணன், மண்டல அலுவலர் செந்தில்குமரன், சுமீத் எல்கோ நிறுவனத் தலைமை நிர்வாக அலுவலர் மஹ்மூத் சேட், தலைமை நிதி அலுவலர் மகேந்திர சப்னானி மற்றும் மாநகராட்சி அலுவலர்கள் கலந்துகொண்டனர்.\n\nNamma Little Heroes 2026 Chennai Corporation sanitation workers children event | Chennai news\n📍 தேனாம்பேட்டை, சென்னை | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Thenampettai #ChennaiNews #சென்னை",
+   "prompts": "A Chennai Corporation Commissioner in formal wear presents a laptop to a child on the stage of the Women's Christian College hall in Thenampettai zone, Chennai. The hall is a large indoor auditorium with rows of seats filled with children and parents of sanitation workers, many seen from behind or far away. On the stage, Corporation officers in formal shirts and sarees sit near a podium decorated with a backdrop, and a row of gleaming laptops and tablets rests on a table in the foreground. Several children in school uniform and festive clothes stand in a line waiting, some holding certificates. Overhead stage lights give warm, even illumination over the seated audience. Taken at eye level with a 35 mm lens, wide enough to show the stage, the officers and the full hall. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a table on the stage holding gleaming new laptops, tablets and gold-coloured trophy cups, arranged in a neat row beside a folded stack of certificates. Behind the table, out of focus, the edge of a stage backdrop and the blurred silhouettes of officers seated in chairs. The lighting is warm and soft from overhead stage lights, the background is dark red and maroon fabric, and the objects are sharply lit in the foreground. Shot at a slightly high angle with a 35 mm lens, focusing on the prizes as the story's key detail. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/namma-little-heroes-event-by-greater-chennai-corporation-children-of-sanitation-workers-filled-with-enthusiasm",
+   "published": "2026-11-21T13:12:46Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 90 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('இது தொடர்பாக, வெளியிடப்பட்டுள்ள செய்திக்குறிப்பில் தெரிவிக்க')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795289860/chennaiminnal/qune3a59yvdqswnxzsjg.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795289863/chennaiminnal/lhtmquktoho3pfnxjosi.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304214/chennaiminnal/cqosutmcpvcttqfesio6.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304217/chennaiminnal/ydwgctepdfoyjz3dwvdm.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "",
+   "english_headline": "",
+   "category": "",
+   "location": "unknown",
+   "importance": "Low",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "",
+    "loc": "",
+    "hl1": "",
+    "hl2": "",
+    "slides": [],
+    "carousel": false
+   },
+   "reel_script": "",
+   "caption": "",
+   "prompts": "A journalist sits at a desk in a newsroom in Chennai, seen from behind, typing on a laptop whose screen shows two long news articles stacked one above the other, the page layout blurred and unreadable. Beside the laptop lie a stack of printed magazines and a notepad with a pen. The newsroom has tube lights, a plain white wall with a framed noticeboard, and a row of other desks with computers and empty chairs in the background. Daylight from a window on the left falls across the room, and a standing fan hums in the corner. Taken at eye level from the back of the room with a 35 mm lens, wide enough to show the desks, screens and the worker's posture, giving a tense, quiet atmosphere of a dispute being examined. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a laptop screen on a wooden desk in a Chennai office, showing two web pages side by side with the text blurred and unreadable, one with a highlighted paragraph and a cursor on the scroll bar. Next to the laptop rests a smartphone face-down beside a printed magazine with a plain cover, a pen and a small notebook with handwritten lines. A cup of filter coffee sits on the edge of the desk, and sunlight from a window lights the edge of the wood. Shot at a slightly high angle with a 35 mm lens, focused on the screen and the printed pages, conveying the idea of comparing two articles word by word. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/word-for-word-coffee-shocking-complaint-against-woman-journalist/4382655",
+   "published": "2026-11-21T20:20:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: missing key: tamil_headline; missing key: english_headline; missing key: category; missing key: reel_script; missing key: caption; missing key: scenes",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 6 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304352/chennaiminnal/owtzmeshou1rwcipyrfg.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304355/chennaiminnal/uthsz6qtt7o2mqlwx9s8.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தில்லி: கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேல் காவலில் வைக்கப்பட்ட நபருக்கு பிணை",
+   "english_headline": "Delhi court grants bail to man held over 24 hours before formal arrest, says detention violated fundamental rights",
+   "category": "Crime & Safety",
+   "location": "Delhi airport (Terminal 3) and Delhi court; Delhi",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நீதிமன்றம்",
+    "loc": "தில்லி",
+    "hl1": "தில்லி: 24 மணி நேரத்துக்கும் மேல்",
+    "hl2": "தனிநபர் சுதந்திரம் மீறல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ட்ரோன் உதிரிபாகங்கள் கடத்தல் வழக்கில் சோயப் நவாப் கானுக்கு",
+       "தில்லி விமான நிலையத்தில் <b>செப். 25</b> இரவு தரையிறங்கினார்",
+       "முறையான கைதுக்கு முன் <b>24 மணி நேரத்துக்கும்</b> மேல்"
+      ]
+     },
+     {
+      "title": "சுங்கத் துறை",
+      "lines": [
+       "பயணப் பையில் ரிமோட் கண்ட்ரோலர்கள், அடாப்டர்கள், ஐபோன் மீட்பு",
+       "ட்ரோன் பாகங்கள் மற்றொரு பயணி கொண்டு சென்றார்",
+       "பறிமுதல் பொருட்கள் மதிப்பு <b>ரூ.1 கோடிக்கும்</b> அதிகம்"
+      ]
+     },
+     {
+      "title": "நீதிமன்ற உத்தரவு",
+      "lines": [
+       "செப். 27 காலை வரை கட்டுப்பாட்டில் வைத்தது சட்டப்படி தவறு",
+       "அரசமைப்புச் சட்டம் 21, 22 பிரிவுகள் மீறப்பட்டதாக நீதிமன்றம்",
+       "<b>ரூ.1 லட்சம்</b> பிணைப் பத்திரம் உள்ளிட்ட நிபந்தனைகளுடன் பிணை"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "அக். 27 மாஜிஸ்திரேட் நீதிமன்றம் முதல் பிணை மனுவை தள்ளுபடி",
+       "நவ. 18 பிறப்பித்த உத்தரவில் இந்த கருத்துகள் உள்ளன",
+       "விசாரணைக்குத் தேவைப்பட்டால் மீண்டும் கைது செய்யலாம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தில்லியில் 24 மணி நேரத்துக்கும் மேல் காவலில் வைக்கப்பட்ட ஒருவருக்கு நீதிமன்றம் பிணை வழங்கியுள்ளது. ட்ரோன் உதிரிபாகங்களை கடத்தியதாகக் குற்றஞ்சாட்டப்பட்ட சோயப் நவாப் கானுக்கு இந்த பிணை வழங்கப்பட்டது. அவர் ஹாங்காங்கிலிருந்து வியத்நாம் வழியாக வந்து, செப்டம்பர் 25ஆம் தேதி இரவு சுமார் 11 மணிக்கு தில்லி விமான நிலையத்தின் 3ஆவது முனையத்தில் தரையிறங்கினார். கானின் பயணப் பையிலிருந்து நான்கு ரிமோட் கண்ட்ரோலர்கள், பத்து அடாப்டர்கள், பத்து பவர் கேபிள்கள், ஒரு ஐபோன் மீட்கப்பட்டதாக சுங்கத் துறை தெரிவித்தது. ட்ரோன் பாகங்கள் மற்றொரு பயணியால் கொண்டு செல்லப்பட்டன. பறிமுதல் செய்யப்பட்ட பொருட்களின் மதிப்பு ரூ.1 கோடிக்கும் அதிகம் என்றும், அவை இறக்குமதி தடைசெய்யப்பட்ட ராணுவத் தரம் வாய்ந்த ட்ரோன்கள் என்றும் கூறப்படுகிறது. கான் கைது செய்யப்பட்டார். அவரது முதல் பிணை மனுவை அக்டோபர் 27ஆம் தேதி மாஜிஸ்திரேட் நீதிமன்றம் தள்ளுபடி செய்தது. இரண்டாவது மனுவை விசாரித்த கூடுதல் அமர்வு நீதிபதி சௌரவ் பிரதாப் சிங் லலோ, ரூ.1 லட்சம் பிணைப் பத்திரம் உள்ளிட்ட நிபந்தனைகளுடன் பிணை வழங்கினார். நவம்பர் 18ஆம் தேதி பிறப்பித்த உத்தரவில், செப்டம்பர் 27 முதல் நீதிமன்றக் காவலில் இருந்த கான், முறையான கைதுக்கு முன்பே சுங்க அதிகாரிகளின் பிடியில் 24 மணி நேரத்துக்கும் மேலாக இருந்தார் என நீதிமன்றம் குறிப்பிட்டது. விமான நிலையத்தில் சோதனைக்காக தடுத்து நிறுத்துவது ஏற்புடையது. ஆனால் செப்டம்பர் 25 இரவு முதல் 27 காலை வரை தொடர்ந்து கட்டுப்பாட்டில் வைத்திருந்தது சட்டப்படி அனுமதிக்கப்படாது. அரசமைப்புச் சட்டத்தின் 22(2) பிரிவின்படி, கைது செய்யப்பட்டவரை 24 மணி நேரத்துக்குள் நீதிபதி முன் ஆஜர்படுத்த வேண்டும். ஆரம்பகட்ட சோதனைக்குப் பிறகு காரணம் கிடைக்காவிட்டால் விடுவித்திருக்க வேண்டும்; தேவைப்பட்டால் பின்னர் மீண்டும் கைது செய்திருக்கலாம் என நீதிமன்றம் கூறியது. முறையான கைது இல்லாமல் நீண்ட காலம் தடுத்து வைப்பது, அரசமைப்புச் சட்டம் 21ஆம் பிரிவின் தனிநபர் சுதந்திர உரிமைக்கும், 22ஆம் பிரிவின் பாதுகாப்புகளுக்கும் முரணானது என்று உத்தரவில் தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தில்லி: கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேல் காவலில் வைக்கப்பட்ட நபருக்கு பிணை\n\n📰 முழு விவரம்:\nட்ரோன் உதிரிபாகங்கள் கடத்தியதாகக் குற்றஞ்சாட்டப்பட்ட சோயப் நவாப் கானுக்கு தில்லி நீதிமன்றம் பிணை வழங்கியுள்ளது. முறையான கைதுக்கு முன்பாக ஒருவரை 24 மணி நேரத்துக்கு மேல் கட்டுப்பாட்டில் வைத்திருப்பது, தனிநபர் சுதந்திரத்திற்கான அடிப்படை உரிமையையும், கைது தொடர்பான அரசமைப்புச் சட்டப் பாதுகாப்புகளையும் மீறும் செயல் என நீதிமன்றம் குறிப்பிட்டுள்ளது.\nஹாங்காங்கிலிருந்து வியத்நாம் வழியாக பயணம் செய்த சோயப் நவாப் கான் உள்ளிட்ட மூவர், செப்டம்பர் 25ஆம் தேதி இரவு சுமார் 11 மணியளவில் தில்லி விமான நிலையத்தின் 3ஆவது முனையத்தில் தரையிறங்கினர். கானின் பயணப் பையிலிருந்து நான்கு ரிமோட் கண்ட்ரோலர்கள், பத்து அடாப்டர்கள், பத்து பவர் கேபிள்கள், ஒரு ஐபோன் மீட்கப்பட்டன. ட்ரோன் பாகங்கள் மற்றொரு பயணியால் கொண்டு செல்லப்பட்டதாக சுங்கத் துறை குற்றஞ்சாட்டியது. பறிமுதல் செய்யப்பட்ட பொருட்களின் மதிப்பு ரூ.1 கோடிக்கும் அதிகம்; அவை இறக்குமதி தடைசெய்யப்பட்ட ராணுவத் தரம் வாய்ந்த ட்ரோன்கள் என்று கூறப்படுகிறது.\nகான் கைது செய்யப்பட்டார். அக்டோபர் 27ஆம் தேதி முதல் பிணை மனுவை மாஜிஸ்திரேட் நீதிமன்றம் தள்ளுபடி செய்தது. இரண்டாவது மனுவை விசாரித்த கூடுதல் அமர்வு நீதிபதி சௌரவ் பிரதாப் சிங் லலோ, ரூ.1 லட்சம் பிணைப் பத்திரம் உள்ளிட்ட நிபந்தனைகளுடன் பிணை வழங்கினார்.\nசெப்டம்பர் 27 முதல் நீதிமன்றக் காவலில் இருந்த கான், முறையான கைதுக்கு முன்பாகவே சுங்க அதிகாரிகளின் கட்டுப்பாட்டில் 24 மணி நேரத்துக்கும் மேலாக இருந்தார் என நவம்பர் 18ஆம் தேதி பிறப்பித்த உத்தரவில் நீதிமன்றம் தெரிவித்துள்ளது. விமான நிலையத்தில் சோதனைக்காக தடுத்து நிறுத்துவது அனுமதிக்கத்தக்கதுதான். இருப்பினும், செப்டம்பர் 25 இரவு முதல் 27 காலை வரை தொடர்ந்து கட்டுப்பாட்டில் வைத்திருந்து முறையான கைதைத் தள்ளிப்போடுவது சட்டப்படி அனுமதிக்கப்படாது.\nஅரசமைப்புச் சட்டத்தின் 22(2) பிரிவின்படி கைது செய்யப்பட்டவரை 24 மணி நேரத்திற்குள் அருகிலுள்ள நீதிபதி முன் ஆஜர்படுத்த வேண்டும். ஆரம்பகட்ட சோதனைகளில் காரணம் கிடைக்காவிட்டால் விடுவித்திருக்க வேண்டும்; தேவைப்பட்டால் பின்னர் மீண்டும் கைது செய்திருக்கலாம். முறையான கைது இன்றி நீண்ட காலம் தடுத்து வைப்பது, அரசமைப்புச் சட்டம் 21ஆம் பிரிவின் தனிநபர் சுதந்திர உரிமைக்கும், 22ஆம் பிரிவின் குறிப்பிட்ட பாதுகாப்புகளுக்கும் முரணானது என்று உத்தரவில் நீதிமன்றம் கூறியுள்ளது.\n\nDelhi court grants bail, detention before arrest violated rights | Delhi news\n📍 தில்லி | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Delhi #நீதிமன்றம் #ChennaiNews",
+   "prompts": "A Delhi court hall with a judge's bench and a wooden desk, where a bail order is being read out in a case involving a man held over 24 hours before formal arrest. Lawyers in black coats and court staff stand near the bench, seen from behind and at a distance. Behind the bench a Delhi court wall clock shows a late-morning time, and tall windows let in daylight. A few people sit on wooden benches in the public gallery, with their backs to the camera, and a uniformed court official holds a file. The room is clean and formal, with ceiling fans and a plain wall of the High Court-style district court. Shot at eye level, 35 mm, wide enough to show the full bench and gallery, in soft daylight from the windows. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a table in a customs examination room at an airport arrivals area in Delhi, where a travel bag lies open beside seized electronics: several black remote controllers, a row of plug adapters, a bundle of power cables and a mobile phone, with a stack of papers and a customs seizure file beside them. A gloved hand of an officer in uniform rests at the edge of the frame. Behind the table, out of focus, the blurred shape of a steel cabinet and fluorescent-lit ceiling tubes in the late-night terminal. Shot close at a slightly high angle, 35 mm, shallow depth of field, cool artificial light from the ceiling. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/21/bail-granted-to-an-individual-who-had-been-held-in-custody-for-over-24-hours-prior-to-their-formal-arrest-delhi-court-issues-order",
+   "published": "2026-11-21T20:47:00.000Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 211 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); reel_script has numbers without their meaning ((2); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304491/chennaiminnal/okuygmdogn30iqxqdeil.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795304509/chennaiminnal/vht8lykewtn73fqr2pdw.jpg"
    ]
   }
  ]
