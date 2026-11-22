@@ -3,341 +3,356 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/possibility-of-rain-in-tamil-nadu-starting-tomorrow",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-should-be-declared-a-drought-hit-state-stpi-party-insists",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/accident-risk-on-arcot-road-due-to-haphazard-parking/4383102",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/chennai-kasimedu-fishermen-call-off-protest",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/chief-minister-vijay-annanagar-inspects-flood-affected-areas-in-the-field-at-midnight/4383179",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-65-lakh-compensation-for-the-family-who-lost-their-husband-in-a-van-crash/4383256",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/removal-of-106-roadside-encroachments-on-anna-nagar-pulla-avenue/4383255",
+  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68761",
   "candidate filter: collected=4",
   "to write: 4 Chennai district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/chennai-kasimedu-",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-687",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-shoul",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/possibility-of-ra",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 78 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
   "filed: 4 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok gemini/gemini-3-flash-preview (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னை காசிமேடு மீனவர்கள் போராட்டம் வாபஸ்: அமைச்சருடன் பேச்சுவார்த்தையில் உடன்பாடு",
-   "english_headline": "Kasimedu fishermen in Chennai call off strike after successful talks with Minister Maria Wilson",
-   "category": "Government & Services",
-   "location": "Kasimedu, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போராட்டம் வாபஸ்",
-    "loc": "காசிமேடு, சென்னை",
-    "hl1": "காசிமேட்டில் மீனவர்கள் போராட்டம் வாபஸ்",
-    "hl2": "அமைச்சருடன் பேச்சுவார்த்தை",
-    "slides": [
-     {
-      "title": "போராட்டம் வாபஸ்",
-      "lines": [
-       "சென்னை <b>காசிமேடு</b> மீனவர்கள் போராட்டம் வாபஸ்",
-       "அமைச்சர் <b>மரிய வில்சன்</b> பேச்சுவார்த்தை வெற்றி",
-       "மீனவர்களுடன் உடன்பாடு எட்டப்பட்டது"
-      ]
-     },
-     {
-      "title": "மீனவர் கோரிக்கைகள்",
-      "lines": [
-       "ஆந்திர அரசு பிடித்த <b>8 படகுகளை</b> மீட்க கோரிக்கை",
-       "முரசு புயலில் இறந்த <b>9 பேர்</b> குடும்பத்திற்கு நிதி",
-       "தலா <b>ரூ.20 லட்சம்</b> நிவாரணம், அரசு வேலை கோரிக்கை"
-      ]
-     },
-     {
-      "title": "சந்தை பாதிப்பு",
-      "lines": [
-       "<b>800க்கும் மேற்பட்ட</b> விசைப்படகுகள் கடலுக்குச் செல்லவில்லை",
-       "காசிமேடு மீன் சந்தை வெறிச்சோடியது",
-       "மீன்வளத்துறை அலுவலகத்தில் பேச்சுவார்த்தை நடைபெற்றது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னை காசிமேட்டில் மீனவர்கள் நடத்திய காலவரையற்ற போராட்டம் அமைச்சருடனான பேச்சுவார்த்தைக்குப் பின் வாபஸ் பெறப்பட்டது. ஆந்திர காவல்துறையால் சிறைபிடிக்கப்பட்ட 8 மீன்பிடி படகுகளை மீட்கக் கோரி காசிமேடு மீனவர்கள் இந்தப் போராட்டத்தைத் தொடங்கினர். முரசு புயலில் சிக்கி உயிரிழந்த 9 மீனவர்களின் குடும்பங்களுக்குத் தலா ரூ.20 லட்சம் நிவாரணத் தொகையும், ஒருவருக்கு அரசுப் பணியும் வழங்கக் கோரிக்கை விடுக்கப்பட்டது. சுமார் 800க்கும் மேற்பட்ட விசைப்படகுகள் கடலுக்குச் செல்லாததால் காசிமேடு மீன் சந்தை வெறிச்சோடியது. இந்நிலையில் சென்னை மீன்வளத்துறை துணை இயக்குநர் அலுவலகத்தில் அமைச்சர் மரிய வில்சன் இன்று பேச்சுவார்த்தை நடத்தினார். இதில் சிறைபிடிக்கப்பட்ட படகுகளின் உரிமையாளர்கள், மீனவர் சங்கப் பிரதிநிதிகள் மற்றும் மீன்வளத்துறை அதிகாரிகள் பங்கேற்றனர். இந்தப் பேச்சுவார்த்தையில் உடன்பாடு எட்டப்பட்டதை அடுத்து மீனவர்கள் போராட்டத்தைக் கைவிட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚓ சென்னை காசிமேடு மீனவர்கள் போராட்டம் வாபஸ் - அமைச்சருடன் பேச்சுவார்த்தையில் உடன்பாடு\n\n📰 முழு விவரம்:\nசென்னை காசிமேட்டில் மீனவர்கள் நடத்தி வந்த காலவரையற்ற போராட்டம் தமிழ்நாடு அரசுடன் நடைபெற்ற பேச்சுவார்த்தையை அடுத்து வாபஸ் பெறப்பட்டது.\nஆந்திர காவல்துறையால் சிறைபிடிக்கப்பட்ட 8 மீன்பிடி படகுகளை விடுவிக்கக் கோரியும், முரசு புயலில் சிக்கி உயிரிழந்த 9 மீனவர்களின் குடும்பங்களுக்குத் தலா ரூ.20 லட்சம் நிவாரணத் தொகை மற்றும் ஒருவருக்கு அரசுப் பணி வழங்கக் கோரியும் இந்த போராட்டம் நடைபெற்றது.\nசுமார் 800க்கும் மேற்பட்ட விசைப்படகு மீனவர்கள் கடலுக்குச் செல்லாததால் காசிமேடு மீன் சந்தை முற்றிலும் வெறிச்சோடியது.\nஇன்று மீன்வளத்துறை துணை இயக்குநர் அலுவலகத்தில் அமைச்சர் மரிய வில்சன் தலைமையில் பேச்சுவார்த்தை நடைபெற்றது. இதில் படகு உரிமையாளர்கள், மீனவர் சங்கப் பிரதிநிதிகள், அதிகாரிகள் பங்கேற்றனர். பேச்சுவார்த்தையில் உடன்பாடு எட்டப்பட்டதை அடுத்து போராட்டம் திரும்பப் பெறப்பட்டது.\n\n📍 இடம்: காசிமேடு, சென்னை\n🗓️ நாள்: 22 நவம்பர் 2026\n👮 நடவடிக்கை: அமைச்சர் மரிய வில்சன் தலைமையில் பேச்சுவார்த்தை நடத்தப்பட்டு போராட்டம் வாபஸ் பெறப்பட்டது\nℹ️ மக்கள் கவனத்திற்கு: காசிமேடு மீனவர்கள் போராட்டம் வாபஸ் பெறப்பட்டதால் மீன் சந்தை இயல்பு நிலைக்குத் திரும்புகிறது\n\nமீனவர்கள் மற்றும் வியாபாரிகளுக்கு Share செய்யுங்கள்\n\nKasimedu Chennai fishermen strike called off | Kasimedu news\n📍 காசிமேடு, சென்னை | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Kasimedu #Chennai #KasimeduFishermen #சென்னை",
-   "prompts": "A minister in a formal shirt shakes hands with a group of fishermen representatives, signalling the end of a strike after a successful negotiation. The meeting takes place inside the fisheries department deputy director’s office in Kasimedu, a modest government building with a simple tiled floor and a large wooden table. From behind, the minister and the fishermen sit opposite each other, their backs to the camera, while a few department officials stand to the side, all in plain clothing. The room contains a rectangular table, several chairs, and a wall clock; daylight streams through a small window, casting soft light. Shot at eye level with a 35 mm lens, the frame captures the participants and the table clearly, emphasizing the agreement. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nAn empty Kasimedu fish market stretches across the foreground, rows of metal stalls and wooden canopies standing silent after the strike. The market’s concrete floor is littered with a few discarded fish crates and a stray net, while distant fishermen in bright shirts linger near the entrance, their backs turned toward the camera. Overhead, the sky is clear, indicating ordinary daylight. No vehicles are present, and the scene conveys the market’s temporary abandonment. The camera is positioned slightly high, using a 35 mm lens to encompass the wide area, focusing on the vacant stalls as the visual proof of the strike’s recent cessation. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/chennai-kasimedu-fishermen-call-off-protest",
-   "published": "2026-11-22T09:32:24Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795347371/chennaiminnal/xoiw7l1jd9qhfpamcayr.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795347373/chennaiminnal/ezrlzvge0f8otjwmciyb.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வளசரவாக்கம் ஆற்காடு சாலையில் தாறுமாறாக நிறுத்தப்படும் வாகனங்கள்: கடும் போக்குவரத்து நெரிசலால் விபத்து அபாயம்",
-   "english_headline": "Haphazard parking on Arcot Road, Valasaravakkam causes severe traffic congestion and accident risks",
+   "tamil_headline": "வேன் மோதிய விபத்தில் கணவனை இழந்த குடும்பத்திற்கு ரூ.63.95 லட்சம் இழப்பீடு",
+   "english_headline": "Family of man killed in van collision in Thiruvottiyur gets Rs 63.95 lakh compensation from Royal Sundaram insurer",
    "category": "Roads & Transport",
-   "location": "Valasaravakkam, Arcot Road, Chennai district",
+   "location": "Thiruvottiyur, Chennai district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "போக்குவரத்து நெரிசல்",
-    "loc": "வளசரவாக்கம், சென்னை",
-    "hl1": "வளசரவாக்கம் ஆற்காடு சாலையில் நெரிசல்",
-    "hl2": "விபத்து அபாயம்: கடும்",
+    "cat": "விபத்து இழப்பீடு",
+    "loc": "திருவொற்றியூர், சென்னை",
+    "hl1": "திருவொற்றியூர் விபத்து: ரூ.63.95 லட்சம்",
+    "hl2": "30 நாட்களுக்குள் வழங்க",
     "slides": [
      {
-      "title": "ஆற்காடு சாலை",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "வளசரவாக்கம் ஆற்காடு சாலையில் கடும் போக்குவரத்து நெரிசல்",
-       "கடைகளுக்கு வரும் வாகனங்கள் தாறுமாறாக நிறுத்தப்படுகின்றன",
-       "இதனால் வாகன ஓட்டிகள், பாதசாரிகள் பெரும் அவதி"
+       "2024 மே 20 இரவு 8:15 மணிக்கு விபத்து",
+       "திருவொற்றியூர் பஞ்சாயத்து சாலையில் நடந்தது",
+       "அதிவேகமாக வந்த ஈச்சர் வேன் இருசக்கர வாகனத்தில் மோதியது"
       ]
      },
      {
-      "title": "நெரிசலுக்குக்",
+      "title": "யார் பாதிப்பு?",
       "lines": [
-       "மெட்ரோ ரயில் மற்றும் மழைநீர் வடிகால் பணிகள் நடப்பு",
-       "இதனால் பல இடங்களில் சாலையின் அகலம் குறைந்துள்ளது",
-       "உணவகங்கள், கடைகளில் போதிய பார்க்கிங் வசதி இல்லை"
+       "காலடிப்பேட்டை பாஸ்கர், <b>29</b> வயது உயிரிழந்தார்",
+       "மனைவி ரேவதிக்கு இடது காலில் எலும்பு முறிவு",
+       "இரண்டு வயது மகளுக்கு உடலில் பலத்த காயம்"
       ]
      },
      {
-      "title": "போலீசார்",
+      "title": "இழப்பீடு எவ்வளவு?",
       "lines": [
-       "வளசரவாக்கம் போக்குவரத்து போலீசாருக்கு ஆட்கள் பற்றாக்குறை",
-       "வானகரம், சுங்கச்சாவடி வரை எல்லை விரிவாக்கம்",
-       "மாற்று இடவசதி ஏற்படுத்த பொதுமக்கள் கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வளசரவாக்கம் ஆற்காடு சாலையில் தாறுமாறாக நிறுத்தப்படும் வாகனங்களால் கடும் போக்குவரத்து நெரிசல் ஏற்பட்டு வருகிறது. சென்னையின் பிரதான சாலைகளில் ஒன்றான ஆற்காடு சாலை, கோடம்பாக்கம், வடபழனி மற்றும் போரூர் உள்ளிட்ட பகுதிகளை இணைக்கிறது. தற்போது இந்த சாலையில் மெட்ரோ ரயில் மற்றும் மழைநீர் வடிகால் பணிகள் நடைபெற்று வருகின்றன. இதனால் சாலையின் அகலம் பல இடங்களில் குறைந்துள்ளது. இந்நிலையில் வளசரவாக்கத்தில் உள்ள தேநீர் கடைகள், உணவகங்கள் மற்றும் துணிக்கடைகளுக்கு வரும் வாடிக்கையாளர்கள், தங்கள் வாகனங்களைச் சாலையோரத்திலேயே நிறுத்திச் செல்கின்றனர். கடைகளில் போதிய பார்க்கிங் வசதி இல்லாததே இதற்கு முக்கிய காரணமாகக் கூறப்படுகிறது. இதனால் பாதசாரிகள் சாலையில் நடந்து செல்லும் சூழல் ஏற்பட்டு விபத்து அபாயம் நிலவுகிறது. வளசரவாக்கம் போக்குவரத்து காவல் நிலையத்தில் போலீசார் பற்றாக்குறை உள்ளதால், போக்குவரத்தைச் சீரமைப்பதில் சிக்கல் நீடிக்கிறது. எனவே ஆற்காடு சாலையில் போக்குவரத்துக்கு இடையூறாக நிறுத்தப்படும் வாகனங்கள் மீது நடவடிக்கை எடுக்க வேண்டும் எனப் பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚦 வளசரவாக்கம் ஆற்காடு சாலையில் கடும் போக்குவரத்து நெரிசல்: தாறுமாறாக நிறுத்தப்படும் வாகனங்களால் விபத்து அபாயம்\n\n📰 முழு விவரம்:\nசென்னையின் முக்கிய சாலையான ஆற்காடு சாலையில் வளசரவாக்கம் பகுதியில் கடும் போக்குவரத்து நெரிசல் ஏற்பட்டு வருகிறது. கோடம்பாக்கம், வடபழனி, போரூர் ஆகிய பகுதிகளை இணைக்கும் இந்த சாலையில் தற்போது மெட்ரோ ரயில் மற்றும் மழைநீர் வடிகால் பணிகள் நடைபெற்று வருகின்றன. இதனால் சாலையின் அகலம் குறைந்துள்ள நிலையில், கடைகளுக்கு வரும் வாடிக்கையாளர்கள் வாகனங்களைச் சாலையோரத்திலேயே தாறுமாறாக நிறுத்திச் செல்கின்றனர். உணவகங்கள், தேநீர் கடைகளில் போதிய பார்க்கிங் வசதி இல்லாததால் இந்த நிலை ஏற்பட்டுள்ளது. இதனால் பாதசாரிகள் விபத்தில் சிக்கும் அபாயம் உள்ளது. வளசரவாக்கம் போக்குவரத்து காவல் எல்லை விரிவாக்கம் செய்யப்பட்டுள்ள நிலையில், போலீசார் பற்றாக்குறையால் போக்குவரத்தைச் சீரமைக்க முடியாத நிலை உள்ளது.\n\n📍 இடம்: ஆற்காடு சாலை, வளசரவாக்கம்\n🗓️ நாள்: 22 நவம்பர் 2026\n⚠️ பிரச்சனை: தாறுமாறான வாகன நிறுத்தம் மற்றும் நெரிசல்\n👮 கோரிக்கை: ஆக்கிரமிப்பு வாகனங்கள் மீது நடவடிக்கை எடுக்க வேண்டும்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nValasaravakkam Arcot Road traffic jam due to illegal parking | Chennai news\n📍 Valasaravakkam, Chennai | 22 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Valasaravakkam #Traffic #ChennaiNews",
-   "prompts": "A line of assorted vehicles – cars, two‑wheelers and autorickshaws – are parked haphazardly along both sides of Arcot Road, forcing the remaining traffic into a narrow lane and creating a long queue of stopped vehicles. The scene is on Arcot Road in Valasaravakkam, a busy Chennai arterial road flanked by small tea stalls, eateries, cloth shops and sweet shops, with a visible construction barrier for metro‑rail and rain‑water drainage work narrowing the carriageway. From behind, a handful of drivers sit in their parked cars, a few pedestrians in sarees and shirts walk along the curb, and two police officers in khaki stand near a traffic pole, looking at the jam. Parked vehicles, a construction fence, a few MTC buses passing slowly, shop awnings. Daylight, clear sky, typical Chennai afternoon. Eye‑level, 35 mm lens, wide enough to capture the road and shop fronts. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA red two‑wheeler is parked across the narrowed lane of Arcot Road, its wheels jutting onto the travel lane and blocking the flow of traffic. The close‑up shows the same road in Valasaravakkam, with the shop front of a tea stall visible in the background and the construction barrier on the side. A pedestrian in a saree is seen from behind, stepping around the bike, while a driver in a car peers over the steering wheel from the opposite side. The parked two‑wheeler, a nearby parked car, the concrete construction barrier, and a metal traffic cone. Mid‑day sunlight creates sharp shadows on the asphalt. Slightly high angle, 35 mm, tight framing to focus on the obstructing vehicle and the pedestrian's detour. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/accident-risk-on-arcot-road-due-to-haphazard-parking/4383102",
-   "published": "2026-11-22T16:16:19+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795347380/chennaiminnal/lphygjny6kx6ofnqpt5q.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795347383/chennaiminnal/hcvga1a3rqu52gurutqh.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தமிழகத்தில் நாளை (நவம்பர் 23) முதல் மழைக்கு வாய்ப்பு",
-   "english_headline": "Rain likely from tomorrow in parts of Tamil Nadu including Chennai, says Weather Centre director",
-   "category": "Weather & Agriculture",
-   "location": "Chennai, Tamil Nadu",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மழை எச்சரிக்கை",
-    "loc": "சென்னை, தமிழகம்",
-    "hl1": "நாளை முதல் சென்னை உள்பட மழைக்கு வாய்ப்பு",
-    "hl2": "கிழக்கு திசை காற்றால் மழை",
-    "slides": [
-     {
-      "title": "மழை எப்போது?",
-      "lines": [
-       "நாளை (நவ.23) முதல் மழைக்கு வாய்ப்பு",
-       "சென்னை உள்பட தமிழகத்தின் பல பகுதிகளில் மழை",
-       "வானிலை மைய இயக்குனர் துரை தகவல்"
-      ]
-     },
-     {
-      "title": "ஏன் மழை?",
-      "lines": [
-       "கிழக்கு திசை காற்று காரணமாக மழை பெய்ய வாய்ப்பு",
-       "இந்த ஆண்டு வடகிழக்கு பருவமழை இதுவரை பெரிய அளவில் இல்லை",
-       "3 புயல்களும் ஆந்திரா, ஒடிசா நோக்கி சென்றன"
+       "பாஸ்கரின் பெற்றோருக்கு <b>51.72 லட்சம்</b> ரூபாய்",
+       "ரேவதிக்கு <b>9.92 லட்சம்</b> ரூபாய்",
+       "குழந்தைக்கு <b>2.31 லட்சம்</b> ரூபாய்"
       ]
      },
      {
       "title": "அடுத்து என்ன?",
       "lines": [
-       "அடுத்த மாதம் முதல் வாரத்தில் புதிய காற்றழுத்த தாழ்வு பகுதி",
-       "நல்ல மழை கிடைக்கக்கூடும் என வானிலை ஆய்வாளர்கள் கணிப்பு"
+       "ராயல் சுந்தரம் காப்பீட்டு நிறுவனம் வழங்க வேண்டும்",
+       "30 நாட்களுக்குள் மனுதாரருக்கு பணம் வழங்க வேண்டும்",
+       "வேன் ஓட்டுநரின் அஜாக்கிரதையே காரணம் என தீர்ப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை உள்பட தமிழகத்தின் பல பகுதிகளில் நாளை, நவம்பர் 23ஆம் தேதி, முதல் மழை பெய்ய வாய்ப்புள்ளது. இதை வானிலை மைய இயக்குனர் துரை தெரிவித்துள்ளார். கிழக்கு திசை காற்று காரணமாக இந்த மழை பெய்யக்கூடும் என அவர் கூறியுள்ளார். இந்த ஆண்டு வடகிழக்கு பருவமழை இதுவரை பெரிய அளவில் மழை கொடுக்கவில்லை. அடுத்தடுத்து உருவான 3 புயல்களும் ஆந்திரா, ஒடிசா மாநிலங்களை நோக்கிச் சென்றுவிட்டன. இதனால் சென்னை மற்றும் புறநகர் பகுதிகளிலும் மழை பெய்யவில்லை. இதற்கிடையே, அடுத்த மாதம் முதல் வாரத்தில் புதிய காற்றழுத்த தாழ்வு பகுதி உருவாக வாய்ப்புள்ளதாக வானிலை ஆய்வாளர்கள் கணித்துள்ளனர். அது நல்ல மழையைக் கொடுக்கக்கூடும் என்றும் அவர்கள் கூறியுள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ நாளை (நவம்பர் 23) முதல் சென்னை உள்பட தமிழகத்தில் மழைக்கு வாய்ப்பு\n\n📰 முழு விவரம்:\nதமிழகத்தில் இந்த ஆண்டு வடகிழக்கு பருவமழை இதுவரை பெரிய அளவில் மழை கொடுக்கவில்லை. அடுத்தடுத்து உருவான 3 புயல்களும் ஆந்திரா, ஒடிசா மாநிலங்களை நோக்கிச் சென்றதால் சென்னை மற்றும் புறநகர் பகுதிகளிலும் மழை பெய்யவில்லை.\nநாளை (நவம்பர் 23) முதல் சென்னை உள்பட தமிழகத்தின் பல பகுதிகளில் மழை பெய்ய வாய்ப்புள்ளதாக வானிலை மைய இயக்குனர் துரை தெரிவித்துள்ளார். கிழக்கு திசை காற்று காரணமாக மழை பெய்யக்கூடும் என்றும் கூறியுள்ளார்.\nஅடுத்த மாதம் முதல் வாரத்தில் புதிய காற்றழுத்த தாழ்வு பகுதி உருவாக வாய்ப்புள்ளதாகவும், அது நல்ல மழையைக் கொடுக்கக்கூடும் என்றும் வானிலை ஆய்வாளர்கள் கணித்துள்ளனர்.\n\n📍 இடம்: சென்னை உள்பட தமிழகத்தின் பல பகுதிகள்\n🗓️ நாள்: நவம்பர் 23 முதல்\nℹ️ மக்கள் கவனத்திற்கு: மழைக்கு தயாராக இருங்கள்.\n\nChennai rain likely from tomorrow | Tamil Nadu weather news\n📍 சென்னை, தமிழ்நாடு | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiRain #மழை #சென்னை",
-   "prompts": "Heavy grey monsoon clouds gather over the skyline of Chennai city as the first drops of rain begin to fall on a wide city road near Anna Salai, with a few two-wheelers and an MTC town bus slowing down in the early overcast light. In the foreground, a few commuters seen from behind hold umbrellas and wait at a bus stop, shirts and sarees fluttering slightly in the breeze from the east. Tall office buildings and flyovers fade into the grey haze in the distance, and the road surface begins to show wet patches. Daylight, cloudy and humid, the sky darkening toward the horizon. Camera at eye level, 35 mm, wide enough to show the road, the buses and the skyline together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a dark wet tar road in Chennai, with fresh rain drops forming small ripples in a shallow puddle that reflects the grey, heavy monsoon sky. Beside the puddle a few dry dust patches and cracks in the road show the weeks of dry weather, while a single two-wheeler tyre rolls slowly through the water at the edge of the frame. Blurred background of a roadside with a low concrete drain and a few dried leaves. Overcast daylight, soft and diffused, no harsh shadows. Camera low and close, 50 mm, focused on the water and road texture. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/possibility-of-rain-in-tamil-nadu-starting-tomorrow",
-   "published": "2026-11-22T09:53:18Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "திருவொற்றியூரில் வேன் மோதிய விபத்தில் கணவரை இழந்த குடும்பத்திற்கு ரூ.63.95 லட்சம் இழப்பீடு வழங்க உத்தரவு. 2024 மே 20ஆம் தேதி இரவு 8:15 மணியளவில் விபத்து நடந்தது. காலடிப்பேட்டையைச் சேர்ந்த பாஸ்கர், 29 வயது, தனது மனைவி ரேவதி, 28 வயது, மற்றும் இரண்டு வயது மகளுடன் இருசக்கர வாகனத்தில் சென்றார். திருவொற்றியூர் பஞ்சாயத்து சாலையில் என் எம் டி கழிவுநீர் சுத்திகரிப்பு நிலையம் அருகே அதிவேகமாக வந்த ஈச்சர் வேன் அவர்களின் இருசக்கர வாகனத்தில் மோதியது. பலத்த காயமடைந்த பாஸ்கர் சிகிச்சை பலனின்றி உயிரிழந்தார். ரேவதிக்கு இடது காலில் எலும்பு முறிவும், இரண்டு வயது குழந்தைக்கு உடலில் பலத்த காயமும் ஏற்பட்டன. குடும்பத்தினர் சென்னை மோட்டார் வாகன விபத்து இழப்பீட்டு தீர்ப்பாயத்தில் மூன்று வழக்குகள் தொடர்ந்தனர். நீதிபதி எஸ். தர்மபிரபு, வேன் ஓட்டுநரின் அஜாக்கிரதையே விபத்திற்குக் காரணம் என தெரிவித்தார். பாஸ்கரின் பெற்றோருக்கு 51.72 லட்சம் ரூபாய், ரேவதிக்கு 9.92 லட்சம் ரூபாய், குழந்தைக்கு 2.31 லட்சம் ரூபாய் என மொத்தம் 63.95 லட்சம் ரூபாய் இழப்பீடு வழங்க வேண்டும். இந்தத் தொகையை ராயல் சுந்தரம் காப்பீட்டு நிறுவனம் 30 நாட்களுக்குள் வழங்க வேண்டும் என நீதிபதி உத்தரவிட்டார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருவொற்றியூர் விபத்தில் கணவரை இழந்த குடும்பத்துக்கு ரூ.63.95 லட்சம் இழப்பீடு\n\n📰 முழு விவரம்:\n2024 மே 20 இரவு 8:15 மணிக்கு திருவொற்றியூர் பஞ்சாயத்து சாலையில் நடந்த இந்த விபத்தில், இருசக்கர வாகனத்தில் சென்ற காலடிப்பேட்டை பாஸ்கர் (29 வயது) மீது அதிவேகமாக வந்த ஈச்சர் வேன் மோதியது. சிகிச்சை பலனின்றி பாஸ்கர் உயிரிழந்தார். மனைவி ரேவதிக்கு இடது காலில் எலும்பு முறிவு ஏற்பட்டது; இரண்டு வயது மகளுக்குப் பலத்த காயம். வேன் ஓட்டுநரின் அஜாக்கிரதையால்தான் விபத்து நடந்ததாக சென்னை மோட்டார் வாகன விபத்து இழப்பீட்டு தீர்ப்பாயம் கூறியுள்ளது.\n👨‍👩‍👧 இழப்பீடு விவரம்:\n• பாஸ்கரின் பெற்றோர்: ரூ.51.72 லட்சம்\n• மனைவி ரேவதி: ரூ.9.92 லட்சம்\n• இரண்டு வயது குழந்தை: ரூ.2.31 லட்சம்\nமொத்தம் ரூ.63.95 லட்சம்.\n🏦 இந்தத் தொகையை ராயல் சுந்தரம் காப்பீட்டு நிறுவனம் 30 நாட்களுக்குள் மனுதாரர்களுக்கு வழங்க வேண்டும் என நீதிபதி எஸ். தர்மபிரபு உத்தரவிட்டுள்ளார்.\n\nThiruvottiyur accident compensation Rs 63.95 lakh | Chennai news\n📍 திருவொற்றியூர், சென்னை மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Thiruvottiyur #ChennaiNews #சென்னை",
+   "prompts": "A white Eicher van stands parked at the edge of a busy Thiruvottiyur road in north Chennai at dusk, its front bumper dented and its windscreen cracked, while a crumpled two-wheeler lies on the roadside nearby; a few shops with roll-down shutters and their lights on line the pavement, and a Tamil Nadu traffic policeman in khaki stands at a distance near a flyover-free stretch with autorickshaws and town buses passing behind. Seen from eye level across the road at a distance, the scene shows the place type clearly: a two-lane urban road with concrete pavements, overhead street lamps just switched on, and a sewage treatment area's chain-link fence visible further down. Evening light, the sky turning deep blue, a faint warm glow from shop lights, shot with a 35 mm lens wide enough to show the whole road and the damaged vehicles in the foreground. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a court compensation order document lying on a wooden table in a Chennai tribunal office, beside a steel tumbler of water and a stack of case files tied with red tape; the paper is slightly blurred at the edges so no words are readable, and a folded Tamil Nadu government-style sheet sits beside it. Behind the table, a few people in shirts and sarees are seen from behind, sitting on wooden benches in a room with ceiling fans and tube lights, and through a window a grey sky over the city shows that it is daytime. Shot at a low angle slightly above the table with a 35 mm lens, shallow depth of field, soft natural light from the window, no readable text, no faces, and no injuries or blood visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-65-lakh-compensation-for-the-family-who-lost-their-husband-in-a-van-crash/4383256",
+   "published": "2026-11-22T17:52:36+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 28 ('இவர் 2024 மே 20ம் தேதி இரவு 8:15 மணியளவில் மனைவி ரேவதி, 28 ம')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795347413/chennaiminnal/zosfazz5pp4imbd1cse7.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795347416/chennaiminnal/ujoszabmgxizytxzygtx.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361797/chennaiminnal/m2xfg1xa7px5xrwimysz.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361830/chennaiminnal/qykt1pbwernasnqwa2uq.jpg"
    ]
   },
   {
-   "tamil_headline": "தமிழகத்தை வறட்சி பாதித்த மாநிலமாக அறிவிக்க வேண்டும்: எஸ்டிபிஐ வலியுறுத்தல்",
-   "english_headline": "SDPI urges Tamil Nadu govt to declare the whole state drought-hit, demands Rs 40,000 per acre relief",
-   "category": "Weather & Agriculture",
-   "location": "Tamil Nadu (statewide), Chennai district",
+   "tamil_headline": "அரியலூர் மீன்சுருட்டியில் சாலையில் 30-க்கும் மேற்பட்ட கால்நடைகள்: விபத்து அபாயம்",
+   "english_headline": "Over 30 cattle roam roads at Meensurutti, Ariyalur; accidents, injuries and deaths reported",
+   "category": "Roads & Transport",
+   "location": "Meensurutti, Ariyalur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து அபாயம்",
+    "loc": "மீன்சுருட்டி, அரியலூர்",
+    "hl1": "மீன்சுருட்டியில் சாலையில் கால்நடைகள்",
+    "hl2": "30-க்கும் மேற்பட்ட",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "மீன்சுருட்டி கடைவீதி, அரியலூர் மாவட்டம்",
+       "சென்னை, கும்பகோணம், சிதம்பரம் செல்லும் தேசிய நெடுஞ்சாலைகள்",
+       "மாலை, இரவு நேரங்களில் கால்நடைகள் சுற்றித்திரிகின்றன"
+      ]
+     },
+     {
+      "title": "என்ன ஆபத்து?",
+      "lines": [
+       "வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்கி காயமடைகின்றனர்",
+       "உயிரிழப்புகளும் ஏற்படுகின்றன",
+       "சாலைகளை ஆக்கிரமிப்பதால் அச்சத்துடன் செல்ல வேண்டிய நிலை"
+      ]
+     },
+     {
+      "title": "என்ன தேவை?",
+      "lines": [
+       "கால்நடைகளால் ஏற்படும் விபத்துகளைத் தடுக்க வேண்டும்",
+       "சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அரியலூர் மாவட்டம் மீன்சுருட்டியில் சாலைகளில் 30-க்கும் மேற்பட்ட கால்நடைகள் சுற்றித்திரிகின்றன. மீன்சுருட்டி கடைவீதியிலும், சென்னை, கும்பகோணம், சிதம்பரம் செல்லும் தேசிய நெடுஞ்சாலைகளிலும் இந்த நிலை உள்ளது. மாலை மற்றும் இரவு நேரங்களில் கால்நடைகள் அதிகம் காணப்படுகின்றன. இதனால் வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்கி காயமடைகின்றனர். விபத்துகளால் உயிரிழப்புகளும் ஏற்படுகின்றன. கால்நடைகள் சாலைகளை ஆக்கிரமிப்பதால் வாகன ஓட்டிகள் அச்சத்துடன் பயணிக்க வேண்டிய நிலை உள்ளது. கால்நடைகளால் ஏற்படும் விபத்துகளைத் தடுக்க சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மீன்சுருட்டியில் சாலையில் 30-க்கும் மேற்பட்ட கால்நடைகள்: விபத்து அபாயம்\n\n📰 முழு விவரம்:\nஅரியலூர் மாவட்டம் மீன்சுருட்டி கடைவீதி மற்றும் சென்னை, கும்பகோணம், சிதம்பரம் செல்லும் தேசிய நெடுஞ்சாலைகளில் மாலை மற்றும் இரவு நேரங்களில் 30-க்கும் மேற்பட்ட கால்நடைகள் சுற்றித்திரிகின்றன. இதனால் வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்கி காயமடைகின்றனர். விபத்துகளால் உயிரிழப்புகளும் ஏற்படுகின்றன. கால்நடைகள் சாலைகளை ஆக்கிரமிப்பதால் வாகன ஓட்டிகள் அச்சத்துடன் செல்ல வேண்டிய நிலை உள்ளது.\n📍 இடம்: மீன்சுருட்டி கடைவீதி, அரியலூர் மாவட்டம்\n👮 நடவடிக்கை: கால்நடைகளால் ஏற்படும் விபத்துகளைத் தடுக்க சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்\n\nCattle roaming on roads Meensurutti Ariyalur | Chennai news\n📍 மீன்சுருட்டி, அரியலூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #அரியலூர்",
+   "prompts": "A herd of more than thirty cattle, mostly cows and buffaloes, spreads across a busy national highway at dusk in Meensurutti, Ariyalur district, blocking the lanes as traffic approaches. The setting is a semi-urban highway stretch beside a small bazaar, with low shops with shuttered fronts, a few electric street lights just switched on, and a dusty tar road. Two-wheeler riders and car drivers slow down and swerve around the animals, seen from behind and far away, wearing shirts, veshti and helmets. Several two-wheelers and a lorry with headlights on stand near the herd, and a cow stands in the middle of the lane. The sky is dim evening blue, with warm street light and headlight glare on the road. Camera at eye level, 35 mm, wide enough to show the full stretch of road and the herd. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose view of cattle standing in the middle of a dark night road in Meensurutti, Ariyalur, with their bodies filling the lane and a two-wheeler's headlight beam catching their legs and flanks. The tar road is wet and dusty, edged by a roadside drain and the shadowy fronts of small shops. A rider's front wheel and handlebar are visible at the edge of the frame, slowing down, with a helmet and a hand on the brake, the rider seen from behind. Cattle are mostly brown and black cows with a few buffaloes, some with long horns, standing still in the glare. Night light is a mix of yellow street lamps and white headlights. Camera at slightly low angle, 35 mm, close enough to show the animals and the bike's near-miss tension. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68761",
+   "published": "2026-11-22T19:51:23+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (25 words in a row, 79% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361838/chennaiminnal/nupwukewywmekioondtz.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361841/chennaiminnal/lgn1vvndfj5zejv2zbmd.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அண்ணா நகர் புல்லா அவென்யூவில் 106 சாலையோர ஆக்கிரமிப்பு அகற்றம்",
+   "english_headline": "106 roadside encroachments removed on Pulla Avenue in Anna Nagar zone after High Court order",
+   "category": "Civic Issues",
+   "location": "Shenoy Nagar (Pulla Avenue), Anna Nagar zone, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ஆக்கிரமிப்பு அகற்றம்",
+    "loc": "ஷெனாய் நகர், சென்னை",
+    "hl1": "ஷெனாய் நகரில் 106 ஆக்கிரமிப்புகள்",
+    "hl2": "புல்லா அவென்யூவில் இரவு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "உயர் நீதிமன்ற உத்தரவை அடுத்து நடவடிக்கை",
+       "புல்லா அவென்யூவில் <b>106</b> ஆக்கிரமிப்புகள் அகற்றம்",
+       "சென்னை மாநகராட்சி அதிகாரிகள், போலீசார் உதவியுடன் பணி"
+      ]
+     },
+     {
+      "title": "எந்தெந்த",
+      "lines": [
+       "நடைபாதையை மறித்த விளம்பரப் பலகைகள்",
+       "சாலையோர ஆக்கிரமிப்புகள், பயன்பாடில்லாத தெருவோரக் கடைகள்",
+       "அண்ணா நகர் மண்டலம், 101வது வார்டு"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "புல்லா அவென்யூ சாலை <b>1.8 கி.மீ.</b> தூரம்",
+       "நேற்று முன்தினம் நள்ளிரவு முதல் விடியவிடிய பணி",
+       "வியாபாரிகள் வாக்குவாதம்; போலீசார் பேச்சுவார்த்தையில்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அண்ணா நகர் மண்டலம் ஷெனாய் நகர் புல்லா அவென்யூவில் 106 சாலையோர ஆக்கிரமிப்புகள் அகற்றப்பட்டன. உயர் நீதிமன்ற உத்தரவை அடுத்து இந்த நடவடிக்கை எடுக்கப்பட்டது. போக்குவரத்து நெரிசலையும் இடையூறுகளையும் தடுக்கும் வகையில் சென்னை மாநகராட்சி அதிகாரிகள் இப்பணியை மேற்கொண்டனர். நேற்று முன்தினம் நள்ளிரவு முதல் விடியவிடிய போலீசாரின் உதவியுடன் அதிகாரிகள் பணியில் ஈடுபட்டனர். அண்ணா நகர் மண்டலம் 101வது வார்டுக்கு உட்பட்ட ஷெனாய் நகர் புல்லா அவென்யூ சாலையில் இந்த அகற்றம் நடந்தது. புல்லா அவென்யூ சாலை 1.8 கிலோமீட்டர் தூரம் கொண்டது. சாலையின் இருபுறங்களிலும் ஆய்வு செய்யப்பட்டது. நடைபாதையை மறித்திருந்த விளம்பரப் பலகைகள், சாலையோர ஆக்கிரமிப்புகள், பயன்பாடின்றி இருந்த தெருவோரக் கடைகள் அகற்றப்பட்டன. இதைக் கண்டித்து வியாபாரிகள் கடும் வாக்குவாதம் செய்தனர். போலீசார் அவர்களிடம் பேச்சு நடத்தியதை அடுத்து சமாதானம் ஏற்பட்டது. ஆக்கிரமிப்புகள் மீண்டும் உருவாகாமல் மாநகராட்சி அதிகாரிகள் கண்காணிக்க வேண்டும் என்பதே பொதுமக்களின் எதிர்பார்ப்பு. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 ஷெனாய் நகர் புல்லா அவென்யூவில் 106 சாலையோர ஆக்கிரமிப்புகள் அகற்றம்\n\n📰 முழு விவரம்:\nஉயர் நீதிமன்ற உத்தரவை அடுத்து, அண்ணா நகர் மண்டலம் 101வது வார்டுக்கு உட்பட்ட ஷெனாய் நகர் புல்லா அவென்யூ சாலையில் நேற்று முன்தினம் நள்ளிரவு முதல் விடியவிடிய சாலையோர ஆக்கிரமிப்புகள் அகற்றப்பட்டன.\nசென்னை மாநகராட்சி அதிகாரிகள் போலீசாரின் உதவியுடன் இந்தப் பணியை மேற்கொண்டனர்.\nபுல்லா அவென்யூ சாலை 1.8 கிலோமீட்டர் தூரம் கொண்டது. இச்சாலையின் இருபுறங்களிலும் ஆய்வு செய்து, நடைபாதையை மறித்திருந்த விளம்பரப் பலகைகள், சாலையோர ஆக்கிரமிப்புகள், பயன்பாடின்றி இருந்த தெருவோரக் கடைகள் என மொத்தம் 106 ஆக்கிரமிப்புகள் அகற்றப்பட்டன.\nஇதைக் கண்டித்து வியாபாரிகள் கடும் வாக்குவாதத்தில் ஈடுபட்டனர். போலீசார் அவர்களிடம் பேச்சு நடத்தியதை அடுத்து சமாதானம் ஏற்பட்டது.\nஆக்கிரமிப்புகள் மீண்டும் உருவாகாமல் மாநகராட்சி அதிகாரிகள் கண்காணிக்க வேண்டும் என்பதே பொதுமக்களின் எதிர்பார்ப்பு.\n🎯 நோக்கம்: போக்குவரத்து நெரிசல் மற்றும் இடையூறுகளைத் தடுப்பது\n\nShenoy Nagar Pulla Avenue encroachments removed | Chennai news\n📍 ஷெனாய் நகர், சென்னை மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ShenoyNagar #ChennaiNews #சென்னை",
+   "prompts": "Overnight in Shenoy Nagar, Chennai, a Greater Chennai Corporation crew in orange vests works with Tamil Nadu police in khaki along Pulla Avenue, a busy city road lined with footpaths and small shops. Workers are dismantling advertisement boards and roadside stalls that had spilled onto the pavement, and a row of cleared footpath now stretches under yellow-white street lights. Two-wheelers and an autorickshaw are parked at the kerb, and a few shopkeepers in shirts and veshti stand at a distance, watching. Some clearing vehicles and a tipper lorry are parked near the road. The scene is in the dark pre-dawn hours, lit by street lamps and a few shop lights. Camera at eye level, 35 mm lens, wide enough to show the full avenue, workers seen from behind or far away, no readable signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on the footpath of Pulla Avenue at night, where a stack of dismantled advertisement board frames and metal stall parts lies piled at the kerb beside a freshly cleared pavement. A corporation worker's gloved hands and a broom are visible at the edge of the frame, with a pair of khaki-uniformed police boots standing nearby on the cleared stone tiles. Behind the pile, a bare footpath stretches into the street light, with a two-wheeler parked on the road beyond. The light is sodium yellow, the tiles are wet, and the scene shows the pavement finally open for pedestrians. Camera at waist height, 50 mm lens, shallow depth of field, no faces, no readable text or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/removal-of-106-roadside-encroachments-on-anna-nagar-pulla-avenue/4383255",
+   "published": "2026-11-22T17:52:34+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (16 words in a row, 18% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361847/chennaiminnal/j33pjhz7wbyi7tlba1uy.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361850/chennaiminnal/xkdfatyjapuabtsthpht.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "நள்ளிரவில் அண்ணாநகரில் முதல்வர் விஜய் வெள்ள பாதிப்புகளை ஆய்வு",
+   "english_headline": "CM Vijay inspects Anna Nagar flood-prone areas at midnight to prevent waterlogging",
+   "category": "Civic Issues",
+   "location": "Anna Nagar constituency, Chennai, Chennai district",
    "importance": "High",
    "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "வறட்சி நிவாரணம்",
-    "loc": "தமிழ்நாடு",
-    "hl1": "தமிழகம் வறட்சி மாநிலமாக அறிவிக்க",
-    "hl2": "ஏக்கருக்கு ரூ.40 ஆயிரம்",
+    "cat": "வெள்ள முன்னெச்சரிக்கை",
+    "loc": "அண்ணாநகர், சென்னை",
+    "hl1": "அண்ணாநகரில் முதல்வர் விஜய் நேரில் ஆய்வு",
+    "hl2": "நேற்று நள்ளிரவில் களஆய்வு",
     "slides": [
      {
-      "title": "ஏன் இந்த கோரிக்கை?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "வடகிழக்குப் பருவமழை போதிய அளவு பெய்யவில்லை",
-       "காவிரி நீர் பற்றாக்குறையால் விவசாயம் பாதிப்பு",
-       "பயிர்கள் நீரின்றிக் கருகத் தொடங்கியுள்ளன"
+       "அண்ணாநகர் தொகுதியில் முதல்வர் விஜய் நள்ளிரவில் களஆய்வு",
+       "மழைநீர் தேக்கம், வெள்ள பாதிப்பைத் தடுக்க முன்னெச்சரிக்கை",
+       "மழைநீர் வடிகால், வெளியேற்றும் கட்டமைப்புகள் பார்வையிட்டார்"
       ]
      },
      {
-      "title": "டெல்டாவில் நிலைமை",
+      "title": "உத்தரவு என்ன?",
       "lines": [
-       "காவிரி டெல்டாவில் வழக்கமாக <b>18 லட்சம் ஏக்கர்</b> சாகுபடி",
-       "இந்த ஆண்டு சுமார் <b>7 லட்சம் ஏக்கரில்</b> மட்டுமே சாகுபடி",
-       "மேட்டூர் அணை நீர்மட்டம் சரிவு; பாசனத்துக்குத் தண்ணீர் இல்லை"
+       "மழை பாதிப்புகளை முன்கூட்டியே தடுக்க முதல்வர் உத்தரவு",
+       "நவம்பர் <b>25</b> தேதி தலைமைச் செயலகத்தில் ஆலோசனைக் கூட்டம்",
+       "அமைச்சர்கள், உயர் அதிகாரிகள் பங்கேற்பு"
       ]
      },
      {
-      "title": "விவசாயிகள்",
+      "title": "கூட்டத்தில் என்ன?",
       "lines": [
-       "ஏக்கருக்கு <b>ரூ.40,000</b> நிவாரணம் வழங்க வேண்டும்",
-       "பயிர்க்கடன்களை முழுமையாகத் தள்ளுபடி செய்ய வேண்டும்",
-       "வறட்சி நீங்கும் வரை கடன் வசூலிப்பை நிறுத்த வேண்டும்"
+       "மழைநீர் தேங்கும் பகுதிகள் நிலவரம் அறிதல்",
+       "மோட்டார் பம்புகள், மீட்பு உபகரணங்களை தயார் நிலையில் வைத்தல்",
+       "மாநகராட்சி, போலீஸ், பேரிடர் மீட்புக் குழுக்கள் ஒருங்கிணைப்பு"
       ]
      },
      {
-      "title": "அதிகாரிகள் குழு",
+      "title": "மக்கள் கருத்து",
       "lines": [
-       "வருவாய், வேளாண் துறை அதிகாரிகள் குழு அமைக்க வேண்டும்",
-       "போர்க்கால அடிப்படையில் பயிர்ச் சேதம் கணக்கிட வேண்டும்",
-       "நிலவரி உள்ளிட்ட அனைத்து வரிகளும் ரத்து செய்ய வேண்டும்"
+       "முதல்வர் நள்ளிரவில் நேரடியாக களத்தில் இறங்கியதை மக்கள்",
+       "மண்டல வாரியாக அமைச்சர்களுக்கு பொறுப்புகள் வழங்கப்பட்டுள்ளன",
+       "சிறப்பு கண்காணிப்புக் குழு அமைக்கவும் ஆலோசனை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தமிழகத்தை வறட்சி பாதித்த மாநிலமாக அறிவிக்க வேண்டும் என எஸ்டிபிஐ கட்சி வலியுறுத்தியுள்ளது. வடகிழக்குப் பருவமழை போதிய அளவு பெய்யாததாலும், காவிரி நீர்ப் பற்றாக்குறை ஏற்பட்டதாலும் வேளாண் துறை கடுமையான நெருக்கடியைச் சந்தித்து வருகிறது. எஸ்டிபிஐ கட்சியின் மாநிலப் பொறுப்புத் தலைவர் அச. உமர் பாரூக் இதை அறிக்கையில் தெரிவித்துள்ளார். தஞ்சை, திருவாரூர், நாகை, மயிலாடுதுறை உள்ளிட்ட காவிரி டெல்டா மாவட்டங்களில் பயிர்கள் நீரின்றிக் கருகத் தொடங்கியுள்ளன. காவிரி டெல்டாவில் வழக்கமாக 18 லட்சம் ஏக்கருக்கும் அதிகமான நிலத்தில் சாகுபடி நடைபெறும். இந்த ஆண்டு சுமார் 7 லட்சம் ஏக்கரில் மட்டுமே சம்பா மற்றும் தாளடி சாகுபடி நடைபெற்றது. மேட்டூர் அணையின் நீர்மட்டம் சரிந்ததால் தற்போது குடிநீருக்கு மட்டுமே தண்ணீர் திறக்கப்படுகிறது. ஒரு மாதத்துக்கும் மேலாகப் பாசனத்துக்குத் தண்ணீர் திறக்கப்படவில்லை. ஏற்கெனவே குறுவை சாகுபடியில் நஷ்டமடைந்த விவசாயிகள் வட்டிக்குக் கடன் வாங்கி முதலீடு செய்துள்ளனர். கூட்டுறவு வங்கிகளில் பயிர்க்கடனில் ரூ.75,000 மட்டுமே தள்ளுபடி செய்யப்பட்டுள்ளது. மீதித் தொகையைச் செலுத்த வங்கிகள் நிர்ப்பந்திக்கின்றன. பயிர்க் காப்பீட்டு இழப்பீடு கிடைப்பதிலும் கடும் தாமதம் உள்ளது. எனவே, வருவாய் மற்றும் வேளாண் துறை அதிகாரிகள் அடங்கிய குழு அமைத்து, பயிர்ச் சேதங்களைக் கணக்கிட்டு, ஏக்கருக்கு ரூ.40,000 நிவாரணம் வழங்க வேண்டும் என அவர் கோரியுள்ளார். கடன் வசூலிப்பை நிறுத்தி, பயிர்க்கடன்களை முழுமையாகத் தள்ளுபடி செய்ய வேண்டும் என்றும் வலியுறுத்தியுள்ளார். இதுவரை அரசு இதற்கு பதில் அளிக்கவில்லை. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 தமிழகத்தை வறட்சி பாதித்த மாநிலமாக அறிவிக்க வேண்டும்: எஸ்டிபிஐ வலியுறுத்தல்\n\n📰 முழு விவரம்:\nவடகிழக்குப் பருவமழை போதிய அளவு பெய்யாததாலும், காவிரி நீர்ப் பற்றாக்குறை ஏற்பட்டதாலும் வேளாண் துறை கடுமையான நெருக்கடியில் உள்ளது. எஸ்டிபிஐ கட்சியின் மாநிலப் பொறுப்புத் தலைவர் அச. உமர் பாரூக் தமிழகத்தை வறட்சி பாதித்த மாநிலமாக அரசு உடனடியாக அறிவிக்க வேண்டும் என வலியுறுத்தியுள்ளார்.\nதஞ்சை, திருவாரூர், நாகை, மயிலாடுதுறை உள்ளிட்ட காவிரி டெல்டா மாவட்டங்களில் பயிர்கள் நீரின்றிக் கருகத் தொடங்கியுள்ளன. வழக்கமாக 18 லட்சம் ஏக்கருக்கும் அதிகமான நிலத்தில் சாகுபடி நடைபெறும் நிலையில், இந்த ஆண்டு சுமார் 7 லட்சம் ஏக்கரில் மட்டுமே சம்பா, தாளடி சாகுபடி நடைபெற்றது.\nமேட்டூர் அணையின் நீர்மட்டம் சரிந்ததால், ஒரு மாதத்துக்கும் மேலாகப் பாசனத்துக்குத் தண்ணீர் திறக்கப்படவில்லை.\nகூட்டுறவு வங்கிகளில் பெற்ற பயிர்க்கடனில் ரூ.75,000 மட்டுமே தள்ளுபடி செய்யப்பட்டுள்ளது. மீதித் தொகையைச் செலுத்த வங்கிகள் நிர்ப்பந்திக்கின்றன. பயிர்க் காப்பீட்டு இழப்பீடு கிடைப்பதிலும் கடும் தாமதம் உள்ளது.\n📋 கோரிக்கைகள்:\n✅ வருவாய், வேளாண் துறை அதிகாரிகள் அடங்கிய குழு அமைத்து பயிர்ச் சேதம் கணக்கிட வேண்டும்\n✅ ஏக்கருக்கு ரூ.40,000 நிவாரணம் வழங்க வேண்டும்\n✅ பயிர்க்கடன்களை எவ்வித நிபந்தனையுமின்றி முழுமையாகத் தள்ளுபடி செய்ய வேண்டும்\n✅ வறட்சி நீங்கும் வரை கடன் வசூலிப்பை நிறுத்த வேண்டும்\n✅ நிலவரி உள்ளிட்ட அனைத்து வரிகளையும் ரத்து செய்ய வேண்டும்\n✅ வேலையின்றித் தவிக்கும் விவசாயத் தொழிலாளர்களுக்கு நிவாரண உதவி வழங்க வேண்டும்\n\nTamil Nadu drought declaration demanded | Chennai news\n📍 தமிழ்நாடு (மாநிலம் முழுவதும்) | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #தமிழகம் #வறட்சி #ChennaiNews",
-   "prompts": "A dry, cracked paddy field in the Cauvery delta of Tamil Nadu has its rice crop wilting and turning brown under a hazy afternoon sun. Farmers in lungi and shirt stand at the edge of the field, seen from behind and far away, looking over the dead stalks. A small irrigation channel beside the field is empty and dry, with cracked mud at its base and no flowing water. Behind them a few palm trees and a distant village line the flat horizon. Some crops are still green but most are drooping and scorched, showing the loss of this season's sowing. Light is bright, dusty and washed out with a pale sky. Camera at eye level, 35 mm, wide enough to show the whole dry field and the empty channel. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a parched paddy stalk in a dried field, its brown, curled leaves and drooping grain heads filling the frame. Cracked, dry earth with hairline fissures lies beneath the crop, and a few withered stalks lean in the dusty light. In the soft background, out of focus, a farmer's bare feet and a folded towel stand at the edge of the field. There is no water anywhere in the frame, emphasising the crop loss. Light is harsh daylight from a mostly clear sky with slight haze. Camera at low eye level, 50 mm macro-like depth, shallow focus on the wilting crop. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/tamil-nadu-should-be-declared-a-drought-hit-state-stpi-party-insists",
-   "published": "2026-11-22T08:27:43Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தை வறட்சி பாதித்த மாநிலமாக அறிவிக்க வேண்டும் - எஸ்டிபிஐ கட்சி வலியுறுத்தல்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; caption misses facts of the article (put every one in 📰 முழு விவரம்): 40 ('வருவாய் மற்றும் வேளாண் துறை அதிகாரிகள் அடங்கிய குழுவை அமைத்த')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "நள்ளிரவில் அண்ணாநகரில் முதல்வர் விஜய் வெள்ள பாதிப்புகளை நேரில் ஆய்வு செய்தார். சென்னையில் மழைநீர் தேங்கி போக்குவரத்து பாதிக்கப்படுவதும், தாழ்வான குடியிருப்புகளுக்குள் தண்ணீர் புகுவதும் தொடர்கிறது. இதைத் தடுக்க மழைநீர் வடிகால் வசதிகள், மழைநீர் வெளியேற்றும் கட்டமைப்புகள் மற்றும் பாதிப்பு ஏற்படக்கூடிய இடங்களை முதல்வர் நேற்று நள்ளிரவில் பார்வையிட்டார். ஆய்வுக்குப் பின், மழை பாதிப்புகளை முன்கூட்டியே தடுக்க வேண்டும் என முதல்வர் உத்தரவிட்டுள்ளார். இதன் தொடர்ச்சியாக நவம்பர் 25ஆம் தேதி தலைமைச் செயலகத்தில் அமைச்சர்கள், உயர் அதிகாரிகள் பங்கேற்கும் ஆலோசனைக் கூட்டம் நடைபெறுகிறது. கூட்டத்தில் மழைநீர் தேங்கும் பகுதிகளின் நிலவரம், மோட்டார் பம்புகள், மீட்பு உபகரணங்களை தயார் நிலையில் வைத்தல், மாநகராட்சி, போலீஸ் துறை, பேரிடர் மீட்புக் குழுக்களின் ஒருங்கிணைப்பு ஆகியவை விவாதிக்கப்படும். மண்டல வாரியாக அமைச்சர்களுக்கு பொறுப்புகள் வழங்கப்பட்டுள்ளன. சிறப்பு கண்காணிப்புக் குழு அமைக்கவும் ஆலோசிக்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 நள்ளிரவில் அண்ணாநகரில் முதல்வர் விஜய் வெள்ள பாதிப்புகளை நேரில் ஆய்வு\n\n📰 முழு விவரம்:\nசென்னையில் மழைநீர் தேக்கம், வெள்ள பாதிப்புகளைத் தடுக்க முன்னெச்சரிக்கை நடவடிக்கைகளை மேற்கொள்ளும் வகையில், நேற்று நள்ளிரவில் அண்ணாநகர் தொகுதியில் முதல்வர் விஜய் நேரடியாக களஆய்வு செய்தார். மழை நீர் வடிகால் வசதிகள், மழைநீர் வெளியேற்றும் கட்டமைப்புகள், பாதிப்பு ஏற்படக்கூடிய இடங்களை அவர் பார்வையிட்டார். ஆய்வுக்குப் பின் மழை பாதிப்புகளை முன்கூட்டியே தடுக்க முதல்வர் உத்தரவிட்டுள்ளார்.\n📍 இடம்: அண்ணாநகர் தொகுதி, சென்னை\n🗓️ நாள்: நவம்பர் 25 – தலைமைச் செயலகத்தில் ஆலோசனைக் கூட்டம்\n👥 பங்கேற்பு: முக்கிய அமைச்சர்கள், உயர் அதிகாரிகள்\n🔧 ஆலோசனையில்: மழைநீர் தேங்கும் பகுதிகள் நிலவரம், மோட்டார் பம்புகள், மீட்பு உபகரணங்கள் தயார் நிலை, மாநகராட்சி, போலீஸ், பேரிடர் மீட்புக் குழுக்களின் ஒருங்கிணைப்பு\n🗺️ மண்டல வாரியாக அமைச்சர்களுக்குப் பொறுப்புகள்; சிறப்பு கண்காணிப்புக் குழு அமைக்கவும் ஆலோசனை\nமுதல்வர் நள்ளிரவில் நேரடியாக களத்தில் இறங்கியதை மக்கள் வரவேற்கின்றனர்.\n\nCM Vijay Anna Nagar flood inspection midnight | Chennai news\n📍 அண்ணாநகர், சென்னை | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #AnnaNagar #ChennaiRain #ChennaiNews",
+   "prompts": "A night-time inspection in Anna Nagar, Chennai: a small group of officials and uniformed officers walk along a wet residential street lined with low houses and concrete compound walls, while a Chief Minister's entourage moves beside an open rainwater drain. Parts of the road still hold shallow puddles reflecting streetlights after recent monsoon rain. Several people are seen from behind or far away, men in shirts and trousers and women in sarees standing at a distance on the pavement, watching quietly. A few two-wheelers are parked along the kerb and an autorickshaw passes at the edge of the frame. Tamil Nadu police in khaki stand near the group. The light comes from sodium street lamps and a few house lights in the dark, damp air. Shot at eye level, 35 mm, wide enough to show the street, the drain and the wet road surface. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open concrete stormwater drain on a Chennai residential road at night, its grey walls and metal grating catching lamplight, with dark rainwater rising almost to the top of the channel. Rainwater pools on the cracked tarmac beside it, and fallen leaves and silt sit along the edge, showing the drain is struggling with the flow. A pair of corporation workers in shorts and vests stand at a distance, one holding a long iron rod used to clear blockages. Behind them the blurred shapes of low houses and a parked two-wheeler. The scene is damp and dim, lit by a single street lamp. Shot at low angle, 50 mm, focused on the drain and water surface with the workers softly out of focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/chief-minister-vijay-annanagar-inspects-flood-affected-areas-in-the-field-at-midnight/4383179",
+   "published": "2026-11-22T17:16:44+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 96 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795347421/chennaiminnal/u7pjwtyhxdfcjmynpsql.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795347425/chennaiminnal/lhyhpko4vef7s9a0jxsc.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361885/chennaiminnal/bkvub9ca6vrvkptsbfng.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361888/chennaiminnal/l2axpwpipxcetir7sscc.jpg"
    ]
   }
  ]
