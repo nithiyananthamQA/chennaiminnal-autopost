@@ -3,356 +3,294 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/chief-minister-vijay-annanagar-inspects-flood-affected-areas-in-the-field-at-midnight/4383179",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-65-lakh-compensation-for-the-family-who-lost-their-husband-in-a-van-crash/4383256",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/removal-of-106-roadside-encroachments-on-anna-nagar-pulla-avenue/4383255",
-  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68761",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/22/rainwater-harvesting-in-142-school-premises-to-stabilize-groundwater-levels",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/son-in-law-arrested-for-attacking-mother-in-law/4383655",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/22/bodies-of-husband-and-wife-recovered-from-home",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-couple-s-decomposed-bodies-recovered/4383630",
   "candidate filter: collected=4",
   "to write: 4 Chennai district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Chennai; time left 79 min",
-  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-687",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
-  "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "NOT filed (N) வீட்டில் கணவன் - மனைவி சடலங்கள் மீட்பு: duplicate after write",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
-  "filed: 4 Chennai district stories (target 4), reels only",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 76 min",
+  "filed: 3 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (26s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (32s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (34s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (36s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3-flash-preview (17s)",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok groq/qwen/qwen3.8-27b (1s)"
  ],
  "stories": [
   {
-   "tamil_headline": "வேன் மோதிய விபத்தில் கணவனை இழந்த குடும்பத்திற்கு ரூ.63.95 லட்சம் இழப்பீடு",
-   "english_headline": "Family of man killed in van collision in Thiruvottiyur gets Rs 63.95 lakh compensation from Royal Sundaram insurer",
-   "category": "Roads & Transport",
-   "location": "Thiruvottiyur, Chennai district",
+   "tamil_headline": "புரசைவாக்கத்தில் அழுகிய நிலையில் மூத்த தம்பதியின் உடல்கள் மீட்பு: கீழ்ப்பாக்கம் போலீசார் விசாரணை",
+   "english_headline": "Decomposed bodies of elderly couple found inside locked house in Purasaiwalkam, Chennai; Kilpauk police investigate",
+   "category": "Crime & Safety",
+   "location": "Purasaiwalkam, Kilpauk, Chennai district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "விபத்து இழப்பீடு",
-    "loc": "திருவொற்றியூர், சென்னை",
-    "hl1": "திருவொற்றியூர் விபத்து: ரூ.63.95 லட்சம்",
-    "hl2": "30 நாட்களுக்குள் வழங்க",
+    "cat": "துயர சம்பவம்",
+    "loc": "புரசைவாக்கம், சென்னை",
+    "hl1": "புரசைவாக்கத்தில் வீட்டிற்குள் தம்பதி",
+    "hl2": "அழுகிய நிலையில் உடல் மீட்பு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "சம்பவம் என்ன?",
       "lines": [
-       "2024 மே 20 இரவு 8:15 மணிக்கு விபத்து",
-       "திருவொற்றியூர் பஞ்சாயத்து சாலையில் நடந்தது",
-       "அதிவேகமாக வந்த ஈச்சர் வேன் இருசக்கர வாகனத்தில் மோதியது"
+       "புரசைவாக்கத்தில் வீட்டின் கதவை உடைத்து சடலங்கள் மீட்பு",
+       "தன்ராஜ் (<b>78</b>) மற்றும் சந்திரா (<b>72</b>) உயிரிழப்பு",
+       "துர்நாற்றம் வீசியதால் அக்கம் பக்கத்தினர் புகார்"
       ]
      },
      {
-      "title": "யார் பாதிப்பு?",
+      "title": "வீட்டின் நிலை",
       "lines": [
-       "காலடிப்பேட்டை பாஸ்கர், <b>29</b> வயது உயிரிழந்தார்",
-       "மனைவி ரேவதிக்கு இடது காலில் எலும்பு முறிவு",
-       "இரண்டு வயது மகளுக்கு உடலில் பலத்த காயம்"
+       "தன்ராஜ் சடலம் படுக்கையில் அழுகிய நிலையில் இருந்தது",
+       "சந்திரா அருகே மாத்திரைகள் சிதறி கிடந்தன",
+       "சரவணபெருமாள் கோவில் தெருவில் நடந்த சம்பவம்"
       ]
      },
      {
-      "title": "இழப்பீடு எவ்வளவு?",
+      "title": "போலீஸ் விசாரணை",
       "lines": [
-       "பாஸ்கரின் பெற்றோருக்கு <b>51.72 லட்சம்</b> ரூபாய்",
-       "ரேவதிக்கு <b>9.92 லட்சம்</b> ரூபாய்",
-       "குழந்தைக்கு <b>2.31 லட்சம்</b> ரூபாய்"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "ராயல் சுந்தரம் காப்பீட்டு நிறுவனம் வழங்க வேண்டும்",
-       "30 நாட்களுக்குள் மனுதாரருக்கு பணம் வழங்க வேண்டும்",
-       "வேன் ஓட்டுநரின் அஜாக்கிரதையே காரணம் என தீர்ப்பு"
+       "கீழ்ப்பாக்கம் அரசு மருத்துவமனைக்கு உடல்கள் மாற்றம்",
+       "தன்ராஜ் <b>5</b> நாட்களுக்கு முன்பே இறந்திருக்கலாம்",
+       "கீழ்ப்பாக்கம் போலீசார் தீவிர விசாரணை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருவொற்றியூரில் வேன் மோதிய விபத்தில் கணவரை இழந்த குடும்பத்திற்கு ரூ.63.95 லட்சம் இழப்பீடு வழங்க உத்தரவு. 2024 மே 20ஆம் தேதி இரவு 8:15 மணியளவில் விபத்து நடந்தது. காலடிப்பேட்டையைச் சேர்ந்த பாஸ்கர், 29 வயது, தனது மனைவி ரேவதி, 28 வயது, மற்றும் இரண்டு வயது மகளுடன் இருசக்கர வாகனத்தில் சென்றார். திருவொற்றியூர் பஞ்சாயத்து சாலையில் என் எம் டி கழிவுநீர் சுத்திகரிப்பு நிலையம் அருகே அதிவேகமாக வந்த ஈச்சர் வேன் அவர்களின் இருசக்கர வாகனத்தில் மோதியது. பலத்த காயமடைந்த பாஸ்கர் சிகிச்சை பலனின்றி உயிரிழந்தார். ரேவதிக்கு இடது காலில் எலும்பு முறிவும், இரண்டு வயது குழந்தைக்கு உடலில் பலத்த காயமும் ஏற்பட்டன. குடும்பத்தினர் சென்னை மோட்டார் வாகன விபத்து இழப்பீட்டு தீர்ப்பாயத்தில் மூன்று வழக்குகள் தொடர்ந்தனர். நீதிபதி எஸ். தர்மபிரபு, வேன் ஓட்டுநரின் அஜாக்கிரதையே விபத்திற்குக் காரணம் என தெரிவித்தார். பாஸ்கரின் பெற்றோருக்கு 51.72 லட்சம் ரூபாய், ரேவதிக்கு 9.92 லட்சம் ரூபாய், குழந்தைக்கு 2.31 லட்சம் ரூபாய் என மொத்தம் 63.95 லட்சம் ரூபாய் இழப்பீடு வழங்க வேண்டும். இந்தத் தொகையை ராயல் சுந்தரம் காப்பீட்டு நிறுவனம் 30 நாட்களுக்குள் வழங்க வேண்டும் என நீதிபதி உத்தரவிட்டார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருவொற்றியூர் விபத்தில் கணவரை இழந்த குடும்பத்துக்கு ரூ.63.95 லட்சம் இழப்பீடு\n\n📰 முழு விவரம்:\n2024 மே 20 இரவு 8:15 மணிக்கு திருவொற்றியூர் பஞ்சாயத்து சாலையில் நடந்த இந்த விபத்தில், இருசக்கர வாகனத்தில் சென்ற காலடிப்பேட்டை பாஸ்கர் (29 வயது) மீது அதிவேகமாக வந்த ஈச்சர் வேன் மோதியது. சிகிச்சை பலனின்றி பாஸ்கர் உயிரிழந்தார். மனைவி ரேவதிக்கு இடது காலில் எலும்பு முறிவு ஏற்பட்டது; இரண்டு வயது மகளுக்குப் பலத்த காயம். வேன் ஓட்டுநரின் அஜாக்கிரதையால்தான் விபத்து நடந்ததாக சென்னை மோட்டார் வாகன விபத்து இழப்பீட்டு தீர்ப்பாயம் கூறியுள்ளது.\n👨‍👩‍👧 இழப்பீடு விவரம்:\n• பாஸ்கரின் பெற்றோர்: ரூ.51.72 லட்சம்\n• மனைவி ரேவதி: ரூ.9.92 லட்சம்\n• இரண்டு வயது குழந்தை: ரூ.2.31 லட்சம்\nமொத்தம் ரூ.63.95 லட்சம்.\n🏦 இந்தத் தொகையை ராயல் சுந்தரம் காப்பீட்டு நிறுவனம் 30 நாட்களுக்குள் மனுதாரர்களுக்கு வழங்க வேண்டும் என நீதிபதி எஸ். தர்மபிரபு உத்தரவிட்டுள்ளார்.\n\nThiruvottiyur accident compensation Rs 63.95 lakh | Chennai news\n📍 திருவொற்றியூர், சென்னை மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Thiruvottiyur #ChennaiNews #சென்னை",
-   "prompts": "A white Eicher van stands parked at the edge of a busy Thiruvottiyur road in north Chennai at dusk, its front bumper dented and its windscreen cracked, while a crumpled two-wheeler lies on the roadside nearby; a few shops with roll-down shutters and their lights on line the pavement, and a Tamil Nadu traffic policeman in khaki stands at a distance near a flyover-free stretch with autorickshaws and town buses passing behind. Seen from eye level across the road at a distance, the scene shows the place type clearly: a two-lane urban road with concrete pavements, overhead street lamps just switched on, and a sewage treatment area's chain-link fence visible further down. Evening light, the sky turning deep blue, a faint warm glow from shop lights, shot with a 35 mm lens wide enough to show the whole road and the damaged vehicles in the foreground. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a court compensation order document lying on a wooden table in a Chennai tribunal office, beside a steel tumbler of water and a stack of case files tied with red tape; the paper is slightly blurred at the edges so no words are readable, and a folded Tamil Nadu government-style sheet sits beside it. Behind the table, a few people in shirts and sarees are seen from behind, sitting on wooden benches in a room with ceiling fans and tube lights, and through a window a grey sky over the city shows that it is daytime. Shot at a low angle slightly above the table with a 35 mm lens, shallow depth of field, soft natural light from the window, no readable text, no faces, and no injuries or blood visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-65-lakh-compensation-for-the-family-who-lost-their-husband-in-a-van-crash/4383256",
-   "published": "2026-11-22T17:52:36+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 28 ('இவர் 2024 மே 20ம் தேதி இரவு 8:15 மணியளவில் மனைவி ரேவதி, 28 ம')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "புரசைவாக்கத்தில் பூட்டிய வீட்டிற்குள் இருந்து முதிய தம்பதியின் உடல்கள் அழுகிய நிலையில் மீட்கப்பட்டுள்ளன. சரவணபெருமாள் கோவில் தெருவைச் சேர்ந்த 78 வயது தன்ராஜ் மற்றும் அவரது மனைவி 72 வயது சந்திரா ஆகியோர் உயிரிழந்துள்ளனர். நகைப்பட்டறை தொழில் செய்துவந்த தன்ராஜ் உடல்நலக் குறைவால் தொழிலை நிறுத்திவிட்டு மனைவியுடன் வசித்து வந்தார். இந்நிலையில் இவர்களது வீட்டில் இருந்து கடும் துர்நாற்றம் வீசியதால் அக்கம் பக்கத்தினர் கீழ்ப்பாக்கம் போலீசாருக்கு தகவல் தெரிவித்தனர். சம்பவ இடத்திற்கு வந்த போலீசார் கதவை உடைத்து உள்ளே சென்று பார்த்தனர். அப்போது படுக்கையில் தன்ராஜ் அழுகிய நிலையிலும், அருகே மாத்திரைகள் சிதறிய நிலையில் சந்திராவும் இறந்துகிடந்தனர். இருவரது உடல்களையும் மீட்ட போலீசார் கீழ்ப்பாக்கம் அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். தன்ராஜ் 5 நாட்களுக்கு முன்பே உயிரிழந்திருக்கலாம் என முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது. தம்பதியின் இறப்பிற்கான உண்மையான காரணம் குறித்து கீழ்ப்பாக்கம் போலீசார் தொடர்ந்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 புரசைவாக்கத்தில் அழுகிய நிலையில் மூத்த தம்பதியின் உடல்கள் மீட்பு - போலீசார் தீவிர விசாரணை\n\n📰 முழு விவரம்:\nசென்னை புரசைவாக்கம் சரவணபெருமாள் கோவில் தெருவில் வசித்து வந்த நகைப்பட்டறை முன்னாள் தொழிலாளி தன்ராஜ் (78 வயது) மற்றும் அவரது மனைவி சந்திரா (72 வயது) ஆகியோர் பூட்டிய வீட்டிற்குள் உயிரிழந்து கிடந்துள்ளனர். வீட்டில் இருந்து துர்நாற்றம் வீசியதை அடுத்து, அக்கம் பக்கத்தினர் அளித்த தகவலின் பேரில் கீழ்ப்பாக்கம் போலீசார் வீட்டின் கதவை உடைத்து உள்ளே சென்றனர். படுக்கையில் தன்ராஜ் அழுகிய நிலையிலும், சந்திரா அருகே மாத்திரைகள் சிதறிய நிலையிலும் சடலமாக மீட்டனர். உடல்கள் கீழ்ப்பாக்கம் அரசு மருத்துவமனைக்கு அனுப்பி வைக்கப்பட்டுள்ளன. தன்ராஜ் 5 நாட்களுக்கு முன்பே உயிரிழந்திருக்கலாம் எனக் கூறப்படும் நிலையில், இறப்பிற்கான காரணம் குறித்து போலீசார் விசாரிக்கின்றனர்.\n\n📍 இடம்: சரவணபெருமாள் கோவில் தெரு, புரசைவாக்கம், சென்னை\n👮 நடவடிக்கை: கீழ்ப்பாக்கம் போலீசார் வழக்குப் பதிவு செய்து விசாரணை\n\nElderly couple found dead in locked house at Purasaiwalkam | Chennai news\n📍 புரசைவாக்கம், சென்னை | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Purasaiwalkam #ChennaiNews #சென்னை",
+   "prompts": "A group of Tamil Nadu police officers in khaki uniforms forcefully break the front door of a modest residential house, the door splintering as they push it open to reveal the interior. The scene is set in a narrow lane of Purasaiwalkam, Kilpauk, with typical Chennai row houses lining the street, their painted walls and tiled roofs visible behind the police. The officers are seen from behind, some holding a crowbar, others stepping inside, their backs to the camera, while a few stand outside observing. Inside, the bedroom is dimly lit by daylight filtering through the broken doorway, showing a simple wooden bed with two elderly bodies lying motionless and scattered white medicine tablets on the bedside table. The time appears to be late morning with bright natural light, no rain. Shot from eye level, a 35 mm lens captures a wide view that includes the broken door, the police presence, and the grim interior, clearly conveying the crime scene. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view focuses on a wooden bedside table and the floor beside it, where dozens of small white medicine tablets are strewn in a chaotic pile, some spilling onto the cracked floorboards. The background shows the edge of the broken door frame and a hint of the bed’s blanket, but no faces are visible. The setting is the same Purasaiwalkam house, with the same daylight streaming in, highlighting the stark contrast between the ordinary household items and the tragic scene. A single police officer’s gloved hand is partially visible, gently moving a tablet aside, emphasizing the investigative aspect. The shot is taken slightly above eye level with a 35 mm lens, tightly framing the tablets and table to serve as the unmistakable detail that tells the story of the discovered bodies. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-couple-s-decomposed-bodies-recovered/4383630",
+   "published": "2026-11-22T21:52:46+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361797/chennaiminnal/m2xfg1xa7px5xrwimysz.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361830/chennaiminnal/qykt1pbwernasnqwa2uq.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795376241/chennaiminnal/emklqprdaezyxsxq7lpe.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795376256/chennaiminnal/oy9ecxwztnieykoco8ul.jpg"
    ]
   },
   {
-   "tamil_headline": "அரியலூர் மீன்சுருட்டியில் சாலையில் 30-க்கும் மேற்பட்ட கால்நடைகள்: விபத்து அபாயம்",
-   "english_headline": "Over 30 cattle roam roads at Meensurutti, Ariyalur; accidents, injuries and deaths reported",
-   "category": "Roads & Transport",
-   "location": "Meensurutti, Ariyalur district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து அபாயம்",
-    "loc": "மீன்சுருட்டி, அரியலூர்",
-    "hl1": "மீன்சுருட்டியில் சாலையில் கால்நடைகள்",
-    "hl2": "30-க்கும் மேற்பட்ட",
-    "slides": [
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "மீன்சுருட்டி கடைவீதி, அரியலூர் மாவட்டம்",
-       "சென்னை, கும்பகோணம், சிதம்பரம் செல்லும் தேசிய நெடுஞ்சாலைகள்",
-       "மாலை, இரவு நேரங்களில் கால்நடைகள் சுற்றித்திரிகின்றன"
-      ]
-     },
-     {
-      "title": "என்ன ஆபத்து?",
-      "lines": [
-       "வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்கி காயமடைகின்றனர்",
-       "உயிரிழப்புகளும் ஏற்படுகின்றன",
-       "சாலைகளை ஆக்கிரமிப்பதால் அச்சத்துடன் செல்ல வேண்டிய நிலை"
-      ]
-     },
-     {
-      "title": "என்ன தேவை?",
-      "lines": [
-       "கால்நடைகளால் ஏற்படும் விபத்துகளைத் தடுக்க வேண்டும்",
-       "சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அரியலூர் மாவட்டம் மீன்சுருட்டியில் சாலைகளில் 30-க்கும் மேற்பட்ட கால்நடைகள் சுற்றித்திரிகின்றன. மீன்சுருட்டி கடைவீதியிலும், சென்னை, கும்பகோணம், சிதம்பரம் செல்லும் தேசிய நெடுஞ்சாலைகளிலும் இந்த நிலை உள்ளது. மாலை மற்றும் இரவு நேரங்களில் கால்நடைகள் அதிகம் காணப்படுகின்றன. இதனால் வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்கி காயமடைகின்றனர். விபத்துகளால் உயிரிழப்புகளும் ஏற்படுகின்றன. கால்நடைகள் சாலைகளை ஆக்கிரமிப்பதால் வாகன ஓட்டிகள் அச்சத்துடன் பயணிக்க வேண்டிய நிலை உள்ளது. கால்நடைகளால் ஏற்படும் விபத்துகளைத் தடுக்க சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 மீன்சுருட்டியில் சாலையில் 30-க்கும் மேற்பட்ட கால்நடைகள்: விபத்து அபாயம்\n\n📰 முழு விவரம்:\nஅரியலூர் மாவட்டம் மீன்சுருட்டி கடைவீதி மற்றும் சென்னை, கும்பகோணம், சிதம்பரம் செல்லும் தேசிய நெடுஞ்சாலைகளில் மாலை மற்றும் இரவு நேரங்களில் 30-க்கும் மேற்பட்ட கால்நடைகள் சுற்றித்திரிகின்றன. இதனால் வாகன ஓட்டிகள் அடிக்கடி விபத்தில் சிக்கி காயமடைகின்றனர். விபத்துகளால் உயிரிழப்புகளும் ஏற்படுகின்றன. கால்நடைகள் சாலைகளை ஆக்கிரமிப்பதால் வாகன ஓட்டிகள் அச்சத்துடன் செல்ல வேண்டிய நிலை உள்ளது.\n📍 இடம்: மீன்சுருட்டி கடைவீதி, அரியலூர் மாவட்டம்\n👮 நடவடிக்கை: கால்நடைகளால் ஏற்படும் விபத்துகளைத் தடுக்க சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்\n\nCattle roaming on roads Meensurutti Ariyalur | Chennai news\n📍 மீன்சுருட்டி, அரியலூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #அரியலூர்",
-   "prompts": "A herd of more than thirty cattle, mostly cows and buffaloes, spreads across a busy national highway at dusk in Meensurutti, Ariyalur district, blocking the lanes as traffic approaches. The setting is a semi-urban highway stretch beside a small bazaar, with low shops with shuttered fronts, a few electric street lights just switched on, and a dusty tar road. Two-wheeler riders and car drivers slow down and swerve around the animals, seen from behind and far away, wearing shirts, veshti and helmets. Several two-wheelers and a lorry with headlights on stand near the herd, and a cow stands in the middle of the lane. The sky is dim evening blue, with warm street light and headlight glare on the road. Camera at eye level, 35 mm, wide enough to show the full stretch of road and the herd. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose view of cattle standing in the middle of a dark night road in Meensurutti, Ariyalur, with their bodies filling the lane and a two-wheeler's headlight beam catching their legs and flanks. The tar road is wet and dusty, edged by a roadside drain and the shadowy fronts of small shops. A rider's front wheel and handlebar are visible at the edge of the frame, slowing down, with a helmet and a hand on the brake, the rider seen from behind. Cattle are mostly brown and black cows with a few buffaloes, some with long horns, standing still in the glare. Night light is a mix of yellow street lamps and white headlights. Camera at slightly low angle, 35 mm, close enough to show the animals and the bike's near-miss tension. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68761",
-   "published": "2026-11-22T19:51:23+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (25 words in a row, 79% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361838/chennaiminnal/nupwukewywmekioondtz.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361841/chennaiminnal/lgn1vvndfj5zejv2zbmd.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அண்ணா நகர் புல்லா அவென்யூவில் 106 சாலையோர ஆக்கிரமிப்பு அகற்றம்",
-   "english_headline": "106 roadside encroachments removed on Pulla Avenue in Anna Nagar zone after High Court order",
-   "category": "Civic Issues",
-   "location": "Shenoy Nagar (Pulla Avenue), Anna Nagar zone, Chennai district",
+   "tamil_headline": "பழைய வண்ணாரப்பேட்டையில் மாமியாரைத் தாக்கி போன் பறிப்பு: ராயபுரத்தைச் சேர்ந்த மருமகன் கைது",
+   "english_headline": "Son-in-law arrested for assaulting mother-in-law and snatching mobile phone in Old Washermenpet",
+   "category": "Crime & Safety",
+   "location": "Old Washermenpet, Tondiarpet, Chennai district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "ஆக்கிரமிப்பு அகற்றம்",
-    "loc": "ஷெனாய் நகர், சென்னை",
-    "hl1": "ஷெனாய் நகரில் 106 ஆக்கிரமிப்புகள்",
-    "hl2": "புல்லா அவென்யூவில் இரவு",
+    "cat": "குற்றச்செயல்",
+    "loc": "பழைய வண்ணாரப்பேட்டை, சென்னை",
+    "hl1": "பழைய வண்ணாரப்பேட்டையில் மருமகன் கைது",
+    "hl2": "மாமியார் மீது தாக்குதல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "உயர் நீதிமன்ற உத்தரவை அடுத்து நடவடிக்கை",
-       "புல்லா அவென்யூவில் <b>106</b> ஆக்கிரமிப்புகள் அகற்றம்",
-       "சென்னை மாநகராட்சி அதிகாரிகள், போலீசார் உதவியுடன் பணி"
+       "பழைய வண்ணாரப்பேட்டை கோதண்டராமன் தெருவில் சம்பவம்",
+       "<b>59 வயது</b> மாமியார் சரளாவை தாக்கிய மருமகன்",
+       "மனைவியின் செல்போனை பறித்துவிட்டு தப்பியோட்டம்"
       ]
      },
      {
-      "title": "எந்தெந்த",
+      "title": "என்ன காரணம்?",
       "lines": [
-       "நடைபாதையை மறித்த விளம்பரப் பலகைகள்",
-       "சாலையோர ஆக்கிரமிப்புகள், பயன்பாடில்லாத தெருவோரக் கடைகள்",
-       "அண்ணா நகர் மண்டலம், 101வது வார்டு"
+       "வேறொரு பெண்ணுடன் தொடர்பில் இருந்த மருமகன்",
+       "மனைவியை விவாகரத்து செய்ய வற்புறுத்தல்",
+       "மகள் குழந்தையுடன் தாய் வீட்டிற்கு வந்திருந்தார்"
       ]
      },
      {
-      "title": "எங்கே, எப்போது?",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "புல்லா அவென்யூ சாலை <b>1.8 கி.மீ.</b> தூரம்",
-       "நேற்று முன்தினம் நள்ளிரவு முதல் விடியவிடிய பணி",
-       "வியாபாரிகள் வாக்குவாதம்; போலீசார் பேச்சுவார்த்தையில்"
+       "காயமடைந்த சரளா தனியார் மருத்துவமனையில் சேர்க்கை",
+       "தண்டையார்பேட்டை போலீசார் வழக்கு பதிவு",
+       "ராயபுரத்தைச் சேர்ந்த <b>34 வயது</b> யுவகணேஷ் கைது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அண்ணா நகர் மண்டலம் ஷெனாய் நகர் புல்லா அவென்யூவில் 106 சாலையோர ஆக்கிரமிப்புகள் அகற்றப்பட்டன. உயர் நீதிமன்ற உத்தரவை அடுத்து இந்த நடவடிக்கை எடுக்கப்பட்டது. போக்குவரத்து நெரிசலையும் இடையூறுகளையும் தடுக்கும் வகையில் சென்னை மாநகராட்சி அதிகாரிகள் இப்பணியை மேற்கொண்டனர். நேற்று முன்தினம் நள்ளிரவு முதல் விடியவிடிய போலீசாரின் உதவியுடன் அதிகாரிகள் பணியில் ஈடுபட்டனர். அண்ணா நகர் மண்டலம் 101வது வார்டுக்கு உட்பட்ட ஷெனாய் நகர் புல்லா அவென்யூ சாலையில் இந்த அகற்றம் நடந்தது. புல்லா அவென்யூ சாலை 1.8 கிலோமீட்டர் தூரம் கொண்டது. சாலையின் இருபுறங்களிலும் ஆய்வு செய்யப்பட்டது. நடைபாதையை மறித்திருந்த விளம்பரப் பலகைகள், சாலையோர ஆக்கிரமிப்புகள், பயன்பாடின்றி இருந்த தெருவோரக் கடைகள் அகற்றப்பட்டன. இதைக் கண்டித்து வியாபாரிகள் கடும் வாக்குவாதம் செய்தனர். போலீசார் அவர்களிடம் பேச்சு நடத்தியதை அடுத்து சமாதானம் ஏற்பட்டது. ஆக்கிரமிப்புகள் மீண்டும் உருவாகாமல் மாநகராட்சி அதிகாரிகள் கண்காணிக்க வேண்டும் என்பதே பொதுமக்களின் எதிர்பார்ப்பு. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 ஷெனாய் நகர் புல்லா அவென்யூவில் 106 சாலையோர ஆக்கிரமிப்புகள் அகற்றம்\n\n📰 முழு விவரம்:\nஉயர் நீதிமன்ற உத்தரவை அடுத்து, அண்ணா நகர் மண்டலம் 101வது வார்டுக்கு உட்பட்ட ஷெனாய் நகர் புல்லா அவென்யூ சாலையில் நேற்று முன்தினம் நள்ளிரவு முதல் விடியவிடிய சாலையோர ஆக்கிரமிப்புகள் அகற்றப்பட்டன.\nசென்னை மாநகராட்சி அதிகாரிகள் போலீசாரின் உதவியுடன் இந்தப் பணியை மேற்கொண்டனர்.\nபுல்லா அவென்யூ சாலை 1.8 கிலோமீட்டர் தூரம் கொண்டது. இச்சாலையின் இருபுறங்களிலும் ஆய்வு செய்து, நடைபாதையை மறித்திருந்த விளம்பரப் பலகைகள், சாலையோர ஆக்கிரமிப்புகள், பயன்பாடின்றி இருந்த தெருவோரக் கடைகள் என மொத்தம் 106 ஆக்கிரமிப்புகள் அகற்றப்பட்டன.\nஇதைக் கண்டித்து வியாபாரிகள் கடும் வாக்குவாதத்தில் ஈடுபட்டனர். போலீசார் அவர்களிடம் பேச்சு நடத்தியதை அடுத்து சமாதானம் ஏற்பட்டது.\nஆக்கிரமிப்புகள் மீண்டும் உருவாகாமல் மாநகராட்சி அதிகாரிகள் கண்காணிக்க வேண்டும் என்பதே பொதுமக்களின் எதிர்பார்ப்பு.\n🎯 நோக்கம்: போக்குவரத்து நெரிசல் மற்றும் இடையூறுகளைத் தடுப்பது\n\nShenoy Nagar Pulla Avenue encroachments removed | Chennai news\n📍 ஷெனாய் நகர், சென்னை மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ShenoyNagar #ChennaiNews #சென்னை",
-   "prompts": "Overnight in Shenoy Nagar, Chennai, a Greater Chennai Corporation crew in orange vests works with Tamil Nadu police in khaki along Pulla Avenue, a busy city road lined with footpaths and small shops. Workers are dismantling advertisement boards and roadside stalls that had spilled onto the pavement, and a row of cleared footpath now stretches under yellow-white street lights. Two-wheelers and an autorickshaw are parked at the kerb, and a few shopkeepers in shirts and veshti stand at a distance, watching. Some clearing vehicles and a tipper lorry are parked near the road. The scene is in the dark pre-dawn hours, lit by street lamps and a few shop lights. Camera at eye level, 35 mm lens, wide enough to show the full avenue, workers seen from behind or far away, no readable signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on the footpath of Pulla Avenue at night, where a stack of dismantled advertisement board frames and metal stall parts lies piled at the kerb beside a freshly cleared pavement. A corporation worker's gloved hands and a broom are visible at the edge of the frame, with a pair of khaki-uniformed police boots standing nearby on the cleared stone tiles. Behind the pile, a bare footpath stretches into the street light, with a two-wheeler parked on the road beyond. The light is sodium yellow, the tiles are wet, and the scene shows the pavement finally open for pedestrians. Camera at waist height, 50 mm lens, shallow depth of field, no faces, no readable text or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/removal-of-106-roadside-encroachments-on-anna-nagar-pulla-avenue/4383255",
-   "published": "2026-11-22T17:52:34+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (16 words in a row, 18% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "பழைய வண்ணாரப்பேட்டையில் மாமியாரை தாக்கிய மருமகன் கைது செய்யப்பட்டார். சென்னை பழைய வண்ணாரப்பேட்டை கோதண்டராமன் தெருவில் 59 வயது சரளா வசிக்கிறார். இவரது மருமகன் 34 வயது யுவகணேஷ் வேறொரு பெண்ணுடன் தொடர்பில் இருந்ததாகக் கூறப்படுகிறது. அவர் தன் மனைவியை விவாகரத்து செய்ய வற்புறுத்தியுள்ளார். இதனால் சரளாவின் மகள் குழந்தையுடன் தாய் வீட்டிற்கு வந்துவிட்டார். இந்நிலையில் நேற்று முன்தினம் யுவகணேஷ் சரளாவின் வீட்டிற்குள் புகுந்தார். அவர் மாமியார் சரளாவை தாக்கிவிட்டு மனைவியின் மொபைல் போனை பறித்துக் கொண்டு தப்பினார். தாக்குதலில் காயமடைந்த சரளா தனியார் மருத்துவமனையில் சிகிச்சைக்காக சேர்க்கப்பட்டார். இது குறித்து தண்டையார்பேட்டை காவல்துறையினர் வழக்கு பதிவு செய்து விசாரணை நடத்தினர். ராயபுரத்தைச் சேர்ந்த யுவகணேஷை காவல்துறையினர் கைது செய்தனர். பின்னர் அவர் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பழைய வண்ணாரப்பேட்டையில் மாமியாரைத் தாக்கிய மருமகன் கைது\n\n📰 முழு விவரம்:\nசென்னை பழைய வண்ணாரப்பேட்டை கோதண்டராமன் தெருவைச் சேர்ந்த 59 வயது சரளா என்பவரை அவரது மருமகன் யுவகணேஷ் (34 வயது) தாக்கிவிட்டு மனைவியின் செல்போனை பறித்துச் சென்றுள்ளார். யுவகணேஷ் வேறொரு பெண்ணுடன் தொடர்பில் இருந்து மனைவியை விவாகரத்து செய்ய வற்புறுத்தியதால், மகள் குழந்தையுடன் தாய் வீட்டிற்கு வந்துள்ளார். இந்நிலையில் வீட்டிற்குள் புகுந்து தாக்குதல் நடத்தியதில் காயமடைந்த சரளா தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார். இச்சம்பவம் குறித்து தண்டையார்பேட்டை போலீசார் வழக்கு பதிவு செய்து ராயபுரத்தைச் சேர்ந்த யுவகணேஷை கைது செய்து சிறையில் அடைத்தனர்.\n\n📍 இடம்: கோதண்டராமன் தெரு, பழைய வண்ணாரப்பேட்டை, சென்னை\n👮 நடவடிக்கை: ராயபுரத்தைச் சேர்ந்த யுவகணேஷ் (34 வயது) கைது, சிறையில் அடைப்பு\n\nமுக்கியமான தகவலை மற்றவர்களுக்கும் Share செய்யுங்கள்.\n\nOld Washermenpet Tondiarpet assault case son in law arrested | Chennai news\n📍 Old Washermenpet, Chennai | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tondiarpet #CrimeNews #சென்னை",
+   "prompts": "A police officer in khaki uniform escorts a man in a white shirt and trousers away from a narrow residential street. The man is being led towards a police jeep parked on the side of the road. The location is a typical Old Washermenpet lane with narrow pathways and closely packed houses. Several onlookers stand at a distance, watching the arrest from the shadows of doorways. The police jeep is white with blue markings, parked partially on the footpath. The street is lined with utility poles and tangled wires overhead. It is daytime with bright sunlight casting sharp shadows on the concrete ground. The camera is at eye level, 35mm lens, capturing the width of the narrow street and the immediate surroundings of the arrest. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a mobile phone lying on a wooden table inside a police station room. The phone is a standard smartphone, screen facing up, showing no visible damage but clearly the object of the crime. Behind the table, a police officer in khaki uniform sits at a desk, writing in a file. The background shows a plain white wall with a window letting in daylight. The focus is sharp on the phone, blurring the officer slightly. The scene conveys the seizure of the stolen item. The lighting is natural daylight from the window, creating a clear view of the object. The camera is slightly high, looking down at the table, 50mm lens, emphasizing the specific object that triggered the incident. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/son-in-law-arrested-for-attacking-mother-in-law/4383655",
+   "published": "2026-11-22T22:29:02+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361847/chennaiminnal/j33pjhz7wbyi7tlba1uy.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361850/chennaiminnal/xkdfatyjapuabtsthpht.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795376264/chennaiminnal/wdsgd9vhwdpdbpg1ts8a.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795376290/chennaiminnal/japjxzbic75pen6dn9aq.jpg"
    ]
   },
   {
-   "tamil_headline": "நள்ளிரவில் அண்ணாநகரில் முதல்வர் விஜய் வெள்ள பாதிப்புகளை ஆய்வு",
-   "english_headline": "CM Vijay inspects Anna Nagar flood-prone areas at midnight to prevent waterlogging",
+   "tamil_headline": "சென்னை மாநகராட்சி: 142 பள்ளிகளில் மழைநீர் சேமிப்பு திட்டம், நிலத்தடி நீர்மட்டம் சரிவு",
+   "english_headline": "Chennai Corporation to set up rainwater harvesting in 142 school campuses as groundwater level falls",
    "category": "Civic Issues",
-   "location": "Anna Nagar constituency, Chennai, Chennai district",
-   "importance": "High",
-   "scope": "",
+   "location": "Chennai Corporation area, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "வெள்ள முன்னெச்சரிக்கை",
-    "loc": "அண்ணாநகர், சென்னை",
-    "hl1": "அண்ணாநகரில் முதல்வர் விஜய் நேரில் ஆய்வு",
-    "hl2": "நேற்று நள்ளிரவில் களஆய்வு",
+    "cat": "நீர் சேமிப்பு",
+    "loc": "சென்னை மாநகராட்சி",
+    "hl1": "சென்னை மாநகராட்சி: 142 பள்ளிகளில்",
+    "hl2": "நிலத்தடி நீர்மட்டம்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "ஏன் இந்த திட்டம்?",
       "lines": [
-       "அண்ணாநகர் தொகுதியில் முதல்வர் விஜய் நள்ளிரவில் களஆய்வு",
-       "மழைநீர் தேக்கம், வெள்ள பாதிப்பைத் தடுக்க முன்னெச்சரிக்கை",
-       "மழைநீர் வடிகால், வெளியேற்றும் கட்டமைப்புகள் பார்வையிட்டார்"
+       "சென்னை மாநகராட்சியில் நிலத்தடி நீர்மட்டம் குறைந்து வருகிறது",
+       "நடப்பாண்டில் <b>142</b> பள்ளி வளாகங்களில் மழைநீர் சேமிக்கத் திட்டம்",
+       "மாநகராட்சியில் <b>1.25 கோடி</b> பேர் வசிப்பதாகக் கூறப்படுகிறது"
       ]
      },
      {
-      "title": "உத்தரவு என்ன?",
+      "title": "நீர் நிலவரம்",
       "lines": [
-       "மழை பாதிப்புகளை முன்கூட்டியே தடுக்க முதல்வர் உத்தரவு",
-       "நவம்பர் <b>25</b> தேதி தலைமைச் செயலகத்தில் ஆலோசனைக் கூட்டம்",
-       "அமைச்சர்கள், உயர் அதிகாரிகள் பங்கேற்பு"
+       "நாளொன்றுக்கு <b>1,246 மில்லியன் லிட்டர்</b> குடிநீர் தேவை",
+       "ஏரி போன்ற நீர்த்தேக்கங்களில் இருந்து <b>80%</b> நீர்",
+       "நிலத்தடியில் இருந்து <b>6 முதல் 8%</b> நீர்"
       ]
      },
      {
-      "title": "கூட்டத்தில் என்ன?",
+      "title": "நீர்மட்டம் சரிவு",
       "lines": [
-       "மழைநீர் தேங்கும் பகுதிகள் நிலவரம் அறிதல்",
-       "மோட்டார் பம்புகள், மீட்பு உபகரணங்களை தயார் நிலையில் வைத்தல்",
-       "மாநகராட்சி, போலீஸ், பேரிடர் மீட்புக் குழுக்கள் ஒருங்கிணைப்பு"
+       "2012இல் நிலத்தடி நீர்மட்டம் <b>4.25 மீட்டர்</b>",
+       "நிகழாண்டு <b>5.6 மீட்டர்</b> ஆக சரிந்துள்ளது",
+       "2019இல் அதிகபட்சமாக <b>7.79 மீட்டர்</b> வரை குறைந்தது"
       ]
      },
      {
-      "title": "மக்கள் கருத்து",
+      "title": "அடுத்த நடவடிக்கை",
       "lines": [
-       "முதல்வர் நள்ளிரவில் நேரடியாக களத்தில் இறங்கியதை மக்கள்",
-       "மண்டல வாரியாக அமைச்சர்களுக்கு பொறுப்புகள் வழங்கப்பட்டுள்ளன",
-       "சிறப்பு கண்காணிப்புக் குழு அமைக்கவும் ஆலோசனை"
+       "முதல்கட்டமாக ஷெனாய் நகர் பெண்கள் மேல்நிலைப் பள்ளி உட்பட",
+       "ஓரிரு மாதங்களில் பணிகள் முடிக்கப்படும்",
+       "செலவு <b>ரூ.20 லட்சம் முதல் ரூ.1 கோடி</b> வரை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "நள்ளிரவில் அண்ணாநகரில் முதல்வர் விஜய் வெள்ள பாதிப்புகளை நேரில் ஆய்வு செய்தார். சென்னையில் மழைநீர் தேங்கி போக்குவரத்து பாதிக்கப்படுவதும், தாழ்வான குடியிருப்புகளுக்குள் தண்ணீர் புகுவதும் தொடர்கிறது. இதைத் தடுக்க மழைநீர் வடிகால் வசதிகள், மழைநீர் வெளியேற்றும் கட்டமைப்புகள் மற்றும் பாதிப்பு ஏற்படக்கூடிய இடங்களை முதல்வர் நேற்று நள்ளிரவில் பார்வையிட்டார். ஆய்வுக்குப் பின், மழை பாதிப்புகளை முன்கூட்டியே தடுக்க வேண்டும் என முதல்வர் உத்தரவிட்டுள்ளார். இதன் தொடர்ச்சியாக நவம்பர் 25ஆம் தேதி தலைமைச் செயலகத்தில் அமைச்சர்கள், உயர் அதிகாரிகள் பங்கேற்கும் ஆலோசனைக் கூட்டம் நடைபெறுகிறது. கூட்டத்தில் மழைநீர் தேங்கும் பகுதிகளின் நிலவரம், மோட்டார் பம்புகள், மீட்பு உபகரணங்களை தயார் நிலையில் வைத்தல், மாநகராட்சி, போலீஸ் துறை, பேரிடர் மீட்புக் குழுக்களின் ஒருங்கிணைப்பு ஆகியவை விவாதிக்கப்படும். மண்டல வாரியாக அமைச்சர்களுக்கு பொறுப்புகள் வழங்கப்பட்டுள்ளன. சிறப்பு கண்காணிப்புக் குழு அமைக்கவும் ஆலோசிக்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 நள்ளிரவில் அண்ணாநகரில் முதல்வர் விஜய் வெள்ள பாதிப்புகளை நேரில் ஆய்வு\n\n📰 முழு விவரம்:\nசென்னையில் மழைநீர் தேக்கம், வெள்ள பாதிப்புகளைத் தடுக்க முன்னெச்சரிக்கை நடவடிக்கைகளை மேற்கொள்ளும் வகையில், நேற்று நள்ளிரவில் அண்ணாநகர் தொகுதியில் முதல்வர் விஜய் நேரடியாக களஆய்வு செய்தார். மழை நீர் வடிகால் வசதிகள், மழைநீர் வெளியேற்றும் கட்டமைப்புகள், பாதிப்பு ஏற்படக்கூடிய இடங்களை அவர் பார்வையிட்டார். ஆய்வுக்குப் பின் மழை பாதிப்புகளை முன்கூட்டியே தடுக்க முதல்வர் உத்தரவிட்டுள்ளார்.\n📍 இடம்: அண்ணாநகர் தொகுதி, சென்னை\n🗓️ நாள்: நவம்பர் 25 – தலைமைச் செயலகத்தில் ஆலோசனைக் கூட்டம்\n👥 பங்கேற்பு: முக்கிய அமைச்சர்கள், உயர் அதிகாரிகள்\n🔧 ஆலோசனையில்: மழைநீர் தேங்கும் பகுதிகள் நிலவரம், மோட்டார் பம்புகள், மீட்பு உபகரணங்கள் தயார் நிலை, மாநகராட்சி, போலீஸ், பேரிடர் மீட்புக் குழுக்களின் ஒருங்கிணைப்பு\n🗺️ மண்டல வாரியாக அமைச்சர்களுக்குப் பொறுப்புகள்; சிறப்பு கண்காணிப்புக் குழு அமைக்கவும் ஆலோசனை\nமுதல்வர் நள்ளிரவில் நேரடியாக களத்தில் இறங்கியதை மக்கள் வரவேற்கின்றனர்.\n\nCM Vijay Anna Nagar flood inspection midnight | Chennai news\n📍 அண்ணாநகர், சென்னை | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #AnnaNagar #ChennaiRain #ChennaiNews",
-   "prompts": "A night-time inspection in Anna Nagar, Chennai: a small group of officials and uniformed officers walk along a wet residential street lined with low houses and concrete compound walls, while a Chief Minister's entourage moves beside an open rainwater drain. Parts of the road still hold shallow puddles reflecting streetlights after recent monsoon rain. Several people are seen from behind or far away, men in shirts and trousers and women in sarees standing at a distance on the pavement, watching quietly. A few two-wheelers are parked along the kerb and an autorickshaw passes at the edge of the frame. Tamil Nadu police in khaki stand near the group. The light comes from sodium street lamps and a few house lights in the dark, damp air. Shot at eye level, 35 mm, wide enough to show the street, the drain and the wet road surface. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open concrete stormwater drain on a Chennai residential road at night, its grey walls and metal grating catching lamplight, with dark rainwater rising almost to the top of the channel. Rainwater pools on the cracked tarmac beside it, and fallen leaves and silt sit along the edge, showing the drain is struggling with the flow. A pair of corporation workers in shorts and vests stand at a distance, one holding a long iron rod used to clear blockages. Behind them the blurred shapes of low houses and a parked two-wheeler. The scene is damp and dim, lit by a single street lamp. Shot at low angle, 50 mm, focused on the drain and water surface with the workers softly out of focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/chief-minister-vijay-annanagar-inspects-flood-affected-areas-in-the-field-at-midnight/4383179",
-   "published": "2026-11-22T17:16:44+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 96 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "சென்னை மாநகராட்சியில் நிலத்தடி நீர்மட்டம் தொடர்ந்து குறைந்து வருகிறது. இதைச் சீராக்க 142 பள்ளி வளாகங்களில் மழைநீர் சேமிப்பு அமைப்பு ஏற்படுத்தப்படவுள்ளது என அதிகாரிகள் தெரிவித்தனர். நிகழாண்டு நிலத்தடி நீர்மட்டம் 5.6 மீட்டராகச் சரிந்துள்ளது. 2012இல் இது 4.25 மீட்டராக இருந்தது. 2019இல் அதிகபட்சமாக 7.79 மீட்டர் வரை குறைந்தது. மாநகராட்சியில் 1.25 கோடி பேர் வசிப்பதாகக் கூறப்படுகிறது. நாள்தோறும் 1,246 மில்லியன் லிட்டர் குடிநீர் தேவைப்படுகிறது. இதில் 80 சதவீதம் ஏரி போன்ற நீர்த்தேக்கங்களில் இருந்தும், 12 சதவீதம் கடல்நீரை குடிநீராக்கும் திட்டத்தில் இருந்தும், 6 முதல் 8 சதவீதம் நிலத்தடியில் இருந்தும் பெறப்படுகிறது. வழக்கமாக 50 அடிக்குள் கிடைத்த ஆழ்துளைக் கிணறு நீர், தற்போது 150 அடி முதல் 800 அடி வரை ஆழம் சென்றால்தான் கிடைக்கிறது. தற்போது 6 லட்சம் கட்டடங்களில் மட்டுமே மழைநீர் சேகரிக்கப்படுகிறது. 1,158 மாநகராட்சிக் கட்டடங்களில் மழைநீர் சேமிப்பு வசதிகளைச் சீரமைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது. முதல்கட்டமாக ஷெனாய் நகர் சென்னை பெண்கள் மேல்நிலைப் பள்ளி உட்பட 10-க்கும் மேற்பட்ட பள்ளிகளில் பணிகள் நடைபெறுகின்றன. ஓரிரு மாதங்களில் முடிக்கப்படும். செலவு ரூ.20 லட்சம் முதல் ரூ.1 கோடி வரை ஆகும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💧 சென்னை மாநகராட்சி: 142 பள்ளிகளில் மழைநீர் சேமிப்பு, நிலத்தடி நீர்மட்டம் சரிவு\n\n📰 முழு விவரம்:\nசென்னை மாநகராட்சியில் நிலத்தடி நீர்மட்டம் குறைந்து வருவதால், நடப்பாண்டில் 142 பள்ளி வளாகங்களில் மழைநீரைச் சேமிக்கத் திட்டமிடப்பட்டுள்ளதாக அதிகாரிகள் தெரிவித்தனர். மாநகராட்சியில் 1.25 கோடி பேர் வசிப்பதாகக் கூறப்படுகிறது. நாள்தோறும் 1,246 மில்லியன் லிட்டர் குடிநீர் தேவைப்படுகிறது. அதில் 80 சதவீதம் ஏரி போன்ற நீர்த்தேக்கங்களில் இருந்தும், 12 சதவீதம் கடல்நீரை குடிநீராக்கும் திட்டத்தில் இருந்தும், 6 முதல் 8 சதவீதம் நிலத்தடியில் இருந்தும் பெறப்படுகிறது. வழக்கமாக 50 அடிக்குள் கிடைத்த ஆழ்துளைக் கிணறு நீர், தற்போது குறைந்தபட்சம் 150 அடியிலிருந்து 800 அடி வரை சென்றால்தான் கிடைக்கிறது.\n📉 நிலத்தடி நீர்மட்டம்: 2012இல் 4.25 மீட்டர், 2016இல் 3.11 மீட்டர், 2020இல் 4.80 மீட்டர், 2025இல் 4.63 மீட்டர், நிகழாண்டு 5.6 மீட்டர். 2019இல் அதிகபட்சமாக 7.79 மீட்டர் வரை குறைந்தது.\n🏫 தற்போது 6 லட்சம் கட்டடங்களில் மட்டுமே மழைநீர் சேகரிக்கப்படுகிறது. 1,158 மாநகராட்சிக் கட்டடங்களில் மழைநீர் சேமிப்பு வசதிகளைச் சீரமைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது. முதல்கட்டமாக மாநகராட்சியின் மொத்தம் 417 பள்ளிகளில் 142 பள்ளி வளாகங்களில் நவீன ஜெர்மன் தொழில்நுட்பத்தில் மழைநீர் சேமிப்பு அமைப்பு ஏற்படுத்தப்பட உள்ளது.\n🔧 ஷெனாய் நகர் சென்னை பெண்கள் மேல்நிலைப் பள்ளி உட்பட 10-க்கும் மேற்பட்ட பள்ளிகளில் பணிகள் தொடங்கி நடைபெறுகின்றன. ஓரிரு மாதங்களில் முடிக்கப்படும் என அதிகாரிகள் தெரிவித்தனர்.\n💰 பள்ளி வளாகங்களில் மழைநீர் சேகரிப்பு அமைப்பின் அளவைப் பொறுத்து ரூ.20 லட்சம் முதல் ரூ.1 கோடி வரை செலவிடப்படவுள்ளது.\n\nChennai Corporation rainwater harvesting 142 schools | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Chennai\n\nChennai Minnal - உள்ளூர் செய்திகள் 📢",
+   "prompts": "Corporation workers install rainwater harvesting infrastructure in a school courtyard. The location is a typical Chennai school campus with red-brick buildings and open paved grounds, identified as one of the 142 sites in the Corporation area. Several workers in khaki uniforms are seen from behind, operating tools and laying pipes near the building foundation. Students in standard Tamil Nadu school uniforms stand in a distant group, observing the work from the edge of the playground. The scene includes large concrete tanks and modern harvesting equipment being assembled. It is daytime with bright, clear light. The camera is at eye level, 35 mm, capturing the scale of the construction work within the school grounds. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the modern rainwater harvesting system components installed in the school campus. The focus is on the concrete tanks and pipe connections that represent the new German technology setup mentioned in the article. The surface shows fresh concrete and metal fittings, indicating recent installation. In the blurred background, the red-brick wall of the school building and a few students in uniform are visible. The lighting is natural daylight, highlighting the texture of the construction materials. The camera is slightly high, 35 mm, focusing on the technical details of the water storage infrastructure without showing any readable text or faces. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/22/rainwater-harvesting-in-142-school-premises-to-stabilize-groundwater-levels",
+   "published": "2026-11-22T18:43:46.548Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361885/chennaiminnal/bkvub9ca6vrvkptsbfng.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795361888/chennaiminnal/l2axpwpipxcetir7sscc.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795376296/chennaiminnal/ocbtorpe26budtwr0ezv.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795376299/chennaiminnal/yoguehqj37tepkdlb3lm.jpg"
    ]
   }
  ]
