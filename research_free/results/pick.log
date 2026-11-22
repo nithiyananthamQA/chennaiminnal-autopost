@@ -1,300 +1,70 @@
-05:01:31 round 2026-11-22_05: news published 22 Nov 01:01 -> 22 Nov 05:01 (தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Chennai)
-05:01:31 insights 2026-11-22T05:01+05:30 (164 reels): topic weights {'accident': 0.14, 'civic': 0.16, 'crime': -0.15, 'education': -0.49, 'jobs': -0.24, 'politics': 0.31, 'poultry_agri': -0.29, 'power_cut': 1.23, 'sports_culture': -0.26, 'temple': -0.28, 'weather': 0.18}; best openings ['🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை', '🚨 பல்லாவரம் அருகே திருடிய செல்போன் தகராறில் இளைஞர் வெட்டிக் கொலை']
+08:14:26 round 2026-11-22_08: news published 22 Nov 05:01 -> 22 Nov 08:14 (தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Chennai)
+08:14:26 insights 2026-11-22T08:14+05:30 (167 reels): topic weights {'accident': 0.17, 'civic': 0.19, 'crime': -0.11, 'education': -0.19, 'jobs': -0.21, 'politics': 0.36, 'poultry_agri': -0.26, 'power_cut': 1.29, 'sports_culture': -0.27, 'temple': -0.5, 'weather': 0.22}; best openings ['🚨 கோவிலம்பாக்கத்தில் பீஹார் தொழிலாளி சடலம்: லாரி ஏறி இறந்தாரா என விசாரணை', '🚨 பல்லாவரம் அருகே திருடிய செல்போன் தகராறில் இளைஞர் வெட்டிக் கொலை']
 bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-05:04:17 தினகரன் சென்னை list failed: 404 Client Error: Not Found for url: https://www.dinakaran.com/district/chennai/
-05:04:17 43 links on the two papers' Chennai pages
-05:04:45 skipped: published before this window=13, already posted=8, same event already posted=5, not Chennai district=5, only a headline=1
-05:04:47 list: 7 new + 57 earlier news not posted yet
-05:04:47    1. [குற்றம்] கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இருந்த நபருக் (தினமணி)
-05:04:47    2. [பொது] தேசிய ஜூனியா் பாட்மின்டன்: ஷாய்னா, ஞான தத்து சாம்பியன் (தினமணி)
-05:04:47    3. [விபத்து] ஏரியில் ஆண் சடலம்: போலீஸாா் விசாரணை (தினமணி)
-05:04:47    4. [ரயில்] ‘ஜிஎஸ்டி இ-வே பில்’ நடைமுறையில் மெட்ரோ ரயில் போக்குவரத்து சோ்ப்பு (தினமணி)
-05:04:47    5. [நீதிமன்றம்] ‘தமிழா் சமயம் தமிழா் வேதம் தமிழகத்துக் கோயில்கள்’ நூலுக்கு இணையான வேறு (தினமணி)
-05:04:47    6. [பொது] ஒப்பந்ததாரா் தொடா்ந்த வழக்கு: டவுன் பஞ்சாயத்துகள் இயக்குநா் பதிலளிக்க  (தினமணி)
-05:04:47    7. [பொது] 3 இலவச காஸ் சிலிண்டர் பெறும் பயனாளி பட்டியல் தயாரிப்பு தீவிரம் (இந்து தமிழ்)
-05:04:47    8. [குற்றம்] தனியாக வராதீர்கள், கூட்டமாக வந்து பாருங்கள்... உறவினர்களுக்கு வாட்ஸ்அப (தினத்தந்தி) (earlier)
-05:04:47    9. [குற்றம்] கணவர் தூக்கிட்டு இறந்ததாக நாடகம் :பிரேத பரிசோதனையால் மனைவி கைது (தினமலர்) (earlier)
-05:04:47   10. [பொது] ஜெம் வீரமணி வழக்கில் கைதான ஓட்டுநர் பார்த்திபன் ஜாமீன் கோரி மனு! - Din (தினகரன்) (earlier)
-05:04:47   11. [பொது] வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்ச்சி புகார (தினமலர்) (earlier)
-05:04:47   12. [பொது] வயலில் முதியவர் மர்ம மரணம் (தினமலர்) (earlier)
-05:04:47   13. [மாநகராட்சி] சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்மைப் பணியா (தினத்தந்தி) (earlier)
-05:04:47   14. [மாநகராட்சி] சென்னையில் வாக்காளர் பட்டியல் சிறப்பு முகாம்: மாநகராட்சி ஆணையாளர் நேரி (தினத்தந்தி) (earlier)
-05:04:47   15. [குடிநீர்] குடிநீர் கேன் நிறுவனத்திற்குள் புகுந்த 7 அடி நீள நல்லபாம்பு (தினமலர்) (earlier)
-05:04:47   16. [பொது] 2 நாள் பயணமாக சென்னை வந்தார் துணை ஜனாதிபதி சி.பி.ராதாகிருஷ்ணன் (தினத்தந்தி + மாலைமலர்) (earlier)
-05:04:47   17. [பொது] ஐ.எஸ்.எல் - சொந்த மண்ணில் வெற்றியை தவறவிட்ட சென்னை.... பஞ்சாப் அணியுடன (தினத்தந்தி) (earlier)
-05:04:47   18. [பொது] சென்னையில் இன்றும் நாளையும் வாக்காளா் சோ்க்கை முகாம் (தினமணி) (earlier)
-05:04:47   19. [பொது] சொத்து வரி செலுத்தாத 30,891 பேருக்கு ‘நோட்டீஸ்’ (தினமலர்) (earlier)
-05:04:47   20. [பொது] சென்னை பன்னாட்டு புத்தகத் திருவிழா - ஜனவரி 16-ம் தேதி தொடக்கம் (தினத்தந்தி) (earlier)
-05:04:47   21. [பொது] தொழிற்பயிற்சி நிலையங்களில் தேர்ச்சி பெற்ற 520 மாணவர்களுக்கு சான்றிதழ்க (தினத்தந்தி) (earlier)
-05:04:47   22. [ரயில்] பிரதமர் மோடி திறந்து 40 நாட்கள் ஆகியும் 6 மெட்ரோ ரயில் நிலையங்கள் திறக (தினகரன்) (earlier)
-05:04:47   23. [பொது] சென்னையில் வாக்காளர் பட்டியல் திருத்தத்திற்கான சிறப்பு முகாம்: 2 நாட்க (தினத்தந்தி) (earlier)
-05:04:47   24. [பொது] சென்னை சிஎஸ்ஐஆர் - எஸ்இஆர்சி மையத்தில் ‘ஒரு நாள் விஞ்ஞானி’ முகாம்: 200 (தினத்தந்தி) (earlier)
-05:04:47   25. [சாலை] சென்னை-கோவை-தூத்துக்குடியை இணைக்க தொழில் விரைவுச்சாலை: ஆய்வு நடத்த ஆலோ (தினகரன்) (earlier)
-05:04:47   26. [குற்றம்] பைக் மோதல் தகராறில் மாணவர்களுக்குள் அடிதடி (தினமலர்) (earlier)
-05:04:47   27. [கல்வி] பள்ளி மாணவர்களுக்காக இணையவழி சான்றிதழ் படிப்புகள்: சென்னை ஐஐடி அழைப்பு (தினத்தந்தி) (earlier)
-05:04:47   28. [கல்வி] வேல்ஸ் வித்யாஷ்ரம் பள்ளி, பட்டம் வினாடி – வினா (தினமலர்) (earlier)
-05:04:47   29. [சாலை] சென்னை – கோவை – தூத்துக்குடி விரைவு சாலைக்கு ‘டெண்டர்’ (தினமலர்) (earlier)
-05:04:47   30. [பொது] தவெக ஆட்சியில் உயிருக்கும், பயிருக்கும் பாதுகாப்பு இல்லை! - டி.ஆர்.பி. (தினத்தந்தி) (earlier)
-05:04:47   31. [பொது] மாதவரம்-சிறுசேரி, சோழிங்கநல்லூர் இடையே மெட்ரோ வழித்தடங்களில் சுரங்கம், (மாலைமலர்) (earlier)
-05:04:47   32. [பொது] வடசென்னை அனல்மின் நிலையத்தில் 800 மெகாவாட் மின் உற்பத்தி நிறுத்தம் (தினத்தந்தி) (earlier)
-05:04:47   33. [பொது] சென்னை மெட்ரோ அப்டேட்: வடபழனி – போரூர் வழித்தடத்தில் 6 நிலையங்கள் திறப (தினகரன்) (earlier)
-05:04:47   34. [பொது] சென்ட்ரல் – அரக்கோணம் ‘ஏசி’ மின்சார ரயிலில் சீசன் டிக்கெட் நிறுத்தம் (தினமலர்) (earlier)
-05:04:47   35. [நீதிமன்றம்] பரந்தூர் விமான நிலையத் திட்டத்தை கைவிட்டது ஏன்? - மத்திய, மாநில அரசுகள (இந்து தமிழ்) (earlier)
-05:04:47   36. [நீதிமன்றம்] உள்ளாட்சி அமைப்பு பிரதிநிதிகளின் சொத்து, கடன் விவரங்களை வெளியிடக் கோரி (தினகரன் + இந்து தமிழ்) (earlier)
-05:04:47   37. [பொது] அனிருத் - காவியா மாறன் திருமண வரவேற்பு நிகழ்ச்சி: முதல்-அமைச்சர் விஜய் (தினத்தந்தி) (earlier)
-05:04:47   38. [பொது] திருவான்மியூர் டாஸ்மாக் கடை இருக்கும் நிலத்தின் ஆவணங்களை கேட்க தடை: ஐக (தினத்தந்தி) (earlier)
-05:04:47   39. [பொது] திருப்பரங்குன்றம் தீபத்தூண் தீர்ப்பு மகிழ்ச்சியளிக்கிறது; சவுமியா அன்ப (தினத்தந்தி) (earlier)
-05:04:47   40. [பொது] எங்களுக்கு சமீபத்தில் திருமணம் நடைபெற்று புதுவீட்டில் குடியேறி உள்ளோம் (தினகரன்) (earlier)
-05:04:47   41. [பொது] உலக மீனவர்கள் தினம்: தமிழக முதல்வர் விஜய், அரசியல் தலைவர்கள் வாழ்த்து (இந்து தமிழ்) (earlier)
-05:04:47   42. [பொது] த.வெ.க எம்.எல்.ஏ. வி.எஸ்.பாபுவின் இறுதி ஊர்வலத்தின் போது திடீரென டென்ஷ (பாலிமர்) (earlier)
-05:04:47   43. [பொது] திருப்பரங்குன்றம் விவகாரத்தில் திமுக அரசு எடுத்ததை போல உறுதியான நிலைப் (தினகரன்) (earlier)
-05:04:47   44. [பொது] பொருளுக்கு பணம் கொடுக்காத ஒப்பந்ததாரர் வழக்கு: டவுண் பஞ்சாயத்து இயக்கு (தினத்தந்தி) (earlier)
-05:04:47   45. [பொது] பொது சிவில் சட்டத்தின் நோக்கமே முஸ்லிம் எதிர்ப்புதான்: எம்.ஹெச்.ஜவாஹிர (இந்து தமிழ்) (earlier)
-05:04:47   46. [பொது] வழிகாட்டி நிறுவன ஊழியர்கள் பெருமளவில் ராஜினாமாவா? - தமிழக அரசு விளக்கம (இந்து தமிழ்) (earlier)
-05:04:47   47. [பொது] 1,695 காலி பணியிடங்களுக்கு செவிலியர் விண்ணப்பிக்கலாம் (இந்து தமிழ்) (earlier)
-05:04:47   48. [பொது] கைவிடப்பட்ட குவாரிகளை சுற்றி 5 அடி உயர தடுப்பு வேலி: தமிழக அரசு உத்தரவ (தினத்தந்தி) (earlier)
-05:04:47   49. [பொது] “காவிரி டெல்டாவை வறட்சி பாதித்த மாவட்டங்களாக அறிவித்து ஏக்கருக்கு ரூ.4 (இந்து தமிழ்) (earlier)
-05:04:47   50. [பொது] உலக மீனவர் தினம்: மீனவர்களின் உரிமைகளையும் பாதுகாப்பையும் உறுதி செய்ய  (தினத்தந்தி) (earlier)
-05:04:47   51. [பொது] திருப்பரங்குன்றம் விவகாரம்: மத நல்லிணக்கத்தை பாதுகாக்க வேண்டும் - இந்த (தினத்தந்தி) (earlier)
-05:04:47   52. [பொது] அனிருத்-காவியா மாறன் தம்பதிக்கு காங்கிரஸ் மூத்த தலைவர் சோனியா காந்தி வ (தினத்தந்தி) (earlier)
-05:04:47   53. [நீதிமன்றம்] கோடியக்கரையில் வெளிமாவட்டங்களைச் சேர்ந்த 77 படகுகள் மீன்பிடிக்க சென்னை (தினகரன்) (earlier)
-05:04:47   54. [பொது] மக்கள் பார்க்க 2 மணி நேரம் எரியும்படி திருப்பரங்குன்றத்தில் தீபம் ஏற்ற (தினமலர்) (earlier)
-05:04:47   55. [பொது] திருப்பரங்குன்றம் தீபம் தொடர்பான உத்தரவு வரலாற்று சிறப்புமிக்கது - செள (பாலிமர்) (earlier)
-05:04:47   56. [பொது] ‘நீதித்துறையில் ஒரு விண்மீன்’ நூல் வெளியீடு (தினமலர்) (earlier)
-05:04:47   57. [பொது] சென்னையில் டிச., 8ல் தமிழக வளர்ச்சி மாநாடு (தினமலர்) (earlier)
-05:04:47   58. [பொது] மின்னணு சாதனங்களிலிருந்து இளம் தலைமுறை விடுபட வேண்டும்: வெ. இறையன்பு (தினமணி) (earlier)
-05:04:47   59. [பொது] தொழில்நுட்ப துணி நூல் உற்பத்திக்கு நவீன வசதிகள் (தினமலர்) (earlier)
-05:04:47   60. [நீதிமன்றம்] வாடகை நில பட்டா ஆவணங்கள் கேட்டு டாஸ்மாக் நோட்டீஸ்: உயர்நீதிமன்றம் தடை (தினமலர்) (earlier)
-05:04:47   61. [பொது] தேசிய வில்வித்தை போட்டி: சென்னை வீராங்கனை வெள்ளி (தினமலர்) (earlier)
-05:04:47   62. [பொது] எஸ்.ஆர்.எம்., பல்கலை உருவாக்கிய நீரிழிவு சிகிச்சைக்கான மூலிகை மருந்து: (தினமலர்) (earlier)
-05:04:47   63. [பொது] திரைப்படத்தில் சிறந்த பங்களிப்பிற்கான விருதுகள் பெற்ற கமல்ஹாசன், இளையர (தினத்தந்தி) (earlier)
-05:04:47   64. [பொது] மாமல்லபுரத்தில் வரும் 25ல் 2வது முதலீட்டாளர்கள் மாநாடு (தினமலர்) (earlier)
-05:04:47 automatic pick (owner 2 Nov): no e-mail - the top 8 are written at once
-ROUND=2026-11-22_05
-05:04:49    not picked automatically (ceremony / award / awareness event (low views)): தேசிய ஜூனியா் பாட்மின்டன்: ஷாய்னா, ஞான தத்து சாம்பியன்
-05:04:49    not picked automatically (suicide / obituary - only when the owner ticks it): கணவர் தூக்கிட்டு இறந்ததாக நாடகம் :பிரேத பரிசோதனையால் மனைவி கைது
-05:04:49    not picked automatically (suicide / obituary - only when the owner ticks it): தனியாக வராதீர்கள், கூட்டமாக வந்து பாருங்கள்... உறவினர்களுக்கு வாட்ஸ்அப
-05:04:49    not picked automatically (ceremony / award / awareness event (low views)): சென்னை – கோவை – தூத்துக்குடி விரைவு சாலைக்கு ‘டெண்டர்’
-05:04:49    not picked automatically (ceremony / award / awareness event (low views)): சென்னை-கோவை-தூத்துக்குடியை இணைக்க தொழில் விரைவுச்சாலை: ஆய்வு நடத்த ஆலோ
-05:04:49    not picked automatically (ceremony / award / awareness event (low views)): உலக மீனவர்கள் தினம்: தமிழக முதல்வர் விஜய், அரசியல் தலைவர்கள் வாழ்த்து
-05:04:49    not picked automatically (ceremony / award / awareness event (low views)): உலக மீனவர் தினம்: மீனவர்களின் உரிமைகளையும் பாதுகாப்பையும் உறுதி செய்ய 
-05:04:49    not picked automatically (ceremony / award / awareness event (low views)): திரைப்படத்தில் சிறந்த பங்களிப்பிற்கான விருதுகள் பெற்ற கமல்ஹாசன், இளையர
-05:04:49 round 2026-11-22_05 (at least 5, up to 3 more of well-watched topics): 56 news to choose from (50 from earlier rounds), ranked by this page's insights
-05:04:49   PICK   1.  10.4 [crime -0.15 page] கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-05:04:49   PICK   2.   9.0 [other +0.00 pattern] (earlier) வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:04:49   PICK   3.   9.0 [other +0.00 pattern] (earlier) வயலில் முதியவர் மர்ம மரணம்
-05:04:49   PICK   4.   8.6 [civic +0.16 page] (earlier) சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:04:49   PICK   5.   8.5 [other +0.00 pattern] (earlier) ஜெம் வீரமணி வழக்கில் கைதான ஓட்டுநர் பார்த்திபன் ஜாமீன் கோரி 
-05:04:49          6.   8.1 [civic +0.16 page] (earlier) சென்னையில் வாக்காளர் பட்டியல் சிறப்பு முகாம்: மாநகராட்சி ஆணை
-05:04:49          7.   8.1 [civic +0.16 page] (earlier) குடிநீர் கேன் நிறுவனத்திற்குள் புகுந்த 7 அடி நீள நல்லபாம்பு
-05:04:49          8.   8.0 [other +0.00 pattern] (earlier) 2 நாள் பயணமாக சென்னை வந்தார் துணை ஜனாதிபதி சி.பி.ராதாகிருஷ்ண
-05:04:49          9.   8.0 [other +0.00 pattern] (earlier) ஐ.எஸ்.எல் - சொந்த மண்ணில் வெற்றியை தவறவிட்ட சென்னை.... பஞ்சா
-05:04:49         10.   7.5 [other +0.00 pattern] (earlier) சென்னையில் இன்றும் நாளையும் வாக்காளா் சோ்க்கை முகாம்
-05:04:49         11.   7.5 [other +0.00 pattern] (earlier) சொத்து வரி செலுத்தாத 30,891 பேருக்கு ‘நோட்டீஸ்’
-05:04:49         12.   7.2 [politics +0.31 page] (earlier) தொழிற்பயிற்சி நிலையங்களில் தேர்ச்சி பெற்ற 520 மாணவர்களுக்கு 
-05:04:49         13.   6.5 [other +0.00 pattern] (earlier) சென்னையில் வாக்காளர் பட்டியல் திருத்தத்திற்கான சிறப்பு முகாம
-05:04:49         14.   6.0 [other +0.00 pattern] ஏரியில் ஆண் சடலம்: போலீஸாா் விசாரணை
-05:04:49         15.   6.0 [other +0.00 pattern] ‘ஜிஎஸ்டி இ-வே பில்’ நடைமுறையில் மெட்ரோ ரயில் போக்குவரத்து சே
-05:04:49         16.   5.9 [temple -0.28 page] (earlier) சென்னை பன்னாட்டு புத்தகத் திருவிழா - ஜனவரி 16-ம் தேதி தொடக்க
-05:04:49         17.   5.5 [other +0.00 pattern] (earlier) பிரதமர் மோடி திறந்து 40 நாட்கள் ஆகியும் 6 மெட்ரோ ரயில் நிலைய
-05:04:49         18.   5.0 [other +0.00 pattern] (earlier) சென்ட்ரல் – அரக்கோணம் ‘ஏசி’ மின்சார ரயிலில் சீசன் டிக்கெட் ந
-05:04:49         19.   4.6 [education -0.49 page] (earlier) சென்னை சிஎஸ்ஐஆர் - எஸ்இஆர்சி மையத்தில் ‘ஒரு நாள் விஞ்ஞானி’ ம
-05:04:49         20.   4.5 [other +0.00 pattern] (earlier) தவெக ஆட்சியில் உயிருக்கும், பயிருக்கும் பாதுகாப்பு இல்லை! - 
-05:04:49         21.   4.5 [other +0.00 pattern] (earlier) மாதவரம்-சிறுசேரி, சோழிங்கநல்லூர் இடையே மெட்ரோ வழித்தடங்களில்
-05:04:49         22.   4.5 [other +0.00 pattern] (earlier) வடசென்னை அனல்மின் நிலையத்தில் 800 மெகாவாட் மின் உற்பத்தி நிற
-05:04:49         23.   4.5 [other +0.00 pattern] (earlier) சென்னை மெட்ரோ அப்டேட்: வடபழனி – போரூர் வழித்தடத்தில் 6 நிலைய
-05:04:49         24.   4.2 [politics +0.31 page] (earlier) அனிருத் - காவியா மாறன் திருமண வரவேற்பு நிகழ்ச்சி: முதல்-அமைச
-05:04:49         25.   4.1 [education -0.49 page] (earlier) பைக் மோதல் தகராறில் மாணவர்களுக்குள் அடிதடி
-05:04:49         26.   3.9 [temple -0.28 page] ‘தமிழா் சமயம் தமிழா் வேதம் தமிழகத்துக் கோயில்கள்’ நூலுக்கு இ
-05:04:49         27.   3.6 [civic +0.16 page] ஒப்பந்ததாரா் தொடா்ந்த வழக்கு: டவுன் பஞ்சாயத்துகள் இயக்குநா் 
-05:04:49         28.   3.5 [education -0.49 page] (earlier) பள்ளி மாணவர்களுக்காக இணையவழி சான்றிதழ் படிப்புகள்: சென்னை ஐஐ
-05:04:49         29.   3.5 [education -0.49 page] (earlier) வேல்ஸ் வித்யாஷ்ரம் பள்ளி, பட்டம் வினாடி – வினா
-05:04:49         30.   3.5 [other +0.00 pattern] (earlier) உள்ளாட்சி அமைப்பு பிரதிநிதிகளின் சொத்து, கடன் விவரங்களை வெளி
-05:04:49         31.   3.0 [other +0.00 pattern] 3 இலவச காஸ் சிலிண்டர் பெறும் பயனாளி பட்டியல் தயாரிப்பு தீவிர
-05:04:49         32.   2.7 [politics +0.31 page] (earlier) திருப்பரங்குன்றம் விவகாரத்தில் திமுக அரசு எடுத்ததை போல உறுதி
-05:04:49         33.   2.5 [other +0.00 pattern] (earlier) பரந்தூர் விமான நிலையத் திட்டத்தை கைவிட்டது ஏன்? - மத்திய, மா
-05:04:49         34.   2.5 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் தீபத்தூண் தீர்ப்பு மகிழ்ச்சியளிக்கிறது; சவ
-05:04:49         35.   2.5 [other +0.00 pattern] (earlier) எங்களுக்கு சமீபத்தில் திருமணம் நடைபெற்று புதுவீட்டில் குடியே
-05:04:49         36.   2.5 [other +0.00 pattern] (earlier) மின்னணு சாதனங்களிலிருந்து இளம் தலைமுறை விடுபட வேண்டும்: வெ. 
-05:04:49         37.   2.5 [other +0.00 pattern] (earlier) வாடகை நில பட்டா ஆவணங்கள் கேட்டு டாஸ்மாக் நோட்டீஸ்: உயர்நீதிம
-05:04:49         38.   2.3 [politics +0.31 page] (earlier) த.வெ.க எம்.எல்.ஏ. வி.எஸ்.பாபுவின் இறுதி ஊர்வலத்தின் போது திட
-05:04:49         39.   2.0 [other +0.00 pattern] (earlier) திருவான்மியூர் டாஸ்மாக் கடை இருக்கும் நிலத்தின் ஆவணங்களை கேட
-05:04:49         40.   2.0 [other +0.00 pattern] (earlier) அனிருத்-காவியா மாறன் தம்பதிக்கு காங்கிரஸ் மூத்த தலைவர் சோனிய
-05:04:49         41.   2.0 [other +0.00 pattern] (earlier) மக்கள் பார்க்க 2 மணி நேரம் எரியும்படி திருப்பரங்குன்றத்தில் 
-05:04:49         42.   2.0 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் தீபம் தொடர்பான உத்தரவு வரலாற்று சிறப்புமிக
-05:04:49         43.   2.0 [other +0.00 pattern] (earlier) ‘நீதித்துறையில் ஒரு விண்மீன்’ நூல் வெளியீடு
-05:04:49         44.   2.0 [other +0.00 pattern] (earlier) சென்னையில் டிச., 8ல் தமிழக வளர்ச்சி மாநாடு
-05:04:49         45.   2.0 [other +0.00 pattern] (earlier) தொழில்நுட்ப துணி நூல் உற்பத்திக்கு நவீன வசதிகள்
-05:04:49         46.   1.7 [civic +0.16 page] (earlier) பொருளுக்கு பணம் கொடுக்காத ஒப்பந்ததாரர் வழக்கு: டவுண் பஞ்சாயத
-05:04:49         47.   1.5 [other +0.00 pattern] (earlier) மாமல்லபுரத்தில் வரும் 25ல் 2வது முதலீட்டாளர்கள் மாநாடு
-05:04:49         48.   1.5 [other +0.00 pattern] (earlier) திருப்பரங்குன்றம் விவகாரம்: மத நல்லிணக்கத்தை பாதுகாக்க வேண்ட
-05:04:49         49.   1.5 [other +0.00 pattern] (earlier) கோடியக்கரையில் வெளிமாவட்டங்களைச் சேர்ந்த 77 படகுகள் மீன்பிடி
-05:04:49         50.   1.5 [sports_culture -0.26 page] (earlier) எஸ்.ஆர்.எம்., பல்கலை உருவாக்கிய நீரிழிவு சிகிச்சைக்கான மூலிக
-05:04:49         51.   1.0 [other +0.00 pattern] (earlier) கைவிடப்பட்ட குவாரிகளை சுற்றி 5 அடி உயர தடுப்பு வேலி: தமிழக அ
-05:04:49         52.   1.0 [other +0.00 pattern] (earlier) “காவிரி டெல்டாவை வறட்சி பாதித்த மாவட்டங்களாக அறிவித்து ஏக்கர
-05:04:49         53.   1.0 [sports_culture -0.26 page] (earlier) தேசிய வில்வித்தை போட்டி: சென்னை வீராங்கனை வெள்ளி
-05:04:49         54.   0.5 [other +0.00 pattern] (earlier) பொது சிவில் சட்டத்தின் நோக்கமே முஸ்லிம் எதிர்ப்புதான்: எம்.ஹ
-05:04:49         55.   0.5 [other +0.00 pattern] (earlier) வழிகாட்டி நிறுவன ஊழியர்கள் பெருமளவில் ராஜினாமாவா? - தமிழக அர
-05:04:49         56.   0.5 [other +0.00 pattern] (earlier) 1,695 காலி பணியிடங்களுக்கு செவிலியர் விண்ணப்பிக்கலாம்
-05:04:49 decided: automatic: top 5 of 56 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/21/bail-granted-to-an-individual-who-had-been-held-in-custody-for-over-24-hours-prior-to-their-formal-arrest-delhi-court-issues-order https://www.dinamalar.com/news/tamil-nadu-news/word-for-word-coffee-shocking-complaint-against-woman-journalist/4382655 https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/elderly-man-found-dead-in-field/4382683 https://www.dailythanthi.com/news/tamilnadu/namma-little-heroes-event-by-greater-chennai-corporation-children-of-sanitation-workers-filled-with-enthusiasm https://www.dinakaran.com/news/gem-veeramani-arrested-driver-parthiban-bail-application
-05:13:53 5 listed news now in the Sheet
-05:14:02 instagram duplicate check chennai: 50 recent posts read
-05:14:02 verify 2026-11-22_05: 0 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:14:02    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:14:02    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:14:02    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:14:02    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-05:14:02    NOT POSTED Cce27768: queued RN-190 (Queued) - ஜெம் வீரமணி வழக்கில் கைதான ஓட்டுநர் பார்த்திபன் ஜாமீன் கோரி 
-bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-05:21:18 instagram duplicate check chennai: 50 recent posts read
-05:21:18 verify 2026-11-22_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:21:18    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:21:18    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:21:18    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:21:18    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-05:26:25 instagram duplicate check chennai: 50 recent posts read
-05:26:25 verify 2026-11-22_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:26:25    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:26:25    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:26:25    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:26:25    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-05:31:31 instagram duplicate check chennai: 50 recent posts read
-05:31:31 verify 2026-11-22_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:31:31    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:31:31    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:31:31    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:31:31    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-05:36:37 instagram duplicate check chennai: 50 recent posts read
-05:36:37 verify 2026-11-22_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:36:37    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:36:37    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:36:37    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:36:37    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-05:41:43 instagram duplicate check chennai: 50 recent posts read
-05:41:43 verify 2026-11-22_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:41:43    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:41:43    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:41:43    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:41:43    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-05:46:49 instagram duplicate check chennai: 50 recent posts read
-05:46:49 verify 2026-11-22_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:46:49    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:46:49    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:46:49    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:46:49    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-05:54:04 instagram duplicate check chennai: 50 recent posts read
-05:54:04 verify 2026-11-22_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:54:04    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:54:04    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:54:04    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:54:04    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-05:59:10 instagram duplicate check chennai: 50 recent posts read
-05:59:10 verify 2026-11-22_05: 1 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-05:59:10    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-05:59:10    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-05:59:10    NOT POSTED C946392e: queued RN-189 (Queued) - வயலில் முதியவர் மர்ம மரணம்
-05:59:10    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-06:06:26 instagram duplicate check chennai: 50 recent posts read
-06:06:26 verify 2026-11-22_05: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:06:26    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:06:26    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-06:06:26    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-06:11:32 instagram duplicate check chennai: 50 recent posts read
-06:11:33 verify 2026-11-22_05: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:11:33    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:11:33    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-06:11:33    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-06:16:38 instagram duplicate check chennai: 50 recent posts read
-06:16:38 verify 2026-11-22_05: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:16:38    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:16:38    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-06:16:38    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-06:21:44 instagram duplicate check chennai: 50 recent posts read
-06:21:44 verify 2026-11-22_05: 2 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:21:44    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:21:44    NOT POSTED C1bb2eec: queued RN-191 (Queued) - சென்னை மாநகராட்சி சார்பில் ‘நம்ம லிட்டில் ஹீரோஸ்’ விழா: தூய்
-06:21:44    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-06:26:50 instagram duplicate check chennai: 50 recent posts read
-06:26:50 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:26:50    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:26:50    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-06:31:56 instagram duplicate check chennai: 50 recent posts read
-06:31:56 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:31:56    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:31:56    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-bridge 'queue' did not answer (try 2 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-06:41:31 instagram duplicate check chennai: 50 recent posts read
-06:41:31 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:41:31    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:41:31    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-bridge 'queue' did not answer (try 2 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-06:51:07 instagram duplicate check chennai: 50 recent posts read
-06:51:07 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:51:07    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:51:07    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-06:56:12 instagram duplicate check chennai: 50 recent posts read
-06:56:12 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-06:56:12    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-06:56:12    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-07:01:17 instagram duplicate check chennai: 50 recent posts read
-07:01:17 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:01:17    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:01:17    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-07:06:23 instagram duplicate check chennai: 50 recent posts read
-07:06:23 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:06:23    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:06:23    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-07:11:29 instagram duplicate check chennai: 50 recent posts read
-07:11:29 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:11:29    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:11:29    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-07:16:35 instagram duplicate check chennai: 50 recent posts read
-07:16:35 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:16:35    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:16:35    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-07:21:40 instagram duplicate check chennai: 50 recent posts read
-07:21:41 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:21:41    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:21:41    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-07:26:46 instagram duplicate check chennai: 50 recent posts read
-07:26:46 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:26:46    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:26:46    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-07:36:12 instagram duplicate check chennai: 50 recent posts read
-07:36:12 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:36:12    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:36:12    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-07:41:18 instagram duplicate check chennai: 50 recent posts read
-07:41:18 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:41:18    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:41:18    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-07:46:23 instagram duplicate check chennai: 50 recent posts read
-07:46:23 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:46:23    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:46:23    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-07:55:49 instagram duplicate check chennai: 50 recent posts read
-07:55:49 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-07:55:49    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-07:55:49    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-08:00:54 instagram duplicate check chennai: 50 recent posts read
-08:00:54 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:00:54    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-08:00:54    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-08:06:00 instagram duplicate check chennai: 50 recent posts read
-08:06:00 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:06:00    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-08:06:00    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
-bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-08:13:15 instagram duplicate check chennai: 50 recent posts read
-08:13:15 verify 2026-11-22_05: 3 of 5 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-08:13:15    SKIPPED C7a1ab0e: skipped RN-192: held: location unknown - வார்த்தைக்கு வார்த்தை காப்பி; பெண் பத்திரிகையாளர் மீது அதிர்
-08:13:15    NOT POSTED Ca805186: queued RN-193 (Queued) - கைதுக்கு முன் 24 மணி நேரத்துக்கும் மேலாக கட்டுப்பாட்டில் இரு
+bridge 'recent' did not answer (try 2 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+08:19:24 தினகரன் சென்னை list failed: 404 Client Error: Not Found for url: https://www.dinakaran.com/district/chennai/
+08:19:24 42 links on the two papers' Chennai pages
+08:19:56 skipped: published before this window=13, already posted=8, same event already posted=6, not Chennai district=2, only a headline=1
+08:19:57 list: 4 new + 56 earlier news not posted yet
+08:19:57    1. [விலை] சென்னையில் இன்றைய பெட்ரோல்-டீசல் விலை விவரம் (மாலைமலர்)
+08:19:57    2. [விலை] நவம்பர் 22: பெட்ரோல் விலை ரூ.107.77, டீசல் விலை ரூ.99.55- க்கு விற்பனை (தினகரன்)
+08:19:57    3. [பொது] கொளத்தூர் இடைத்தேர்தலில் மு.க.ஸ்டாலின் போட்டியா? - அண்ணா அறிவாலயத்தில் (இந்து தமிழ்)
+08:19:57    4. [பொது] ‘ரூ.4 கோடி விவகாரம் என்ன ஆச்சு?’ - நயினார் நாகேந்திரனுக்கு மாணிக்கம் த (இந்து தமிழ்)
+08:19:57    5. [குற்றம்] தனியாக வராதீர்கள், கூட்டமாக வந்து பாருங்கள்... உறவினர்களுக்கு வாட்ஸ்அப (தினத்தந்தி) (earlier)
+08:19:57    6. [குற்றம்] கணவர் தூக்கிட்டு இறந்ததாக நாடகம் :பிரேத பரிசோதனையால் மனைவி கைது (தினமலர்) (earlier)
+08:19:57    7. [மாநகராட்சி] சென்னையில் வாக்காளர் பட்டியல் சிறப்பு முகாம்: மாநகராட்சி ஆணையாளர் நேரி (தினத்தந்தி) (earlier)
+08:19:57    8. [குடிநீர்] குடிநீர் கேன் நிறுவனத்திற்குள் புகுந்த 7 அடி நீள நல்லபாம்பு (தினமலர்) (earlier)
+08:19:57    9. [பொது] 2 நாள் பயணமாக சென்னை வந்தார் துணை ஜனாதிபதி சி.பி.ராதாகிருஷ்ணன் (தினத்தந்தி + மாலைமலர்) (earlier)
+08:19:57   10. [பொது] ஐ.எஸ்.எல் - சொந்த மண்ணில் வெற்றியை தவறவிட்ட சென்னை.... பஞ்சாப் அணியுடன (தினத்தந்தி) (earlier)
+08:19:57   11. [பொது] தேசிய ஜூனியா் பாட்மின்டன்: ஷாய்னா, ஞான தத்து சாம்பியன் (தினமணி) (earlier)
+08:19:57   12. [பொது] சென்னையில் இன்றும் நாளையும் வாக்காளா் சோ்க்கை முகாம் (தினமணி) (earlier)
+08:19:57   13. [பொது] சொத்து வரி செலுத்தாத 30,891 பேருக்கு ‘நோட்டீஸ்’ (தினமலர்) (earlier)
+08:19:57   14. [பொது] சென்னை பன்னாட்டு புத்தகத் திருவிழா - ஜனவரி 16-ம் தேதி தொடக்கம் (தினத்தந்தி) (earlier)
+08:19:57   15. [பொது] தொழிற்பயிற்சி நிலையங்களில் தேர்ச்சி பெற்ற 520 மாணவர்களுக்கு சான்றிதழ்க (தினத்தந்தி) (earlier)
+08:19:57   16. [ரயில்] பிரதமர் மோடி திறந்து 40 நாட்கள் ஆகியும் 6 மெட்ரோ ரயில் நிலையங்கள் திறக (தினகரன்) (earlier)
+08:19:57   17. [பொது] சென்னையில் வாக்காளர் பட்டியல் திருத்தத்திற்கான சிறப்பு முகாம்: 2 நாட்க (தினத்தந்தி) (earlier)
+08:19:57   18. [பொது] சென்னை சிஎஸ்ஐஆர் - எஸ்இஆர்சி மையத்தில் ‘ஒரு நாள் விஞ்ஞானி’ முகாம்: 200 (தினத்தந்தி) (earlier)
+08:19:57   19. [சாலை] சென்னை-கோவை-தூத்துக்குடியை இணைக்க தொழில் விரைவுச்சாலை: ஆய்வு நடத்த ஆலோ (தினகரன்) (earlier)
+08:19:57   20. [குற்றம்] பைக் மோதல் தகராறில் மாணவர்களுக்குள் அடிதடி (தினமலர்) (earlier)
+08:19:57   21. [கல்வி] பள்ளி மாணவர்களுக்காக இணையவழி சான்றிதழ் படிப்புகள்: சென்னை ஐஐடி அழைப்பு (தினத்தந்தி) (earlier)
+08:19:57   22. [கல்வி] வேல்ஸ் வித்யாஷ்ரம் பள்ளி, பட்டம் வினாடி – வினா (தினமலர்) (earlier)
+08:19:57   23. [சாலை] சென்னை – கோவை – தூத்துக்குடி விரைவு சாலைக்கு ‘டெண்டர்’ (தினமலர்) (earlier)
+08:19:57   24. [பொது] தவெக ஆட்சியில் உயிருக்கும், பயிருக்கும் பாதுகாப்பு இல்லை! - டி.ஆர்.பி. (தினத்தந்தி) (earlier)
+08:19:57   25. [பொது] மாதவரம்-சிறுசேரி, சோழிங்கநல்லூர் இடையே மெட்ரோ வழித்தடங்களில் சுரங்கம், (மாலைமலர்) (earlier)
+08:19:57   26. [பொது] வடசென்னை அனல்மின் நிலையத்தில் 800 மெகாவாட் மின் உற்பத்தி நிறுத்தம் (தினத்தந்தி) (earlier)
+08:19:57   27. [பொது] சென்னை மெட்ரோ அப்டேட்: வடபழனி – போரூர் வழித்தடத்தில் 6 நிலையங்கள் திறப (தினகரன்) (earlier)
+08:19:57   28. [பொது] சென்ட்ரல் – அரக்கோணம் ‘ஏசி’ மின்சார ரயிலில் சீசன் டிக்கெட் நிறுத்தம் (தினமலர்) (earlier)
+08:19:57   29. [விபத்து] ஏரியில் ஆண் சடலம்: போலீஸாா் விசாரணை (தினமணி) (earlier)
+08:19:57   30. [ரயில்] ‘ஜிஎஸ்டி இ-வே பில்’ நடைமுறையில் மெட்ரோ ரயில் போக்குவரத்து சோ்ப்பு (தினமணி) (earlier)
+08:19:57   31. [நீதிமன்றம்] உள்ளாட்சி அமைப்பு பிரதிநிதிகளின் சொத்து, கடன் விவரங்களை வெளியிடக் கோரி (தினகரன் + இந்து தமிழ்) (earlier)
+08:19:57   32. [நீதிமன்றம்] ‘தமிழா் சமயம் தமிழா் வேதம் தமிழகத்துக் கோயில்கள்’ நூலுக்கு இணையான வேறு (தினமணி) (earlier)
+08:19:57   33. [பொது] அனிருத் - காவியா மாறன் திருமண வரவேற்பு நிகழ்ச்சி: முதல்-அமைச்சர் விஜய் (தினத்தந்தி) (earlier)
+08:19:57   34. [பொது] திருவான்மியூர் டாஸ்மாக் கடை இருக்கும் நிலத்தின் ஆவணங்களை கேட்க தடை: ஐக (தினத்தந்தி) (earlier)
+08:19:57   35. [பொது] திருப்பரங்குன்றம் தீபத்தூண் தீர்ப்பு மகிழ்ச்சியளிக்கிறது; சவுமியா அன்ப (தினத்தந்தி) (earlier)
+08:19:57   36. [பொது] எங்களுக்கு சமீபத்தில் திருமணம் நடைபெற்று புதுவீட்டில் குடியேறி உள்ளோம் (தினகரன்) (earlier)
+08:19:57   37. [பொது] உலக மீனவர்கள் தினம்: தமிழக முதல்வர் விஜய், அரசியல் தலைவர்கள் வாழ்த்து (இந்து தமிழ்) (earlier)
+08:19:57   38. [பொது] த.வெ.க எம்.எல்.ஏ. வி.எஸ்.பாபுவின் இறுதி ஊர்வலத்தின் போது திடீரென டென்ஷ (பாலிமர்) (earlier)
+08:19:57   39. [பொது] திருப்பரங்குன்றம் விவகாரத்தில் திமுக அரசு எடுத்ததை போல உறுதியான நிலைப் (தினகரன்) (earlier)
+08:19:57   40. [பொது] பொருளுக்கு பணம் கொடுக்காத ஒப்பந்ததாரர் வழக்கு: டவுண் பஞ்சாயத்து இயக்கு (தினத்தந்தி) (earlier)
+08:19:57   41. [பொது] ஒப்பந்ததாரா் தொடா்ந்த வழக்கு: டவுன் பஞ்சாயத்துகள் இயக்குநா் பதிலளிக்க  (தினமணி) (earlier)
+08:19:57   42. [பொது] 1,695 காலி பணியிடங்களுக்கு செவிலியர் விண்ணப்பிக்கலாம் (இந்து தமிழ்) (earlier)
+08:19:57   43. [பொது] கைவிடப்பட்ட குவாரிகளை சுற்றி 5 அடி உயர தடுப்பு வேலி: தமிழக அரசு உத்தரவ (தினத்தந்தி) (earlier)
+08:19:57   44. [பொது] “காவிரி டெல்டாவை வறட்சி பாதித்த மாவட்டங்களாக அறிவித்து ஏக்கருக்கு ரூ.4 (இந்து தமிழ்) (earlier)
+08:19:57   45. [பொது] உலக மீனவர் தினம்: மீனவர்களின் உரிமைகளையும் பாதுகாப்பையும் உறுதி செய்ய  (தினத்தந்தி) (earlier)
+08:19:57   46. [பொது] திருப்பரங்குன்றம் விவகாரம்: மத நல்லிணக்கத்தை பாதுகாக்க வேண்டும் - இந்த (தினத்தந்தி) (earlier)
+08:19:57   47. [பொது] அனிருத்-காவியா மாறன் தம்பதிக்கு காங்கிரஸ் மூத்த தலைவர் சோனியா காந்தி வ (தினத்தந்தி) (earlier)
+08:19:57   48. [நீதிமன்றம்] கோடியக்கரையில் வெளிமாவட்டங்களைச் சேர்ந்த 77 படகுகள் மீன்பிடிக்க சென்னை (தினகரன்) (earlier)
+08:19:57   49. [பொது] மக்கள் பார்க்க 2 மணி நேரம் எரியும்படி திருப்பரங்குன்றத்தில் தீபம் ஏற்ற (தினமலர்) (earlier)
+08:19:57   50. [பொது] திருப்பரங்குன்றம் தீபம் தொடர்பான உத்தரவு வரலாற்று சிறப்புமிக்கது - செள (பாலிமர்) (earlier)
+08:19:57   51. [பொது] ‘நீதித்துறையில் ஒரு விண்மீன்’ நூல் வெளியீடு (தினமலர்) (earlier)
+08:19:57   52. [பொது] சென்னையில் டிச., 8ல் தமிழக வளர்ச்சி மாநாடு (தினமலர்) (earlier)
+08:19:57   53. [பொது] மின்னணு சாதனங்களிலிருந்து இளம் தலைமுறை விடுபட வேண்டும்: வெ. இறையன்பு (தினமணி) (earlier)
+08:19:57   54. [பொது] தொழில்நுட்ப துணி நூல் உற்பத்திக்கு நவீன வசதிகள் (தினமலர்) (earlier)
+08:19:57   55. [பொது] 3 இலவச காஸ் சிலிண்டர் பெறும் பயனாளி பட்டியல் தயாரிப்பு தீவிரம் (இந்து தமிழ்) (earlier)
+08:19:57   56. [நீதிமன்றம்] வாடகை நில பட்டா ஆவணங்கள் கேட்டு டாஸ்மாக் நோட்டீஸ்: உயர்நீதிமன்றம் தடை (தினமலர்) (earlier)
+08:19:57   57. [பொது] தேசிய வில்வித்தை போட்டி: சென்னை வீராங்கனை வெள்ளி (தினமலர்) (earlier)
+08:19:57   58. [பொது] எஸ்.ஆர்.எம்., பல்கலை உருவாக்கிய நீரிழிவு சிகிச்சைக்கான மூலிகை மருந்து: (தினமலர்) (earlier)
+08:19:57   59. [பொது] திரைப்படத்தில் சிறந்த பங்களிப்பிற்கான விருதுகள் பெற்ற கமல்ஹாசன், இளையர (தினத்தந்தி) (earlier)
+08:19:57   60. [பொது] மாமல்லபுரத்தில் வரும் 25ல் 2வது முதலீட்டாளர்கள் மாநாடு (தினமலர்) (earlier)
+08:19:57 automatic pick (owner 2 Nov): no e-mail - the top 8 are written at once
+ROUND=2026-11-22_08
