@@ -546,7 +546,8 @@
    "category": "குற்றம்",
    "score": 10.89,
    "power_cut": false,
-   "listed_at": "2026-11-23T17:01:25.077068+05:30"
+   "listed_at": "2026-11-23T17:01:25.077068+05:30",
+   "picked_at": "2026-11-23T21:06:38.645930+05:30"
   },
   "Cd2640de": {
    "id": "Cd2640de",
@@ -561,7 +562,8 @@
    "alts": [
     "https://www.hindutamil.in/news/tamilnadu/reduction-in-wages-for-sanitation-workers-hc-orders-chennai-collector-corporation-commissioner-to-respond"
    ],
-   "listed_at": "2026-11-23T17:01:25.077068+05:30"
+   "listed_at": "2026-11-23T17:01:25.077068+05:30",
+   "picked_at": "2026-11-23T21:06:38.645928+05:30"
   },
   "C079f502": {
    "id": "C079f502",
@@ -777,7 +779,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-23T21:01:29.982608+05:30"
+   "listed_at": "2026-11-23T21:01:29.982608+05:30",
+   "picked_at": "2026-11-23T21:06:38.645922+05:30"
   },
   "Cef06c35": {
    "id": "Cef06c35",
@@ -789,7 +792,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-23T21:01:29.982608+05:30"
+   "listed_at": "2026-11-23T21:01:29.982608+05:30",
+   "picked_at": "2026-11-23T21:06:38.645926+05:30"
   },
   "Cb6258ac": {
    "id": "Cb6258ac",
@@ -2642,8 +2646,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-23T22:01:29.982608+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 4 of 66 by insights",
+    "ids": [
+     "C9c3d5e3",
+     "Cef06c35",
+     "Cd2640de",
+     "C6066cdf"
+    ],
+    "at": "2026-11-23T21:06:38.645905+05:30"
+   },
+   "written": [
+    "C6066cdf",
+    "C9c3d5e3",
+    "Cd2640de",
+    "Cef06c35"
+   ]
   }
  },
  "retry": {}
