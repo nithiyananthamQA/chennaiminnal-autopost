@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-23T13:01+05:30",
- "posts_measured": 198,
+ "updated": "2026-11-23T17:01+05:30",
+ "posts_measured": 202,
  "topic_weight": {
-  "accident": 0.36,
-  "civic": -0.02,
-  "crime": -0.17,
-  "education": -0.27,
+  "accident": 0.5,
+  "civic": 0.03,
+  "crime": -0.11,
+  "education": -0.21,
   "jobs": -0.5,
-  "politics": 0.15,
-  "poultry_agri": 0.2,
-  "power_cut": 1.01,
+  "politics": 0.13,
+  "poultry_agri": -0.26,
+  "power_cut": 1.1,
   "sports_culture": -0.39,
-  "temple": -0.43,
-  "weather": 0.12
+  "temple": -0.39,
+  "weather": 0.19
  },
  "topic_n": {
-  "politics": 12,
+  "politics": 13,
   "accident": 21,
-  "crime": 68,
-  "weather": 24,
+  "crime": 69,
+  "weather": 25,
   "power_cut": 5,
   "civic": 26,
   "education": 5,
-  "poultry_agri": 13,
+  "poultry_agri": 14,
   "temple": 5,
   "jobs": 4,
   "sports_culture": 8
@@ -39,15 +39,15 @@
   "🚨 வண்ணாரப்பேட்டை ரவுடி பாம்முரளி கைது: போலீசார் துரத்தியபோது கீழே விழுந்து கை உட",
   "🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது"
  ],
- "avg_watch_s": 6.4,
+ "avg_watch_s": 6.5,
  "best_topics": [
   "power_cut",
   "accident",
-  "poultry_agri"
+  "weather"
  ],
  "weak_topics": [
   "jobs",
-  "temple"
+  "sports_culture"
  ],
  "topic_source": {
   "accident": "ours",
@@ -63,5 +63,5 @@
   "weather": "ours"
  },
  "reference_posts_measured": 518,
- "reference_updated": "2026-11-23T12:32+05:30"
+ "reference_updated": "2026-11-23T16:29+05:30"
 }
