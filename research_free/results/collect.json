@@ -3,68 +3,108 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.hindutamil.in/news/environment/air-pollution-in-chennai-increases-due-to-adverse-weather-conditions",
-  "manual link added: https://www.dinamani.com/half-century-ago/2026/Nov/23/cars-belonging-to-former-dmk-minister-seized",
-  "manual link added: https://www.hindutamil.in/amp/story/news/tamilnadu/kolathur-constituency-declared-vacant-following-the-passing-of-tvk-mla-v-s-babu",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/safe-to-man-who-molested-girl-on-city-bus/4383464",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/drinking-water-supply-to-be-suspended-in-chennai-for-2-days",
-  "candidate filter: collected=5",
-  "to write: 5 Chennai district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/drinking-water-su",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.hindutamil.in/amp/story/news/tamilnadu/kolathur-",
+  "manual link added: https://www.hindutamil.in/news/crime/3-arrested-for-assaulting-14-year-old-boy-and-snatching-his-mobile-phone",
+  "manual link added: https://www.dailythanthi.com/amp/story/news/tamilnadu/1461-lakes-in-tamil-nadu-have-run-dry-dams-hold-only-3640-percent-of-their-water-capacity",
+  "manual link added: https://www.dinakaran.com/news/chennai-gold-jewellery-prices-rise-by-rs-1080-to-rs-92800-per-sovereign",
+  "manual link added: https://www.dinakaran.com/news/cauvery-farmers-dmks-7-member-committee-announced-m-k-stalin",
+  "candidate filter: collected=4",
+  "to write: 4 Chennai district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dinakaran.com/news/cauvery-farmers-dmks-7-member",
+  "try (N) manual=True: https://www.dinakaran.com/news/chennai-gold-jewellery-prices",
+  "try (N) manual=True: https://www.dailythanthi.com/amp/story/news/tamilnadu/1461-l",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/half-century-ago/2026/Nov/23/cars-b",
+  "try (N) manual=True: https://www.hindutamil.in/news/crime/3-arrested-for-assaulti",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.hindutamil.in/news/environment/air-pollution-in-",
-  "NOT filed (N) 23.11.1976: முன்னாள் தி.மு.க. மந்திரி கார்கள் பறிம: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 77 min",
-  "filed: 4 Chennai district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
+  "filed: 4 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (31s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (35s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (38s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (37s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "dead for this round: groq/qwen/qwen3.8-27b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -74,285 +114,252 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கொளத்தூர் தொகுதி காலியானதாக அறிவிப்பு: தவெக எம்எல்ஏ வி.எஸ்.பாபு மறைவைத் தொடர்ந்து நடவடிக்கை",
-   "english_headline": "Kolathur constituency declared vacant following the death of TVK MLA V.S. Babu",
-   "category": "Government & Services",
-   "location": "Kolathur, Chennai district",
+   "tamil_headline": "சென்னையில் தங்கம் விலை சவரனுக்கு ரூ.1,080 உயர்வு: ஒரு சவரன் ரூ.92,800",
+   "english_headline": "Gold price in Chennai rises by Rs.1,080 per sovereign to Rs.92,800",
+   "category": "Business & Prices",
+   "location": "Chennai city, Chennai district",
    "importance": "High",
    "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல் செய்தி",
-    "loc": "கொளத்தூர், சென்னை",
-    "hl1": "கொளத்தூர் தொகுதி காலியானதாக அறிவிப்பு",
-    "hl2": "தவெக எம்எல்ஏ வி.எஸ்.பாபு",
+    "cat": "தங்கம் விலை",
+    "loc": "சென்னை",
+    "hl1": "சென்னையில் தங்கம் விலை உயர்வு",
+    "hl2": "சவரன் ரூ.92,800",
     "slides": [
      {
-      "title": "வி.எஸ்.பாபு மறைவு",
+      "title": "இன்றைய விலை",
       "lines": [
-       "கொளத்தூர் தவெக எம்எல்ஏ <b>வி.எஸ்.பாபு</b> காலமானார்",
-       "கடந்த <b>3 மாதங்களாக</b> மருத்துவமனையில் சிகிச்சை",
-       "சிகிச்சை பலனின்றி உயிரிழந்தார்"
+       "சென்னையில் சவரனுக்கு <b>ரூ.1,080</b> உயர்வு",
+       "ஒரு சவரன் <b>ரூ.92,800</b>க்கு விற்பனை",
+       "ஒரு கிராம் <b>ரூ.11,600</b>க்கு விற்பனை"
       ]
      },
      {
-      "title": "தொகுதி காலி",
+      "title": "நேற்று முன்தினம்",
       "lines": [
-       "கொளத்தூர் தொகுதி காலியானதாக அறிவிப்பு",
-       "சட்டப்பேரவை செயலகம் தேர்தல் ஆணையத்திற்கு தகவல்",
-       "காலியான தொகுதிகள் எண்ணிக்கை <b>6-ஆக</b> உயர்வு"
+       "சவரனுக்கு <b>ரூ.360</b> குறைந்தது",
+       "ஒரு சவரன் <b>ரூ.91,720</b>க்கு விற்பனை",
+       "ஒரு கிராம் <b>ரூ.45</b> குறைந்து விற்பனை"
       ]
      },
      {
-      "title": "தேர்தல் வரலாறு",
+      "title": "வெள்ளி விலை",
       "lines": [
-       "கடந்த தேர்தலில் மு.க.ஸ்டாலினை எதிர்த்து வெற்றி",
-       "வி.எஸ்.பாபு <b>82,997</b> வாக்குகள் பெற்றார்",
-       "மு.க.ஸ்டாலின் <b>74,202</b> வாக்குகள் பெற்றார்"
+       "சில்லறை வர்த்தகத்தில் வெள்ளி மாற்றமின்றி",
+       "ஒரு கிராம் <b>ரூ.175</b>க்கு விற்பனை",
+       "நேற்று ரூ.5 குறைந்து ரூ.175 ஆனது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கொளத்தூர் சட்டமன்ற தொகுதி காலியானதாக அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டுள்ளது. தமிழக வெற்றிக் கழகத்தின் கொளத்தூர் தொகுதி சட்டமன்ற உறுப்பினர் வி எஸ் பாபு உடல்நலக்குறைவால் காலமானார். கடந்த 3 மாதங்களாக சென்னையில் உள்ள தனியார் மருத்துவமனையில் அவர் சிகிச்சை பெற்று வந்தார். சிகிச்சை பலனின்றி அவர் உயிரிழந்ததை அடுத்து, கொளத்தூர் தொகுதி காலியானதாக சட்டப்பேரவை செயலகம் தேர்தல் ஆணையத்திற்கு தகவல் அனுப்பியுள்ளது. கடந்த சட்டமன்றத் தேர்தலில் கொளத்தூர் தொகுதியில் முன்னாள் முதல்வர் மு க ஸ்டாலினை எதிர்த்து வி எஸ் பாபு போட்டியிட்டார். அந்தத் தேர்தலில் 82,997 வாக்குகள் பெற்று வி எஸ் பாபு வெற்றி பெற்றார். மு க ஸ்டாலின் 74,202 வாக்குகள் பெற்றிருந்தார். தற்போது வி எஸ் பாபுவின் மறைவால் தமிழகத்தில் காலியாக உள்ள சட்டமன்ற தொகுதிகளின் எண்ணிக்கை 6-ஆக உயர்ந்துள்ளது. ஏற்கனவே திருச்சி கிழக்கு, பெரம்பூர் உள்ளிட்ட தொகுதிகள் காலியாக உள்ளன. கொளத்தூர் தொகுதிக்கான இடைத்தேர்தல் அறிவிப்பு விரைவில் வெளியாகும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கொளத்தூர் சட்டமன்ற தொகுதி காலியானதாக அறிவிப்பு - தவெக எம்எல்ஏ வி.எஸ்.பாபு மறைவு\n\n📰 முழு விவரம்:\nதவெக எம்எல்ஏ வி.எஸ்.பாபு மறைவைத் தொடர்ந்து கொளத்தூர் தொகுதி காலியானதாக சட்டப்பேரவை செயலகம் தேர்தல் ஆணையத்திற்கு தகவல் அனுப்பியுள்ளது. கடந்த 3 மாதங்களாக உடல்நலக்குறைவால் சிகிச்சை பெற்று வந்த அவர், சிகிச்சை பலனின்றி உயிரிழந்தார். கடந்த தேர்தலில் முன்னாள் முதல்வர் மு.க.ஸ்டாலினை எதிர்த்து வெற்றி பெற்று அனைவரின் கவனத்தையும் ஈர்த்தவர் வி.எஸ்.பாபு. இவரின் மறைவால் தமிழகத்தில் காலியாக உள்ள சட்டமன்ற தொகுதிகளின் எண்ணிக்கை 6-ஆக உயர்ந்துள்ளது.\n\n📍 இடம்: கொளத்தூர், சென்னை\n🗓️ நாள்: 23 நவம்பர் 2026\n👮 நடவடிக்கை: தொகுதி காலியானதாக தேர்தல் ஆணையத்திற்கு தகவல்\nℹ️ மக்கள் கவனத்திற்கு: காலியாக உள்ள தொகுதிகளின் எண்ணிக்கை 6-ஆக உயர்ந்துள்ளது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nKolathur constituency vacant | TVK MLA VS Babu death news | Chennai news\n📍 கொளத்தூர், சென்னை | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kolathur #ChennaiNews #சென்னை",
-   "prompts": "A small group of government officials sits at a long wooden table in a plain government office hall in Chennai, with stacks of official files and a sheaf of papers marked for the Election Commission lying in front of them. Behind them is a pale wall with a framed Tamil Nadu state emblem-free plain board, and a ceiling fan turns overhead. The officials are in formal shirts and sarees, seen from behind and slightly to one side, their faces not visible. Daylight comes through tall windows at the left, and the room is orderly and quiet. The setting suggests a constituency seat being formally declared vacant. Camera: eye level, 35 mm, wide enough to show the whole room and the table of papers. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an official letter lying on a government office desk, its typed Tamil paragraphs blurred so no words are readable, with a wooden pen stand and a stack of files beside it. A brass paperweight rests on the corner of the page, and the edge of a folded sheet shows the typed block of the notice. Soft daylight from a window falls across the paper, making the sheet look freshly printed. No faces are visible, and the mood is calm and official. Camera: slightly high angle, 35 mm, shallow depth of field focusing on the paper. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/amp/story/news/tamilnadu/kolathur-constituency-declared-vacant-following-the-passing-of-tvk-mla-v-s-babu",
-   "published": "2026-11-23T00:35:04Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 7 ('இதேபோல் அதிமுக சார்​பில் வெற்றி பெற்ற மதுராந்​தகம் மரகதம் க'); 82,997 ('இதில் அவர் 82,997 வாக்​கு​களை​யும், ஸ்டா​லின் 74,202 வாக்​கு'); 74,202 ('இதில் அவர் 82,997 வாக்​கு​களை​யும், ஸ்டா​லின் 74,202 வாக்​கு'); 11 ('இந்த வெற்றியின் மூலம் வி.எஸ்.பாபு அனைவரின் கவனத்​தையும் ஈர்த'); 07 ('இந்த வெற்றியின் மூலம் வி.எஸ்.பாபு அனைவரின் கவனத்​தையும் ஈர்த')",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795404887/chennaiminnal/euixzzghozyhwp9gcja5.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795404890/chennaiminnal/tzvclnwuvebjkoiobgcj.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் 2 நாட்கள் குடிநீர் வினியோகம் நிறுத்தம்: நவ. 25 காலை 9 முதல் நவ. 26 காலை 9 வரை",
-   "english_headline": "Chennai: drinking water supply to be halted for 2 days, 25 Nov 9 AM to 26 Nov 9 AM, in Vyasarpadi and Pattel Nagar areas",
-   "category": "Civic Issues",
-   "location": "Vyasarpadi and Pattel Nagar, Chennai, Chennai district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குடிநீர் நிறுத்தம்",
-    "loc": "வியாசர்பாடி, பட்டேல் நகர்",
-    "hl1": "சென்னையில் 2 நாள் குடிநீர் நிறுத்தம்",
-    "hl2": "நவ. 25 காலை 9 – நவ. 26 காலை",
-    "slides": [
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "நவ. <b>25</b> காலை <b>9 மணி</b> முதல்",
-       "நவ. <b>26</b> காலை <b>9 மணி</b> வரை",
-       "குடிநீர் நிலையங்கள் தற்காலிகமாக நிறுத்தம்"
-      ]
-     },
-     {
-      "title": "ஏன் நிறுத்தம்?",
-      "lines": [
-       "வடக்கு பிரதான குடிநீர் குழாயில் இணைப்புப் பணி",
-       "மாதவரம் பால் பண்ணை மெட்ரோ நிலையம் அருகே நடைபெறும்",
-       "புழல் நீர் சுத்திகரிப்பு நிலையத்திலிருந்து குடிநீர்"
-      ]
-     },
-     {
-      "title": "எந்தப் பகுதிகள்?",
-      "lines": [
-       "வியாசர்பாடி, பட்டேல் நகர் குடிநீர் பகிர்மான நிலையங்கள்",
-       "மணலி, மாதவரம், தண்டையார்பேட்டை, திரு.வி.க. மண்டலப் பகுதிகள்",
-       "முழுப் பட்டியல் செய்தியில் உள்ளது"
-      ]
-     },
-     {
-      "title": "என்ன செய்யலாம்?",
-      "lines": [
-       "தேவையான குடிநீரை முன்கூட்டியே சேமித்து வையுங்கள்",
-       "அவசரத் தேவைக்கு லாரி குடிநீருக்கு cmwssb.tn.gov.in-ல் பதிவு",
-       "குடிநீர் இணைப்பு இல்லாத பகுதிகளுக்கு தொட்டி, லாரி"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் இரண்டு நாட்களுக்கு குடிநீர் வினியோகம் நிறுத்தப்படுகிறது. நவம்பர் 25ஆம் தேதி காலை 9 மணி முதல் நவம்பர் 26ஆம் தேதி காலை 9 மணி வரை வியாசர்பாடி மற்றும் பட்டேல் நகர் குடிநீர் பகிர்மான நிலையங்கள் தற்காலிகமாக நிறுத்தப்படுகின்றன. சென்னை மெட்ரோ ரெயில் நிறுவனம் சார்பில் மாதவரம் பால் பண்ணை மெட்ரோ ரெயில் நிலையத்தில் வடக்கு பிரதான குடிநீர் குழாயில் இணைப்புப் பணிகள் மேற்கொள்ளப்பட உள்ளன. புழல் நீர் சுத்திகரிப்பு நிலையத்திலிருந்து வியாசர்பாடி மற்றும் பட்டேல் நகருக்கு குடிநீர் கொண்டு செல்லும் குழாய் இது. மணலி மண்டலம், மாதவரம் மண்டலம், தண்டையார்பேட்டை மண்டலம், திரு.வி க நகர் மண்டலம் ஆகிய பகுதிகளில் குழாய்கள் மூலம் குடிநீர் வினியோகம் தற்காலிகமாக நிறுத்தப்படுகிறது. பொதுமக்கள் தேவையான குடிநீரை முன்கூட்டியே சேமித்து வைத்துக்கொள்ள வேண்டும். அவசரத் தேவைக்கு லாரிகள் மூலம் குடிநீர் பெற சென்னை குடிநீர் வாரியத்தின் இணையதளத்தில் பதிவு செய்யலாம். குடிநீர் இணைப்பு இல்லாத பகுதிகளுக்குத் தொட்டிகள் மற்றும் லாரிகள் மூலம் குடிநீர் வழங்கப்படும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚰 சென்னையில் 2 நாள் குடிநீர் நிறுத்தம்: நவ. 25 காலை 9 – நவ. 26 காலை 9 வரை\n\n📰 முழு விவரம்:\nவியாசர்பாடி, பட்டேல் நகர் குடிநீர் பகிர்மான நிலையங்கள் நவ. 25 காலை 9 மணி முதல் நவ. 26 காலை 9 மணி வரை தற்காலிகமாக நிறுத்தப்படுகின்றன.\nமாதவரம் பால் பண்ணை மெட்ரோ ரெயில் நிலையத்தில், புழல் நீர் சுத்திகரிப்பு நிலையத்திலிருந்து குடிநீர் கொண்டு செல்லும் வடக்கு பிரதான குடிநீர் குழாயில் இணைப்புப் பணிகள் நடைபெற உள்ளன. இதற்காக சென்னை மெட்ரோ ரெயில் நிறுவனம் சார்பில் இப்பணி மேற்கொள்ளப்படுகிறது.\n📍 பாதிக்கப்படும் பகுதிகள்: மணலி மண்டலத்தில் வடபெரும்பாக்கம், தீயம்பாக்கம்; மாதவரம் மண்டலத்தில் மேத்தா நகர், ராமசந்திரா நகர், அன்னை சத்யா நகர், மெஜஸ்டிக் காலனி; தண்டையார்பேட்டை மண்டலத்தில் கொடுங்கையூர், எம்.கே.பி.நகர், வ.உ.சி. நகர், காசிமேடு, ராயபுரம்; திரு.வி.க. மண்டலத்தில் மூலக்கடை, அயனாவரம் உள்ளிட்ட பல பகுதிகள். முழுப் பட்டியல் செய்தியில் உள்ளது.\n🚰 குழாய்கள் மூலம் வழங்கப்படும் குடிநீர் தற்காலிகமாக நிறுத்தப்படுகிறது.\nℹ️ மக்கள் கவனத்திற்கு: தேவையான குடிநீரை முன்கூட்டியே சேமித்து வையுங்கள். அவசரத் தேவைக்கு லாரி குடிநீருக்கு cmwssb.tn.gov.in இணையதளத்தில் பதிவு செய்யலாம். குடிநீர் இணைப்பு இல்லாத பகுதிகளுக்குத் தொட்டிகள், லாரிகள் மூலம் வினியோகம் நடைபெறும்.\n📞 சென்னை குடிநீர் வாரியம் இந்தத் தகவலை வெளியிட்டுள்ளது.\n\nChennai drinking water supply halted 2 days, Vyasarpadi Pattel Nagar | Chennai news\n📍 வியாசர்பாடி, பட்டேல் நகர், சென்னை | 25–26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Vyasarpadi #குடிநீர் #ChennaiNews",
-   "prompts": "A Chennai Metro Water Board crew in khaki uniforms works on a large grey underground main water pipeline exposed in an open pit beside a north Chennai street in Vyasarpadi, with a yellow excavator and a parked water supply lorry at the edge. Behind them stand a few concrete two-storey houses and a row of tall palm trees under a bright daylight sky. Two-wheelers and an autorickshaw sit parked along the kerb, and barricade poles with red-and-white stripes mark the work area. Workers are seen from behind or far away, some bending over the pipe joint with tools. Eye-level camera at 35 mm, wide enough to show the street, the pit, the pipe and the lorry together, daylight, dusty ground. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a large grey water pipe joint being fitted in a shallow excavated trench, with a worker's gloved hands holding a wrench and wet soil around the pipe. A row of blue plastic water storage drums and steel vessels sits on the roadside edge in the foreground, as residents prepare for the two-day shortage. Behind, a concrete wall and the blurred figure of a woman in a cotton saree carrying a steel water pot. Daylight, slightly high angle, 35 mm, shallow depth of field so the pipe and the storage containers stay in sharp focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/drinking-water-supply-to-be-suspended-in-chennai-for-2-days",
-   "published": "2026-11-22T08:44:30Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'வியாசர்பாடி', e.g. 'வியாசர்பாடி: ...' or 'வியாசர்பாடி-இல் ...' - viewers share news of their own area",
+   "reel_script": "சென்னையில் இன்று தங்கம் விலை சவரனுக்கு ரூ.1,080 உயர்ந்துள்ளது. ஒரு சவரன் ரூ.92,800க்கு விற்பனையாகிறது. ஒரு கிராம் தங்கம் ரூ.135 உயர்ந்து ரூ.11,600க்கு விற்பனை செய்யப்படுகிறது. நேற்று முன்தினம் சவரனுக்கு ரூ.360 குறைந்து ரூ.91,720க்கு விற்பனையானது. அன்று ஒரு கிராம் ரூ.45 குறைந்து ரூ.11,465க்கு விற்பனையானது. விடுமுறை தினமான நேற்று தங்கம் விலையில் மாற்றம் இல்லை. சர்வதேசப் பொருளாதார நிலைமைகள், அமெரிக்க டாலரின் மதிப்பு, வட்டி விகிதம், புவியியல் அரசியல் பதற்றங்கள் ஆகியவற்றின் அடிப்படையில் தங்கம் விலை தினந்தோறும் நிர்ணயம் செய்யப்படுகிறது. சென்னையில் சில்லறை வர்த்தகத்தில் வெள்ளி விலை மாற்றமின்றி ஒரு கிராம் ரூ.175க்கு விற்பனையாகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🪙 சென்னையில் தங்கம் விலை சவரனுக்கு ரூ.1,080 உயர்வு: ஒரு சவரன் ரூ.92,800\n\n📰 முழு விவரம்:\nசென்னையில் இன்று தங்கம் விலை சவரனுக்கு ரூ.1,080 உயர்ந்து, ஒரு சவரன் ரூ.92,800க்கு விற்பனையாகிறது.\nஒரு கிராம் தங்கம் ரூ.135 உயர்ந்து ரூ.11,600க்கு விற்பனை செய்யப்படுகிறது.\nநேற்று முன்தினம் சவரனுக்கு ரூ.360 குறைந்து ஒரு சவரன் ரூ.91,720க்கு விற்பனையானது. அன்று ஒரு கிராம் தங்கம் ரூ.45 குறைந்து ரூ.11,465க்கு விற்பனையானது.\nவிடுமுறை தினமான நேற்று தங்கம் விலையில் மாற்றம் இல்லை.\nசர்வதேச பொருளாதார நிலைமைகள், அமெரிக்க டாலரின் மதிப்பு மாற்றம், வட்டி விகித ஏற்றத்தாழ்வுகள், புவியியல் அரசியல் பதற்றங்கள் உள்ளிட்ட காரணிகளை அடிப்படையாகக் கொண்டு தங்கம் விலை தினந்தோறும் நிர்ணயம் செய்யப்படுகிறது.\nசென்னையில் சில்லறை வர்த்தகத்தில் வெள்ளி விலை மாற்றமின்றி ஒரு கிராம் ரூ.175க்கு விற்பனையாகிறது. நேற்று ரூ.5 குறைந்து ரூ.175 ஆனது.\n\nChennai gold rate up Rs.1,080 per sovereign, Rs.92,800 today | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #தங்கம் #சென்னை",
+   "prompts": "A jewellery shop in a busy Chennai city street is lined with gold ornaments in glass display cabinets, and a shop assistant in a shirt stands behind the counter as a customer, seen from behind, examines a gold chain. Gold necklaces, bangles and rings glint under bright shop lights, and a row of gold coins sits on a velvet tray on the counter. Behind the counter, a wall-mounted electronic price display glows with blank, unreadable numerals, and no signboards or readable text are visible. Outside the open shop front, two-wheelers and an autorickshaw pass along the street in daylight, and people in sarees and shirts walk by. Shot at eye level on a 35 mm lens, wide enough to show the shop interior and street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a glass display tray in a Chennai jewellery shop holding gold bangles, a gold chain and a row of gold coins arranged on dark velvet, with the glossy shine of the metal catching the light. In the soft background, a jeweller's hand in a shirt sleeve rests near the tray, and a blurred electronic price board glows with unreadable numerals. No readable text, labels or logos are visible. Warm shop lighting with daylight from the street, shot slightly high at close range on a 35 mm lens with a shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/chennai-gold-jewellery-prices-rise-by-rs-1080-to-rs-92800-per-sovereign",
+   "published": "2026-11-23T09:57:51+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 92800",
    "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795404898/chennaiminnal/zkt1xd9s9us0dvv5tzzx.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795404902/chennaiminnal/mqcwqtckwxaita2y4vir.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795419445/chennaiminnal/z2qrgxqbzxsfd1amqpas.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795419448/chennaiminnal/k6iuxpad4xl4gb7kpwuk.jpg"
    ]
   },
   {
-   "tamil_headline": "மாணவியிடம் பாலியல் தொல்லை: ஜெ.ஜெ.நகரில் 42 வயது நபர் கைது",
-   "english_headline": "42-year-old man arrested for harassing college student on city bus near J.J. Nagar",
-   "category": "Crime & Safety",
-   "location": "J.J. Nagar, Chennai district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பாதுகாப்பு",
-    "loc": "ஜெ.ஜெ.நகர், சென்னை",
-    "hl1": "ஜெ.ஜெ.நகரில் மாணவியிடம் தொல்லை: நபர்",
-    "hl2": "42 வயது கர்ணாமூர்த்தி கைது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "மாநகர பேருந்தில் கல்லூரி மாணவிக்கு பாலியல் தொல்லை",
-       "அருகில் அமர்ந்த நபர் தொல்லை கொடுத்தார்",
-       "ஜெ.ஜெ.நகர் போலீசார் கைது செய்தனர்"
-      ]
-     },
-     {
-      "title": "யார், எங்கே?",
-      "lines": [
-       "ஆவடி, அந்தோணி நகரைச் சேர்ந்த கர்ணாமூர்த்தி, <b>42</b>",
-       "தென்காசி மாவட்டத்தைச் சேர்ந்த <b>20 வயது</b> மாணவி",
-       "கோயம்பேடில் இருந்து அண்ணா நகர் சென்றபோது சம்பவம்"
-      ]
-     },
-     {
-      "title": "நடவடிக்கை",
-      "lines": [
-       "தடம் எண் <b>77வி</b> மாநகர பேருந்தில் நடந்தது",
-       "சக பயணிகள் நபரைப் பிடித்து போலீசாரிடம் ஒப்படைத்தனர்",
-       "பெண்கள் வன்கொடுமை தடுப்புச் சட்டத்தின் கீழ் சிறையில் அடைப்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஜெ ஜெ நகரில் பேருந்தில் மாணவியிடம் தொல்லை கொடுத்த 42 வயது நபர் கைது. ஆவடி, அந்தோணி நகரைச் சேர்ந்த கர்ணாமூர்த்தி என்பவர் மாநகர பேருந்தில் கல்லூரி மாணவியின் அருகில் அமர்ந்து பாலியல் தொல்லை கொடுத்தார். தென்காசி மாவட்டத்தைச் சேர்ந்த 20 வயது மாணவி அண்ணா நகரில் தங்கி தனியார் கல்லூரியில் படித்து வருகிறார். நேற்று முன்தினம் உறவினர் வீட்டிற்குச் சென்று, கோயம்பேடில் இருந்து தடம் எண் 77வி மாநகர பேருந்தில் அண்ணா நகருக்கு சென்று கொண்டிருந்தார். அதிர்ச்சியடைந்த மாணவி கூச்சலிட்டார். சக பயணிகள் அந்த நபரைப் பிடித்து ஜெ ஜெ நகர் போலீசாரிடம் ஒப்படைத்தனர். விசாரணையில் அவர் கர்ணாமூர்த்தி என தெரியவந்தது. பெண்கள் வன்கொடுமை தடுப்புச் சட்டத்தின் கீழ் போலீசார் அவரைக் கைது செய்து, நேற்று சிறையில் அடைத்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஜெ.ஜெ.நகரில் பேருந்தில் மாணவியிடம் தொல்லை: நபர் கைது\n\n📰 முழு விவரம்:\nகோயம்பேடில் இருந்து அண்ணா நகர் சென்ற மாநகர பேருந்தில் (தடம் எண் 77வி), கல்லூரி மாணவியின் அருகில் அமர்ந்த நபர் பாலியல் தொல்லை கொடுத்தார். தென்காசி மாவட்டத்தைச் சேர்ந்த 20 வயது மாணவி அண்ணா நகரில் தங்கி தனியார் கல்லூரியில் படித்து வருகிறார். மாணவி கூச்சலிட்டதைத் தொடர்ந்து சக பயணிகள் அந்த நபரைப் பிடித்து ஜெ.ஜெ.நகர் போலீசாரிடம் ஒப்படைத்தனர். விசாரணையில் ஆவடி, அந்தோணி நகரைச் சேர்ந்த கர்ணாமூர்த்தி, 42 என தெரியவந்தது. பெண்கள் வன்கொடுமை தடுப்புச் சட்டத்தின் கீழ் போலீசார் அவரைக் கைது செய்து, நவ. 21 அன்று சிறையில் அடைத்தனர்.\n📍 இடம்: ஜெ.ஜெ.நகர், சென்னை\n🗓️ நாள்: நவ. 21, 2026\n👮 நடவடிக்கை: பெண்கள் வன்கொடுமை தடுப்புச் சட்டத்தின் கீழ் கைது, சிறையில் அடைப்பு\nஇதுபோன்ற சம்பவங்கள் குறித்து உடனடியாக போலீசாரிடம் புகார் அளியுங்கள். பெண்கள் பாதுகாப்பில் கவனமாக இருங்கள்.\n\nChennai bus harassment arrest, J.J. Nagar | Chennai news\n📍 ஜெ.ஜெ.நகர், சென்னை | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #JJNagar #பெண்கள்பாதுகாப்பு #ChennaiNews",
-   "prompts": "Inside a crowded Chennai city bus (MTC route 77V), a young woman college student sits by a window seat in the middle of the bus while fellow passengers in shirts and sarees stand around the aisle, one passenger firmly holding a middle-aged man in a shirt and trousers who is being held back in the aisle, the bus doors open at a stop with a concrete bus shelter and a busy street outside. Shot from behind the seats at eye level, showing the rows of blue-and-white seats, metal handrails, and daylight from the windows. The students and passengers are seen from behind or slightly blurred; no faces visible. Natural daylight filters through the bus windows, the atmosphere tense but orderly. Camera: 35 mm, eye level, wide enough to show the full aisle and the people involved. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a Chennai city bus window seat, where a young woman's hand rests on a metal seat rail and her bag sits on her lap, with a blurred male passenger's arm in the aisle beside her, the seat upholstery and bus handrail in sharp focus. Daylight comes through the bus window onto the seat fabric and grab rail, with the blurred figures of fellow passengers in the background. No faces visible; the focus is on the empty seat space and the handrail, conveying the moment of an unwanted intrusion and the passengers' protective response. Camera: 35 mm, close, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/safe-to-man-who-molested-girl-on-city-bus/4383464",
-   "published": "2026-11-22T19:58:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'ஜெ.ஜெ.நகர்', e.g. 'ஜெ.ஜெ.நகர்: ...' or 'ஜெ.ஜெ.நகர்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795404907/chennaiminnal/nziky67eszytf9etckrk.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795404911/chennaiminnal/vtju9qldf3xeeitz9cpy.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை மற்றும் புறநகரில் காற்று மாசு அதிகரிப்பு: நவம்பர் 23 முதல் குறையும்",
-   "english_headline": "Air pollution rises in Chennai and suburbs due to bad weather; expected to ease from 23 November as east wind returns",
-   "category": "Weather & Agriculture",
-   "location": "Chennai and suburban areas, Chennai district",
+   "tamil_headline": "காவிரி விவசாயிகளின் கருத்தைக் கேட்க திமுக 7 பேர் கொண்ட குழு அமைப்பு",
+   "english_headline": "DMK forms 7-member team to hear Cauvery farmers' views; tour of delta districts from 25 Nov for one week",
+   "category": "Government & Services",
+   "location": "Delta districts (Cauvery delta), Tamil Nadu; announced from Chennai",
    "importance": "High",
    "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "காற்று மாசு",
-    "loc": "சென்னை மாவட்டம்",
-    "hl1": "சென்னையில் காற்று மாசு அதிகரிப்பு",
-    "hl2": "நவ. 23 முதல் குறையும்",
+    "cat": "அரசியல் அறிவிப்பு",
+    "loc": "டெல்டா மாவட்டங்கள்",
+    "hl1": "காவிரி விவசாயிகளின் கருத்து கேட்க 7",
+    "hl2": "நவம்பர் 25 முதல் ஒரு வாரம்",
     "slides": [
      {
-      "title": "என்ன நிலை?",
+      "title": "யார் அறிவிப்பு?",
       "lines": [
-       "சென்னை, புறநகரில் ஒரு வாரமாக காற்று மாசு அதிகரிப்பு",
-       "நவ. <b>20, 21</b> தேதிகளில் மோசமான நிலை",
-       "காற்றுத்தர குறியீடு <b>224</b> ஆக பதிவு"
+       "திமுக தலைவர் மு.க. ஸ்டாலின் அறிவிப்பு",
+       "காவிரி விவசாயிகளின் கருத்தைக் கேட்க குழு",
+       "7 பேர் கொண்ட குழு அமைக்கப்பட்டுள்ளது"
       ]
      },
      {
-      "title": "ஏன் மாசு அதிகம்?",
+      "title": "குழு யார்?",
       "lines": [
-       "வாகன எண்ணிக்கை அதிகம்",
-       "கிழக்கு திசை காற்று தடைபட்டது",
-       "மாசு தரையில் இருந்து <b>1 கி.மீ.</b> வரை மட்டுமே"
+       "திருச்சி சிவா எம்.பி., எம்.ஆர்.கே. பன்னீர்செல்வம் எம்.எல்.ஏ.",
+       "ஏ.கே.எஸ். விஜயன், துரை சந்திரசேகரன் எம்.எல்.ஏ.",
+       "அருண் நேரு எம்.பி., முரசொலி எம்.பி., செந்தில் செல்வன்"
       ]
      },
      {
-      "title": "வானிலை நிலவரம்",
+      "title": "எப்போது, எங்கே?",
       "lines": [
-       "பகல் வெப்பநிலை <b>36 டிகிரி செல்சியஸ்</b> வரை",
-       "இரவு வெப்பநிலை <b>25 டிகிரி செல்சியஸ்</b> வரை குறைவு",
-       "அதிகாலையில் பனி மூட்டம் காணப்படும்"
+       "<b>2026 நவம்பர் 25</b> முதல் ஒரு வார காலம்",
+       "டெல்டா மாவட்டங்களில் சுற்றுப்பயணம்",
+       "தகவல்களைத் திரட்டி கட்சித் தலைமைக்கு அளிக்கும்"
       ]
      },
      {
-      "title": "இனி என்ன?",
+      "title": "என்ன நடக்கும்?",
       "lines": [
-       "நவ. <b>23</b> முதல் கிழக்கு திசை காற்று வீசும்",
-       "வரும் நாட்களில் காற்று மாசு குறையும்",
-       "சென்னை வானிலை ஆய்வு மையம் தகவல்"
+       "பெறப்படும் கோரிக்கைகள் தமிழ்நாடு அரசுக்கு வழங்கப்படும்",
+       "மேட்டூர் அணை நீர் திறப்பு தாமதம், வறட்சி நிவாரணம் இல்லை என",
+       "அணைகளில் <b>36 விழுக்காடு</b> மட்டுமே நீர் இருப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை மற்றும் புறநகர் பகுதிகளில் காற்று மாசு அதிகரித்துள்ளது. கடந்த ஒரு வாரமாக இந்த நிலை நீடிக்கிறது. நவம்பர் 20, 21 ஆகிய தேதிகளில் நிலைமை மிகவும் மோசமானது. சென்னையில் நவம்பர் 21ஆம் தேதி பி.எம்.2.5 காற்றுத்தர குறியீடு அதிகபட்சமாக 224 ஆகப் பதிவானது. அனுமதிக்கப்பட்ட அளவு 100 ஆகும். வாகனங்களின் எண்ணிக்கை அதிகமாக இருப்பதால் மாசு அதிகரித்துள்ளது. கிழக்கு திசைக் காற்று தடைபட்டுள்ளதே இதற்கு ஒரு காரணம் என்று சென்னை வானிலை ஆய்வு மைய இயக்குநர் வி ஆர் துரை தெரிவித்தார். இரவு வெப்பநிலை குறைந்ததால், மாசு தரையில் இருந்து 1 கிலோமீட்டர் உயரம் வரை மட்டுமே தங்கியுள்ளது. தமிழகத்தின் பல பகுதிகளில் பகல் வெப்பநிலை 36 டிகிரி செல்சியஸ் வரையும், இரவு வெப்பநிலை 25 டிகிரி செல்சியஸ் வரையும் பதிவாகிறது. நவம்பர் 23ஆம் தேதி முதல் கிழக்கு திசைக் காற்று வீசத் தொடங்கும். அதனால் வரும் நாட்களில் காற்று மாசு குறையும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌫️ சென்னையில் காற்று மாசு அதிகரிப்பு: நவ. 23 முதல் குறையும்\n\n📰 முழு விவரம்:\nசென்னை மற்றும் புறநகர் பகுதிகளில் கடந்த ஒரு வாரமாக காற்று மாசு அதிகரித்துள்ளது. நவ. 20, 21 தேதிகளில் நிலைமை மோசமானது.\nசென்னையில் நவ. 21 அன்று பி.எம்.2.5 காற்றுத்தர குறியீடு அதிகபட்சமாக 224 ஆகப் பதிவானது. அனுமதிக்கப்பட்ட அளவு 100.\nவாகன எண்ணிக்கை அதிகம் என்பதாலும், கிழக்கு திசைக் காற்று தடைபட்டதாலும் மாசு காற்றில் தங்கி விட்டது. இரவு வெப்பநிலை குறைந்ததால் மாசு தரையில் இருந்து 1 கி.மீ. வரை மட்டுமே உள்ளது.\nதமிழகத்தின் பல பகுதிகளில் பகல் வெப்பநிலை 36 டிகிரி செல்சியஸ் வரை, இரவு வெப்பநிலை 25 டிகிரி செல்சியஸ் வரை பதிவாகிறது. அதிகாலையில் பனி மூட்டம் காணப்படுகிறது.\nநவ. 23 முதல் கிழக்கு திசைக் காற்று வீசத் தொடங்கும் என்பதால் வரும் நாட்களில் காற்று மாசு குறையும் என சென்னை வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.\n\nChennai air pollution rises, expected to ease from 23 Nov | Chennai news\n📍 சென்னை மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #காற்றுமாசு",
-   "prompts": "A hazy, grey-brown sky hangs low over a busy Chennai road in the early morning, with a thin white mist lying over the tarmac. Two-wheelers, autorickshaws and a town bus crawl past in slow traffic on a flyover approach, their headlights still on. Office workers in shirts and trousers, and women in sarees, walk along the pavement seen from behind and far away. Concrete flyover pillars and a line of tall palm trees fade into the haze in the distance. The scene is dawn, the light diffused and dull, the air visibly thick with pollution. Shot at eye level with a 35 mm lens, wide enough to show the road, the traffic and the smog-covered skyline. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a roadside tree and a dusty street-side drain, its leaves and the concrete edge coated with a fine grey film of pollution dust. Behind it, a blurred row of two-wheelers and a parked autorickshaw sit under a hazy white sky, with a faint breath of mist hanging in the early light. A pair of cyclists far off in the background pedal through the haze. The light is soft, pale and dull, showing the thick particulate air. Shot slightly high at about 35 mm, focused on the dust-covered leaves and drain with the hazy street behind them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/environment/air-pollution-in-chennai-increases-due-to-adverse-weather-conditions",
-   "published": "2026-11-23T01:41:24Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "reel_script": "தி மு க 7 பேர் கொண்ட குழுவை அமைத்துள்ளது. இந்தக் குழு டெல்டா விவசாயிகளின் கருத்துகளைக் கேட்கும். தி மு க தலைவர் மு க ஸ்டாலின் இதை அறிவித்துள்ளார். குழுவில் திருச்சி சிவா நாடாளுமன்ற உறுப்பினர் எம் ஆர் கே பன்னீர்செல்வம் சட்டமன்ற உறுப்பினர் ஏ கே எஸ் விஜயன், துரை சந்திரசேகரன் சட்டமன்ற உறுப்பினர் அருண் நேரு நாடாளுமன்ற உறுப்பினர் முரசொலி நாடாளுமன்ற உறுப்பினர் செந்தில் செல்வன் சட்டமன்ற உறுப்பினர் ஆகியோர் உள்ளனர். குழு 2026 நவம்பர் 25 முதல் ஒரு வார காலம் டெல்டா மாவட்டங்களில் சுற்றுப்பயணம் செய்யும். பெறப்படும் கோரிக்கைகள் கட்சித் தலைமைக்கு அளிக்கப்பட்டு, பின்னர் தமிழ்நாடு அரசுக்கு வழங்கப்படும். மேட்டூர் அணையில் உரிய நேரத்தில் தண்ணீர் திறக்கப்படவில்லை என்றும், வறட்சி நிவாரணம் அறிவிக்கப்படவில்லை என்றும் ஸ்டாலின் குற்றம் சாட்டியுள்ளார். அணைகளில் 36 விழுக்காடு மட்டுமே நீர் இருப்பு இருப்பதாகப் புள்ளிவிவரங்கள் கூறுகின்றன. காவிரி டெல்டாவை வறட்சி பாதித்த பகுதியாக அறிவிக்கக் கோரிக்கை வைக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 காவிரி விவசாயிகளின் கருத்தைக் கேட்க திமுக 7 பேர் குழு அமைப்பு\n\n📰 முழு விவரம்:\nகாவிரி விவசாயிகளின் கருத்துகளைக் கேட்க திமுக சார்பில் 7 பேர் கொண்ட குழு அமைக்கப்பட்டுள்ளதாகக் கட்சித் தலைவர் மு.க. ஸ்டாலின் அறிவித்துள்ளார். தமிழ்நாட்டில் த.வெ.க. ஆட்சிக்கு வந்ததில் இருந்து உழவர்கள் பெரும் பாதிப்பை சந்திப்பதாக அவர் குற்றம்சாட்டியுள்ளார். உரிய நேரத்தில் மேட்டூர் அணையில் இருந்து தண்ணீர் திறக்கப்படவில்லை என்றும், வறட்சி நிவாரணம் அறிவிக்கப்படவில்லை என்றும் கூறியுள்ளார். குறுவை, சம்பா சாகுபடியில் விவசாயிகள் முழுப் பயன் பெற முடியவில்லை என்றும், கர்நாடகத்திடம் காவிரி நீரைப் பெறுவதில் அரசு தவறிவிட்டதாகவும் விமர்சித்துள்ளார். மேகதாது அணை விவகாரத்தில் தமிழ்நாடு அரசு போதிய எதிர்ப்பு தெரிவிக்கவில்லை என்றும், உச்சநீதிமன்ற முயற்சியிலும் பின்னடைவு ஏற்பட்டதாகவும் கூறியுள்ளார்.\n📊 அணைகளில் 36 விழுக்காடு மட்டுமே நீர் இருப்பு உள்ளதாகப் புள்ளிவிவரங்கள் தெரிவிக்கின்றன. நீர்பிடிப்புப் பகுதியில் போதிய மழை இல்லை; பல ஏரிகள் வறண்டுள்ளன.\n🌾 நேரடி நெல் கொள்முதலை நுகர்பொருள் வாணிபக் கழகத்திடம் இருந்து பறித்து கூட்டுறவு அமைப்புகளுக்கு மாற்றும் முடிவு குறித்தும் செய்திகள் வருவதாகவும், இது உற்பத்தியையும் விவசாயிகளையும் பாதிக்கும் என்றும் குறிப்பிட்டுள்ளார்.\n🗓️ குழு 2026 நவம்பர் 25 முதல் ஒரு வார காலம் டெல்டா மாவட்டங்களில் சுற்றுப்பயணம் செய்து தகவல்களைத் திரட்டும்.\n📍 இடம்: காவிரி டெல்டா மாவட்டங்கள்\nℹ️ பெறப்படும் கோரிக்கைகள் கட்சித் தலைமை வழியாக தமிழ்நாடு அரசுக்கு வழங்கப்படும்.\n\nDMK 7-member team Cauvery farmers delta tour | Chennai news\n📍 சென்னை | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #காவிரி #சென்னை",
+   "prompts": "A group of seven party leaders in white shirts and veshti stands on a dusty village road in the Cauvery delta, their backs partly turned, as a cluster of farmers in lungis and towels gathers around them to speak. Behind them stretches a wide field of paddy crop wilting and turning brown from lack of water, with a dry irrigation channel running along the edge. The delta landscape is flat with coconut palms and a few small houses in the distance. A few two-wheelers are parked at the roadside and a white party car waits near the field. It is bright daytime with harsh sunlight and a pale, dry sky. Shot at eye level on a 35 mm lens, wide enough to show the field, the road, and the group, with the people seen from behind or far away. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of cracked, dry earth at the edge of a paddy field, where wilted, brown-tipped paddy stalks rise above the hard soil. In the background, slightly out of focus, a small pile of rice paddy sacks sits beside a concrete procurement shed and a few farmers' slippers lie on the ground. Dry lake bed patterns and a low, empty irrigation channel run through the frame. Bright midday sunlight casts sharp shadows and a dry, warm tone. Shot close at eye level on a 35 mm lens to emphasise the parched crop and soil, with no people in sharp focus. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/cauvery-farmers-dmks-7-member-committee-announced-m-k-stalin",
+   "published": "2026-11-23T12:38:44+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'டெல்டா மாவட்டங்கள்', e.g. 'டெல்டா மாவட்டங்கள்: ...' or 'டெல்டா மாவட்டங்கள்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795419454/chennaiminnal/djechnbmjpxokvdz2nx6.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795419457/chennaiminnal/ey66dfpvkm6sntdmvmlw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தமிழகத்தில் 1,461 ஏரிகள் வறண்டன; அணைகளில் 36.40% நீர் மட்டுமே",
+   "english_headline": "1,461 lakes dry in Tamil Nadu; dams hold only 36.40% water as rain falls short",
+   "category": "Weather & Agriculture",
+   "location": "Chennai, Tamil Nadu",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நீர் நிலவரம்",
+    "loc": "தமிழகம்",
+    "hl1": "தமிழகத்தில் 1,461 ஏரிகள் வறண்டன",
+    "hl2": "அணைகளில் 36.40% நீர்",
+    "slides": [
+     {
+      "title": "ஏரிகள் நிலை",
+      "lines": [
+       "மழை குறைந்ததால் <b>1,461 ஏரிகள்</b> வறண்டன",
+       "முழுமையாக நிரம்பியவை <b>763 ஏரிகள்</b> மட்டும்",
+       "கன்னியாகுமரியில் அதிகபட்சமாக 564 ஏரிகள் நிரம்பின"
+      ]
+     },
+     {
+      "title": "அணை நீர் இருப்பு",
+      "lines": [
+       "90 அணைகளில் மொத்தம் <b>81.65 டி.எம்.சி.</b> நீர் உள்ளது",
+       "இது கொள்ளளவில் <b>36.40%</b> மட்டுமே",
+       "மேட்டூரில் 25.84 டி.எம்.சி., பவானிசாகரில் 15.23 டி.எம்.சி."
+      ]
+     },
+     {
+      "title": "சென்னை குடிநீர்",
+      "lines": [
+       "சென்னை ஏரிகளில் மொத்தம் 5.27 டி.எம்.சி. நீர் மட்டுமே",
+       "கடந்த ஆண்டு இதே நேரம் 10 டி.எம்.சி. இருந்தது",
+       "கிருஷ்ணா நதி நீர் வரத்து தற்காலிகமாக நிறுத்தம்"
+      ]
+     },
+     {
+      "title": "மழை நிலவரம்",
+      "lines": [
+       "அக். 1 முதல் நவ. 19 வரை 259.9 மி.மீ மழை மட்டுமே",
+       "இயல்பை விட 13% குறைவு",
+       "மேலும் ஒரு மாதத்தில் மழை வரும் என எதிர்பார்ப்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தமிழகத்தில் 1,461 ஏரிகள் முற்றிலும் வறண்டு போயின. போதிய மழை பெய்யாததே இதற்குக் காரணம். மாநிலத்தில் உள்ள 14,141 பாசன ஏரிகளில் 763 ஏரிகள் மட்டுமே முழுமையாக நிரம்பியுள்ளன. கன்னியாகுமரியில் அதிகபட்சமாக 564 ஏரிகள் நிரம்பியுள்ளன. நெல்லையில் 236 ஏரிகளும், சிவகங்கையில் 139 ஏரிகளும் வறண்டுள்ளன. தமிழக நீர்வளத்துறை பராமரிக்கும் 90 அணைகளின் மொத்த கொள்ளளவு 224 டி எம் சி ஆகும். தற்போது 81.65 டி எம் சி நீர் மட்டுமே உள்ளது. இது 36.40 சதவீதம் ஆகும். மேட்டூர் அணையில் 25.84 டி எம் சி நீர் உள்ளது. பவானிசாகரில் 15.23 டி எம் சி நீர் உள்ளது. சென்னைக்கு குடிநீர் வழங்கும் 6 நீர்நிலைகளிலும் சேர்த்து 5.27 டி எம் சி நீர் மட்டுமே உள்ளது. கடந்த ஆண்டு இதே காலத்தில் 10 டி எம் சி நீர் இருந்தது. பூண்டி ஏரிக்கு வரும் கிருஷ்ணா நதி நீரும் தற்காலிகமாக நிறுத்தப்பட்டுள்ளது. அக்டோபர் 1 முதல் நவம்பர் 19 வரை 259.9 மில்லிமீட்டர்மழை பதிவாகியுள்ளது. இயல்பாக 298.9 மில்லிமீட்டர்பெய்திருக்க வேண்டும். வடகிழக்குப் பருவமழை இயல்பை விட 13 சதவீதம் குறைவாக உள்ளது. எஞ்சிய ஒரு மாதத்தில் மழை பெய்யும் என நீர்வளத்துறை அதிகாரிகள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தமிழகத்தில் 1,461 ஏரிகள் வறண்டன; அணைகளில் 36.40% நீர் மட்டுமே\n\n📰 முழு விவரம்:\nமழை பற்றாக்குறையால் மாநிலம் முழுவதும் 1,461 ஏரிகள் நீரின்றி வறண்டு கிடக்கின்றன. 14,141 பாசன ஏரிகளில் 763 ஏரிகள் மட்டுமே முழுமையாக நிரம்பியுள்ளன. கன்னியாகுமரியில் அதிகபட்சமாக 564 ஏரிகள் நிரம்பியுள்ளன.\nநீர்வளத்துறை பராமரிக்கும் 90 அணைகளின் மொத்த கொள்ளளவு 224 டி.எம்.சி. தற்போது 81.65 டி.எம்.சி. நீர் மட்டுமே உள்ளது; இது 36.40 சதவீதம்.\n💧 அதிகபட்சமாக மேட்டூரில் 25.84 டி.எம்.சி., பவானிசாகரில் 15.23 டி.எம்.சி., பரம்பிக்குளத்தில் 8.80 டி.எம்.சி. நீர் உள்ளது.\n🚰 சென்னைக்கு குடிநீர் தரும் 6 நீர்நிலைகளில் மொத்தம் 5.27 டி.எம்.சி. நீரே உள்ளது. கடந்த ஆண்டு இதே காலத்தில் 10 டி.எம்.சி. இருந்தது. பூண்டி ஏரிக்கான கிருஷ்ணா நதி நீர் வரத்து தற்காலிகமாக நிறுத்தப்பட்டுள்ளது.\n🌧️ அக். 1 முதல் நவ. 19 வரை 259.9 மி.மீ மழையே பெய்துள்ளது; இயல்பு 298.9 மி.மீ. வடகிழக்குப் பருவமழை 13% குறைவு. டெல்டா, வட கடலோர மாவட்டங்களில் பற்றாக்குறை அதிகம்.\n⏳ எஞ்சிய ஒரு மாதத்தில் மழை பெய்யும் என நீர்வளத்துறை எதிர்பார்க்கிறது.\n\nTamil Nadu 1,461 lakes dry, dams at 36.40% | Chennai news\n📍 சென்னை, தமிழகம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #தமிழகம்",
+   "prompts": "A wide, dry irrigation lake bed in the Tamil Nadu countryside stretches under a pale afternoon sky, its cracked grey-brown earth showing where the water has fully vanished. Thin dry shrubs and a few palm trees line the far bank, and an old stone sluice gate sits at the edge with no water flowing past it. Two farmers in white veshti and shirts walk far off across the cracked bed from behind, their figures small against the empty lake. A few cattle graze on dry patches of grass in the distance. Daylight, dry and hazy, with no clouds gathering. Shot at eye level on a 35 mm lens, wide enough to show the whole empty lake and its dry shoreline. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a dam's reservoir sluice gate with its metal shutters lowered, the water level far below the concrete spillway, leaving a wide band of dry, cracked mud stained grey along the stone walls. Only a thin shallow pool remains at the bottom of the basin, and a few dry twigs and dead leaves lie on the exposed earth. In the blurred background, a low concrete railing and a distant hill show the reservoir's shrunken edge. Bright daylight with a dry, dusty haze. Shot at slightly high eye level on a 35 mm lens, focused on the dry cracked mud and the exposed stone wall of the reservoir. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/amp/story/news/tamilnadu/1461-lakes-in-tamil-nadu-have-run-dry-dams-hold-only-3640-percent-of-their-water-capacity",
+   "published": "2026-11-23T04:41:53Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 198 ('இதில் மேட்டூர், பவானிசாகர் உள்ளிட்ட 15 முக்கிய அணைகளின் கொள்'); 4 ('(36.40 சதவீதம்) நீர் மட்டுமே கையிருப்பில் உள்ளது.அதிகபட்சமாக'); 18, ('(36.40 சதவீதம்) நீர் மட்டுமே கையிருப்பில் உள்ளது.அதிகபட்சமாக'); 2 ('(36.40 சதவீதம்) நீர் மட்டுமே கையிருப்பில் உள்ளது.அதிகபட்சமாக'); 64, ('(36.40 சதவீதம்) நீர் மட்டுமே கையிருப்பில் உள்ளது.அதிகபட்சமாக'); 57, ('(36.40 சதவீதம்) நீர் மட்டுமே கையிருப்பில் உள்ளது.அதிகபட்சமாக')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795404953/chennaiminnal/pved0lkhsd5kmf0ar6wx.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795404957/chennaiminnal/xzexasfjefllkhogamfm.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795419473/chennaiminnal/cwgeggt3yuqfklngrwnm.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795419475/chennaiminnal/lzwobdsgx4lngsy7itrj.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை கோயம்பேடு: 14 வயது சிறுவனைத் தாக்கி செல்போன் பறித்த 3 பேர் கைது",
+   "english_headline": "Three men arrested in Koyambedu for attacking a 14-year-old boy and snatching his mobile phone",
+   "category": "Crime & Safety",
+   "location": "Koyambedu market area, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கைது",
+    "loc": "கோயம்பேடு, சென்னை",
+    "hl1": "கோயம்பேட்டில் சிறுவனிடம் செல்போன்",
+    "hl2": "நேற்று முன்தினம் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கோயம்பேடு மார்க்கெட் பகுதியில் 14 வயது சிறுவன்",
+       "அவனிடமிருந்த செல்போன் பறிக்கப்பட்டது",
+       "கடந்த <b>20ம் தேதி</b> இரவு நடந்தது"
+      ]
+     },
+     {
+      "title": "யார் இவர்கள்?",
+      "lines": [
+       "வெயிலுமுத்து (23 வயது), விருதுநகர் மாவட்டம் சுந்தரபாண்டியம்",
+       "தேவேந்திரன் (28 வயது), கடலூர் மாவட்டம் திட்டக்குடி",
+       "ராஜ்குமார் (26 வயது), விருதுநகர் மாவட்டம் சுந்தரபாண்டியம்"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "கோயம்பேடு போலீசார் விசாரணை நடத்தினர்",
+       "<b>3 பேரும்</b> நேற்று முன்தினம் கைது செய்யப்பட்டனர்",
+       "நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைக்கப்பட்டனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கோயம்பேட்டில் 14 வயது சிறுவனைத் தாக்கி செல்போன் பறித்த 3 பேர் கைது செய்யப்பட்டுள்ளனர். கடந்த 20ஆம் தேதி இரவு கோயம்பேடு மார்க்கெட் பகுதியில் இந்தச் சம்பவம் நடந்தது. வெங்காயக் கடையில் வேலை செய்யும் வெயிலுமுத்து, தேவேந்திரன், ராஜ்குமார் ஆகிய 3 பேரும் சிறுவனிடம் பேச்சுக் கொடுத்தனர். திடீரென சிறுவனைத் தாக்கி அவனது செல்போனைப் பறித்துக்கொண்டு தப்பிச் சென்றனர். சிறுவன் தூய்மைப் பணியாளராக வேலை செய்யும் 60 வயது வசந்தாவின் பேரன் ஆவான். புகாரின்பேரில் கோயம்பேடு போலீசார் விசாரணை நடத்தினர். விருதுநகர் மாவட்டம் சுந்தரபாண்டியத்தைச் சேர்ந்த வெயிலுமுத்து, ராஜ்குமார் மற்றும் கடலூர் மாவட்டம் திட்டக்குடியைச் சேர்ந்த தேவேந்திரன் ஆகிய 3 பேரும் நேற்று முன்தினம் கைது செய்யப்பட்டனர். அவர்கள் 3 பேரும் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கோயம்பேட்டில் 14 வயது சிறுவனிடம் செல்போன் பறிப்பு: 3 பேர் கைது\n\n📰 முழு விவரம்:\nகோயம்பேடு மார்க்கெட் பகுதியில் வசந்தா (60 வயது) என்ற பெண்ணின் 14 வயதுப் பேரனிடம் பேச்சுக் கொடுத்த 3 பேர், திடீரென சிறுவனைத் தாக்கி அவனது செல்போனைப் பறித்துச் சென்றனர். கடந்த 20ஆம் தேதி இரவு நடந்த இந்தச் சம்பவம் தொடர்பாகப் புகாரின்பேரில் கோயம்பேடு போலீசார் விசாரணை நடத்தினர்.\nசெல்போன் பறிப்பில் ஈடுபட்ட விருதுநகர் மாவட்டம் சுந்தரபாண்டியத்தைச் சேர்ந்த வெயிலுமுத்து (23 வயது), கடலூர் மாவட்டம் திட்டக்குடியைச் சேர்ந்த தேவேந்திரன் (28 வயது), விருதுநகர் மாவட்டம் சுந்தரபாண்டியத்தைச் சேர்ந்த ராஜ்குமார் (26 வயது) ஆகிய 3 பேரும் நேற்று முன்தினம் கைது செய்யப்பட்டனர். அவர்கள் 3 பேரையும் நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைத்தனர்.\n📍 இடம்: கோயம்பேடு மார்க்கெட் பகுதி, சென்னை\n🗓️ நாள்: கடந்த 20ஆம் தேதி இரவு\n👮 நடவடிக்கை: 3 பேர் கைது; நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைப்பு\n\nChennai Koyambedu phone snatching, 3 arrested | Chennai news\n📍 கோயம்பேடு, சென்னை மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Koyambedu #ChennaiNews #சென்னை",
+   "prompts": "Three young men are being taken away by police in khaki at the entrance of the Koyambedu wholesale market, Chennai, seen from a distance from behind. The men wear plain shirts and trousers, their hands held behind them, and they walk toward a Tamil Nadu police jeep parked at the gate of a busy market shed. Around them, lorries loaded with vegetable sacks, handcarts, and a few onlookers in the background mark the bustle of the Koyambedu area. It is night, lit by sodium street lamps and the glow of the market sheds, with a slight haze over the road. Shot at eye level on a 35 mm lens, wide enough to show the market gate, the police vehicle and the crowded lane. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a row of onion sacks and a handcart at a shop stall in the Koyambedu market, with a few loose onions spilled on the concrete floor. On a plastic table beside the sacks, a mobile phone is placed alongside a small pile of seized items, with a khaki-uniformed police officer's sleeve and boots visible at the edge of the frame. Night-time light from a single bulb falls on the table, and the background is blurred with shadows of market workers seen from behind. Shot at slightly high angle on a 35 mm lens, focused on the phone and the onion sacks. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/crime/3-arrested-for-assaulting-14-year-old-boy-and-snatching-his-mobile-phone",
+   "published": "2026-11-23T04:18:03Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,000 ('அவர்கள் 3 பேரை​யும் நீதி​மன்​றத்​தில் ஆஜர்​படுத்தி சிறை​யில்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795419490/chennaiminnal/hybji4fqghjnglyfcxy2.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795419522/chennaiminnal/a1d6er4nfqfhslgzxybg.jpg"
    ]
   }
  ]
