@@ -572,7 +572,8 @@
    "category": "குற்றம்",
    "score": 10.83,
    "power_cut": false,
-   "listed_at": "2026-11-23T13:01:55.781711+05:30"
+   "listed_at": "2026-11-23T13:01:55.781711+05:30",
+   "picked_at": "2026-11-23T13:05:14.704096+05:30"
   },
   "C549790e": {
    "id": "C549790e",
@@ -584,7 +585,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-23T13:01:55.781711+05:30"
+   "listed_at": "2026-11-23T13:01:55.781711+05:30",
+   "picked_at": "2026-11-23T13:05:14.704099+05:30"
   },
   "C77b80b9": {
    "id": "C77b80b9",
@@ -599,7 +601,8 @@
    "alts": [
     "https://www.dinakaran.com/news/chennai-gold-jewellery-prices-sovereign-rise-sales"
    ],
-   "listed_at": "2026-11-23T13:01:55.781711+05:30"
+   "listed_at": "2026-11-23T13:01:55.781711+05:30",
+   "picked_at": "2026-11-23T13:05:14.704101+05:30"
   },
   "Ca38fa84": {
    "id": "Ca38fa84",
@@ -614,7 +617,8 @@
    "alts": [
     "https://www.dinakaran.com/news/cauvery-farmer-opinion-7-member-committee-formed-dmk-leader-m-k-stalin"
    ],
-   "listed_at": "2026-11-23T13:01:55.781711+05:30"
+   "listed_at": "2026-11-23T13:01:55.781711+05:30",
+   "picked_at": "2026-11-23T13:05:14.704103+05:30"
   },
   "Cb3b6443": {
    "id": "Cb3b6443",
@@ -2585,8 +2589,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-23T14:01:55.781711+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 4 of 61 by insights",
+    "ids": [
+     "C5dcd458",
+     "C549790e",
+     "C77b80b9",
+     "Ca38fa84"
+    ],
+    "at": "2026-11-23T13:05:14.704082+05:30"
+   },
+   "written": [
+    "C549790e",
+    "C5dcd458",
+    "C77b80b9",
+    "Ca38fa84"
+   ]
   }
  },
  "retry": {
