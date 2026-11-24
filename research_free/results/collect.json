@@ -3,93 +3,79 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/roadside-garbage-from-building-waste-of-water-resources-department-trouble-in-rainwater-discharge/4384873",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/nflow-of-water-into-puzhal-and-chembarambakkam-lakes-increases",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rainwater-surrounds-residential-building-in-vivekananda-nagar/4384864",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/theft-of-aavin-milk-packets",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/chromepet-hit-by-light-rain-slows-down-underground-sewerage-project-maintenance/4385291",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-26-lakh-cannabis-seized/4385294",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/love-affair-student-kidnapped-and-assaulted-in-car-arrested/4385239",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/arrest-of-nainar-nagendran-the-high-handed-conduct-of-the-police-is-condemnable-ttv-dhinakaran",
   "candidate filter: collected=4",
   "to write: 4 Chennai district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/theft-of-aavin-mi",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/arrest-of-nainar",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/nflow-of-water-in",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 74 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 77 min",
   "filed: 4 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1257 (char 1256)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (44s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (48s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (59s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (27s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "dead for this round: groq/qwen/qwen3.8-27b",
   "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "dead for this round: groq/qwen/qwen3.8-27b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
   "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -100,21 +86,6 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -124,268 +95,249 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "புழல், செம்பரம்பாக்கம் ஏரிகளுக்கு நீர்வரத்து அதிகரிப்பு: மழை பெய்தும் நிரம்பாத குடிநீர் ஏரிகள்",
-   "english_headline": "Inflow rises into Puzhal and Chembarambakkam lakes after rain; Chennai's drinking water lakes still far below last year's level",
-   "category": "Weather & Agriculture",
-   "location": "Puzhal and Chembarambakkam lakes, Chennai, Chennai district",
+   "tamil_headline": "நயினார் நாகேந்திரன் கைது: காவல்துறை அராஜகம் என டிடிவி தினகரன் கண்டனம்",
+   "english_headline": "TTV Dhinakaran condemns police arrest of BJP state chief Nainar Nagendran, calls it abuse of power",
+   "category": "Crime & Safety",
+   "location": "சென்னை, சென்னை மாவட்டம்",
    "importance": "High",
-   "scope": "district",
+   "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "குடிநீர் ஏரிகள்",
-    "loc": "புழல், செம்பரம்பாக்கம், சென்னை",
-    "hl1": "புழல், செம்பரம்பாக்கம் ஏரிகளுக்கு",
-    "hl2": "இன்னும் பாதி அளவே தண்ணீர்",
+    "cat": "அரசியல் கைது",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: நயினார் நாகேந்திரன் கைது",
+    "hl2": "கண்டனம் தெரிவித்த டிடிவி",
     "slides": [
      {
-      "title": "நீர்வரத்து உயர்வு",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "புழல் ஏரிக்கு 435 கனஅடி தண்ணீர் வரத்து",
-       "செம்பரம்பாக்கம் ஏரிக்கு 140 கனஅடி தண்ணீர் வரத்து",
-       "2 வாரத்திற்கு பிறகு மீண்டும் நீர்வரத்து தொடங்கியது"
+       "தமிழக பாஜக தலைவர் நயினார் நாகேந்திரன் கைது",
+       "அவரது வாகனத்தைப் பின்தொடர்ந்து வழிமறித்து கைது",
+       "காவல்துறையின் செயலுக்கு டிடிவி தினகரன் கண்டனம்"
       ]
      },
      {
-      "title": "ஏரிகளின் நிலை",
+      "title": "டிடிவி தினகரன்",
       "lines": [
-       "புழல்: 3300 மி.கனஅடியில் 2268 மி.கனஅடி நீர்",
-       "செம்பரம்பாக்கம்: 3645 மி.கனஅடியில் 1228 மி.கனஅடி நீர்",
-       "பூண்டி: 1081 மி.கனஅடியில் 185 மி.கனஅடி நீர்"
+       "தீவிரவாதிகளைத் துரத்துவது போல கைது செய்யப்பட்டதாகக் கூறல்",
+       "இது அப்பட்டமான அதிகார துஷ்பிரயோகம் என்கிறார்",
+       "அமமுக பொதுச்செயலாளர் சமூக வலைதளப் பதிவில் தெரிவிப்பு"
       ]
      },
      {
-      "title": "குடிநீர்",
+      "title": "பின்னணி",
       "lines": [
-       "புழல் ஏரியில் இருந்து 206 கனஅடி தண்ணீர் வெளியேற்றம்",
-       "செம்பரம்பாக்கத்தில் இருந்து 186 கனஅடி வெளியேற்றம்",
-       "சென்னை குடிநீர் தேவைக்காக வெளியேற்றப்படுகிறது"
-      ]
-     },
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "கடந்த ஆண்டை விட ஏரிகளில் பாதி அளவே தண்ணீர்",
-       "தற்போதைய நீரில் 5 மாதங்களுக்கு மட்டுமே குடிநீர்",
-       "பலத்த மழை பெய்தால் மட்டுமே ஏரிகள் நிரம்பும்"
+       "கள்ளக்குறிச்சி விவகாரத்தில் உயர்நீதிமன்றம் அரசை விமர்சித்தது",
+       "இதைத் திசை திருப்ப இத்தகைய நடவடிக்கை என குற்றச்சாட்டு",
+       "காவல்துறையைப் பயன்படுத்துவதை நிறுத்த வேண்டும் என"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை குடிநீர் ஏரிகளில் தண்ணீர் பாதி அளவுக்கும் குறைவாகவே உள்ளது. நேற்று முதல் சென்னை மற்றும் புறநகர் பகுதிகளில் விட்டு விட்டு மழை பெய்து வருகிறது. புழல், செம்பரம்பாக்கம் நீர்ப்பிடிப்புப் பகுதிகளில் கனமழை பெய்ததால், 2 வாரத்திற்கு பிறகு ஏரிகளுக்கு மீண்டும் தண்ணீர் வரத் தொடங்கியுள்ளது. இன்று காலை நிலவரப்படி புழல் ஏரிக்கு 435 கனஅடி தண்ணீர் வருகிறது. ஏரியின் மொத்த கொள்ளளவு 3300 மி.கனஅடி; தற்போது 2268 மி.கனஅடி தண்ணீர் உள்ளது. சென்னை குடிநீர் தேவைக்காக 206 கனஅடி தண்ணீர் வெளியேற்றப்படுகிறது. செம்பரம்பாக்கம் ஏரிக்கு 140 கனஅடி தண்ணீர் வருகிறது. இதன் மொத்த கொள்ளளவு 3645 மி.கனஅடி; தற்போது 1228 மி.கனஅடி தண்ணீர் உள்ளது. இங்கிருந்து 186 கனஅடி தண்ணீர் வெளியேற்றப்படுகிறது. பூண்டி ஏரியில் 1081 மி.கனஅடி கொள்ளளவில் வெறும் 185 மி.கனஅடி தண்ணீரே உள்ளது. வடகிழக்கு பருவமழைக்கு வங்கக்கடலில் உருவான 3 புயல்கள் ஆந்திரா நோக்கிச் சென்றதால் சென்னையில் எதிர்பார்த்த மழை பெய்யவில்லை. கடந்த ஆண்டு இதே நாளில் 10 டி எம் சி தண்ணீர் இருந்த நிலையில், தற்போது 5 டி எம் சி மட்டுமே உள்ளது. தற்போதைய தண்ணீரை வைத்து 5 மாதங்களுக்கு மட்டுமே குடிநீர் வழங்க முடியும். பலத்த மழை பெய்தால் மட்டுமே ஏரிகள் நிரம்பும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ புழல், செம்பரம்பாக்கம் ஏரிகளுக்கு நீர்வரத்து அதிகரிப்பு, ஆனாலும் பாதி அளவே தண்ணீர்\n\n📰 முழு விவரம்:\nசென்னைக்கு குடிநீர் வழங்கும் ஏரிகளில் மொத்தம் 13 ஆயிரத்து 222 (13.2 டி.எம்.சி) தண்ணீர் சேமிக்கலாம். வடகிழக்கு பருவமழை தொடங்கிய நிலையில் ஏரிகள் நிரம்பும் என எதிர்பார்க்கப்பட்டது. ஆனால் வங்கக்கடலில் உருவான 3 புயல்கள் தமிழகத்தை நெருங்காமல் ஆந்திரா நோக்கிச் சென்றதால் சென்னை, புறநகரில் எதிர்பார்த்த மழை பெய்யவில்லை. கடந்த ஆண்டு இதே நாளில் 10 டி.எம்.சி. இருந்த தண்ணீர், தற்போது 5 டி.எம்.சி. மட்டுமே உள்ளது.\nநேற்று முதல் சென்னை, புறநகரில் விட்டு விட்டு மழை பெய்கிறது. புழல், செம்பரம்பாக்கம் நீர்ப்பிடிப்புப் பகுதிகளில் கனமழையால் 2 வாரத்திற்கு பிறகு நீர்வரத்து தொடங்கியுள்ளது.\n🏞️ புழல் ஏரி: 435 கனஅடி வரத்து; 3300 மி.கனஅடியில் 2268 மி.கனஅடி நீர்; 206 கனஅடி வெளியேற்றம்\n🏞️ செம்பரம்பாக்கம் ஏரி: 140 கனஅடி வரத்து; 3645 மி.கனஅடியில் 1228 மி.கனஅடி நீர்; 186 கனஅடி வெளியேற்றம்\n🏞️ சோழவரம் ஏரி: 145 கனஅடி வரத்து\n🏞️ பூண்டி ஏரி: 1081 மி.கனஅடியில் 185 மி.கனஅடி நீர் (17.42%)\n⚠️ தற்போதைய தண்ணீரை வைத்து 5 மாதங்களுக்கு மட்டுமே குடிநீர் பயன்படுத்த முடியும். பலத்த மழை பெய்தால் மட்டுமே ஏரிகள் நிரம்பும்.\n\nChennai lakes inflow rises after rain, water still half | Chennai news\n📍 புழல், செம்பரம்பாக்கம், சென்னை | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Puzhal #ChennaiNews #சென்னை",
-   "prompts": "Wide view across the Puzhal lake on the Chennai outskirts under a heavy grey monsoon sky, with fresh rain falling on the still water and the far banks of the reservoir partly hidden in mist. Gentle inflow ripples spread from the feeder channel at the edge of the lake, and the water level sits visibly well below the stone embankment that shows the lake's usual full mark. Along the bund, a few distant figures in shirts and sarees from behind hold umbrellas while watching the water, and a lone two-wheeler is parked on the narrow road beside the embankment. The light is soft and diffused, it is morning, and the scene is shot at eye level on a 35 mm lens, wide enough to show the lake, the bund and the sky together, with no readable signs. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the sluice gate and outflow channel at the edge of a Chennai reservoir, with a thin stream of rainwater and lake water flowing through the gate into the channel, showing the modest flow of the inflow. Wet concrete steps and the rusty metal of the gate frame are in sharp focus, with a few raindrops on the surface of the water. In the soft background, the grey, low water level of the lake is visible behind the gate, and a single figure in a shirt stands far off from behind. It is morning, the light is dull and overcast, and the shot is taken at a slightly high angle on a 35 mm lens to emphasise the trickle of water and the empty space above the waterline. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/nflow-of-water-into-puzhal-and-chembarambakkam-lakes-increases",
-   "published": "2026-11-24T08:41:38Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3231 ('மொத்த கொள்ளளவான 3231 மி.கனஅடியில் 560 மி.கனஅடி தண்ணீர் இருக்'); 560 ('மொத்த கொள்ளளவான 3231 மி.கனஅடியில் 560 மி.கனஅடி தண்ணீர் இருக்'); known issue repeated_words: word said twice in a row ('விட்டு') - rewrite so it does not happen again",
+   "reel_script": "சென்னையில் பா ஜ க மாநிலத் தலைவர் நயினார் நாகேந்திரன் கைது செய்யப்பட்டதற்கு டிடிவி தினகரன் கடும் கண்டனம் தெரிவித்துள்ளார். தமிழக பா ஜ க தலைவர் நயினார் நாகேந்திரனை வலுக்கட்டாயமாகக் கைது செய்திருப்பது காவல்துறையின் அராஜகப் போக்கு என அவர் கூறியுள்ளார். ஒரு தேசியக் கட்சியின் மாநிலத் தலைவரின் வாகனத்தைப் பின்தொடர்ந்து வழிமறித்து, தடுத்து நிறுத்திக் கைது செய்திருப்பது அப்பட்டமான அதிகார துஷ்பிரயோகம் என்று அவர் தெரிவித்துள்ளார். கள்ளக்குறிச்சி விவகாரத்தில் உயர்நீதிமன்றம் அரசின் பொய்களை வெளிப்படுத்தியுள்ள நிலையில், அதனை திசை திருப்பவே இந்த நடவடிக்கை எடுக்கப்படுவதாகவும் அவர் குற்றம் சாட்டியுள்ளார். இத்தகைய நடவடிக்கைகளை உடனடியாகக் கைவிட வேண்டும் என்றும், காவல்துறையை அதிகார வர்க்கத்தின் ஏவல் கருவியாகப் பயன்படுத்துவதை நிறுத்த வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னை: நயினார் நாகேந்திரன் கைது; காவல்துறை அராஜகம் என டிடிவி தினகரன் கண்டனம்\n\n📰 முழு விவரம்:\nதமிழக பாஜக தலைவர் நயினார் நாகேந்திரனை காவல்துறை வலுக்கட்டாயமாகக் கைது செய்துள்ளது. அவரது வாகனத்தைப் பின்தொடர்ந்து வழிமறித்து தடுத்து நிறுத்திக் கைது செய்ததாக அமமுக பொதுச்செயலாளர் டிடிவி தினகரன் தெரிவித்துள்ளார். இது அப்பட்டமான அதிகார துஷ்பிரயோகம் என்றும் அவர் கண்டித்துள்ளார். கள்ளக்குறிச்சி விவகாரத்தில் உயர்நீதிமன்றம் அரசின் பொய்களை வெளிப்படுத்திய நிலையில், அதனைத் திசை திருப்பவே இந்த நடவடிக்கை என்றும் அவர் குற்றம் சாட்டியுள்ளார். இத்தகைய நடவடிக்கைகளை உடனடியாகக் கைவிட வேண்டும் என்றும், காவல்துறையை அதிகார வர்க்கத்தின் ஏவல் கருவியாகப் பயன்படுத்துவதை நிறுத்த வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார்.\n\nNainar Nagendran arrested Chennai, Dhinakaran condemns | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #அரசியல்",
+   "prompts": "A Tamil Nadu police vehicle and a khaki-uniformed police team stop a dark car on a busy Chennai road in daylight, with the car's doors open and a small group of police officers standing around it. Traffic of two-wheelers, an autorickshaw and an MTC town bus passes slowly in the background, with a flyover pillar and concrete median visible, suggesting a main arterial road in the city. A few onlookers and party workers stand at a distance on the pavement, seen from behind and slightly blurred, showing no faces. The mood is tense and busy, with officers in khaki and the stopped car as the clear focal point. Shot at eye level, 35 mm, wide enough to show the road and the stopped vehicle together, in bright daylight. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a smartphone held in a hand over a parapet or a car dashboard, its screen glowing with an unreadable social media post, with a blurred police jeep and officers in khaki standing behind it on a Chennai roadside. The screen shows only abstract text-like shapes with no legible letters. Background shows a concrete footpath, a two-wheeler and a few passers-by at a distance, seen from behind. Daylight, shallow depth of field, 35 mm, eye level, emphasising the online statement from the party leader. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/arrest-of-nainar-nagendran-the-high-handed-conduct-of-the-police-is-condemnable-ttv-dhinakaran",
+   "published": "2026-11-24T10:27:56Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; source/outlet name or link appears: தினகரன்",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795520287/chennaiminnal/an0tqddl4gdz9xn6xxhh.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795520320/chennaiminnal/znoqaorasaa3h1xm5ugm.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535613/chennaiminnal/tq876vyheghie2fhw22v.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535617/chennaiminnal/f5yo2718pknvkehzapae.jpg"
    ]
   },
   {
-   "tamil_headline": "விவேகானந்தா நகரில் மழைநீர் சூழ்ந்து மக்கள் அவதி",
-   "english_headline": "Rainwater floods homes in Vivekananda Nagar, Thirumullaivoyal; residents suffer",
-   "category": "Civic Issues",
-   "location": "Thirumullaivoyal, Vivekananda Nagar, Avadi, Chennai district",
+   "tamil_headline": "காதல் விவகாரத்தில் கல்லூரி மாணவரை காரில் கடத்தி தாக்கியவர் கைது",
+   "english_headline": "Man arrested for abducting college student in car and assaulting him at gunpoint over a love affair in Kundrathur",
+   "category": "Crime & Safety",
+   "location": "Kundrathur, Chennai district",
    "importance": "High",
-   "scope": "local",
+   "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "வெள்ள பாதிப்பு",
-    "loc": "திருமுல்லைவாயில், ஆவடி",
-    "hl1": "விவேகானந்தா நகரில் மழைநீர் சூழ்ந்து அவதி",
-    "hl2": "முழங்கால் அளவு நீர் தேக்கம்",
+    "cat": "குற்றச் செய்தி",
+    "loc": "குன்றத்தூர்",
+    "hl1": "குன்றத்தூரில் மாணவரை காரில் கடத்தி",
+    "hl2": "துப்பாக்கி முனையில் மிரட்டல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "நேற்று முன்தினம் இரவு கனமழை பெய்தது",
-       "திருமுல்லைவாயில் விவேகானந்தா நகர் குடியிருப்புகளை மழைநீர்",
-       "பல தெருக்களில் முழங்கால் அளவு நீர் தேங்கியது"
+       "காதல் விவகாரத்தில் கல்லூரி மாணவர் காரில் கடத்தப்பட்டார்",
+       "துப்பாக்கி முனையில் தாக்கப்பட்டதாகப் புகார்",
+       "ஆரோக்கியதாஸ், <b>48</b>, போலீசாரால் கைது"
       ]
      },
      {
-      "title": "எந்தத் தெருக்கள்?",
+      "title": "யார் யார்?",
       "lines": [
-       "சம்பங்கி, குறிஞ்சி, சூரியகாந்தி, சாமந்தி, தாமரை தெருக்கள்",
-       "விவேகானந்தா நகரில் 500க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன",
-       "குறிஞ்சி தெருவில் வீட்டின் முன் வெள்ளம் தேங்கியது"
+       "தாம்பரம் சி.டி.ஓ. காலனியைச் சேர்ந்தவர் ஆரோக்கியதாஸ்",
+       "பல்லாவரம் கல்லூரியில் படிக்கும் <b>17 வயது</b> மாணவர்",
+       "இருவரும் காதலித்து வந்ததாகக் கூறப்படுகிறது"
       ]
      },
      {
-      "title": "மக்கள் அவதி",
+      "title": "எப்போது?",
       "lines": [
-       "குழந்தைகள், முதியவர்கள், பெண்கள் வெளியே செல்ல முடியவில்லை",
-       "பாம்பு, பூரான் போன்ற விஷ ஜந்துக்கள் வீடுகளுக்குள் வரும்",
-       "ஒவ்வொரு மழைக்காலத்திலும் இதே பாதிப்பு"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "ஆவடி மாநகராட்சி அதிகாரிகள் ஆய்வு செய்ய வேண்டும்",
-       "மழைநீர் வடிகால் வசதி ஏற்படுத்த வேண்டும் என மக்கள்"
+       "நேற்று முன்தினம் மாலை சோமங்கலத்தில் சம்பவம்",
+       "மாணவரை வரவழைத்து காரில் கடத்திச் சென்றதாகப் புகார்",
+       "நேற்று ஆரோக்கியதாஸ் கைது செய்யப்பட்டார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருமுல்லைவாயில் விவேகானந்தா நகரில் மழைநீர் வீடுகளைச் சூழ்ந்ததால் மக்கள் கடும் அவதிக்குள்ளாகியுள்ளனர். நேற்று முன்தினம் இரவு பெய்த கனமழையால் இந்த நிலை ஏற்பட்டது. ஆவடி அடுத்த திருமுல்லைவாயில் விவேகானந்தா நகரில் 500க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன. சம்பங்கி, குறிஞ்சி, சூரியகாந்தி, சாமந்தி, தாமரை உள்ளிட்ட பல தெருக்களில் மழைநீர் தேங்கியது. பல இடங்களில் முழங்கால் அளவுக்கு நீர் தேங்கியுள்ளது. குறிஞ்சி தெருவில் வீட்டின் முன் வெள்ளம் தேங்கியதால் குழந்தைகள், முதியவர்கள், பெண்கள் வெளியே செல்ல முடியாமல் தவித்தனர். மழைநீரில் பாம்புகள், பூரான் போன்ற விஷ ஜந்துக்கள் வீடுகளுக்குள் வரும் அபாயம் உள்ளது. ஒவ்வொரு மழைக்காலத்திலும் இப்பகுதியில் இதே வெள்ள பாதிப்பு ஏற்படுவதாக மக்கள் கூறுகின்றனர். ஆவடி மாநகராட்சி அதிகாரிகள் ஆய்வு செய்து, மழைநீர் வடிகால் வசதி ஏற்படுத்த வேண்டும் என குடியிருப்பு மக்கள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ திருமுல்லைவாயில் விவேகானந்தா நகரில் மழைநீர் சூழ்ந்து மக்கள் அவதி\n\n📰 முழு விவரம்:\nநேற்று முன்தினம் இரவு பெய்த கனமழையால் திருமுல்லைவாயில் விவேகானந்தா நகரில் குடியிருப்புகளை மழைநீர் சூழ்ந்தது. சம்பங்கி, குறிஞ்சி, சூரியகாந்தி, சாமந்தி, தாமரை தெருக்களில் மழைநீர் தேங்கியது. பல இடங்களில் முழங்கால் அளவு நீர் தேங்கியுள்ளது. குறிஞ்சி தெருவில் வீட்டின் முன் வெள்ளம் தேங்கியதால் குழந்தைகள், முதியவர்கள், பெண்கள் வெளியே செல்ல முடியாமல் அவதிப்பட்டனர். மழைநீரில் பாம்புகள், பூரான் போன்ற விஷ ஜந்துக்கள் வீடுகளுக்குள் வரும் அபாயம் ஏற்பட்டுள்ளது. ஒவ்வொரு மழைக்காலத்திலும் இப்பகுதியில் வெள்ள பாதிப்பு ஏற்படுவதாக மக்கள் கூறுகின்றனர்.\n📍 இடம்: திருமுல்லைவாயில், விவேகானந்தா நகர், ஆவடி அடுத்த பகுதி\n🗓️ நாள்: நவம்பர் 23 இரவு\n🏘️ பாதிப்பு: 500க்கும் மேற்பட்ட குடியிருப்புகள் உள்ள பகுதி\n👮 கோரிக்கை: ஆவடி மாநகராட்சி அதிகாரிகள் ஆய்வு செய்து மழைநீர் வடிகால் வசதி ஏற்படுத்த வேண்டும் என மக்கள் எதிர்பார்க்கின்றனர்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nThirumullaivoyal Vivekananda Nagar rainwater flood | Chennai news\n📍 திருமுல்லைவாயில், ஆவடி, சென்னை மாவட்டம் | நவம்பர் 24\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Avadi #மழை #ChennaiNews",
-   "prompts": "A residential street in Vivekananda Nagar, Thirumullaivoyal, Avadi, is covered with knee-deep brown rainwater after heavy night rain, with the water reaching the front doorsteps of a row of single-storey concrete houses with tiled and sloping roofs. Several houses of this colony of over 500 homes stand on a narrow lane with the flood spread across the whole road, and no vehicles can pass. A few residents, seen from behind and far away, stand on a raised step at a doorway, looking at the water, some wearing shirts, sarees and a lungi. Plastic chairs and a bucket sit partly submerged near a gate, and small floating debris and leaves drift on the surface. Morning daylight after the rain, grey clouds, wet glistening road. Camera at eye level, 35 mm, wide enough to show the whole flooded street and the row of houses. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the flooded doorway of a house on Kurinji Street in Vivekananda Nagar, showing knee-deep muddy rainwater pooled right against the front threshold and the lowest steps of the house. The water surface reflects the grey morning sky, with scattered leaves, a plastic slipper and a sodden cloth floating in it. The wall beside the door is damp with a dark water line, and a worn concrete step is half submerged. A tangle of wet plants grows at the water's edge, hinting at the danger of snakes and insects entering homes. Overcast daylight after night rain, wet textures, no people in focus. Camera slightly high, 50 mm macro-style framing, shallow depth of field, showing the flooded threshold clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rainwater-surrounds-residential-building-in-vivekananda-nagar/4384864",
-   "published": "2026-11-24T16:08:03+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருமுல்லைவாயில்', e.g. 'திருமுல்லைவாயில்: ...' or 'திருமுல்லைவாயில்-இல் ...' - viewers share news of their own area",
+   "reel_script": "குன்றத்தூரில் காதல் விவகாரத்தில் கல்லூரி மாணவரை காரில் கடத்தி துப்பாக்கி முனையில் தாக்கியவர் கைது செய்யப்பட்டுள்ளார். கைது செய்யப்பட்டவர் ஆரோக்கியதாஸ், 48 வயது. தாம்பரம் சி டி ஓ காலனியைச் சேர்ந்தவர் இவர். பல்லாவரத்தில் உள்ள கல்லூரியில் படிக்கும் 17 வயது மாணவர் பாதிக்கப்பட்டவர். ஆரோக்கியதாஸின் 17 வயது மகளும் அதே கல்லூரியில் படிக்கிறார். இந்த மாணவரும் ஆரோக்கியதாஸின் மகளும் காதலித்து வந்ததாகக் கூறப்படுகிறது. இதையறிந்த ஆரோக்கியதாஸ், நேற்று முன்தினம் மாலை சோமங்கலத்துக்கு அந்த மாணவரை வரவழைத்தார். பின்னர் அவரை காரில் கடத்திச் சென்று தாக்கியதாகப் புகார் உள்ளது. துப்பாக்கியைக் காட்டி மிரட்டியதாகவும் கூறப்படுகிறது. இதையடுத்து பெறப்பட்ட புகாரின் அடிப்படையில் நேற்று போலீசார் ஆரோக்கியதாஸை கைது செய்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குன்றத்தூரில் மாணவரை காரில் கடத்தி தாக்கியவர் கைது\n\n📰 முழு விவரம்:\nகுன்றத்தூரில் காதல் விவகாரத்தில் கல்லூரி மாணவர் ஒருவரை காரில் கடத்தி துப்பாக்கி முனையில் தாக்கியதாகப் புகார். தாம்பரம் சி.டி.ஓ. காலனியைச் சேர்ந்த ஆரோக்கியதாஸ் (48 வயது), போலீசாரால் கைது செய்யப்பட்டார். பல்லாவரம் கல்லூரியில் படிக்கும் 17 வயது மாணவரை, அவரது காதலி என்று கூறப்படும் ஆரோக்கியதாஸின் 17 வயது மகள் படிக்கும் அதே கல்லூரியில்... இந்த விவகாரம் தொடர்பான பிற விவரங்களுக்கு விசாரணை நடைபெற்று வருகிறது.\n📍 இடம்: சோமங்கலம், குன்றத்தூர்\n🗓️ நாள்: நவம்பர் 22 (நேற்று முன்தினம்) மாலை, சம்பவம்; நவம்பர் 23 கைது\n👮 நடவடிக்கை: ஆரோக்கியதாஸ் கைது\nℹ️ மக்கள் கவனத்திற்கு: ஆதாரமற்ற தகவல்களைப் பகிர வேண்டாம்\n\nKundrathur student kidnapped in car, man arrested | Chennai news\n📍 குன்றத்தூர், சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kundrathur #ChennaiNews #சென்னை",
+   "prompts": "A police jeep parks outside a small police station in Kundrathur on a bright daytime street, and two policemen in khaki uniform walk a man in a plain shirt and trousers toward the entrance, his face turned away from the camera. Behind them stand a few onlookers at a distance, seen from behind. The street has a two-wheeler parked along the roadside, a low-rise concrete building with a tiled roof, and a bus shelter in the background. The arrested man is a 48-year-old suspect, and the scene shows his arrest in the town. Daylight, slightly overcast Chennai sky. The camera is at eye level, about 35 mm, wide enough to show the police station gate, the jeep and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a dark grey car's rear door handle and a sedan's open passenger door on a quiet suburban road in Kundrathur, the evening light fading to a warm amber glow. On the car seat sits a blurred, empty backseat with a folded piece of cloth, and a police officer's gloved hand rests on the door frame, seen from a low angle. Behind the car, a roadside wall and a row of rain-washed concrete poles of a TNEB line are visible. The car is the vehicle used in the abduction of the college student, and the scene conveys the forced car journey. Evening light, dusk. The camera is slightly low, about 35 mm, focused on the car door and seat. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/love-affair-student-kidnapped-and-assaulted-in-car-arrested/4385239",
+   "published": "2026-11-24T19:42:47+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795520358/chennaiminnal/tjs7jxf8t0pokumr4nkz.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795520391/chennaiminnal/tsthan2hp0bus1omk7gm.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535624/chennaiminnal/aem0hcuqv5qtkgm0nhoj.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535626/chennaiminnal/agxk0wtexdfeutksvan5.jpg"
    ]
   },
   {
-   "tamil_headline": "புளியந்தோப்பில் ஆவின் பால் பாக்கெட்டுகள் திருட்டு",
-   "english_headline": "Aavin milk packets stolen from a milk agent's shop in Puliyanthope",
+   "tamil_headline": "சென்னை விமான நிலையத்தில் ரூ.26 லட்சம் கஞ்சா பறிமுதல்",
+   "english_headline": "Cannabis worth Rs 26 lakh seized at Chennai airport from Bangkok flight passenger",
    "category": "Crime & Safety",
-   "location": "Puliyanthope, Chennai, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
+   "location": "Chennai airport, Chennai district",
+   "importance": "High",
+   "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "திருட்டு",
-    "loc": "புளியந்தோப்பு, சென்னை",
-    "hl1": "புளியந்தோப்பில் ஆவின் பால் திருட்டு",
-    "hl2": "20 லிட்டர் பால்",
+    "cat": "கஞ்சா பறிமுதல்",
+    "loc": "சென்னை விமான நிலையம்",
+    "hl1": "சென்னை விமான நிலையத்தில் ரூ.26 லட்சம்",
+    "hl2": "2.6 கிலோ கஞ்சா பறிமுதல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "புளியந்தோப்பில் பால் முகவரின் பாலகம் முன் சம்பவம்",
-       "இன்று அதிகாலை <b>4 மணி</b> அளவில் நடந்தது",
-       "<b>20 லிட்டர்</b> ஆவின் பால் பாக்கெட்டுகள் திருட்டு"
+       "பாங்காக்கில் இருந்து வந்த விமானத்தில் கஞ்சா கடத்தல்",
+       "சர்வதேச மதிப்பு <b>26 லட்சம் ரூபாய்</b>",
+       "எடை <b>2.6 கிலோ</b> கஞ்சா"
       ]
      },
      {
-      "title": "யார் செய்தது?",
+      "title": "எப்படி சிக்கியது?",
       "lines": [
-       "அடையாளம் தெரியாத <b>2 இளைஞர்கள்</b>",
-       "பாலகம் முன் இறக்கி வைக்கப்பட்டிருந்த பால் டப்புகளில்",
-       "பாதிக்கப்பட்டவர் பவுல் சந்தோம்"
+       "விமானப் பயணியர் அனைவரிடமும் வழக்கமான சோதனை",
+       "தமிழக பயணியின் நடவடிக்கையில் சுங்கத்துறைக்கு சந்தேகம்",
+       "உடைமையில் பொட்டலங்களில் மறைத்து கஞ்சா"
       ]
      },
      {
-      "title": "சங்கம் கோரிக்கை",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "குற்றவாளிகளை அடையாளம் கண்டு நடவடிக்கை வேண்டும்",
-       "அதிகாலை ரோந்துப் பணிகளை அதிகரிக்க வேண்டும்",
-       "தமிழ்நாடு பால் முகவர்கள் நலச் சங்கத் தலைவர் பொன்னுசாமி"
+       "கஞ்சாவை சுங்கத்துறை அதிகாரிகள் பறிமுதல் செய்தனர்",
+       "அதிகாரிகள் தொடர்ந்து விசாரித்து வருகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "புளியந்தோப்பில் இன்று அதிகாலை 20 லிட்டர் ஆவின் பால் பாக்கெட்டுகள் திருடப்பட்டன. சென்னை, புளியந்தோப்பு பகுதியில் உள்ள பால் முகவர் பவுல் சந்தோமின் பாலகம் முன் இந்த சம்பவம் நடந்தது. அதிகாலை சுமார் 4 மணியளவில் அடையாளம் தெரியாத 2 இளைஞர்கள் பால் டப்புகளில் இருந்து பாக்கெட்டுகளை எடுத்துச் சென்றனர். குற்றவாளிகளை அடையாளம் கண்டு நடவடிக்கை எடுக்க வேண்டும் என்று தமிழ்நாடு பால் முகவர்கள் தொழிலாளர்கள் நலச் சங்கத்தின் மாநிலத் தலைவர் பொன்னுசாமி வலியுறுத்தியுள்ளார். அதிகாலை நேரத்தில் காவல்துறை ரோந்துப் பணிகளை அதிகரித்து இதுபோன்ற திருட்டுகளைத் தடுக்க வேண்டும் என்றும் அவர் கோரியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 புளியந்தோப்பில் ஆவின் பால் பாக்கெட்டுகள் திருட்டு: அதிகாலை 4 மணிக்கு 20 லிட்டர் திருட்டு\n\n📰 முழு விவரம்:\nசென்னை, புளியந்தோப்பு பகுதியில் உள்ள பால் முகவர் பவுல் சந்தோமின் பாலகம் முன் இறக்கி வைக்கப்பட்டிருந்த பால் டப்புகளில் இருந்து இன்று அதிகாலை சுமார் 4 மணியளவில் 20 லிட்டர் ஆவின் பால் பாக்கெட்டுகளை அடையாளம் தெரியாத 2 இளைஞர்கள் திருடிச் சென்றனர்.\nஇந்தத் திருட்டில் தொடர்புடைய குற்றவாளிகளை அடையாளம் கண்டு உரிய நடவடிக்கை எடுக்க வேண்டும் என்று தமிழ்நாடு பால் முகவர்கள் தொழிலாளர்கள் நலச் சங்கத்தின் மாநிலத் தலைவர் பொன்னுசாமி வலியுறுத்தியுள்ளார்.\nஅதிகாலை வேளையில் காவல்துறை ரோந்துப் பணிகளை அதிகரித்து, இதுபோன்ற திருட்டு சம்பவங்கள் நடைபெறாமல் தடுக்க வேண்டும் என்றும் அவர் கோரியுள்ளார்.\n\n📍 இடம்: புளியந்தோப்பு, சென்னை\n🗓️ நாள்: நவம்பர் 24, 2026\n🕘 நேரம்: அதிகாலை சுமார் 4 மணி\n👮 கோரிக்கை: குற்றவாளிகளை அடையாளம் கண்டு நடவடிக்கை; அதிகாலை ரோந்துப் பணி அதிகரிப்பு\n\nAavin milk theft Puliyanthope Chennai | Chennai news\n📍 புளியந்தோப்பு, சென்னை | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Puliyanthope",
-   "prompts": "A pre-dawn street in Puliyanthope, Chennai, around 4 am, where two young men, seen from behind and far away, walk off with bundles of Aavin milk packets lifted from steel milk tubs left outside a small milk agent's shop. The place is a modest roadside paalagam with a rolled-up or half-lowered shutter, a few stacked milk crates and steel cans on the pavement, and a single streetlight casting a yellow glow over the road. The two men wear plain shirts and trousers, one carrying a bag or pile of packets against his chest, and their figures are slightly blurred and anonymous. Behind them, the dim outline of a residential Chennai street with low houses and a parked two-wheeler. The milk tubs are partly empty, their lids open. The light is dark blue dawn with warm streetlamp glow, the sky just beginning to lighten. Shot at eye level with a 35 mm lens, wide enough to show the shop front, the pavement and the empty road, with no readable signboards or labels. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on the pavement outside a milk agent's shop in Puliyanthope, Chennai, showing a steel milk tub with its lid pushed aside and several Aavin milk pouches missing, leaving a few packets and an empty crate in the frame. Water droplets and a damp patch on the concrete floor reflect the early morning light. A worn plastic crate and a stack of empty milk tubs sit beside a shutter that is partly pulled down, and a single bare bulb glows overhead. No people are visible, only the hands of the shop owner's arm or the edge of a blurred figure at the edge of the frame. The surface shows scuff marks from hurried footsteps. The light is cool pre-dawn blue mixed with a warm yellow bulb, around 4 am. Shot at a low angle with a 50 mm lens, shallow depth of field, so the empty tub and milk packets stand out sharply while the street behind melts into soft darkness, with no readable text or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/theft-of-aavin-milk-packets",
-   "published": "2026-11-24T07:35:04Z",
+   "reel_script": "சென்னை விமான நிலையத்தில் 26 லட்சம் ரூபாய் மதிப்புள்ள கஞ்சா பிடிபட்டுள்ளது. தாய்லாந்து தலைநகர் பாங்காக்கில் இருந்து இரு தினங்களுக்கு முன் ஒரு தனியார் பயணியர் விமானம் சென்னை வந்தது. அந்த விமானத்தில் வந்த பயணிகள் அனைவரிடமும் சுங்கத்துறை அதிகாரிகள் வழக்கமான சோதனை நடத்தினர். அப்போது சுற்றுலா சென்று திரும்பிய தமிழக பயணி ஒருவரின் நடவடிக்கையில் அதிகாரிகளுக்குச் சந்தேகம் ஏற்பட்டது. அவரது உடைமைகளைச் சோதனை செய்தபோது, பொட்டலங்களில் மறைத்து கஞ்சா கடத்தி வரப்பட்டது கண்டுபிடிக்கப்பட்டது. அதன் எடை 2.6 கிலோ, சர்வதேச மதிப்பு 26 லட்சம் ரூபாய். அதிகாரிகள் அந்தக் கஞ்சாவைப் பறிமுதல் செய்து, தொடர்ந்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னை விமான நிலையத்தில் ரூ.26 லட்சம் கஞ்சா பறிமுதல்\n\n📰 முழு விவரம்:\nதாய்லாந்து தலைநகர் பாங்காக்கில் இருந்து இரு தினங்களுக்கு முன் ஒரு தனியார் பயணியர் விமானம் சென்னை வந்தது. அந்த விமானத்தில் வந்த பயணிகளிடம் சுங்கத்துறை அதிகாரிகள் வழக்கமான சோதனை நடத்தினர்.\nசுற்றுலா சென்று திரும்பிய தமிழக பயணி ஒருவரின் நடவடிக்கையில் சந்தேகம் ஏற்பட்டதால், அவரது உடைமைகள் சோதிக்கப்பட்டன. பொட்டலங்களில் மறைத்து கஞ்சா கடத்தி வரப்பட்டது கண்டுபிடிக்கப்பட்டது.\n⚖️ எடை: 2.6 கிலோ கஞ்சா\n💰 சர்வதேச மதிப்பு: 26 லட்சம் ரூபாய்\n👮 நடவடிக்கை: கஞ்சா பறிமுதல் செய்யப்பட்டது; அதிகாரிகள் தொடர்ந்து விசாரித்து வருகின்றனர்.\n\nCannabis worth Rs 26 lakh seized at Chennai airport | Chennai news\n📍 சென்னை விமான நிலையம், சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #கஞ்சா",
+   "prompts": "A row of Chennai airport customs officers in uniform stands beside a baggage examination table in the arrivals hall of Chennai international airport. On the steel table lie several opened suitcases and bags, and a stack of sealed packets of dried green cannabis weighing about 2.6 kg in total, which the officers have seized from a Tamil Nadu passenger who arrived on a flight from Bangkok. The arrivals area has high ceilings, glass partitions, and a metal baggage trolley parked nearby, with the public waiting area visible at a distance. The passenger, seen only from behind and far away, stands under the watch of two officers. Officers wear the navy and white uniform of customs staff. Daylight enters through the terminal windows, as the flight landed about two days ago during a regular daytime check. Camera: eye level, 35 mm, wide enough to show the table, officers and terminal interior. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the seized cannabis packets spread on a stainless steel customs examination table at Chennai airport. Several small plastic-wrapped bundles of dried green cannabis lie next to a pair of open luggage bags, with a pair of latex-gloved hands from an officer just entering the frame at the edge. The packets are stacked neatly, and a few have been opened to show the dried leaves inside. The background is softly blurred, showing the grey and white surface of the examination counter and a corner of the terminal wall. Soft fluorescent overhead light from the airport ceiling falls on the surfaces. Camera: slightly high angle, 50 mm macro-style close-up, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-26-lakh-cannabis-seized/4385294",
+   "published": "2026-11-24T20:16:33+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795520397/chennaiminnal/tz1rfoozcsq7w2rjfwkx.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795520400/chennaiminnal/evpnoisqdosmtlhzgyxj.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535632/chennaiminnal/sc5nk8fy0dx1wj5eeggv.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535635/chennaiminnal/zifg6ndvz7xbtzslkk0k.jpg"
    ]
   },
   {
-   "tamil_headline": "கோவிலம்பாக்கத்தில் சாலையோரம் கட்டட கழிவுகள் குவிப்பு: மழைநீர் வெளியேறுவதில் சிக்கல்",
-   "english_headline": "Building waste piled along the Medavakkam-Parangimalai station road in Kovilambakkam; rainwater drainage blocked and road narrowed",
+   "tamil_headline": "குரோம்பேட்டையில் லேசான மழைக்கே பாதாள சாக்கடை கழிவுநீர் சாலையில் ஓடுகிறது",
+   "english_headline": "Chromepet: even light rain makes sewage overflow from manholes onto roads due to poor maintenance of underground drainage",
    "category": "Civic Issues",
-   "location": "Eechangadu, Kovilambakkam, Parangimalai union, Chennai district",
-   "importance": "Medium",
+   "location": "Chromepet, Tambaram Corporation, Chennai district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை பிரச்சனை",
-    "loc": "கோவிலம்பாக்கம், சென்னை",
-    "hl1": "கோவிலம்பாக்கத்தில் சாலையோரம் குவிந்த",
-    "hl2": "மழைநீர் வெளியேற முடியவில்லை",
+    "cat": "பாதாள சாக்கடை",
+    "loc": "குரோம்பேட்டை, சென்னை",
+    "hl1": "குரோம்பேட்டையில் லேசான மழைக்கே",
+    "hl2": "பராமரிப்பில் மெத்தனம்",
     "slides": [
      {
-      "title": "எங்கே?",
+      "title": "என்ன நடக்கிறது?",
       "lines": [
-       "மேடவாக்கம் – பரங்கிமலை ரயில் நிலைய சாலையோரம்",
-       "ஈச்சங்காடு பகுதி, கோவிலம்பாக்கம் ஊராட்சி",
-       "பரங்கிமலை ஒன்றியம்"
+       "குரோம்பேட்டையில் லேசான மழைக்கே கழிவுநீர் சாலையில் ஓடுகிறது",
+       "பாதாள சாக்கடை மூடிகள் வழியாக கழிவுநீர் வெளியேறுகிறது",
+       "இது தொடர்கதையாகி விட்டதாக மக்கள் கூறுகின்றனர்"
       ]
      },
      {
-      "title": "என்ன குவிப்பு?",
+      "title": "ஏன் இந்த நிலை?",
       "lines": [
-       "நீர்வளத்துறை பணிகளின்போது சேகரமான மண், கட்டட கழிவுகள்",
-       "சுமார் <b>200 மீட்டர்</b> நீளத்துக்கு குவிப்பு",
-       "மக்கள் வீசும் குப்பையும் சேர்ந்து சகதியாக மாறியது"
+       "முறையான பராமரிப்பு இல்லை என மக்கள் குற்றச்சாட்டு",
+       "பல இடங்களில் குழாய்கள் உடைந்து சேதமடைந்துள்ளன",
+       "பழைய குழாய்களை அகற்றி புதியவை அமைக்கக் கோரிக்கை"
       ]
      },
      {
-      "title": "என்ன பாதிப்பு?",
+      "title": "எந்த இடங்களில்?",
       "lines": [
-       "வடிகால் வழியாக மழைநீர் வெளியேறுவது தடைபட்டது",
-       "சாலை பாதியாக சுருங்கியது",
-       "சுகாதார சீர்கேடு, விபத்து அபாயம் அதிகரிப்பு"
+       "ராமச்சந்திரா சாலை, சீனிவாசா நகர்",
+       "ராஜாஜி தெரு, எம்.ஐ.டி. மேம்பாலம் சுற்றுப்புறம்",
+       "வாகன ஓட்டிகளும் மக்களும் கடும் அவதி"
       ]
      },
      {
-      "title": "புகார், கோரிக்கை",
+      "title": "கோரிக்கை",
       "lines": [
-       "ஊராட்சி சார்பில் புகார் அளித்தும் நடவடிக்கை இல்லை என மக்கள்",
-       "கழிவுகளை அகற்றி மழைநீர் வெளியேற வழி செய்ய கோரிக்கை"
+       "தமிழக அரசு நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை",
+       "குடியிருப்போர் நலச்சங்கத்தினர் இதை வலியுறுத்துகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கோவிலம்பாக்கத்தில் சாலையோரம் கட்டட கழிவுகள் குவிக்கப்பட்டதால் மழைநீர் வெளியேற முடியவில்லை. மேடவாக்கம் – பரங்கிமலை ரயில் நிலைய சாலையோரம், ஈச்சங்காடு பகுதியில் இந்தக் குவியல் உள்ளது. நீர்வளத்துறை சார்பில் நடைபெறும் பணிகளின்போது சேகரமான மண் மற்றும் கட்டட கழிவுகள் சுமார் 200 மீட்டர் நீளத்துக்கு குவிக்கப்பட்டுள்ளன. வடிகால் வழியாக மழைநீர் வெளியேறுவது தடைபட்டு சாலையிலேயே தேங்குகிறது. அப்பகுதியில் பொதுமக்கள் வீசும் குப்பைகளும் சேர்ந்து சகதியாக மாறியுள்ளன. இதனால் சுகாதார சீர்கேடு அபாயம் ஏற்பட்டுள்ளது. மண் குவியல், குப்பை மற்றும் மழைநீரால் சாலை பாதியாக சுருங்கியுள்ளது. இதனால் வாகன ஓட்டிகள் கடும் அவதிப்பட்டு வருவதோடு, விபத்து அபாயமும் அதிகரித்துள்ளது. ஊராட்சி சார்பில் புகார் அளித்தும் நெடுஞ்சாலை துறையும் நீர்வள துறையும் நடவடிக்கை எடுக்கவில்லை என மக்கள் குற்றஞ்சாட்டுகின்றனர். கழிவுகளை அகற்றி, மழைநீர் தடையின்றி வெளியேற வழி செய்ய வேண்டும் என அதிகாரிகளிடம் மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 கோவிலம்பாக்கத்தில் சாலையோரம் குவிந்த கழிவுகள்: மழைநீர் வெளியேற முடியாமல் அவதி\n\n📰 முழு விவரம்:\nமேடவாக்கம் – பரங்கிமலை ரயில் நிலைய சாலையோரம், ஈச்சங்காடு பகுதியில் நீர்வளத்துறை பணிகளின்போது சேகரமான மண் மற்றும் கட்டட கழிவுகள் சுமார் 200 மீட்டருக்கு குவிக்கப்பட்டுள்ளன. வடிகால் வழியாக மழைநீர் வெளியேறுவது தடைபட்டு சாலையில் தேங்குகிறது. பொதுமக்கள் வீசும் குப்பைகளும் சேர்ந்து அப்பகுதி குப்பை மேடாக மாறி வருகிறது. சாலை பாதியாக சுருங்கியதால் வாகன ஓட்டிகள் அவதியடைந்து, விபத்து அபாயமும் அதிகரித்துள்ளது. ஊராட்சி சார்பில் புகார் அளித்தும் நெடுஞ்சாலை துறையும் நீர்வள துறையும் நடவடிக்கை எடுக்கவில்லை என மக்கள் குற்றஞ்சாட்டுகின்றனர்.\n📍 இடம்: ஈச்சங்காடு, கோவிலம்பாக்கம் ஊராட்சி, பரங்கிமலை ஒன்றியம்\n🏗️ குவிப்பு: சுமார் 200 மீட்டர் நீளத்துக்கு மண், கட்டட கழிவுகள்\n👮 கோரிக்கை: கழிவுகளை அகற்றி, மழைநீர் தடையின்றி வெளியேற வழி செய்ய வேண்டும்\n\nBuilding waste piled on Kovilambakkam road, rainwater blocked | Chennai news\n📍 கோவிலம்பாக்கம், சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kovilambakkam #சாலை #ChennaiNews",
-   "prompts": "A long roadside heap of grey construction debris, raw soil clumps and mixed household garbage runs for about 200 metres along the edge of the Medavakkam-Parangimalai station road in Eechangadu, Kovilambakkam, on the outskirts of Chennai. The heap spills over the drain and half the tarmac, leaving only a narrow lane for two-wheelers, autorickshaws and a town bus to squeeze past. Rainwater stands in dark puddles on the road and mixes with the wet soil, creating slush. In the distance, a few local residents in shirts, trousers and sarees walk along the narrowed road with their backs to the camera, and a motorcyclist slows down to avoid the pile. Low concrete houses and a few small shops line the far side of the road, with tall trees beyond. Overcast daylight, damp and grey after rain. Shot at eye level with a 35 mm lens, wide enough to show the full length of the road, the heap and the water. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the blocked roadside drain, its mouth choked with wet grey construction debris, broken bricks and soggy garbage, while muddy rainwater pools over the edge of the tarmac and spreads toward the narrowed road. Beside the heap, a loose mound of raw soil and plastic bags sits against the kerb. The surface of the road is slick with brown slush, and the tyre tracks of passing two-wheelers cut through the puddle. Tyres of a passing motorcycle enter the corner of the frame, slightly blurred. Overcast daylight, damp and dull. Shot close to ground level with a 35 mm lens, focusing on the choked drain and the stagnant water to convey the civic problem. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/roadside-garbage-from-building-waste-of-water-resources-department-trouble-in-rainwater-discharge/4384873",
-   "published": "2026-11-24T16:08:15+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script copies the article word for word (17 words in a row, 15% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "குரோம்பேட்டையில் லேசான மழைக்கே பாதாள சாக்கடை கழிவுநீர் சாலையில் ஓடுகிறது. பாதாள சாக்கடை திட்டப் பணிகளில் தாம்பரம் மாநகராட்சி நிர்வாகம் அக்கறை செலுத்தவில்லை என அப்பகுதி மக்கள் குற்றம் சாட்டுகின்றனர். பல்லாவரம் நகராட்சியாக இருந்தபோது 2005ல் தொடங்கி 2012ல் முடிந்த இந்தத் திட்டத்தில் 159.74 கிலோமீட்டர் நீளத்திற்கு கழிவுநீர் குழாய்கள் புதைக்கப்பட்டன. தற்போது ராமச்சந்திரா சாலை, சீனிவாசா நகர், ராஜாஜி தெரு, எம் ஐ டி மேம்பாலம் சுற்றுப்புறப் பகுதிகளில் மூடிகள் வழியாக கழிவுநீர் வெளியேறுகிறது. பல இடங்களில் குழாய்கள் உடைந்து சேதமடைந்துள்ளன. ஆண்டுதோறும் பராமரிப்புக்காக பல கோடி ரூபாய் செலவிடப்பட்டாலும் முறையான பராமரிப்பு இல்லை என மக்கள் கூறுகின்றனர். இதனால் மக்களும் வாகன ஓட்டிகளும் கடும் அவதிப்படுகின்றனர். பழைய குழாய்களை அகற்றி புதியவற்றை அமைக்க வேண்டும் என குடியிருப்போர் நலச்சங்கத்தினர் கோரிக்கை விடுத்துள்ளனர். இதுவரை இதற்கான நடவடிக்கை எடுக்கப்படவில்லை. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குரோம்பேட்டையில் லேசான மழைக்கே பாதாள சாக்கடை கழிவுநீர் சாலையில்\n\n📰 முழு விவரம்:\nகுரோம்பேட்டையில் பாதாள சாக்கடை பராமரிப்பில் தாம்பரம் மாநகராட்சி அக்கறை காட்டவில்லை என மக்கள் குற்றம் சாட்டுகின்றனர். லேசான மழை பெய்தாலே பல இடங்களில் கழிவுநீர் சாலையில் ஓடுவது தொடர்கதையாகி விட்டது. பல்லாவரம் நகராட்சியாக இருந்தபோது 2005ல் தொடங்கி 2012ல் முடிந்த பாதாள சாக்கடை திட்டத்துக்கு ரூ.75.33 கோடி செலவிடப்பட்டது. 159.74 கி.மீ. நீளத்துக்கு குழாய்கள் புதைக்கப்பட்டன. பின்னர் 41 கி.மீ. நீளத்துக்கு ரூ.24.06 கோடியில் கூடுதல் பணிகள் நடந்தன. தற்போதைய மழையால் ராமச்சந்திரா சாலை, சீனிவாசா நகர், ராஜாஜி தெரு, எம்.ஐ.டி. மேம்பாலம் சுற்றுப்புறப் பகுதிகளில் மூடிகள் வழியாக கழிவுநீர் வெளியேறுகிறது. பழைய குழாய்களை அகற்றிவிட்டு புதியவற்றை பதித்து முறையாக பராமரிக்க வேண்டும் என குடியிருப்போர் நலச்சங்கத்தினர் தமிழக அரசுக்கு கோரிக்கை விடுத்துள்ளனர்.\n📍 இடம்: குரோம்பேட்டை, தாம்பரம் மாநகராட்சி\n\nChromepet sewage overflow on roads in rain | Chennai news\n📍 குரோம்பேட்டை, சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Chromepet #ChennaiNews #சென்னை",
+   "prompts": "A two-wheeler rider and a car slowly wade through dark sewage water flowing across a tarmac road in Chromepet after light rain, as dirty water bubbles up from a round iron manhole cover at the roadside. The place is a busy residential-commercial street in Chromepet, Chennai, with low concrete buildings, shops with shuttered fronts, and a few parked two-wheelers along the kerb. Pedestrians are seen from behind holding umbrellas and lifting their saris and trousers above the flooded lane; a few residents stand on the footpath at a distance, watching. Two-wheelers, an autorickshaw and a small car move through the filthy water, sending small waves to both sides. It is daylight under an overcast grey sky with light drizzle, and the wet road reflects the dull light. The camera is at eye level, about 35 mm, wide enough to show the street, the overflowing manhole and the vehicles in the sewage. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an overflowing underground drainage manhole on a Chromepet road, its heavy iron cover lifted or displaced as grey-brown sewage gushes out and spreads across the wet tarmac after light rain. Around the manhole, the road surface is covered with a thin, dark film of sewage mixed with rain water, with small bubbles and debris floating on top. The kerb and a section of the footpath are visible at the edge of the frame, with a bare concrete wall and a shuttered shop front behind them. A pair of slippers or a two-wheeler tyre passing through the edge of the frame gives scale, with people seen only from behind and far away. It is overcast daylight, the light flat and grey, and the wet surfaces shine. The camera is low and close, about 35 mm, focused on the manhole and the spreading sewage. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/chromepet-hit-by-light-rain-slows-down-underground-sewerage-project-maintenance/4385291",
+   "published": "2026-11-24T20:16:26+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 9, ('மற்றொரு புறம், 9, 13 – 21 வரையுள்ள வார்டுகளில் இருந்து வெளிய'); 13 ('மற்றொரு புறம், 9, 13 – 21 வரையுள்ள வார்டுகளில் இருந்து வெளிய'); 21 ('மற்றொரு புறம், 9, 13 – 21 வரையுள்ள வார்டுகளில் இருந்து வெளிய'); 23 ('23 – 26, 35 – 38 ஆகிய வார்டுகளில் இருந்து வெளியேறும் கழிவுநீ'); 26, ('23 – 26, 35 – 38 ஆகிய வார்டுகளில் இருந்து வெளியேறும் கழிவுநீ'); 35 ('23 – 26, 35 – 38 ஆகிய வார்டுகளில் இருந்து வெளியேறும் கழிவுநீ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795520408/chennaiminnal/awvxy8q6lz0txfdn9bmo.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795520412/chennaiminnal/u04nd4pdbqqol41iuqtu.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535662/chennaiminnal/orekjzw1ta3v0y88cksb.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535665/chennaiminnal/utjihjjwjvr94fndj4cm.jpg"
    ]
   }
  ]
