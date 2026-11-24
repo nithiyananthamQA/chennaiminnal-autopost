@@ -292,7 +292,8 @@
    "score": 10.92,
    "power_cut": false,
    "listed_at": "2026-11-24T17:01:26.384722+05:30",
-   "picked_at": "2026-11-25T05:02:58.759895+05:30"
+   "picked_at": "2026-11-25T05:02:58.759895+05:30",
+   "posted": true
   },
   "Cce23f9a": {
    "id": "Cce23f9a",
@@ -521,7 +522,8 @@
    "score": 10.92,
    "power_cut": false,
    "listed_at": "2026-11-25T01:01:26.261768+05:30",
-   "picked_at": "2026-11-25T05:02:58.759885+05:30"
+   "picked_at": "2026-11-25T05:02:58.759885+05:30",
+   "posted": true
   },
   "C050c869": {
    "id": "C050c869",
@@ -534,7 +536,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-25T01:01:26.261768+05:30",
-   "picked_at": "2026-11-25T05:02:58.759889+05:30"
+   "picked_at": "2026-11-25T05:02:58.759889+05:30",
+   "posted": true
   },
   "C72131f1": {
    "id": "C72131f1",
@@ -703,7 +706,8 @@
    "score": 10.4,
    "power_cut": false,
    "listed_at": "2026-11-25T05:01:14.425806+05:30",
-   "picked_at": "2026-11-25T05:02:58.759881+05:30"
+   "picked_at": "2026-11-25T05:02:58.759881+05:30",
+   "posted": true
   },
   "C742d8e9": {
    "id": "C742d8e9",
@@ -716,7 +720,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-25T05:01:14.425806+05:30",
-   "picked_at": "2026-11-25T05:02:58.759887+05:30"
+   "picked_at": "2026-11-25T05:02:58.759887+05:30",
+   "refused": "not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)"
   },
   "Cc6c6eba": {
    "id": "Cc6c6eba",
@@ -729,7 +734,8 @@
    "score": 9.83,
    "power_cut": false,
    "listed_at": "2026-11-25T05:01:14.425806+05:30",
-   "picked_at": "2026-11-25T05:02:58.759891+05:30"
+   "picked_at": "2026-11-25T05:02:58.759891+05:30",
+   "posted": true
   },
   "C5b65c49": {
    "id": "C5b65c49",
@@ -754,7 +760,8 @@
    "score": 7.5,
    "power_cut": false,
    "listed_at": "2026-11-25T05:01:14.425806+05:30",
-   "picked_at": "2026-11-25T05:02:58.759893+05:30"
+   "picked_at": "2026-11-25T05:02:58.759893+05:30",
+   "posted": true
   },
   "Ca7eb98c": {
    "id": "Ca7eb98c",
@@ -2622,7 +2629,10 @@
     "C8b0d856",
     "Cbb41819",
     "Cc6c6eba"
-   ]
+   ],
+   "refused": {
+    "C742d8e9": "not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)"
+   }
   }
  },
  "retry": {}
