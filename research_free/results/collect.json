@@ -3,24 +3,24 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/chromepet-hit-by-light-rain-slows-down-underground-sewerage-project-maintenance/4385291",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-26-lakh-cannabis-seized/4385294",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/love-affair-student-kidnapped-and-assaulted-in-car-arrested/4385239",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/arrest-of-nainar-nagendran-the-high-handed-conduct-of-the-police-is-condemnable-ttv-dhinakaran",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/youth-arrested-for-snatching-6-sovereign-chains-from-woman-at-tambaram-railway-station/4385375",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/attack-on-the-one-who-asked-for-marina-s-way-two-arrested/4385482",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/24/robbery-of-a-rapido-driver-delhi-high-court-denies-bail-to-the-accused",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/cut-two-more-to-the-conductor-arrested/4385372",
   "candidate filter: collected=4",
   "to write: 4 Chennai district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/arrest-of-nainar",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 77 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
   "filed: 4 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
@@ -28,34 +28,58 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.6-flash (30s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3.6-flash (32s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -65,279 +89,284 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "நயினார் நாகேந்திரன் கைது: காவல்துறை அராஜகம் என டிடிவி தினகரன் கண்டனம்",
-   "english_headline": "TTV Dhinakaran condemns police arrest of BJP state chief Nainar Nagendran, calls it abuse of power",
+   "tamil_headline": "ரேபிடோ ஓட்டுநரிடம் வழிப்பறி: குற்றஞ்சாட்டப்பட்டவருக்கு பிணை மறுப்பு",
+   "english_headline": "Delhi High Court denies bail to accused in Rapido driver robbery case",
    "category": "Crime & Safety",
-   "location": "சென்னை, சென்னை மாவட்டம்",
-   "importance": "High",
-   "scope": "",
+   "location": "Delhi High Court; Gitorni village to Red Fort route, Delhi",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல் கைது",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: நயினார் நாகேந்திரன் கைது",
-    "hl2": "கண்டனம் தெரிவித்த டிடிவி",
+    "cat": "குற்றச் செய்தி",
+    "loc": "தில்லி",
+    "hl1": "ரேபிடோ ஓட்டுநரிடம் வழிப்பறி: பிணை",
+    "hl2": "தில்லி உயாநீதிமன்றம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "தமிழக பாஜக தலைவர் நயினார் நாகேந்திரன் கைது",
-       "அவரது வாகனத்தைப் பின்தொடர்ந்து வழிமறித்து கைது",
-       "காவல்துறையின் செயலுக்கு டிடிவி தினகரன் கண்டனம்"
+       "கடந்த <b>ஜூலை</b> மாதம் ரேபிடோ காரில் வழிப்பறி",
+       "ஓட்டுநரின் கழுத்தில் கத்தி வைத்து மிரட்டியதாகப் புகார்",
+       "ரூ.<b>3,000</b>, செல்போன், மாருதி டிசையர் கார்"
       ]
      },
      {
-      "title": "டிடிவி தினகரன்",
+      "title": "பிணை மனு",
       "lines": [
-       "தீவிரவாதிகளைத் துரத்துவது போல கைது செய்யப்பட்டதாகக் கூறல்",
-       "இது அப்பட்டமான அதிகார துஷ்பிரயோகம் என்கிறார்",
-       "அமமுக பொதுச்செயலாளர் சமூக வலைதளப் பதிவில் தெரிவிப்பு"
+       "ஜுனைத் அலி தாக்கல் செய்த பிணை மனு தள்ளுபடி",
+       "நவ. <b>19</b>ஆம் தேதி நீதிபதி விமல் குமார் யாதவ் உத்தரவு",
+       "ஓட்டுநரின் நம்பிக்கையை மீறியதாக நீதிபதி கருத்து"
       ]
      },
      {
-      "title": "பின்னணி",
+      "title": "ஆதாரங்கள்",
       "lines": [
-       "கள்ளக்குறிச்சி விவகாரத்தில் உயர்நீதிமன்றம் அரசை விமர்சித்தது",
-       "இதைத் திசை திருப்ப இத்தகைய நடவடிக்கை என குற்றச்சாட்டு",
-       "காவல்துறையைப் பயன்படுத்துவதை நிறுத்த வேண்டும் என"
+       "கார், செல்போன், ஓட்டுநர் உரிமம், கத்தி மீட்பு",
+       "கண்காணிப்பு கேமரா பதிவுகளும் உள்ளன என அரசு தரப்பு",
+       "சாட்சிகள் விசாரணை வரை பிணை வழங்குவது பொருத்தமில்லை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் பா ஜ க மாநிலத் தலைவர் நயினார் நாகேந்திரன் கைது செய்யப்பட்டதற்கு டிடிவி தினகரன் கடும் கண்டனம் தெரிவித்துள்ளார். தமிழக பா ஜ க தலைவர் நயினார் நாகேந்திரனை வலுக்கட்டாயமாகக் கைது செய்திருப்பது காவல்துறையின் அராஜகப் போக்கு என அவர் கூறியுள்ளார். ஒரு தேசியக் கட்சியின் மாநிலத் தலைவரின் வாகனத்தைப் பின்தொடர்ந்து வழிமறித்து, தடுத்து நிறுத்திக் கைது செய்திருப்பது அப்பட்டமான அதிகார துஷ்பிரயோகம் என்று அவர் தெரிவித்துள்ளார். கள்ளக்குறிச்சி விவகாரத்தில் உயர்நீதிமன்றம் அரசின் பொய்களை வெளிப்படுத்தியுள்ள நிலையில், அதனை திசை திருப்பவே இந்த நடவடிக்கை எடுக்கப்படுவதாகவும் அவர் குற்றம் சாட்டியுள்ளார். இத்தகைய நடவடிக்கைகளை உடனடியாகக் கைவிட வேண்டும் என்றும், காவல்துறையை அதிகார வர்க்கத்தின் ஏவல் கருவியாகப் பயன்படுத்துவதை நிறுத்த வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை: நயினார் நாகேந்திரன் கைது; காவல்துறை அராஜகம் என டிடிவி தினகரன் கண்டனம்\n\n📰 முழு விவரம்:\nதமிழக பாஜக தலைவர் நயினார் நாகேந்திரனை காவல்துறை வலுக்கட்டாயமாகக் கைது செய்துள்ளது. அவரது வாகனத்தைப் பின்தொடர்ந்து வழிமறித்து தடுத்து நிறுத்திக் கைது செய்ததாக அமமுக பொதுச்செயலாளர் டிடிவி தினகரன் தெரிவித்துள்ளார். இது அப்பட்டமான அதிகார துஷ்பிரயோகம் என்றும் அவர் கண்டித்துள்ளார். கள்ளக்குறிச்சி விவகாரத்தில் உயர்நீதிமன்றம் அரசின் பொய்களை வெளிப்படுத்திய நிலையில், அதனைத் திசை திருப்பவே இந்த நடவடிக்கை என்றும் அவர் குற்றம் சாட்டியுள்ளார். இத்தகைய நடவடிக்கைகளை உடனடியாகக் கைவிட வேண்டும் என்றும், காவல்துறையை அதிகார வர்க்கத்தின் ஏவல் கருவியாகப் பயன்படுத்துவதை நிறுத்த வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார்.\n\nNainar Nagendran arrested Chennai, Dhinakaran condemns | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #அரசியல்",
-   "prompts": "A Tamil Nadu police vehicle and a khaki-uniformed police team stop a dark car on a busy Chennai road in daylight, with the car's doors open and a small group of police officers standing around it. Traffic of two-wheelers, an autorickshaw and an MTC town bus passes slowly in the background, with a flyover pillar and concrete median visible, suggesting a main arterial road in the city. A few onlookers and party workers stand at a distance on the pavement, seen from behind and slightly blurred, showing no faces. The mood is tense and busy, with officers in khaki and the stopped car as the clear focal point. Shot at eye level, 35 mm, wide enough to show the road and the stopped vehicle together, in bright daylight. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a smartphone held in a hand over a parapet or a car dashboard, its screen glowing with an unreadable social media post, with a blurred police jeep and officers in khaki standing behind it on a Chennai roadside. The screen shows only abstract text-like shapes with no legible letters. Background shows a concrete footpath, a two-wheeler and a few passers-by at a distance, seen from behind. Daylight, shallow depth of field, 35 mm, eye level, emphasising the online statement from the party leader. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/arrest-of-nainar-nagendran-the-high-handed-conduct-of-the-police-is-condemnable-ttv-dhinakaran",
-   "published": "2026-11-24T10:27:56Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; source/outlet name or link appears: தினகரன்",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "தில்லியில் ரேபிடோ ஓட்டுநரிடம் கத்தி முனையில் வழிப்பறி செய்ததாகக் குற்றஞ்சாட்டப்பட்டவருக்குப் பிணை வழங்க தில்லி உயர்நீதிமன்றம் மறுத்துள்ளது. கடந்த ஜூலை மாதம் ஜுனைத் அலி உள்ளிட்ட 3 பேர் ரேபிடோ செயலி மூலம் கார் முன்பதிவு செய்ததாகக் குற்றஞ்சாட்டப்பட்டுள்ளது. கிதோர்னி கிராமத்திலிருந்து செங்கோட்டைக்குச் செல்ல அவர்கள் காரை முன்பதிவு செய்தனர். பயணத்தின்போது ஓட்டுநரின் கழுத்தில் கத்தியை வைத்து மிரட்டியதாகவும், அவரிடமிருந்து ரூ.3,000, செல்போன் மற்றும் மாருதி டிசையர் காரைப் பறித்ததாகவும் குற்றச்சாட்டு உள்ளது. இந்த வழக்கில் ஜுனைத் அலி தாக்கல் செய்த பிணை மனுவை விசாரித்த நீதிபதி விமல் குமார் யாதவ், நவம்பர் 19ஆம் தேதி உத்தரவு பிறப்பித்தார். பயணத்துக்கு உதவ அமர்த்தப்பட்ட கார் ஓட்டுநரின் நம்பிக்கையை குற்றஞ்சாட்டப்பட்டவர்கள் மீறியுள்ளனர் என்று நீதிபதி கூறினார். சாதாரணமாக யாரும் கத்தியுடன் வெளியில் செல்வதில்லை என்றும், திட்டமிட்டே குற்றம் செய்திருக்கலாம் என்றும் அவர் குறிப்பிட்டார். வழக்கு விசாரணையில் ஓட்டுநரின் கார், செல்போன், ஓட்டுநர் உரிமம் மற்றும் கத்தி ஆகியவை குற்றஞ்சாட்டப்பட்டவர்களிடமிருந்து மீட்கப்பட்டதாக நீதிமன்றம் சுட்டிக்காட்டியது. சாட்சிகள் விசாரிக்கப்படும் வரை பிணை வழங்குவது பொருத்தமாக இருக்காது என்று கூறி மனுவைத் தள்ளுபடி செய்தது. குற்றஞ்சாட்டப்பட்டவருக்கு எதிராக வலுவான ஆதாரங்கள் இருப்பதாகவும், கண்காணிப்பு கேமரா பதிவுகள் அவரது தொடர்பை உறுதிப்படுத்துவதாகவும் அரசு தரப்பு தெரிவித்தது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ரேபிடோ ஓட்டுநரிடம் வழிப்பறி: குற்றஞ்சாட்டப்பட்டவருக்கு பிணை மறுப்பு\n\n📰 முழு விவரம்:\nரேபிடோ செயலி மூலம் கார் முன்பதிவு செய்து, ஓட்டுநரிடம் கத்தி முனையில் வழிப்பறி செய்ததாகக் குற்றஞ்சாட்டப்பட்ட நபருக்குப் பிணை வழங்க தில்லி உயர்நீதிமன்றம் மறுத்துள்ளது. கடந்த ஜூலை மாதம் ஜுனைத் அலி உள்ளிட்ட 3 பேர் கிதோர்னி கிராமத்திலிருந்து செங்கோட்டைக்குச் செல்ல ரேபிடோ மூலம் காரை முன்பதிவு செய்தனர். அப்போது ஓட்டுநரின் கழுத்தில் கத்தியை வைத்து மிரட்டி, அவரிடமிருந்து ரூ.3,000, செல்போன் மற்றும் மாருதி டிசையர் காரைப் பறித்ததாகக் குற்றச்சாட்டு. நவ. 19ஆம் தேதி நீதிபதி விமல் குமார் யாதவ் பிறப்பித்த உத்தரவில், ஓட்டுநரின் நம்பிக்கையை மீறியதாகவும், திட்டமிட்டே குற்றம் நடந்திருக்கலாம் என்றும் குறிப்பிட்டார். வழக்கில் கார், செல்போன், ஓட்டுநர் உரிமம், கத்தி ஆகியவை மீட்கப்பட்டுள்ளன. சாட்சிகள் விசாரிக்கப்படும் வரை பிணை வழங்குவது பொருத்தமில்லை என்று கூறி மனு தள்ளுபடி செய்யப்பட்டது. கண்காணிப்பு கேமரா பதிவுகளும் குற்றஞ்சாட்டப்பட்டவரின் தொடர்பை உறுதிப்படுத்துவதாக அரசு தரப்பு தெரிவித்தது.\n\nDelhi Rapido driver robbery, bail denied | Chennai news\n📍 தில்லி | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #குற்றம் #சென்னை",
+   "prompts": "A Maruti Dzire sedan, the Rapido cab taken in the robbery, stands parked at the edge of a busy road in the Red Fort area of Delhi. Its doors are shut and the driver's side is visible from a distance. Beside it, two police officers in khaki stand near a barricade, and a few onlookers watch from behind. Behind them rise old red sandstone walls and a stretch of tree-lined roadside. Traffic of autorickshaws, two-wheelers and a bus moves slowly past. The light is bright daylight with a clear sky. Shot at eye level, 35 mm, wide enough to show the car, the road and the Red Fort walls in the background. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nOn a wooden table in a police station or court evidence room, a row of recovered items is laid out: a folding knife with a dark handle, a black mobile phone, a driving licence card and a small bundle of cash notes. Behind the table, a police officer in khaki stands partly out of frame, seen from the side. Shot close-up from slightly above, 35 mm, with the items sharp and the background softly blurred to show a government office interior with a tube light and a plain wall. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/24/robbery-of-a-rapido-driver-delhi-high-court-denies-bail-to-the-accused",
+   "published": "2026-11-24T18:45:42.447Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; reel_script has numbers without their meaning (,000); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535613/chennaiminnal/tq876vyheghie2fhw22v.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535617/chennaiminnal/f5yo2718pknvkehzapae.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795548952/chennaiminnal/rfw00tpjcwen0dahhgyl.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795548967/chennaiminnal/inmxuawrmklpxsqrdws5.jpg"
    ]
   },
   {
-   "tamil_headline": "காதல் விவகாரத்தில் கல்லூரி மாணவரை காரில் கடத்தி தாக்கியவர் கைது",
-   "english_headline": "Man arrested for abducting college student in car and assaulting him at gunpoint over a love affair in Kundrathur",
+   "tamil_headline": "நடத்துநருக்கு கத்தி வெட்டு: மேலும் இரு இளைஞர்கள் கைது",
+   "english_headline": "Temporary conductor hacked with knife in Kodungaiyur; two more 20-year-olds arrested",
    "category": "Crime & Safety",
-   "location": "Kundrathur, Chennai district",
-   "importance": "High",
+   "location": "Kodungaiyur, Chennai district",
+   "importance": "Medium",
    "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
     "cat": "குற்றச் செய்தி",
-    "loc": "குன்றத்தூர்",
-    "hl1": "குன்றத்தூரில் மாணவரை காரில் கடத்தி",
-    "hl2": "துப்பாக்கி முனையில் மிரட்டல்",
+    "loc": "கொடுங்கையூர், சென்னை",
+    "hl1": "கொடுங்கையூரில் நடத்துநருக்கு கத்தி",
+    "hl2": "மேலும் இருவர் கைது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "காதல் விவகாரத்தில் கல்லூரி மாணவர் காரில் கடத்தப்பட்டார்",
-       "துப்பாக்கி முனையில் தாக்கப்பட்டதாகப் புகார்",
-       "ஆரோக்கியதாஸ், <b>48</b>, போலீசாரால் கைது"
+       "கொடுங்கையூரில் தற்காலிக நடத்துநர் கத்தியால் வெட்டப்பட்டார்",
+       "நவ. <b>13</b> மாலை <b>5:30</b> மணியளவில், கண்ணதாசன் நகர்",
+       "ஐந்துக்கும் மேற்பட்டோர் சேர்ந்து தாக்கினர்"
       ]
      },
      {
-      "title": "யார் யார்?",
+      "title": "யார்",
       "lines": [
-       "தாம்பரம் சி.டி.ஓ. காலனியைச் சேர்ந்தவர் ஆரோக்கியதாஸ்",
-       "பல்லாவரம் கல்லூரியில் படிக்கும் <b>17 வயது</b> மாணவர்",
-       "இருவரும் காதலித்து வந்ததாகக் கூறப்படுகிறது"
+       "மணலி சேலவாயலைச் சேர்ந்த நித்தியானந்தா, <b>25</b>",
+       "பேருந்தில் தற்காலிக நடத்துநராகப் பணியாற்றுபவர்"
       ]
      },
      {
-      "title": "எப்போது?",
+      "title": "கைது விவரம்",
       "lines": [
-       "நேற்று முன்தினம் மாலை சோமங்கலத்தில் சம்பவம்",
-       "மாணவரை வரவழைத்து காரில் கடத்திச் சென்றதாகப் புகார்",
-       "நேற்று ஆரோக்கியதாஸ் கைது செய்யப்பட்டார்"
+       "ஆகாஷ், <b>20</b>, நவ. <b>17</b>ஆம் தேதி சரணடைந்தார்",
+       "குருமூர்த்தி, <b>20</b>, யுவராஜ், <b>20</b>: இன்று (நவ. <b>24</b>) கைது",
+       "இருவரும் சிறையில் அடைக்கப்பட்டனர்"
+      ]
+     },
+     {
+      "title": "பின்னணி",
+      "lines": [
+       "அக். <b>30</b> தேவர் ஜெயந்தி அன்று சைதாப்பேட்டையில்",
+       "இதற்குப் பழிவாங்கவே நித்தியானந்தா தாக்கப்பட்டதாகப் போலீசார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "குன்றத்தூரில் காதல் விவகாரத்தில் கல்லூரி மாணவரை காரில் கடத்தி துப்பாக்கி முனையில் தாக்கியவர் கைது செய்யப்பட்டுள்ளார். கைது செய்யப்பட்டவர் ஆரோக்கியதாஸ், 48 வயது. தாம்பரம் சி டி ஓ காலனியைச் சேர்ந்தவர் இவர். பல்லாவரத்தில் உள்ள கல்லூரியில் படிக்கும் 17 வயது மாணவர் பாதிக்கப்பட்டவர். ஆரோக்கியதாஸின் 17 வயது மகளும் அதே கல்லூரியில் படிக்கிறார். இந்த மாணவரும் ஆரோக்கியதாஸின் மகளும் காதலித்து வந்ததாகக் கூறப்படுகிறது. இதையறிந்த ஆரோக்கியதாஸ், நேற்று முன்தினம் மாலை சோமங்கலத்துக்கு அந்த மாணவரை வரவழைத்தார். பின்னர் அவரை காரில் கடத்திச் சென்று தாக்கியதாகப் புகார் உள்ளது. துப்பாக்கியைக் காட்டி மிரட்டியதாகவும் கூறப்படுகிறது. இதையடுத்து பெறப்பட்ட புகாரின் அடிப்படையில் நேற்று போலீசார் ஆரோக்கியதாஸை கைது செய்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 குன்றத்தூரில் மாணவரை காரில் கடத்தி தாக்கியவர் கைது\n\n📰 முழு விவரம்:\nகுன்றத்தூரில் காதல் விவகாரத்தில் கல்லூரி மாணவர் ஒருவரை காரில் கடத்தி துப்பாக்கி முனையில் தாக்கியதாகப் புகார். தாம்பரம் சி.டி.ஓ. காலனியைச் சேர்ந்த ஆரோக்கியதாஸ் (48 வயது), போலீசாரால் கைது செய்யப்பட்டார். பல்லாவரம் கல்லூரியில் படிக்கும் 17 வயது மாணவரை, அவரது காதலி என்று கூறப்படும் ஆரோக்கியதாஸின் 17 வயது மகள் படிக்கும் அதே கல்லூரியில்... இந்த விவகாரம் தொடர்பான பிற விவரங்களுக்கு விசாரணை நடைபெற்று வருகிறது.\n📍 இடம்: சோமங்கலம், குன்றத்தூர்\n🗓️ நாள்: நவம்பர் 22 (நேற்று முன்தினம்) மாலை, சம்பவம்; நவம்பர் 23 கைது\n👮 நடவடிக்கை: ஆரோக்கியதாஸ் கைது\nℹ️ மக்கள் கவனத்திற்கு: ஆதாரமற்ற தகவல்களைப் பகிர வேண்டாம்\n\nKundrathur student kidnapped in car, man arrested | Chennai news\n📍 குன்றத்தூர், சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kundrathur #ChennaiNews #சென்னை",
-   "prompts": "A police jeep parks outside a small police station in Kundrathur on a bright daytime street, and two policemen in khaki uniform walk a man in a plain shirt and trousers toward the entrance, his face turned away from the camera. Behind them stand a few onlookers at a distance, seen from behind. The street has a two-wheeler parked along the roadside, a low-rise concrete building with a tiled roof, and a bus shelter in the background. The arrested man is a 48-year-old suspect, and the scene shows his arrest in the town. Daylight, slightly overcast Chennai sky. The camera is at eye level, about 35 mm, wide enough to show the police station gate, the jeep and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a dark grey car's rear door handle and a sedan's open passenger door on a quiet suburban road in Kundrathur, the evening light fading to a warm amber glow. On the car seat sits a blurred, empty backseat with a folded piece of cloth, and a police officer's gloved hand rests on the door frame, seen from a low angle. Behind the car, a roadside wall and a row of rain-washed concrete poles of a TNEB line are visible. The car is the vehicle used in the abduction of the college student, and the scene conveys the forced car journey. Evening light, dusk. The camera is slightly low, about 35 mm, focused on the car door and seat. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/love-affair-student-kidnapped-and-assaulted-in-car-arrested/4385239",
-   "published": "2026-11-24T19:42:47+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "reel_script": "நடத்துநரை வெட்டிய வழக்கில் மேலும் இரண்டு இளைஞர்கள் கைது செய்யப்பட்டனர். கொடுங்கையூர் கண்ணதாசன் நகர் பேருந்து நிலையம் அருகே நவம்பர் 13ஆம் தேதி மாலை 5:30 மணியளவில் இந்தச் சம்பவம் நடந்தது. மணலி சேலவாயலைச் சேர்ந்த 25 வயது நித்தியானந்தா, பேருந்தில் தற்காலிக நடத்துநராகப் பணியாற்றுகிறார். அவரை ஐந்துக்கும் மேற்பட்டோர் கத்தியால் வெட்டினர். கொடுங்கையூர் கணேஷ் நகரைச் சேர்ந்த 20 வயது ஆகாஷ் நவம்பர் 17ஆம் தேதி சரணடைந்தார். போலீசார் விசாரணையில், அக்டோபர் 30ஆம் தேதி தேவர் ஜெயந்தியன்று சைதாப்பேட்டையில் இருதரப்பினரிடையே தகராறு ஏற்பட்டது தெரியவந்தது. அப்போது ஆகாஷ் உள்ளிட்டோரை கொடுங்கையூர் சின்னாண்டி மடத்தைச் சேர்ந்த 20 வயது குருமூர்த்தி, 20 வயது யுவராஜ் ஆகியோர் தாக்கினர். இதற்குப் பழிவாங்கவே நித்தியானந்தா தாக்கப்பட்டார். இன்று நவம்பர் 24ஆம் தேதி குருமூர்த்தியும் யுவராஜும் கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கொடுங்கையூரில் நடத்துநருக்கு கத்தி வெட்டு: மேலும் இருவர் கைது\n\n📰 முழு விவரம்:\nகொடுங்கையூர் கண்ணதாசன் நகர் பேருந்து நிலையம் அருகே நவம்பர் 13ஆம் தேதி மாலை 5:30 மணியளவில், தற்காலிக நடத்துநர் நித்தியானந்தாவை (25 வயது) ஐந்துக்கும் மேற்பட்டோர் கத்தியால் வெட்டினர்.\nஇந்த வழக்கில் ஆகாஷ் (20 வயது) நவம்பர் 17ஆம் தேதி சரணடைந்தார்.\nஇன்று (நவம்பர் 24) குருமூர்த்தி (20 வயது), யுவராஜ் (20 வயது) ஆகியோர் கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டனர்.\nஅக்டோபர் 30ஆம் தேதி தேவர் ஜெயந்தியன்று சைதாப்பேட்டையில் நடந்த தகராறுக்குப் பழிவாங்கவே இந்தத் தாக்குதல் நடந்ததாக போலீசார் விசாரணையில் தெரியவந்துள்ளது.\n\n👮 நடவடிக்கை: குருமூர்த்தி, யுவராஜ் கைது; இருவரும் சிறையில் அடைப்பு\n📍 இடம்: கொடுங்கையூர், சென்னை மாவட்டம்\n🗓️ நாள்: நவம்பர் 13 (தாக்குதல்), நவம்பர் 24 (கைது)\n\nKodungaiyur knife attack on conductor, two more arrested | Chennai news\n📍 கொடுங்கையூர், சென்னை | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kodungaiyur #ChennaiNews #சென்னை",
+   "prompts": "A pair of Tamil Nadu police constables in khaki uniform lead two young men in plain shirts, seen from behind, out of a police station gate in Kodungaiyur, Chennai. The men have their hands tied in front and are walking toward a waiting police jeep parked at the kerb. Behind them, an MTC city bus passes on the busy road, and a few onlookers stand at a distance on the pavement. It is daylight under a grey sky, and the scene is captured at eye level from across the road with a 35 mm lens, wide enough to show the police station, the road and the bus stop area with no readable signboards or faces. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden table in a police station room with a seized knife laid on a white cloth beside a folded set of documents, with the blurred khaki sleeve of a police constable at the edge of the frame. A simple steel bench and a cracked wall painted in pale green fill the background, lit by soft afternoon light from a window. The knife is shown plainly on the table with no hands or blood visible. Shot at slightly high eye level with a 35 mm lens, shallow focus on the blade and the documents. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/cut-two-more-to-the-conductor-arrested/4385372",
+   "published": "2026-11-24T21:17:03+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'கொடுங்கையூர்' and the news itself, e.g. 'கொடுங்கையூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535624/chennaiminnal/aem0hcuqv5qtkgm0nhoj.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535626/chennaiminnal/agxk0wtexdfeutksvan5.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795548974/chennaiminnal/zvftjuhg9hitrp7dm8r3.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795548995/chennaiminnal/cutq1kfpxa6swlssiurk.jpg"
    ]
   },
   {
-   "tamil_headline": "சென்னை விமான நிலையத்தில் ரூ.26 லட்சம் கஞ்சா பறிமுதல்",
-   "english_headline": "Cannabis worth Rs 26 lakh seized at Chennai airport from Bangkok flight passenger",
+   "tamil_headline": "மெரினாவிற்கு வழி கேட்டவர் மீது தாக்குதல்: தந்தை, மகன் கைது",
+   "english_headline": "Man attacked over route to Marina beach in Maduravoyal; father and son arrested",
    "category": "Crime & Safety",
-   "location": "Chennai airport, Chennai district",
-   "importance": "High",
-   "scope": "",
+   "location": "Maduravoyal, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "கஞ்சா பறிமுதல்",
-    "loc": "சென்னை விமான நிலையம்",
-    "hl1": "சென்னை விமான நிலையத்தில் ரூ.26 லட்சம்",
-    "hl2": "2.6 கிலோ கஞ்சா பறிமுதல்",
+    "cat": "குற்றச் செய்தி",
+    "loc": "மதுரவாயல், சென்னை",
+    "hl1": "மதுரவாயலில் வழி கேட்டவர் மீது தாக்குதல்",
+    "hl2": "தந்தை, மகன் கைது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "பாங்காக்கில் இருந்து வந்த விமானத்தில் கஞ்சா கடத்தல்",
-       "சர்வதேச மதிப்பு <b>26 லட்சம் ரூபாய்</b>",
-       "எடை <b>2.6 கிலோ</b> கஞ்சா"
+       "மதுரவாயலில் மெரினாவுக்கு வழி கேட்டபோது தகராறு",
+       "தொழிலாளி சம்பந்தம், <b>34</b> வயது, தாக்கப்பட்டார",
+       "இரும்புக் கம்பி, சுத்தியலால் தாக்கப்பட்டார்"
       ]
      },
      {
-      "title": "எப்படி சிக்கியது?",
+      "title": "யார் தாக்கினர்?",
       "lines": [
-       "விமானப் பயணியர் அனைவரிடமும் வழக்கமான சோதனை",
-       "தமிழக பயணியின் நடவடிக்கையில் சுங்கத்துறைக்கு சந்தேகம்",
-       "உடைமையில் பொட்டலங்களில் மறைத்து கஞ்சா"
+       "சார்லஸ், <b>56</b> வயது, அவரது மகன்கள் தருண், மனோஜ்",
+       "தரக்குறைவாகப் பேசியதை சம்பந்தம் தட்டிக் கேட்டதால் தகராறு",
+       "கொலை மிரட்டலும் விடுக்கப்பட்டது"
       ]
      },
      {
-      "title": "அடுத்து என்ன?",
+      "title": "நடவடிக்கை",
       "lines": [
-       "கஞ்சாவை சுங்கத்துறை அதிகாரிகள் பறிமுதல் செய்தனர்",
-       "அதிகாரிகள் தொடர்ந்து விசாரித்து வருகின்றனர்"
+       "சம்பந்தம் கீழ்ப்பாக்கம் அரசு மருத்துவமனையில் அனுமதி",
+       "சார்லஸ், தருண் ஆகியோரை மதுரவாயல் போலீசார் கைது செய்தனர்",
+       "தலைமறைவான மனோஜை போலீசார் தேடி வருகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை விமான நிலையத்தில் 26 லட்சம் ரூபாய் மதிப்புள்ள கஞ்சா பிடிபட்டுள்ளது. தாய்லாந்து தலைநகர் பாங்காக்கில் இருந்து இரு தினங்களுக்கு முன் ஒரு தனியார் பயணியர் விமானம் சென்னை வந்தது. அந்த விமானத்தில் வந்த பயணிகள் அனைவரிடமும் சுங்கத்துறை அதிகாரிகள் வழக்கமான சோதனை நடத்தினர். அப்போது சுற்றுலா சென்று திரும்பிய தமிழக பயணி ஒருவரின் நடவடிக்கையில் அதிகாரிகளுக்குச் சந்தேகம் ஏற்பட்டது. அவரது உடைமைகளைச் சோதனை செய்தபோது, பொட்டலங்களில் மறைத்து கஞ்சா கடத்தி வரப்பட்டது கண்டுபிடிக்கப்பட்டது. அதன் எடை 2.6 கிலோ, சர்வதேச மதிப்பு 26 லட்சம் ரூபாய். அதிகாரிகள் அந்தக் கஞ்சாவைப் பறிமுதல் செய்து, தொடர்ந்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை விமான நிலையத்தில் ரூ.26 லட்சம் கஞ்சா பறிமுதல்\n\n📰 முழு விவரம்:\nதாய்லாந்து தலைநகர் பாங்காக்கில் இருந்து இரு தினங்களுக்கு முன் ஒரு தனியார் பயணியர் விமானம் சென்னை வந்தது. அந்த விமானத்தில் வந்த பயணிகளிடம் சுங்கத்துறை அதிகாரிகள் வழக்கமான சோதனை நடத்தினர்.\nசுற்றுலா சென்று திரும்பிய தமிழக பயணி ஒருவரின் நடவடிக்கையில் சந்தேகம் ஏற்பட்டதால், அவரது உடைமைகள் சோதிக்கப்பட்டன. பொட்டலங்களில் மறைத்து கஞ்சா கடத்தி வரப்பட்டது கண்டுபிடிக்கப்பட்டது.\n⚖️ எடை: 2.6 கிலோ கஞ்சா\n💰 சர்வதேச மதிப்பு: 26 லட்சம் ரூபாய்\n👮 நடவடிக்கை: கஞ்சா பறிமுதல் செய்யப்பட்டது; அதிகாரிகள் தொடர்ந்து விசாரித்து வருகின்றனர்.\n\nCannabis worth Rs 26 lakh seized at Chennai airport | Chennai news\n📍 சென்னை விமான நிலையம், சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #கஞ்சா",
-   "prompts": "A row of Chennai airport customs officers in uniform stands beside a baggage examination table in the arrivals hall of Chennai international airport. On the steel table lie several opened suitcases and bags, and a stack of sealed packets of dried green cannabis weighing about 2.6 kg in total, which the officers have seized from a Tamil Nadu passenger who arrived on a flight from Bangkok. The arrivals area has high ceilings, glass partitions, and a metal baggage trolley parked nearby, with the public waiting area visible at a distance. The passenger, seen only from behind and far away, stands under the watch of two officers. Officers wear the navy and white uniform of customs staff. Daylight enters through the terminal windows, as the flight landed about two days ago during a regular daytime check. Camera: eye level, 35 mm, wide enough to show the table, officers and terminal interior. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the seized cannabis packets spread on a stainless steel customs examination table at Chennai airport. Several small plastic-wrapped bundles of dried green cannabis lie next to a pair of open luggage bags, with a pair of latex-gloved hands from an officer just entering the frame at the edge. The packets are stacked neatly, and a few have been opened to show the dried leaves inside. The background is softly blurred, showing the grey and white surface of the examination counter and a corner of the terminal wall. Soft fluorescent overhead light from the airport ceiling falls on the surfaces. Camera: slightly high angle, 50 mm macro-style close-up, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-26-lakh-cannabis-seized/4385294",
-   "published": "2026-11-24T20:16:33+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "reel_script": "மதுரவாயலில் மெரினா செல்லும் வழி கேட்டவரை இரும்புக் கம்பியால் தாக்கிய இருவர் கைதாகியுள்ளனர். புதுக்கோட்டையைச் சேர்ந்த 34 வயது சம்பந்தம் தனியார் நிறுவனத்தில் துணிகளில் அச்சிடும் வேலை செய்து வருகிறார். சில நாட்களுக்கு முன், நிறுவனத்துக்கு எதிரே வசிக்கும் 56 வயது சார்லஸிடம் அவர் மெரினா கடற்கரைக்கு வழி கேட்டார். அப்போது சார்லஸ் தரக்குறைவாகப் பேசியதாகக் கூறப்படுகிறது. அதைச் சம்பந்தம் கேட்டதால் தகராறு ஏற்பட்டது. ஆத்திரமடைந்த சார்லஸும் அவரது மகன்கள் தருண், மனோஜும் சேர்ந்து சம்பந்தத்தை இரும்புக் கம்பி, சுத்தியலால் தாக்கி கொலை மிரட்டல் விடுத்தனர். காயமடைந்த சம்பந்தம் கீழ்ப்பாக்கம் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார். விசாரித்த மதுரவாயல் போலீசார் சார்லஸ், தருண் ஆகியோரைக் கைது செய்தனர். தலைமறைவாக உள்ள மனோஜை போலீசார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மதுரவாயலில் மெரினா வழி கேட்டவர் மீது தாக்குதல்: தந்தை, மகன் கைது\n\n📰 முழு விவரம்:\nமதுரவாயலில் மெரினா கடற்கரைக்கு வழி கேட்டபோது ஏற்பட்ட தகராறில், புதுக்கோட்டையைச் சேர்ந்த தொழிலாளி சம்பந்தம் (34 வயது), இரும்புக் கம்பி, சுத்தியலால் தாக்கப்பட்டார். தரக்குறைவாகப் பேசியதைச் சம்பந்தம் கேட்டதால் தகராறு ஏற்பட்டதாகக் கூறப்படுகிறது. சார்லஸ் (56 வயது), அவரது மகன்கள் தருண், மனோஜ் ஆகியோர் தாக்கி கொலை மிரட்டல் விடுத்தனர். காயமடைந்த சம்பந்தம் கீழ்ப்பாக்கம் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார். சார்லஸ், தருண் ஆகியோரை மதுரவாயல் போலீசார் கைது செய்தனர். தலைமறைவான மனோஜை தேடி வருகின்றனர்.\n\nMaduravoyal assault over Marina route, two arrested | Chennai news\n📍 மதுரவாயல், சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Maduravoyal #குற்றம் #ChennaiNews",
+   "prompts": "Two Tamil Nadu police constables in khaki uniform lead a middle-aged man and a young man in plain shirts, both seen from behind, across a narrow residential street in Maduravoyal, Chennai, in the late morning sun. The street has single-storey concrete houses with tiled roofs, a private textile printing company building with a shuttered gate, and a parked two-wheeler at the roadside. A few onlookers, residents in shirts and a woman in a cotton saree, stand at a distance by a doorway. Women and men are kept far away and out of focus. Light is bright daylight with soft shadows. Camera at eye level, 35 mm, wide enough to show the whole street and the police jeep parked at the corner. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a police table in a Maduravoyal police station room in daylight: a rusted iron rod and a steel hammer laid side by side on a wooden table, with a khaki-uniformed police hand resting at the edge of the frame. Behind them, out of focus, a blurred wall and a metal cupboard. Nearby is a folded cotton towel stained with nothing visible, no blood. The light is soft natural daylight from a window. Camera slightly high, 35 mm close-up, shallow depth of field, showing the rod and hammer clearly as the key evidence of the attack. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/attack-on-the-one-who-asked-for-marina-s-way-two-arrested/4385482",
+   "published": "2026-11-24T22:46:30+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script copies the article word for word (17 words in a row, 16% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535632/chennaiminnal/sc5nk8fy0dx1wj5eeggv.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535635/chennaiminnal/zifg6ndvz7xbtzslkk0k.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795549011/chennaiminnal/qnqrrwp7vfjzuzxxkmbs.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795549014/chennaiminnal/b3wnxwjyspkrhphzjf6i.jpg"
    ]
   },
   {
-   "tamil_headline": "குரோம்பேட்டையில் லேசான மழைக்கே பாதாள சாக்கடை கழிவுநீர் சாலையில் ஓடுகிறது",
-   "english_headline": "Chromepet: even light rain makes sewage overflow from manholes onto roads due to poor maintenance of underground drainage",
-   "category": "Civic Issues",
-   "location": "Chromepet, Tambaram Corporation, Chennai district",
+   "tamil_headline": "தாம்பரம் ரயில் நிலையத்தில் மூதாட்டியிடம் 6 சவரன் செயின் பறிப்பு: 25 வயது வாலிபர் கைது",
+   "english_headline": "Tambaram railway station: 25-year-old man arrested for snatching 6 sovereign chain from 65-year-old woman",
+   "category": "Crime & Safety",
+   "location": "Tambaram railway station, Chennai district",
    "importance": "High",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "பாதாள சாக்கடை",
-    "loc": "குரோம்பேட்டை, சென்னை",
-    "hl1": "குரோம்பேட்டையில் லேசான மழைக்கே",
-    "hl2": "பராமரிப்பில் மெத்தனம்",
+    "cat": "குற்றம்",
+    "loc": "தாம்பரம், சென்னை",
+    "hl1": "தாம்பரம் ரயில் நிலையத்தில் செயின்",
+    "hl2": "6 சவரன் நகை மீட்பு",
     "slides": [
      {
-      "title": "என்ன நடக்கிறது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "குரோம்பேட்டையில் லேசான மழைக்கே கழிவுநீர் சாலையில் ஓடுகிறது",
-       "பாதாள சாக்கடை மூடிகள் வழியாக கழிவுநீர் வெளியேறுகிறது",
-       "இது தொடர்கதையாகி விட்டதாக மக்கள் கூறுகின்றனர்"
+       "தாம்பரம் ரயில் நிலையத்தில் <b>65 வயது</b> மூதாட்டியிடம்",
+       "கடந்த <b>7ம் தேதி</b> தென்காசி செல்லும் சிறப்பு",
+       "அடையாளம் தெரியாத நபர் நகையைப் பறித்துக் கொண்டு தப்பினார்"
       ]
      },
      {
-      "title": "ஏன் இந்த நிலை?",
+      "title": "புகார், தேடுதல்",
       "lines": [
-       "முறையான பராமரிப்பு இல்லை என மக்கள் குற்றச்சாட்டு",
-       "பல இடங்களில் குழாய்கள் உடைந்து சேதமடைந்துள்ளன",
-       "பழைய குழாய்களை அகற்றி புதியவை அமைக்கக் கோரிக்கை"
+       "கடந்த <b>16ம் தேதி</b> தாம்பரம் ரயில்வே போலீசில் புகார்",
+       "திருடிய வாலிபர் பெரம்பூர், ஜமாலியா பேருந்து நிலையம் அருகே"
       ]
      },
      {
-      "title": "எந்த இடங்களில்?",
+      "title": "கைது",
       "lines": [
-       "ராமச்சந்திரா சாலை, சீனிவாசா நகர்",
-       "ராஜாஜி தெரு, எம்.ஐ.டி. மேம்பாலம் சுற்றுப்புறம்",
-       "வாகன ஓட்டிகளும் மக்களும் கடும் அவதி"
+       "<b>25 வயது</b> முனியசாமி கைது செய்யப்பட்டார்",
+       "போலீசார் அவரிடமிருந்து நகையைப் பறிமுதல் செய்தனர்",
+       "குற்றப்புலனாய்வுப் பிரிவு போலீசார் இந்த நடவடிக்கையை"
       ]
      },
      {
-      "title": "கோரிக்கை",
+      "title": "8 சிறுவர்கள்",
       "lines": [
-       "தமிழக அரசு நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை",
-       "குடியிருப்போர் நலச்சங்கத்தினர் இதை வலியுறுத்துகின்றனர்"
+       "ஆபரேஷன் நன்ஹே பரிஷ்டே திட்டத்தில் <b>8 சிறுவர்கள்</b> மீட்பு",
+       "சென்னை சென்ட்ரல், எழும்பூர் ரயில் நிலையங்களில் தனியாக",
+       "குழந்தைகள் உதவி மைய மேற்பார்வையாளர்களிடம் ஒப்படைப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "குரோம்பேட்டையில் லேசான மழைக்கே பாதாள சாக்கடை கழிவுநீர் சாலையில் ஓடுகிறது. பாதாள சாக்கடை திட்டப் பணிகளில் தாம்பரம் மாநகராட்சி நிர்வாகம் அக்கறை செலுத்தவில்லை என அப்பகுதி மக்கள் குற்றம் சாட்டுகின்றனர். பல்லாவரம் நகராட்சியாக இருந்தபோது 2005ல் தொடங்கி 2012ல் முடிந்த இந்தத் திட்டத்தில் 159.74 கிலோமீட்டர் நீளத்திற்கு கழிவுநீர் குழாய்கள் புதைக்கப்பட்டன. தற்போது ராமச்சந்திரா சாலை, சீனிவாசா நகர், ராஜாஜி தெரு, எம் ஐ டி மேம்பாலம் சுற்றுப்புறப் பகுதிகளில் மூடிகள் வழியாக கழிவுநீர் வெளியேறுகிறது. பல இடங்களில் குழாய்கள் உடைந்து சேதமடைந்துள்ளன. ஆண்டுதோறும் பராமரிப்புக்காக பல கோடி ரூபாய் செலவிடப்பட்டாலும் முறையான பராமரிப்பு இல்லை என மக்கள் கூறுகின்றனர். இதனால் மக்களும் வாகன ஓட்டிகளும் கடும் அவதிப்படுகின்றனர். பழைய குழாய்களை அகற்றி புதியவற்றை அமைக்க வேண்டும் என குடியிருப்போர் நலச்சங்கத்தினர் கோரிக்கை விடுத்துள்ளனர். இதுவரை இதற்கான நடவடிக்கை எடுக்கப்படவில்லை. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 குரோம்பேட்டையில் லேசான மழைக்கே பாதாள சாக்கடை கழிவுநீர் சாலையில்\n\n📰 முழு விவரம்:\nகுரோம்பேட்டையில் பாதாள சாக்கடை பராமரிப்பில் தாம்பரம் மாநகராட்சி அக்கறை காட்டவில்லை என மக்கள் குற்றம் சாட்டுகின்றனர். லேசான மழை பெய்தாலே பல இடங்களில் கழிவுநீர் சாலையில் ஓடுவது தொடர்கதையாகி விட்டது. பல்லாவரம் நகராட்சியாக இருந்தபோது 2005ல் தொடங்கி 2012ல் முடிந்த பாதாள சாக்கடை திட்டத்துக்கு ரூ.75.33 கோடி செலவிடப்பட்டது. 159.74 கி.மீ. நீளத்துக்கு குழாய்கள் புதைக்கப்பட்டன. பின்னர் 41 கி.மீ. நீளத்துக்கு ரூ.24.06 கோடியில் கூடுதல் பணிகள் நடந்தன. தற்போதைய மழையால் ராமச்சந்திரா சாலை, சீனிவாசா நகர், ராஜாஜி தெரு, எம்.ஐ.டி. மேம்பாலம் சுற்றுப்புறப் பகுதிகளில் மூடிகள் வழியாக கழிவுநீர் வெளியேறுகிறது. பழைய குழாய்களை அகற்றிவிட்டு புதியவற்றை பதித்து முறையாக பராமரிக்க வேண்டும் என குடியிருப்போர் நலச்சங்கத்தினர் தமிழக அரசுக்கு கோரிக்கை விடுத்துள்ளனர்.\n📍 இடம்: குரோம்பேட்டை, தாம்பரம் மாநகராட்சி\n\nChromepet sewage overflow on roads in rain | Chennai news\n📍 குரோம்பேட்டை, சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Chromepet #ChennaiNews #சென்னை",
-   "prompts": "A two-wheeler rider and a car slowly wade through dark sewage water flowing across a tarmac road in Chromepet after light rain, as dirty water bubbles up from a round iron manhole cover at the roadside. The place is a busy residential-commercial street in Chromepet, Chennai, with low concrete buildings, shops with shuttered fronts, and a few parked two-wheelers along the kerb. Pedestrians are seen from behind holding umbrellas and lifting their saris and trousers above the flooded lane; a few residents stand on the footpath at a distance, watching. Two-wheelers, an autorickshaw and a small car move through the filthy water, sending small waves to both sides. It is daylight under an overcast grey sky with light drizzle, and the wet road reflects the dull light. The camera is at eye level, about 35 mm, wide enough to show the street, the overflowing manhole and the vehicles in the sewage. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an overflowing underground drainage manhole on a Chromepet road, its heavy iron cover lifted or displaced as grey-brown sewage gushes out and spreads across the wet tarmac after light rain. Around the manhole, the road surface is covered with a thin, dark film of sewage mixed with rain water, with small bubbles and debris floating on top. The kerb and a section of the footpath are visible at the edge of the frame, with a bare concrete wall and a shuttered shop front behind them. A pair of slippers or a two-wheeler tyre passing through the edge of the frame gives scale, with people seen only from behind and far away. It is overcast daylight, the light flat and grey, and the wet surfaces shine. The camera is low and close, about 35 mm, focused on the manhole and the spreading sewage. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/chromepet-hit-by-light-rain-slows-down-underground-sewerage-project-maintenance/4385291",
-   "published": "2026-11-24T20:16:26+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 9, ('மற்றொரு புறம், 9, 13 – 21 வரையுள்ள வார்டுகளில் இருந்து வெளிய'); 13 ('மற்றொரு புறம், 9, 13 – 21 வரையுள்ள வார்டுகளில் இருந்து வெளிய'); 21 ('மற்றொரு புறம், 9, 13 – 21 வரையுள்ள வார்டுகளில் இருந்து வெளிய'); 23 ('23 – 26, 35 – 38 ஆகிய வார்டுகளில் இருந்து வெளியேறும் கழிவுநீ'); 26, ('23 – 26, 35 – 38 ஆகிய வார்டுகளில் இருந்து வெளியேறும் கழிவுநீ'); 35 ('23 – 26, 35 – 38 ஆகிய வார்டுகளில் இருந்து வெளியேறும் கழிவுநீ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "தாம்பரம் ரயில் நிலையத்தில் மூதாட்டியிடம் 6 சவரன் செயின் பறித்த 25 வயது வாலிபர் கைது செய்யப்பட்டார். கடந்த 7ம் தேதி தென்காசி செல்லும் சிறப்பு ரயிலுக்காக காத்திருந்த 65 வயது மூதாட்டியின் 6 சவரன் செயினை அடையாளம் தெரியாத நபர் பறித்துக் கொண்டு தப்பினார். இது குறித்து கடந்த 16ம் தேதி தாம்பரம் ரயில்வே போலீசில் புகார் அளிக்கப்பட்டது. திருட்டில் ஈடுபட்ட வாலிபர் பெரம்பூர், ஜமாலியா பேருந்து நிலையம் அருகே பதுங்கியிருப்பதாக சென்னை ரயில்வே கோட்ட குற்றப்புலனாய்வுப் பிரிவு போலீசாருக்குத் தெரியவந்தது. நேற்று முன்தினம் அங்கு சென்ற போலீசார் முனியசாமியை கைது செய்து, நகையைப் பறிமுதல் செய்தனர். இதற்கிடையில், ரயில்வே பாதுகாப்புப் படையின் ஆபரேஷன் நன்ஹே பரிஷ்டே திட்டத்தின் கீழ் சென்னை சென்ட்ரல், எழும்பூர் ரயில் நிலையங்களில் தனியாக இருந்த 8 சிறுவர்கள் மீட்கப்பட்டனர். அவர்கள் குழந்தைகள் உதவி மைய மேற்பார்வையாளர்களிடம் ஒப்படைக்கப்பட்டதாக சென்னை ரயில் கோட்டம் தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாம்பரம் ரயில் நிலையத்தில் மூதாட்டியிடம் 6 சவரன் செயின் பறிப்பு: வாலிபர் கைது\n\n📰 முழு விவரம்:\nதாம்பரம் ரயில் நிலையத்தில் கடந்த 7ம் தேதி தென்காசி செல்லும் சிறப்பு ரயிலுக்காகக் காத்திருந்த 65 வயது மூதாட்டியின் 6 சவரன் செயினை அடையாளம் தெரியாத நபர் பறித்துக் கொண்டு தப்பினார். கடந்த 16ம் தேதி தாம்பரம் ரயில்வே போலீசில் புகார் அளிக்கப்பட்டது.\nதிருட்டில் ஈடுபட்ட 25 வயது முனியசாமி பெரம்பூர், ஜமாலியா பேருந்து நிலையம் அருகே பதுங்கியிருந்தது தெரியவந்தது. நேற்று முன்தினம் அங்கு சென்ற சென்னை ரயில்வே கோட்ட குற்றப்புலனாய்வுப் பிரிவு போலீசார் அவரைக் கைது செய்து நகையைப் பறிமுதல் செய்தனர்.\n🚆 ஆபரேஷன் நன்ஹே பரிஷ்டே திட்டத்தின் கீழ் சென்னை சென்ட்ரல், எழும்பூர் ரயில் நிலையங்களில் தனியாக இருந்த 8 சிறுவர்கள் மீட்கப்பட்டனர்.\n👮 நடவடிக்கை: 25 வயது முனியசாமி கைது; 6 சவரன் நகை பறிமுதல்\n🧒 மீட்பு: 8 சிறுவர்கள் குழந்தைகள் உதவி மைய மேற்பார்வையாளர்களிடம் ஒப்படைக்கப்பட்டனர்\nℹ️ மக்கள் கவனத்திற்கு: ரயில் நிலையங்களில் உடைமைகளைக் கவனமாகப் பாதுகாத்துக்கொள்ளுங்கள்.\n\nTambaram railway station chain snatching, man arrested | Chennai news\n📍 தாம்பரம், சென்னை மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tambaram #குற்றம் #ChennaiNews",
+   "prompts": "A Railway Police constable in khaki uniform stands beside a young man from behind on a platform at Tambaram railway station, after making an arrest for a chain snatching. The man, about 25 years old in a plain shirt and trousers, stands with his hands held in front, while an elderly woman waits at a distance on the platform. Behind them is a long railway platform with a passenger train standing alongside, its carriages visible, and a few commuters carrying bags seen far away. The station has a covered platform roof with pillars and fluorescent tube lights, and a station shelter with passengers sitting on benches. It is daylight, with soft natural light coming through the platform roof. Camera at eye level, 35 mm lens, wide enough to show the platform, the train and the police team, faces turned away or blurred. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a seized 6-sovereign gold chain (thick, yellow-gold, twisted link chain) laid out on a flat police station table or wooden desk, placed beside a folded khaki police cap and a dark notebook. Behind the table, out of focus, a railway police officer in khaki uniform is seen from the back, with the blurred edge of a station platform or police room visible. Soft daylight falls from a window, giving the gold a warm shine. No readable text, no labels, no faces. Camera close and slightly high, 35 mm lens with shallow depth of field, focus on the gold chain. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/youth-arrested-for-snatching-6-sovereign-chains-from-woman-at-tambaram-railway-station/4385375",
+   "published": "2026-11-24T21:14:28+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535662/chennaiminnal/orekjzw1ta3v0y88cksb.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795535665/chennaiminnal/utjihjjwjvr94fndj4cm.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795549021/chennaiminnal/ijeolo0iuh5ftpkcosoi.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795549024/chennaiminnal/caofzxs5c5h6id3u1flk.jpg"
    ]
   }
  ]
