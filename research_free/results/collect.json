@@ -3,25 +3,25 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/anti-corruption-police-conduct-raids-at-the-homes-of-rice-mill-owners",
-  "manual link added: https://www.hindutamil.in/news/crime/man-arrested-for-misbehaving-with-college-student",
-  "manual link added: https://www.dinakaran.com/news/chennai-saplings-work-progress-corporation-information/amp",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/plan-to-destroy-pallikaranai-swamp-world-bank-should-conduct-an-investigation-anbumani",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/jewellery-shop-fraud-elderly-man-caught-by-whatsapp-group/4385744",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/motorists-panicky-as-under-construction-flyover-crashes-in-pattabiram/4385705",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/girl-dies-after-being-hit-on-the-neck-by-a-rope/4385746",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/cannabis-plant-in-kalimanai-creates-ruckus-in-ambattur/4385292",
   "candidate filter: collected=4",
   "to write: 4 Chennai district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/plan-to-destroy-",
-  "try (N) manual=True: https://www.dinakaran.com/news/chennai-saplings-work-progres",
-  "try (N) manual=True: https://www.hindutamil.in/news/crime/man-arrested-for-misbeh",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/anti-corruption-",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "NOT filed (N) அரிசி ஆலை உரிமையாளர்கள் வீடுகளில் லஞ்ச ஒழிப்பு போல: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 78 min",
-  "filed: 3 Chennai district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 78 min",
+  "filed: 4 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
@@ -45,8 +45,6 @@
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
@@ -54,24 +52,38 @@
   "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "dead for this round: groq/qwen/qwen3.8-27b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -79,217 +91,259 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கோட்டூர்புரம்: கல்லூரி மாணவியிடம் அத்துமீறிய ஆசிரியர் அரவிந்த் கைது",
-   "english_headline": "Kotturpuram: Teacher Aravind arrested for harassing college student; his father is a VCK key figure, police say",
+   "tamil_headline": "ஊஞ்சலில் விளையாடிய 12 வயது சிறுமி கழுத்தில் புடவை இறுகி பலி",
+   "english_headline": "12-year-old girl dies after saree tightens around her neck while playing on swing in Kunrathur",
    "category": "Crime & Safety",
-   "location": "Kotturpuram, Adyar, Chennai district",
+   "location": "Kovur, Kunrathur, Chennai district",
    "importance": "High",
-   "scope": "",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "பாலியல் தொல்லை கைது",
-    "loc": "கோட்டூர்புரம், சென்னை",
-    "hl1": "கோட்டூர்புரத்தில் மாணவியிடம்",
-    "hl2": "ஆசிரியர் அரவிந்த் கைது",
+    "cat": "விபத்து",
+    "loc": "கோவூர், குன்றத்தூர்",
+    "hl1": "குன்றத்தூர் அருகே ஊஞ்சலில் சிறுமி பலி",
+    "hl2": "புடவை கழுத்தில் இறுகியது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ராஞ்சியை சேர்ந்த 22 வயது மாணவி கோட்டூர்புரத்தில் விடுதியில்",
-       "அடையாறில் உள்ள தனியார் கல்லூரியில் படிக்கிறார்",
-       "<b>17ஆம் தேதி</b> நடைப்பயிற்சியின்போது பாலியல் தொல்லை"
+       "ஊஞ்சலில் விளையாடிய <b>12 வயது</b> சிறுமி உயிரிழந்தார்",
+       "புடவை கழுத்தில் இறுகியதால் மயங்கினார்",
+       "குன்றத்தூர் அடுத்த கோவூர் பகுதியில் நடந்தது"
       ]
      },
      {
-      "title": "யார் கைது?",
+      "title": "எப்போது?",
       "lines": [
-       "பைக்கில் வந்த இளைஞர் தப்பி ஓடினார்",
-       "போலீஸ் விசாரணையில் அரவிந்த் என்பது தெரிந்தது",
-       "அடையாறில் தனியார் பள்ளியில் உடற்கல்வி ஆசிரியர்"
+       "நேற்று (நவ. 24) இரவு நடந்தது",
+       "வீட்டில் தம்பிக்காகக் கட்டிய புடவை ஊஞ்சல்",
+       "அருகில் உள்ள தனியார் மருத்துவமனையில் பரிசோதனை"
       ]
      },
      {
       "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "புகாரின் பேரில் கோட்டூர்புரம் போலீஸ் விசாரித்தது",
-       "நேற்று அரவிந்த் கைது செய்யப்பட்டார்",
-       "அரவிந்தின் தந்தை விசிக முக்கிய பிரமுகர் என போலீஸ்"
+       "மருத்துவர்கள் சிறுமி இறந்ததாக உறுதி செய்தனர்",
+       "மாங்காடு போலீசார் உடலை மீட்டனர்",
+       "போரூர் மருத்துவமனைக்கு பிரேத பரிசோதனை; விசாரணை தொடர்கிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கோட்டூர்புரத்தில் கல்லூரி மாணவியிடம் அத்துமீறிய ஒருவர் கைது செய்யப்பட்டுள்ளார். ஜார்க்கண்ட் மாநிலம் ராஞ்சியைச் சேர்ந்த 22 வயது மாணவி, கோட்டூர்புரத்தில் விடுதியில் தங்கி அடையாறில் உள்ள தனியார் கல்லூரியில் படித்து வருகிறார். 17ஆம் தேதி நடைப்பயிற்சியின்போது, பைக்கில் வந்த இளைஞர் ஒருவர் மாணவிக்கு பாலியல் தொல்லை கொடுத்துவிட்டுத் தப்பிச் சென்றார். இது குறித்த புகாரின் பேரில் கோட்டூர்புரம் போலீஸார் விசாரித்தனர். விசாரணையில், அடையாறில் உள்ள பிரபல தனியார் பள்ளியில் உடற்கல்வி ஆசிரியராகப் பணியாற்றும் அரவிந்த் இதில் ஈடுபட்டது தெரியவந்தது. அவரை போலீஸார் நேற்று கைது செய்தனர். அரவிந்தின் தந்தை வி சி க வின் முக்கிய பிரமுகராக இருப்பதாக போலீஸார் தெரிவித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கோட்டூர்புரத்தில் கல்லூரி மாணவியிடம் அத்துமீறிய ஆசிரியர் அரவிந்த் கைது\n\n📰 முழு விவரம்:\nஜார்க்கண்ட் மாநிலம் ராஞ்சியைச் சேர்ந்த 22 வயது மாணவி, கோட்டூர்புரத்தில் விடுதியில் தங்கி அடையாறில் உள்ள தனியார் கல்லூரியில் படித்து வருகிறார். கடந்த 17ஆம் தேதி நடைப்பயிற்சியின்போது, பைக்கில் வந்த இளைஞர் ஒருவர் மாணவிக்குப் பாலியல் தொல்லை கொடுத்துவிட்டுத் தப்பினார். புகாரின் பேரில் கோட்டூர்புரம் போலீஸார் விசாரித்தனர். விசாரணையில், அடையாறில் உள்ள பிரபல தனியார் பள்ளியில் உடற்கல்வி ஆசிரியராகப் பணியாற்றும் அரவிந்த் என்பது தெரியவந்தது. அவரை போலீஸார் நேற்று கைது செய்தனர். அரவிந்தின் தந்தை விசிகவின் முக்கிய பிரமுகராக இருப்பதாக போலீஸார் தெரிவித்தனர்.\n🏫 பள்ளி: அடையாறில் உள்ள பிரபல தனியார் பள்ளி\n👮 நடவடிக்கை: அரவிந்த் நேற்று கைது\n\nChennai college student harassed, teacher arrested | Chennai news\n📍 கோட்டூர்புரம், சென்னை மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Adyar #சென்னை #ChennaiNews",
-   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform stands beside a white police jeep on a quiet tree-lined residential road in Kotturpuram, Chennai, as the investigation of a harassment case is underway. The road has low-rise hostel buildings and a few parked two-wheelers. In the distance, a young woman in a salwar suit walks away along the pavement early in the morning, seen from behind and slightly blurred. The morning light is soft and daylight, with trees overhead and a concrete compound wall lining the street. Shot at eye level on a 35 mm lens, wide enough to show the full road and the police vehicle, with no faces visible and no readable signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a police case folder and a written complaint sheet, placed on the bonnet of a white police jeep parked on a Chennai residential street in Kotturpuram. A khaki-uniformed police hand rests on the papers, and a two-wheeler is slightly out of focus behind them. The surface of the bonnet shows the early morning dew, and the light is natural daylight. No readable text is visible in the frame; the papers are shown as blank sheets and folder edges. Shot at a slightly high angle on a 35 mm lens to highlight the documents and the street behind. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/crime/man-arrested-for-misbehaving-with-college-student",
-   "published": "2026-11-25T03:45:02Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('அர​விந்​தின் தந்தை விசிகவின் முக்கிய பிரமுகராக இருப்பதாக போல')",
+   "reel_script": "குன்றத்தூர் அருகே ஊஞ்சலில் விளையாடிய 12 வயது சிறுமி உயிரிழந்தார். கோவூர் பகுதியைச் சேர்ந்த ரஞ்சித்குமாரின் மகள் கனிஷ்கா, அப்பகுதியில் உள்ள அரசுப் பள்ளியில் 6ஆம் வகுப்பு படித்து வந்தார். நேற்று, நவம்பர் 24ஆம் தேதி இரவு, வீட்டில் அவர் ஊஞ்சலில் விளையாடிக் கொண்டிருந்தார். 6 வயது தம்பி தூங்குவதற்காக புடவையில் கட்டப்பட்டிருந்த ஊஞ்சல் அது. அப்போது புடவை கழுத்தில் இறுகியதால் அவர் மயங்கி விழுந்தார். பதறிய பெற்றோர் அவரை அருகில் உள்ள தனியார் மருத்துவமனைக்கு அழைத்துச் சென்றனர். ஆனால் மருத்துவர்கள் பரிசோதனையில் சிறுமி இறந்தது தெரியவந்தது. தகவலறிந்து வந்த மாங்காடு போலீசார் சிறுமியின் உடலை மீட்டு, பிரேத பரிசோதனைக்காக போரூர் மருத்துவமனைக்கு அனுப்பினர். போலீசார் தொடர்ந்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 குன்றத்தூர் அருகே ஊஞ்சலில் விளையாடிய 12 வயது சிறுமி பலி\n\n📰 முழு விவரம்:\nகுன்றத்தூர் அடுத்த கோவூரைச் சேர்ந்த ரஞ்சித்குமாரின் மகள் கனிஷ்கா (12 வயது), அரசுப் பள்ளியில் 6ஆம் வகுப்பு படித்து வந்தார். நேற்று (நவ. 24) இரவு வீட்டில் தம்பிக்காகப் புடவையில் கட்டப்பட்டிருந்த ஊஞ்சலில் விளையாடிக் கொண்டிருந்தபோது, புடவை கழுத்தில் இறுகியதில் மயங்கினார். பெற்றோர் அருகில் உள்ள தனியார் மருத்துவமனைக்கு அழைத்துச் சென்றனர்; மருத்துவர்கள் பரிசோதனையில் சிறுமி இறந்தது தெரியவந்தது. மாங்காடு போலீசார் உடலை மீட்டு, பிரேத பரிசோதனைக்காக போரூரில் உள்ள மருத்துவமனைக்கு அனுப்பி விசாரித்து வருகின்றனர்.\n\n📍 இடம்: கோவூர், குன்றத்தூர் அருகே, சென்னை மாவட்டம்\n🗓️ நாள்: நவம்பர் 24, 2026 (இரவு)\n👮 நடவடிக்கை: மாங்காடு போலீசார் விசாரணை\n\nChild dies after saree tightens around neck on swing, Kunrathur | Chennai news\n📍 கோவூர், குன்றத்தூர், சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kunrathur #ChennaiNews #சென்னை",
+   "prompts": "Inside the front room of a modest single-storey house in Kovur on the outskirts of Chennai, a cotton saree hangs from a ceiling beam, knotted into a makeshift swing that sways slightly in the dim light. A small empty cloth cradle hangs from it, with a child's pillow and a folded blanket on a plastic mat below. Two adults are seen from behind near the doorway, standing still and looking down, while a Tamil Nadu police constable in khaki stands at the threshold writing in a notebook. The room has plain white walls, a tube light turned off, and a bare fan above. It is night, lit only by a yellow bulb from the street outside, with the soft glow of an overcast sky through the door. Shot at eye level, 35 mm, wide enough to show the room and the swinging saree, with the people kept small and far from the lens. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a pale pink and maroon cotton saree, knotted tightly around a sturdy wooden ceiling hook in a dimly lit house in Kovur, Chennai. The fabric is pulled taut where it loops, with its folds and frayed edges catching the light of a single yellow bulb. Beneath it on the floor lies a small rolled mat and a child's pillow, slightly out of focus, showing the quiet aftermath of the night. A pair of plain sandals rests near the wall. Night light, no people visible, the mood sombre and still. Shot at close range, 35 mm, shallow depth of field to keep the saree knot sharp while the surroundings blur softly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/girl-dies-after-being-hit-on-the-neck-by-a-rope/4385746",
+   "published": "2026-11-25T16:34:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The draft names the minor victim (Kanishka, daughter of Ranjithkumar) in reel_script and caption; a minor's name must not be published, so she should be described only by role (e.g., the 12-year-old girl) and her father's name must be removed as well since it identifies her.",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592076/chennaiminnal/zubzxlotulpivvbdgob6.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592089/chennaiminnal/xcco1z9mhmwrnq4lc0ys.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795608480/chennaiminnal/csdgr6e0wpleau8p199i.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795608483/chennaiminnal/vmxlaewfxyargravl8qk.jpg"
    ]
   },
   {
-   "tamil_headline": "பள்ளிக்கரணை சதுப்பு நிலத்தை அழிக்கும் திட்டம்: உலக வங்கி விசாரணை வேண்டும் - அன்புமணி",
-   "english_headline": "Anbumani urges World Bank probe into alleged irregularities in Neithal Meetchi project that threatens Pallikaranai marsh",
-   "category": "Civic Issues",
-   "location": "Pallikaranai marsh area, Chennai, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சுற்றுச்சூழல்",
-    "loc": "பள்ளிக்கரணை, சென்னை",
-    "hl1": "பள்ளிக்கரணை சதுப்பு நிலம்",
-    "hl2": "உலக வங்கி விசாரணை கோரிக்கை",
-    "slides": [
-     {
-      "title": "என்ன",
-      "lines": [
-       "நெய்தல் மீட்சி திட்டத்தில் முறைகேடுகள் நடந்ததாக அன்புமணி",
-       "உலக வங்கித் தலைவருக்கு அன்புமணி கடிதம்",
-       "விசாரணை நடத்த வேண்டும் என வலியுறுத்தல்"
-      ]
-     },
-     {
-      "title": "திட்ட விவரம்",
-      "lines": [
-       "<b>ரூ.1675 கோடி</b> மதிப்பில் 2025 முதல் 2030 வரை",
-       "உலக வங்கி கடன் <b>ரூ.1172.50 கோடி</b>",
-       "தமிழக அரசு நிதி <b>ரூ.502.50 கோடி</b>"
-      ]
-     },
-     {
-      "title": "சதுப்பு நிலத்தின்",
-      "lines": [
-       "ஒரு காலத்தில் <b>15,000 ஏக்கர்</b>, இப்போது <b>1750 ஏக்கர்</b>",
-       "தடுப்புச் சுவர் நீரோட்டத்தைத் தடுப்பதாக குற்றச்சாட்டு",
-       "அக். 17 மழையில் நீர் தேங்கி, வனத்துறை 3 நாள் போராடியது"
-      ]
-     },
-     {
-      "title": "மக்கள் கவனத்திற்கு",
-      "lines": [
-       "தென் சென்னையில் வெள்ள அபாயம் இருப்பதாக எச்சரிக்கை",
-       "ஆக்கிரமிப்பை அகற்றி எல்லையை வரையறுக்க வேண்டும்",
-       "அரசு இதுவரை நடவடிக்கை எடுக்கவில்லை என குற்றச்சாட்டு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பள்ளிக்கரணை சதுப்பு நிலம் அழிக்கப்படுவதாக அன்புமணி குற்றம் சாட்டியுள்ளார். நெய்தல் மீட்சி திட்டத்தில் முறைகேடுகள் நடந்துள்ளதாக அவர் கூறியுள்ளார். இதுகுறித்து உலக வங்கி விசாரணை நடத்த வேண்டும் என்று வலியுறுத்தி, உலக வங்கித் தலைவருக்கு அவர் கடிதம் எழுதியுள்ளார். இந்தத் திட்டம் 2025 முதல் 2030 வரை ஐந்தாண்டுகளுக்கு செயல்படுத்தப்படுகிறது. மொத்தம் ரூ.1675 கோடி ஒதுக்கப்பட்டுள்ளது. இதில் உலக வங்கி கடன் ரூ.1172.50 கோடி, தமிழக அரசு நிதி ரூ.502.50 கோடி. ஒரு காலத்தில் 15,000 ஏக்கராக இருந்த பள்ளிக்கரணை சதுப்பு நிலம் இப்போது 1750 ஏக்கராகச் சுருங்கிவிட்டது. சதுப்பு நிலத்தின் மையத்தில் 3 கிலோமீட்டர் நீளத் தடுப்புச் சுவர் கட்டப்படுவதாகக் குற்றச்சாட்டு. இது நீரோட்டத்தைத் தடுப்பதால் தென் சென்னையில் வெள்ள அபாயம் ஏற்படலாம் என்று அவர் எச்சரித்துள்ளார். அக்டோபர் 17ஆம் தேதி பெய்த மழையில் நீர் தேங்கியதால் வனத்துறையினர் 3 நாட்களுக்கு மேல் போராட வேண்டியிருந்தது. ஆக்கிரமிப்புகளை அகற்றி, சதுப்பு நிலத்தின் எல்லையை வரையறுக்க வேண்டும் என்றும் அவர் கோரியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பள்ளிக்கரணை சதுப்பு நிலம் அழிக்கப்படுவதாக அன்புமணி குற்றச்சாட்டு: உலக வங்கி விசாரணை கோரிக்கை\n\n📰 முழு விவரம்:\nநெய்தல் மீட்சி திட்டத்தில் முறைகேடுகள் நடந்துள்ளதாக அன்புமணி குற்றம் சாட்டியுள்ளார். இதுகுறித்து உலக வங்கி விசாரணை நடத்த வேண்டும் என்று வலியுறுத்தி உலக வங்கித் தலைவருக்கு அவர் கடிதம் எழுதியுள்ளார். சென்னையின் மிகப்பெரிய வடிநிலமான பள்ளிக்கரணை சதுப்பு நிலம் 15000 ஏக்கர் பரப்பளவு கொண்டது. சென்னை மற்றும் புறநகரின் 250 சதுர கிலோமீட்டர் பரப்பளவில் பெய்யும் மழைநீருக்கான வடிகாலாக இது உள்ளது. இங்கு மழைநீர் வடிய 65 கால்வாய்கள் வருகின்றன. ஒரு காலத்தில் 15,000 ஏக்கராக இருந்த சதுப்பு நிலம் இப்போது 1750 ஏக்கராகச் சுருங்கிவிட்டது. 2025ஆம் ஆண்டில் தொடங்கிய திட்டத்துக்காக உலக வங்கியிடம் பெற்ற கடன் தொகையில் ரூ.21.6 கோடி ஒதுக்கப்பட்டுள்ளது. சதுப்பு நிலத்தின் மையத்தில் 3 கிலோமீட்டர் நீளம், 10 அடி உயரம், 10 அடி அகலத்தில் தடுப்புச் சுவர் கட்டப்படுவதாகக் குற்றச்சாட்டு. அக்டோபர் 17ஆம் தேதி பள்ளிக்கரணை, ஜல்லடியான் பேட்டையில் பெய்த மழையில் நீர் தேங்கியது. வனத்துறையினர் 3 நாட்களுக்கு மேல் போராடி நீரை அனுப்பினர்.\n📍 இடம்: பள்ளிக்கரணை சதுப்பு நிலம், சென்னை\n🗓️ நாள்: 2026 நவம்பர் 25\n👮 நடவடிக்கை: உலக வங்கி விசாரணை நடத்த வேண்டும் என அன்புமணி கோரிக்கை\nஇந்த திட்டத்தால் தென் சென்னையில் வெள்ள அபாயம் இருப்பதாக அவர் எச்சரித்துள்ளார். இதைப் பகிருங்கள்.\n\nPallikaranai marsh destruction allegation | Chennai news\n📍 பள்ளிக்கரணை, சென்னை | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Pallikaranai #சுற்றுச்சூழல் #ChennaiNews",
-   "prompts": "A wide view of the Pallikaranai marsh in Chennai at daylight, with shallow greenish water covered by patches of reeds and water plants stretching toward the horizon. On the edge of the marsh, a narrow earthen embankment and a damaged stretch of the wetland show signs of disturbance, with dry, cleared patches of soil and uprooted vegetation. A few wetland birds, such as egrets, rise above the water. In the background, rows of residential apartment blocks and a few concrete buildings of the Chennai suburb line the far bank, and a low concrete boundary wall runs along the edge. Two or three workers in shirts and trousers, seen from behind at a distance, stand near the embankment. The sky is pale with soft daylight and no strong shadows. Shot at eye level with a 35 mm lens, wide enough to show the marsh, the reeds, the embankment and the city edge together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the marsh edge where the wetland meets a construction-disturbed embankment: cracked and churned mud, a pile of loose earth and uprooted reeds, and a few plastic sacks and tools lying on the bank beside shallow muddy water. The water surface shows floating green algae and a few stalks of cut reeds. In the blurred background, the outline of the marsh and reed beds recedes into soft daylight. No people are in focus; at the far edge a single worker's back is faintly visible. The lighting is natural and even. Shot at low angle with a 50 mm lens, focusing on the disturbed soil and water to show the damage to the wetland. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/plan-to-destroy-pallikaranai-swamp-world-bank-should-conduct-an-investigation-anbumani",
-   "published": "2026-11-25T06:50:53Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('பள்ளிக்கரணை சதுப்பு நிலத்தை அழிக்கும் திட்டம்: உலக வங்கி விசாரணை நடத்த வேண்டும் - அன்புமணி') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; caption misses facts of the article (put every one in 📰 முழு விவரம்): 09 ('2004-09 காலத்தில் பிரதமர் மன்மோகன்சிங் தலைமையிலான ஐக்கிய முற'); 1172 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய'); 50 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய'); 502 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய'); 1675 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய'); 14 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592100/chennaiminnal/ltwec10gceckcp1ujort.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592104/chennaiminnal/ctt8okrpzcwpfargzbck.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் 1,86,235 மரக்கன்றுகள் நடப்பட்டுள்ளன: பசுமை பரப்பை அதிகரிக்கும் பணி தீவிரம்",
-   "english_headline": "Chennai Corporation has planted 1,86,235 saplings so far in parks, lakes and roadsides to increase green cover",
-   "category": "Weather & Agriculture",
-   "location": "Chennai city, Chennai district",
+   "tamil_headline": "அம்பத்தூர் காலி மனையில் கஞ்சா செடி: போலீசார் வேருடன் பிடுங்கினர்",
+   "english_headline": "Cannabis plant found in empty plot in Ambattur; police uprooted it and seized many liquor bottles",
+   "category": "Crime & Safety",
+   "location": "Ambattur, Chennai district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "பசுமை சென்னை",
-    "loc": "சென்னை மாநகராட்சி",
-    "hl1": "சென்னையில் 1,86,235 மரக்கன்றுகள்",
-    "hl2": "பூங்கா, குளம், ஏரிக்கரையில்",
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "அம்பத்தூர், சென்னை",
+    "hl1": "அம்பத்தூர் காலி மனையில் கஞ்சா செடி",
+    "hl2": "போலீசார் வேருடன் பிடுங்கினர்",
     "slides": [
      {
-      "title": "எவ்வளவு",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "இதுவரை <b>1,86,235</b> மரக்கன்றுகள் நடப்பட்டுள்ளன",
-       "சென்னை மாநகராட்சி பகுதிகளில் பசுமை பரப்பை அதிகரிக்கும் பணி",
-       "சென்னை மாநகராட்சி தகவல்"
+       "அம்பத்தூர் – செங்குன்றம் சாலையில் புதூர் சந்திப்பு அருகே",
+       "இன்று (நவ. 24) புதூர் போலீசாருக்கு தகவல் கிடைத்தது",
+       "ஒன்றரை அடி உயரச் செடி வேருடன் பிடுங்கப்பட்டது"
       ]
      },
      {
-      "title": "எங்கே நடப்பட்டது?",
+      "title": "போலீசார் நடவடிக்கை",
       "lines": [
-       "<b>993</b> பூங்காக்கள், <b>417</b> சென்னை பள்ளிகள்",
-       "குளங்கள், ஏரிகள், ஏரிக்கரைகள்",
-       "மெரினா, பாலவாக்கம், திருவான்மியூர் கடற்கரைகள்"
+       "உதவி கமிஷனர் குமார், இன்ஸ்பெக்டர் சடையாண்டி தலைமையில்",
+       "கஞ்சா செடி நீதிமன்றத்தில் சமர்ப்பிக்க கொண்டு செல்லப்பட்டது",
+       "அதே மனையில் அதிகப்படியான மதுபாட்டில்கள் கைப்பற்றப்பட்டன"
       ]
      },
      {
-      "title": "நேற்றைய பணி",
+      "title": "பின்னணி",
       "lines": [
-       "தேனாம்பேட்டை: காமராஜர் சாலை மையத்தடுப்பு",
-       "மாதவரம்: தாமரை குளம் பகுதி",
-       "ராயபுரம்: மூலக்கொத்தளம் மயானபூமி"
-      ]
-     },
-     {
-      "title": "நாற்றங்கால்",
-      "lines": [
-       "மயிலாப்பூர், மாடம்பாக்கம், மைலேடீஸ் பூங்காவில் நாற்றங்கால்",
-       "வனத்துறை, தனியார் பண்ணைகளிலிருந்தும் மரக்கன்றுகள்",
-       "தன்னார்வலர்களுக்கு மரக்கன்றுகள் வழங்கப்படுகிறது"
+       "இரவு நேரங்களில் மர்ம நபர்கள் அங்கு அமர்ந்து சட்டவிரோத",
+       "சென்னை மாநகராட்சியிடம் தகவல் தெரிவிக்கப்படும்",
+       "காலி மனையை முழுமையாக சுத்தம் செய்யப்படும் என போலீசார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் இதுவரை 1,86,235 மரக்கன்றுகள் நடப்பட்டுள்ளன. பூங்காக்கள், குளங்கள், ஏரிக்கரைகள் உள்ளிட்ட இடங்களில் பசுமை பரப்பை அதிகரிக்கும் பணி தீவிரப்படுத்தப்பட்டுள்ளது. சென்னை மாநகராட்சியின் 993 பூங்காக்கள் மற்றும் 417 சென்னை பள்ளிகளில் மரக்கன்றுகள் நடப்படுகின்றன. திறந்தவெளி நிலங்கள், மயானபூமிகள், விளையாட்டுத் திடல்கள், கடற்கரைகளிலும் பணி நடைபெறுகிறது. நேற்று தேனாம்பேட்டை மண்டலம், 125வது வார்டு காமராஜர் சாலை மையத்தடுப்பில் செடிகள் நடப்பட்டன. மாதவரம் மண்டலம், 32வது வார்டு தாமரை குளம் பகுதியிலும் பணி நடைபெற்றது. ராயபுரம் மண்டலம், 53வது வார்டு மூலக்கொத்தளம் மயானபூமியிலும் மரக்கன்றுகள் நடப்பட்டன. மயிலாப்பூர், மாடம்பாக்கம், மைலேடீஸ் பூங்காவில் நாற்றங்கால் பண்ணைகள் அமைக்கப்பட்டு செடிகள் வளர்க்கப்படுகின்றன. வனத்துறை மற்றும் தனியார் பண்ணைகளிலிருந்தும் மரக்கன்றுகள் பெறப்படுகின்றன. தன்னார்வலர்கள், குடியிருப்பு நல சங்கங்களுக்கும் மரக்கன்றுகள் வழங்கப்படுகின்றன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌳 சென்னையில் இதுவரை 1,86,235 மரக்கன்றுகள் நடப்பட்டுள்ளன\n\n📰 முழு விவரம்:\nசென்னையின் பசுமை பரப்பை அதிகரிக்க பூங்கா, குளங்கள், ஏரிக்கரைகளில் மரக்கன்றுகள் நடும் பணி தீவிரப்படுத்தப்பட்டுள்ளது என்று சென்னை மாநகராட்சி தெரிவித்துள்ளது. 993 பூங்காக்கள், 417 சென்னை பள்ளிகள், திறந்தவெளி நிலங்கள், மயானபூமிகள், விளையாட்டுத் திடல்கள், குளங்கள், ஏரிகள், பாலவாக்கம், மெரினா, திருவான்மியூர் கடற்கரைகள் உள்ளிட்ட இடங்களில் நடவு நடைபெறுகிறது. நேற்று தேனாம்பேட்டை மண்டலம், 125வது வார்டு காமராஜர் சாலை மையத்தடுப்பு, மாதவரம் மண்டலம், 32வது வார்டு தாமரை குளம், ராயபுரம் மண்டலம், 53வது வார்டு மூலக்கொத்தளம் மயானபூமி, அண்ணாநகர் மண்டலம், சாந்தி காலனி சாலை 2வது அவென்யூ பகுதியிலும் நடவு நடைபெற்றது.\n📍 இடம்: சென்னை மாநகராட்சிப் பகுதிகள்\n🌱 நாற்றங்கால்: மயிலாப்பூர், மாடம்பாக்கம், மைலேடீஸ் பூங்கா\nℹ️ மக்கள் கவனத்திற்கு: தன்னார்வலர்கள், குடியிருப்பு நல சங்கங்கள் மரக்கன்றுகள் பெற்று நடலாம்.\n\nChennai tree planting drive, 1,86,235 saplings | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #பசுமை",
-   "prompts": "A group of Greater Chennai Corporation workers in work clothes kneels and plants young saplings in a freshly dug soil bed beside a lake embankment in a Chennai city park. Behind them stretch rows of newly planted green saplings with small bamboo stakes, a few watering cans and a stack of plastic saplings bags on the ground. Beyond the lake, a row of mature trees and a few parked two-wheelers line the edge of the park road. Several residents in shirts and sarees stand a short distance away watching, and one volunteer carries a sapling in each hand. It is bright daytime with soft sunlight and a clear sky. Shot at eye level, 35 mm, wide enough to show the lake, the planting rows and the park, with the workers seen from behind or in the distance. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a freshly planted young sapling in dark moist soil on a road median strip in Chennai city, with a small wooden stake and a plastic watering pot resting beside it. Behind it, a row of newly dug planting pits lined along the concrete divider, with a few more saplings already planted and green shrubs growing around them. Blurred two-wheelers and an autorickshaw pass on the road in the background. A corporation worker's hand in a sleeve is seen placing soil at the base of the sapling, face not visible. Daylight, soft natural light. Shot at close range, 35 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/chennai-saplings-work-progress-corporation-information/amp",
-   "published": "2026-11-25T09:58:32+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 87 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); reel_script must tell how the story ENDED, as the article's last lines say ('சென்னை மாநகராட்சிப் பகுதிகளில் உள்ள 993 பூங்காக்கள், 417 சென்னை பள்ளிகள், திறந்தவெளி நிலங்கள், மயானபூமிகள், விளையாட்டுத் திடல்கள், குளங்கள், ஏரிகள், பாலவாக்கம் ') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
+   "reel_script": "அம்பத்தூர் காலி மனையில் வளர்ந்த கஞ்சா செடியால் அப்பகுதியில் சலசலப்பு ஏற்பட்டது. அம்பத்தூர் – செங்குன்றம் சாலையில் புதூர் சந்திப்பு அருகே உள்ள காலி மனையில் கஞ்சா செடி வளர்ந்திருப்பதாக இன்று நவம்பர் 24ஆம் தேதி புதூர் போலீசாருக்கு தகவல் கிடைத்தது. உதவி கமிஷனர் குமார் மற்றும் இன்ஸ்பெக்டர் சடையாண்டி தலைமையிலான போலீசார் அங்கு சென்றனர். ஒன்றரை அடி உயரம் வளர்ந்திருந்த கஞ்சா செடியை வேருடன் பிடுங்கினர். அந்தச் செடியை நீதிமன்றத்தில் சமர்ப்பிக்க எடுத்துச் சென்றனர். செடி வளர்ந்திருந்த அதே காலி மனையில் அதிகப்படியான மதுபாட்டில்களும் கைப்பற்றப்பட்டன. இரவு நேரங்களில் மர்ம நபர்கள் அங்கு அமர்ந்து சட்டவிரோத செயல்களில் ஈடுபட்டு வந்தது தெரிய வந்தது. காலி மனையை முழுமையாக சுத்தம் செய்யப்படும் என போலீசார் தெரிவித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அம்பத்தூர் காலி மனையில் கஞ்சா செடி: போலீசார் வேருடன் பிடுங்கினர்\n\n📰 முழு விவரம்:\nஅம்பத்தூர் – செங்குன்றம் சாலையில் புதூர் சந்திப்பு அருகே உள்ள காலி மனையில் கஞ்சா செடி வளர்ந்திருப்பதாக இன்று (நவ. 24) புதூர் போலீசாருக்கு தகவல் கிடைத்தது.\nஉதவி கமிஷனர் குமார், இன்ஸ்பெக்டர் சடையாண்டி தலைமையிலான போலீசார் அங்கு சென்று ஒன்றரை அடி உயரச் கஞ்சா செடியை வேருடன் பிடுங்கினர். அதை நீதிமன்றத்தில் சமர்ப்பிக்க கொண்டு சென்றனர்.\nஅதே காலி மனையில் அதிகப்படியான மதுபாட்டில்கள் கைப்பற்றப்பட்டன. இரவு நேரங்களில் அங்கு அமர்ந்து மர்ம நபர்கள் சட்டவிரோத செயல்களில் ஈடுபட்டு வந்தது தெரிய வந்தது.\nசென்னை மாநகராட்சியிடம் தகவல் தெரிவித்து, காலி மனையை முழுமையாக சுத்தம் செய்யப்படும் என போலீசார் தெரிவித்தனர்.\n\nCannabis plant found in Ambattur empty plot, police uprooted | Chennai news\n📍 அம்பத்தூர், சென்னை மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Ambattur #ChennaiNews #சென்னை",
+   "prompts": "A group of Tamil Nadu police in khaki uniforms stands in an overgrown empty plot beside the Ambattur-Sengundram main road in Ambattur, Chennai, where one officer, seen from behind, holds up a freshly uprooted cannabis plant about one and a half feet tall, its root soil still clinging to it. Behind them, the open vacant ground is littered with weeds, broken stones and scattered dry leaves, with a low compound wall at the edge and a few two-wheelers and an autorickshaw passing on the road in the far background. The officers are seen from the back and at a distance, their faces not visible. It is bright daylight with a plain sky. Captured at eye level with a 35 mm lens, wide enough to show the empty plot, the road and the police group together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail shot on the ground of the same vacant plot in Ambattur, showing a pile of seized liquor bottles, empty and full, placed on a dusty patch of earth next to a cannabis plant lying uprooted with its roots exposed. The bottles are brown and green glass, arranged in a heap with some lying on their sides, and a khaki police boot and sleeve edge into the corner of the frame. Dry weeds, scattered pebbles and a torn plastic sheet surround the items, hinting at the night-time gathering spot. The bright daylight falls from above and the background is a soft blur of the empty plot and wall. Captured slightly high at about 35 mm, focused on the bottles and the uprooted plant. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/cannabis-plant-in-kalimanai-creates-ruckus-in-ambattur/4385292",
+   "published": "2026-11-24T20:22:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script copies the article word for word (17 words in a row, 21% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795608495/chennaiminnal/x8vqqrpex0i9uqfjc75k.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795608499/chennaiminnal/ehmxlmie6olhg8b0ecsc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பட்டாபிராமில் திறக்காத மேம்பாலத்தால் தினமும் விபத்து: வாகன ஓட்டிகள் பீதி",
+   "english_headline": "Unopened flyover at Pattabiram causing daily accidents as motorists use the closed lane and drivers panic",
+   "category": "Roads & Transport",
+   "location": "Pattabiram, Avadi, Thiruvallur district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "பட்டாபிராம், ஆவடி",
+    "hl1": "பட்டாபிராமில் திறக்காத மேம்பாலத்தால்",
+    "hl2": "வாகன ஓட்டிகள் பீதி",
+    "slides": [
+     {
+      "title": "என்ன நடக்கிறது?",
+      "lines": [
+       "பட்டாபிராம் மேம்பாலம் கட்டி முடிந்தும் திறக்கப்படவில்லை",
+       "வாகன ஓட்டிகள் அத்துமீறி செல்வதால் <b>தினமும்</b> விபத்து",
+       "எதிரே வரும் வாகனங்கள் ஒன்றோடு ஒன்று மோதுகின்றன"
+      ]
+     },
+     {
+      "title": "ஏன் இந்த நிலை?",
+      "lines": [
+       "ஒரு வழிப்பாதை கடந்தாண்டு <b>செப். 25</b> அன்று திறக்கப்பட்டது",
+       "சென்னை மார்க்கத்தில் கான்கிரீட் தடுப்புகள் அரைகுறையாக உள்ளன",
+       "திறக்காத பகுதி வழியாகவும் வாகனங்கள் செல்கின்றன"
+      ]
+     },
+     {
+      "title": "மக்கள் கோரிக்கை",
+      "lines": [
+       "மேம்பாலத்தை உடனடியாகத் திறக்க வேண்டும் என கோரிக்கை",
+       "திறக்கும் வரை தடுப்புகள் அமைத்து போக்குவரத்தைத் தடை செய்ய",
+       "அசம்பாவிதம் ஏற்படும் முன் அதிகாரிகள் நடவடிக்கை எடுக்க"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பட்டாபிராமில் கட்டி முடிக்கப்பட்ட மேம்பாலம் இன்னும் திறக்கப்படாததால் தினமும் விபத்துகள் நடக்கின்றன. சென்னை - திருவள்ளூர் மாவட்டத்தை இணைக்கும் பட்டாபிராம் சி டி எச் சாலையில் உள்ள எல் சி கேட் - 2 கடவுப்பாதையில் இந்தப் பாலம் அமைந்துள்ளது. ரயில்களுக்காக 45 நிமிடங்களுக்கு ஒருமுறை கடவுப்பாதை மூடப்படுவதால் போக்குவரத்து நெரிசல் ஏற்பட்டதால் இந்த மேம்பாலம் கட்டப்பட்டது. 85 கோடி ரூபாய் மதிப்பீட்டில், 2018ஆம் ஆண்டு மத்திய மற்றும் மாநில அரசுகள் இணைந்து இதை கட்டின. கடந்தாண்டு செப்டம்பர் 25ஆம் தேதி ஒரு வழிப்பாதை மட்டும் பயன்பாட்டுக்கு வந்தது. கடந்த மாதம் பாலப் பணிகள் முடிந்தும் இன்னும் அதிகாரபூர்வமாகத் திறக்கப்படவில்லை. சென்னை மார்க்கத்தில் கான்கிரீட் தடுப்புகள் அரைகுறையாக போடப்பட்டுள்ளன. இதனால் ஆத்திரமடைந்த வாகன ஓட்டிகள் ஆபத்தை உணராமல் இரு வழிகளையும் பயன்படுத்துகின்றனர். திறந்த ஒரு வழிப்பாதையில் ஆவடி நோக்கிச் செல்லும் வாகனங்களும், திறக்காத பகுதி வழியாக வரும் வாகனங்களும் ஒன்றோடு ஒன்று மோதுகின்றன. மேம்பாலத்தை உடனடியாகத் திறக்க வேண்டும் அல்லது திறக்கும் வரை தடுப்புகள் அமைத்து போக்குவரத்தைத் தடை செய்ய வேண்டும் என வாகன ஓட்டிகள் கோரிக்கை விடுத்துள்ளனர். இந்தப் பிரச்சினையில் அதிகாரிகள் இன்னும் நடவடிக்கை எடுக்கவில்லை என்பதே தற்போதைய நிலை. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பட்டாபிராமில் திறக்காத மேம்பாலத்தால் தினமும் விபத்து: வாகன ஓட்டிகள் பீதி\n\n📰 முழு விவரம்:\nபட்டாபிராம் சி.டி.எச். சாலையில் உள்ள எல்.சி. கேட் - 2 கடவுப்பாதையில் கட்டப்பட்ட மேம்பாலம் கட்டி முடிந்தும் திறக்கப்படவில்லை. 2018ஆம் ஆண்டு 85 கோடி ரூபாய் மதிப்பீட்டில் மத்திய, மாநில அரசுகள் இணைந்து கட்டின. கடந்தாண்டு செப்டம்பர் 25 அன்று ஒரு வழிப்பாதை மட்டும் பயன்பாட்டுக்கு வந்தது.\nகடந்த மாதம் பணிகள் முடிந்தும் அதிகாரபூர்வமாகத் திறக்கவில்லை. சென்னை மார்க்கத்தில் கான்கிரீட் தடுப்புகள் அரைகுறையாக உள்ளதால் வாகன ஓட்டிகள் இரு வழிகளையும் பயன்படுத்துகின்றனர். இதனால் ஆவடி நோக்கிச் செல்லும் வாகனங்களும், திறக்காத பகுதி வழியாக வரும் வாகனங்களும் ஒன்றோடு ஒன்று மோதி தினமும் விபத்து ஏற்படுகிறது.\n📍 இடம்: பட்டாபிராம், ஆவடி\n🗓️ நாள்: நவம்பர் 25, 2026\n👮 நடவடிக்கை: இதுவரை அதிகாரிகள் நடவடிக்கை எடுக்கவில்லை\nℹ️ மக்கள் கவனத்திற்கு: திறக்கும் வரை தடுப்புகள் அமைத்து போக்குவரத்தைத் தடை செய்ய வேண்டும் என வாகன ஓட்டிகள் கோருகின்றனர்.\n\nPattabiram flyover accidents daily | Avadi news\n📍 பட்டாபிராம், ஆவடி, திருவள்ளூர் மாவட்டம் | 25 நவம்பர் 2026\n\nஇதை நண்பர்களுக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Avadi #சாலை #ChennaiNews",
+   "prompts": "A line of two-wheelers and cars drives in the wrong direction on the Chennai-bound carriageway of a new concrete flyover at Pattabiram, swerving past half-built concrete barriers while oncoming vehicles approach head-on. The place is a wide busy arterial road with a fresh flyover pier and deck above, dusty roadside and a railway track visible beyond. Motorists are seen from behind and at a distance, riders in shirts and helmets, a lorry and a town bus in the traffic, one car braking hard. The concrete barriers are unfinished and scattered along the centre. Daylight, dull overcast sky, warm tone. Shot from eye level, 35 mm lens, wide enough to show the flyover, the lanes and the approaching vehicles. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an unfinished concrete barrier on the centre divider of a flyover at Pattabiram, its edge broken and incomplete, with a gap that lets vehicles cross into the closed lane. Behind it, a two-wheeler's front wheel and the edge of a car bumper are just visible, showing the wrong-way movement. Road surface is worn grey asphalt with tyre marks and dust, a few loose gravel pieces. Light is flat daylight, muted colours. Shot at low angle, close, 50 mm lens, shallow focus on the barrier and the road edge. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/motorists-panicky-as-under-construction-flyover-crashes-in-pattabiram/4385705",
+   "published": "2026-11-25T16:00:21+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('பட்டாபிராம் ‘சைடிங்’ மின்சார ரயில்களுக்காக, 45 நிமிடங்களுக்க')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795608507/chennaiminnal/onojcmsof1souddwdhkw.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795608512/chennaiminnal/zzhjb2rm1jc18xapstum.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தி.நகர் நகைக் கடைகளில் நூதன செக் மோசடி: வாட்ஸாப் குழுவால் முதியவர் கைது",
+   "english_headline": "Elderly man arrested for cheque fraud at T. Nagar jewellery shops after shop owners' WhatsApp group alert",
+   "category": "Crime & Safety",
+   "location": "T. Nagar, Chennai district",
+   "importance": "Medium",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மோசடி",
+    "loc": "தி.நகர், சென்னை",
+    "hl1": "தி.நகர்: நகைக் கடைகளில் செக் மோசடி",
+    "hl2": "வாட்ஸாப் குழுவால் சிக்கினார்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "தி.நகரைச் சேர்ந்த <b>62 வயது</b> மனோகர் நகைக் கடைகளில்",
+       "வாட்ஸாப் குழுவில் பகிரப்பட்ட தகவலால் சிக்கினார்",
+       "நகைக் கடை உரிமையாளர்கள் அவரைப் பிடித்துப் போலீசில்"
+      ]
+     },
+     {
+      "title": "எப்படி மோசடி?",
+      "lines": [
+       "செப். 30 அன்று <b>29,250 ரூபாய்</b> காசோலை கொடுத்து",
+       "மறுநாள் பணம் வரவானதாக குறுஞ்செய்தி காட்டி கொலுசை",
+       "பின்னர் பணம் வங்கிக் கணக்கில் இருந்து மீண்டும் பிடித்தம்"
+      ]
+     },
+     {
+      "title": "கைது எப்படி?",
+      "lines": [
+       "நேற்று முன்தினம் கதீட்ரல் சாலை எல்.கே.எஸ். நகைக் கடையில்",
+       "பணம் சிறிது நேரத்தில் பிடித்தம் செய்யப்பட்டதால் கடை",
+       "பாண்டி பஜார் போலீசார் அவரைக் கைது செய்து விசாரிக்கின்றனர்"
+      ]
+     },
+     {
+      "title": "பிற மோசடிகள்",
+      "lines": [
+       "ரீகல் உள்ளிட்ட மூன்று நகைக் கடைகளில் வெள்ளித் தட்டுகளை",
+       "ஜவுளிக் கடையில் <b>81,950 ரூபாய்</b> மதிப்பிலான",
+       "மற்ற கடைகளும் அவரால் ஏமாற்றப்பட்டனவா என்று விசாரணை நடக்கிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தி.நகரில் நகைக் கடைகளில் செக் கொடுத்து மோசடி செய்த 62 வயதான மனோகர் போலீசில் சிக்கியுள்ளார். வாட்ஸாப் குழுவில் பகிரப்பட்ட தகவலின் அடிப்படையில் நகைக் கடை உரிமையாளர்கள் அவரைப் பிடித்தனர். செப்டம்பர் 30ஆம் தேதி ரீகல் நகைக் கடையில் 29,250 ரூபாய்க்கு காசோலை கொடுத்து வெள்ளிக் கொலுசு வாங்கினார். மறுநாள் பணம் வரவானதாகக் குறுஞ்செய்தி காட்டி கொலுசை எடுத்துச் சென்றார். பின்னர் பணம் வங்கிக் கணக்கில் இருந்து மீண்டும் பிடித்தம் செய்யப்பட்டது தெரியவந்தது. நேற்று முன்தினம் கதீட்ரல் சாலையில் உள்ள எல் கே எஸ் நகைக் கடையில் 1 லட்சத்து 37 ஆயிரம் ரூபாய்க்கு காசோலை கொடுத்தார். பணம் சிறிது நேரத்தில் பிடித்தம் செய்யப்பட்டதால் சந்தேகமடைந்த கடை உரிமையாளர் அவரைப் பிடித்து பாண்டி பஜார் போலீசாரிடம் ஒப்படைத்தார். விசாரணையில் மூன்று நகைக் கடைகளில் வெள்ளித் தட்டுகளையும், ஜவுளிக் கடையில் 81,950 ரூபாய் மதிப்பிலான பட்டுப்புடவைகளையும் மோசடியாகப் பெற்றது தெரியவந்தது. போலீசார் அவரைக் கைது செய்து தொடர்ந்து விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தி.நகர் நகைக் கடைகளில் நூதன செக் மோசடி: வாட்ஸாப் குழுவால் முதியவர் சிக்கினார்\n\n📰 முழு விவரம்:\nதி.நகரைச் சேர்ந்த 62 வயது மனோகர் நகைக் கடைகளில் காசோலை கொடுத்து மோசடி செய்து வந்தார். செப். 30ஆம் தேதி ரீகல் நகைக் கடையில் 29,250 ரூபாய்க்கு காசோலை கொடுத்து 112 கிராம் வெள்ளிக் கொலுசு வாங்கினார். பணம் வரவானதாகக் குறுஞ்செய்தி காட்டி கொலுசை எடுத்துச் சென்ற பின், பணம் வங்கிக் கணக்கில் இருந்து மீண்டும் பிடித்தம் செய்யப்பட்டது தெரியவந்தது.\nநகைக் கடை உரிமையாளர்கள் வாட்ஸாப் குழு தொடங்கி மோசடி நபர்கள் குறித்துத் தகவல்களைப் பகிர்ந்து வந்தனர். நேற்று முன்தினம் கதீட்ரல் சாலை எல்.கே.எஸ். நகைக் கடையில் 1.37 லட்சம் ரூபாய்க்கு காசோலை கொடுத்தபோது பிடித்துப் பாண்டி பஜார் போலீசாரிடம் ஒப்படைக்கப்பட்டார். விசாரணையில் ரீகல் உள்ளிட்ட மூன்று நகைக் கடைகளில் வெள்ளித் தட்டுகளையும், ஜவுளிக் கடையில் 81,950 ரூபாய் மதிப்பிலான பட்டுப்புடவைகளையும் மோசடியாகப் பெற்றது தெரியவந்தது. போலீசார் கைது செய்து தொடர்ந்து விசாரிக்கின்றனர்.\n\n📍 இடம்: தி.நகர், சென்னை மாவட்டம்\n👮 நடவடிக்கை: மனோகர் கைது; பாண்டி பஜார் போலீசார் விசாரணை\n\nChennai T. Nagar jewellery shop cheque fraud arrest | Chennai news\n📍 தி.நகர், சென்னை | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #TNagar #ChennaiNews #சென்னை",
+   "prompts": "A row of jewellery shop staff in T. Nagar, Chennai, gather behind a glass display counter as a shop owner in a pressed shirt holds up a mobile phone and a paper cheque; an elderly man in a white shirt and veshti, seen from behind, stands at the counter between two Tamil Nadu police constables in khaki uniforms who are escorting him out. Outside the shop, along a busy T. Nagar street with two-wheelers, an autorickshaw and a few pedestrians, the afternoon light is bright and the shop shutters are half-raised. The scene is shot at eye level from the far side of the counter with a 35 mm wide lens, showing the shop interior, the glass display cabinets of gold and silver jewellery, and the police presence clearly, with no readable signboards, names or text visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up on a wooden shop counter in a Chennai jewellery showroom, where a paper cheque, a folded mobile phone showing an SMS alert, a pair of silver anklets and a few silver plates are laid out together on a glass top. A man's hand in a shirt sleeve rests beside the items while a police constable's khaki sleeve is visible at the edge of the frame. Behind the counter, rows of gold chains and bangles sit in a lit display cabinet, and a blurred figure of a shop employee stands in the background. The light is soft daylight from a shop window, time is mid-afternoon, and the shot is taken at table height with a 35 mm lens to highlight the cheque, phone and silver items on the counter. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/jewellery-shop-fraud-elderly-man-caught-by-whatsapp-group/4385744",
+   "published": "2026-11-25T16:30:26+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'தி.நகர்' and the news itself, e.g. 'தி.நகர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 14 ('இந்நிலையில், நேற்று முன்தினம் கதீட்ரல் சாலையில் உள்ள எல்.கே.')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592111/chennaiminnal/kusj8vhivp5kebf6ahyv.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592120/chennaiminnal/kztngi6j2jxejomynmpc.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795608530/chennaiminnal/uwdhwyao05fswu3gxs7h.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795608535/chennaiminnal/msh0r7die7j0tb78iww5.jpg"
    ]
   }
  ]

@@ -1,0 +1,44 @@
+17:39:15 hold lifted: RN-101 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+17:39:18 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+17:39:19 1 held news to fix: ['RN-280']
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+dead for this round: groq/qwen/qwen3.8-27b
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 7 problems
+  stray Tamil sign 'ா' after 'ு' in «்றத்துாரில»
+  stray Tamil sign 'ா' after 'ு' in «்றத்துார் »
+  stray Tamil sign 'ா' after 'ு' in «்றத்துாரில»
+  stray Tamil sign 'ா' after 'ு' in «்றத்துார் »
+  stray Tamil sign 'ா' after 'ு' in «்றத்துார்,»
+  stray Tamil sign 'ா' after 'ு' in «்றத்துார்,»
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('இவரது வீட்டில், 6 வயது தம்பிக்கு துாங்குவதற்காக புடவையில் ஊஞ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption copies the article word for word (17 words in a row, 16% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('இவரது வீட்டில், 6 வயது தம்பிக்கு துாங்குவதற்காக புடவையில் ஊஞ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+17:39:47 RN-280 FIXED - posts with the corrected text: குன்றத்தூரில் ஊஞ்சல் புடவை கழுத்தில் இறுகி 12 வயது சிறுமி உயிரிழப்பு
