@@ -3,33 +3,27 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.maalaimalar.com/news/tamilnadu/tomorrow-power-cut-areas-in-poonamallee",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/judgment-today-on-the-petition-seeking-police-custody-of-anbil-mahesh",
-  "manual link added: https://www.hindutamil.in/news/crime/complaint-filed-against-congress-figure-for-swindling-money-from-tv-actor-wife",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/arul-vignesh-decided-to-resign-from-his-mla-post",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-5-year-old-girl-kidnapped-on-her-way-to-school-police-immediately-rescued-her",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/nellai-district-judge-dismissed-chennai-high-court-order",
-  "candidate filter: collected=6",
-  "to write: 6 Chennai district candidates (max 6 stories)",
-  "round: top 6 of 6 candidates",
-  "candidates waiting: 6 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/nellai-district-",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-5-year-o",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/arul-vignesh-dec",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/anti-corruption-police-conduct-raids-at-the-homes-of-rice-mill-owners",
+  "manual link added: https://www.hindutamil.in/news/crime/man-arrested-for-misbehaving-with-college-student",
+  "manual link added: https://www.dinakaran.com/news/chennai-saplings-work-progress-corporation-information/amp",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/plan-to-destroy-pallikaranai-swamp-world-bank-should-conduct-an-investigation-anbumani",
+  "candidate filter: collected=4",
+  "to write: 4 Chennai district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/plan-to-destroy-",
+  "try (N) manual=True: https://www.dinakaran.com/news/chennai-saplings-work-progres",
+  "try (N) manual=True: https://www.hindutamil.in/news/crime/man-arrested-for-misbeh",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.hindutamil.in/news/crime/complaint-filed-against",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/anti-corruption-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "NOT filed (N) எம்.எல்.ஏ. பதவியை ராஜினாமா செய்ய அருள் விக்னேஷ் மு: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/judgment-today-o",
-  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/tomorrow-power-cu",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 5}, time left 78 min",
-  "filed: 5 Chennai district stories (target 6), reels only",
+  "NOT filed (N) அரிசி ஆலை உரிமையாளர்கள் வீடுகளில் லஞ்ச ஒழிப்பு போல: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 78 min",
+  "filed: 3 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -37,7 +31,7 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
@@ -51,393 +45,251 @@
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னை எம்.ஜி.ஆர். நகரில் பள்ளிக்கு சென்ற 5 வயது சிறுமி கடத்தல்: போலீசார் மீட்டனர்",
-   "english_headline": "5-year-old girl kidnapped on way to school in MGR Nagar, Chennai; police rescue her",
+   "tamil_headline": "கோட்டூர்புரம்: கல்லூரி மாணவியிடம் அத்துமீறிய ஆசிரியர் அரவிந்த் கைது",
+   "english_headline": "Kotturpuram: Teacher Aravind arrested for harassing college student; his father is a VCK key figure, police say",
    "category": "Crime & Safety",
-   "location": "MGR Nagar, Chennai, Chennai district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கடத்தல் சம்பவம்",
-    "loc": "எம்.ஜி.ஆர். நகர், சென்னை",
-    "hl1": "சென்னை எம்.ஜி.ஆர். நகரில் 5 வயது சிறுமி",
-    "hl2": "போலீசார் உடனடியாக மீட்டனர்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "எம்.ஜி.ஆர். நகர் மாநகராட்சி பள்ளிக்கு சென்ற சிறுமி",
-       "பாட்டி மதியம் <b>3.15 மணிக்கு</b> பேத்தியை அழைக்க வந்தபோது",
-       "பள்ளி ஆசிரியை 'அத்தை' என்று ஒரு பெண்"
-      ]
-     },
-     {
-      "title": "புகார் & விசாரணை",
-      "lines": [
-       "எம்.ஜி.ஆர். நகர் போலீஸ் நிலையத்தில் புகார் அளிக்கப்பட்டது",
-       "இன்ஸ்பெக்டர் சீனிவாசன் வழக்குப்பதிவு செய்து விசாரித்தார்",
-       "அருகிலுள்ள வீட்டில் வசித்த பிரியா என்ற பெண் மீது சந்தேகம்"
-      ]
-     },
-     {
-      "title": "சிறுமி மீட்பு",
-      "lines": [
-       "போலீசார் தேடுதல் வேட்டையில் இறங்கினர்",
-       "சிறுமி மவுலிகா பத்திரமாக மீட்கப்பட்டார்",
-       "நேற்று இரவு போலீசார் இத்தகவலைத் தெரிவித்தனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "எம் ஜி ஆர் நகரில் பள்ளிக்குச் சென்ற 5 வயது சிறுமி கடத்தப்பட்டார். போலீசார் உடனடியாக அவரை மீட்டனர். சிறுமி மவுலிகா, எல் கே ஜி வகுப்பில் படித்து வந்தார். அவரை அவரது பாட்டி சாந்தி தினமும் பள்ளிக்கு அழைத்துச் செல்வார். நேற்று மதியம் 3.15 மணிக்கு பாட்டி பேத்தியை அழைக்க வந்தபோது, மேல் வீட்டில் வசித்த பிரியா என்ற பெண், 'உங்கள் பேத்தியை அக்கா சாமூண்டிஸ்வரி அழைத்துச் சென்றுவிட்டார்' என்று கூறினார். பாட்டி வீட்டுக்குச் சென்றபோது சிறுமி இல்லை. பள்ளி ஆசிரியையிடம் கேட்டபோது, 'அத்தை' என்று ஒரு பெண் அழைத்துச் சென்றதாகத் தெரிவிக்கப்பட்டது. எம் ஜி ஆர் நகர் போலீஸ் நிலையத்தில் புகார் அளிக்கப்பட்டது. இன்ஸ்பெக்டர் சீனிவாசன் வழக்குப்பதிவு செய்து விசாரித்தார். சிறுமி அடிக்கடி பிரியா வீட்டுக்குச் சென்று வந்ததும், பிரியா சமீபத்தில் கொலுசு திருடியதில் சிக்கி வீட்டைக் காலி செய்ததும் தெரியவந்தது. இதையடுத்து போலீசார் தேடுதல் வேட்டையில் இறங்கினர். நேற்று இரவு சிறுமி பத்திரமாக மீட்கப்பட்டதாகப் போலீசார் தெரிவித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை எம்.ஜி.ஆர். நகரில் பள்ளிக்கு சென்ற 5 வயது சிறுமி கடத்தல்: போலீசார் மீட்டனர்\n\n📰 முழு விவரம்:\nஎம்.ஜி.ஆர். நகர் மாநகராட்சி பள்ளிக்கு சென்ற சிறுமி கடத்தப்பட்டார். நேற்று மதியம் 3.15 மணிக்கு பாட்டி பேத்தியை அழைக்க வந்தபோது சிறுமி இல்லை. பள்ளி ஆசிரியை, 'அத்தை' என்று ஒரு பெண் அழைத்துச் சென்றதாகத் தெரிவித்தார். புகாரின் பேரில் இன்ஸ்பெக்டர் சீனிவாசன் வழக்குப்பதிவு செய்து விசாரித்தார். சந்தேகத்தின் பேரில் போலீசார் தேடுதல் வேட்டையில் இறங்கினர். நேற்று இரவு சிறுமி பத்திரமாக மீட்கப்பட்டார்.\n📍 இடம்: எம்.ஜி.ஆர். நகர், சென்னை\n🕒 நேரம்: நேற்று மதியம் 3.15 மணி\n👮 நடவடிக்கை: வழக்குப்பதிவு, தேடுதல் வேட்டை; சிறுமி மீட்பு\n\nChennai girl kidnapped from school, police rescue | Chennai news\n📍 எம்.ஜி.ஆர். நகர், சென்னை | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #MGRNagar",
-   "prompts": "A Tamil Nadu police inspector in khaki uniform walks with a small 5-year-old girl in a Tamil Nadu school uniform, her hand held by an elderly grandmother in a cotton saree, beside a parked police jeep on a narrow residential lane in MGR Nagar, Chennai. The lane has low concrete houses with grilled windows, a few two-wheelers parked along the wall, and a corporation school gate in the background. It is bright afternoon around 3 pm with clear daylight. The people are seen from behind or far away, faces not visible. Shot at eye level, 35 mm, wide enough to show the lane, the police jeep and the school gate. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small pair of school sandals and a school bag placed on the steps of a concrete house doorway, with a police khaki cap resting on a plastic chair beside them, on a narrow residential lane in MGR Nagar, Chennai. The steps are worn concrete with a small kolam drawn in rice flour at the threshold, and a grilled window with a faded curtain is visible behind. Afternoon daylight falls across the step. No faces, no text or signboards visible. Shot slightly high, 35 mm, focusing on the sandals, school bag and the cap to show the child's return home. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/chennai-5-year-old-girl-kidnapped-on-her-way-to-school-police-immediately-rescued-her",
-   "published": "2026-11-25T00:44:05Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 30 ('நகர் மாநகராட்சி பள்ளிக்கு சென்ற சிறுமி கடத்தப்பட்ட நிலையில்,'); 27 ('இவருடைய மனைவி சாமூண்டிஸ்வரி (27), இந்த தம்பதிக்கு யோக லட்சும')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577693/chennaiminnal/i6jwvhlxa3bqr9xj1p97.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577699/chennaiminnal/ggzkc96ynfgrcdhalio7.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "நெல்லை போக்சோ சிறப்பு நீதிமன்ற நீதிபதி பணியிடை நீக்கம்: சென்னை ஐகோர்ட்டு உத்தரவு",
-   "english_headline": "Nellai POCSO special court judge suspended by Madras High Court order",
-   "category": "Government & Services",
-   "location": "Tirunelveli, Tirunelveli district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நீதிமன்றம்",
-    "loc": "திருநெல்வேலி",
-    "hl1": "நெல்லை போக்சோ நீதிபதி பணியிடை நீக்கம்",
-    "hl2": "ஐகோர்ட்டு உத்தரவு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "திருநெல்வேலி மாவட்ட போக்சோ சிறப்பு நீதிமன்ற நீதிபதி பணியிடை",
-       "சென்னை ஐகோர்ட்டு தலைமை பதிவாளர் உத்தரவிட்டுள்ளார்",
-       "உத்தரவிட்டவர் தீப்தி அறிவுநிதி"
-      ]
-     },
-     {
-      "title": "யார் இவர்?",
-      "lines": [
-       "நீதிபதி கே.சுரேஷ்குமார்",
-       "முன்பு கோவை மேட்டுப்பாளையத்தில் குற்றவியல் நீதிமன்ற",
-       "அவிநாசி நீதிமன்றத்தில் சார்பு நீதிபதியாக பணியாற்றினார்"
-      ]
-     },
-     {
-      "title": "ஏன் நடவடிக்கை?",
-      "lines": [
-       "கோவையில் பணியாற்றியபோது ஒழுங்கீனமாகவும் நடத்தை குறைவாகவும்",
-       "குற்றச்சாட்டின் அடிப்படையில் விசாரணை நடத்தப்பட்டது",
-       "விசாரணைக்குப் பின் பணியிடை நீக்கம் செய்யப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திருநெல்வேலி மாவட்ட போக்சோ சிறப்பு நீதிமன்ற நீதிபதி கே.சுரேஷ்குமார் பணியிடை நீக்கம் செய்யப்பட்டுள்ளார். சென்னை ஐகோர்ட்டு தலைமை பதிவாளர் தீப்தி அறிவுநிதி இந்த உத்தரவைப் பிறப்பித்துள்ளார். நீதிபதி சுரேஷ்குமார் முன்பு கோவை மாவட்டம் மேட்டுப்பாளையம் குற்றவியல் நீதிமன்ற மாஜிஸ்திரேட்டாகப் பணியாற்றினார். அவிநாசி நீதிமன்றத்தில் சார்பு நீதிபதியாகவும் பணியாற்றினார். பின்னர் பதவி உயர்வில் மாவட்ட நீதிபதியாக பல்வேறு ஊர்களுக்கு இடமாற்றம் செய்யப்பட்டார். கோவையில் பணியாற்றியபோது ஒழுங்கீனமாகவும் நடத்தை குறைவாகவும் நடந்ததாக அவர் மீது குற்றச்சாட்டு எழுந்தது. அதன் அடிப்படையில் அவர் மீது விசாரணை நடத்தப்பட்டது. விசாரணையின் அடிப்படையில் அவர் பணியிடை நீக்கம் செய்யப்பட்டுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 நெல்லை போக்சோ சிறப்பு நீதிமன்ற நீதிபதி பணியிடை நீக்கம்: ஐகோர்ட்டு உத்தரவு\n\n📰 முழு விவரம்:\nதிருநெல்வேலி மாவட்ட போக்சோ சிறப்பு நீதிமன்ற நீதிபதி கே.சுரேஷ்குமார் பணியிடை நீக்கம் செய்யப்பட்டுள்ளார். சென்னை ஐகோர்ட்டு தலைமை பதிவாளர் தீப்தி அறிவுநிதி உத்தரவிட்டுள்ளார்.\nகோவையில் பணியாற்றியபோது ஒழுங்கீனமாகவும் நடத்தை குறைவாகவும் நடந்ததாக குற்றச்சாட்டு எழுந்தது. அதன் அடிப்படையில் விசாரணை நடத்தப்பட்டது. விசாரணையின் அடிப்படையில் பணியிடை நீக்கம் செய்யப்பட்டுள்ளார்.\n📍 இடம்: திருநெல்வேலி மாவட்ட போக்சோ சிறப்பு நீதிமன்றம்\n👮 நடவடிக்கை: பணியிடை நீக்கம்\n\nTirunelveli POCSO judge suspended | Madras High Court order\n📍 திருநெல்வேலி, திருநெல்வேலி மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tirunelveli #நீதிமன்றம் #ChennaiNews",
-   "prompts": "A row of lawyers in black coats and court staff in white shirts stand in the corridor of a court building in Tirunelveli, as an official order document is being handed over at a wooden counter. Behind them, tall pillars and a high ceiling mark the old judicial hall, with a few people in sarees and shirts walking through the passage. Two ceiling fans turn slowly and daylight enters through tall windows, giving a calm, formal mood. The people are seen from behind and at a distance, their faces not visible. The air is quiet and official, with files being carried under arms. The scene is taken at eye level from the far end of the corridor, using a 35 mm lens wide enough to show the full courthouse interior, the counter and the flow of staff and lawyers in the Tamil Nadu judicial setting. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of court files and a printed official order sheet resting on a wooden table inside a Tirunelveli court office. The top paper is a formal government order with dense printed lines, but no readable words are visible. A black-and-white ink pen lies beside the bundle, and a brass desk lamp casts a soft light across the papers. In the background, slightly out of focus, a wooden judge's bench and a few black-coated lawyers stand quietly. The mood is serious and administrative, with the focus on paperwork that represents a suspension order. The image is shot from slightly above at a shallow depth of field with a 50 mm lens, keeping the frame tight on the documents and table surface. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/nellai-district-judge-dismissed-chennai-high-court-order",
-   "published": "2026-11-25T01:10:39Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('நெல்லை மாவட்ட நீதிபதி பணியிடை நீக்கம்: சென்னை ஐகோர்ட்டு உத்தரவு') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; hl1 (the first headline on screen) must name the place 'திருநெல்வேலி', e.g. 'திருநெல்வேலி: ...' or 'திருநெல்வேலி-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577709/chennaiminnal/ucjntkllcssa4vyykqha.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577715/chennaiminnal/o0m69zgutiphh453xpmx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "நகை விற்று தருவதாக ரூ.10 லட்சம் மோசடி? காங்கிரஸ் பிரமுகர் மீது புகார்",
-   "english_headline": "Congress functionary accused of Rs.10 lakh jewellery sale fraud on actor's wife; complaint filed in Chennai",
-   "category": "Crime & Safety",
-   "location": "Thiruvallikeni, Chennai; Anna Salai police station, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மோசடி புகார்",
-    "loc": "சென்னை",
-    "hl1": "நகை விற்று தருவதாக ரூ.10 லட்சம் மோசடி",
-    "hl2": "காங்கிரஸ் பிரமுகர் மீது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "நடிகர் முகமது குரேஷியின் மனைவியிடம் <b>ரூ.10 லட்சம்</b>",
-       "தங்க நகைகளை விற்று தருவதாகக் கூறப்பட்டது",
-       "காங்கிரஸ் பிரமுகர் ரஞ்சன் குமார் மீது போலீசில் புகார்"
-      ]
-     },
-     {
-      "title": "எவ்வளவு நகை?",
-      "lines": [
-       "ஆகஸ்ட் <b>28</b> அன்று <b>92.73 கிராம்</b> தங்க நகைகள்",
-       "மதிப்பு <b>ரூ.14 லட்சம்</b> என கூறப்படுகிறது",
-       "விற்றதாகக் கூறி <b>ரூ.4 லட்சம்</b> மட்டும் கொடுக்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "மீதி பணம்?",
-      "lines": [
-       "மீதமுள்ள <b>ரூ.10 லட்சம்</b> தராமல் காலம் தாழ்த்தியதாக புகார்",
-       "அண்ணா சாலை போலீசார் விசாரிக்கின்றனர்",
-       "புகார் உண்மையா என்பது விசாரணையில் தெரியும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் நகை விற்று தருவதாக ரூ.10 லட்சம் மோசடி செய்ததாக காங்கிரஸ் பிரமுகர் மீது புகார். சின்னத்திரை நடிகர் முகமது குரேஷியின் மனைவி இந்தப் புகாரைக் கொடுத்துள்ளார். ஆகஸ்ட் 28ஆம் தேதி அவசரத் தேவைக்காக அவர் 92.73 கிராம் தங்க நகைகளை விற்க முடிவு செய்தார். நண்பர்கள் வாட்ஸ்-அப் குழுவில் பதிவிட்டபோது, நண்பர் ஒருவர் காங்கிரஸ் பிரமுகர் ரஞ்சன் குமாரை அறிமுகப்படுத்தினார். ரூ.14 லட்சம் மதிப்புள்ள நகைகளை அவரிடம் கொடுத்ததாகக் கூறப்படுகிறது. நகைகளை விற்றதாகக் கூறி ரஞ்சன் குமார் ரூ.4 லட்சம் மட்டும் கொடுத்தார். மீதமுள்ள ரூ.10 லட்சத்தை தராமல் காலம் தாழ்த்தி வந்ததாகப் புகாரில் கூறப்பட்டுள்ளது. இதுகுறித்து அண்ணா சாலை போலீசார் விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 நகை விற்று தருவதாக ரூ.10 லட்சம் மோசடி புகார்: காங்கிரஸ் பிரமுகர் மீது வழக்கு விசாரணை\n\n📰 முழு விவரம்:\nசின்னத்திரை நடிகர் முகமது குரேஷியின் மனைவி, ஆகஸ்ட் 28ஆம் தேதி அவசரத் தேவைக்காக தன்னிடம் இருந்த 92.73 கிராம் தங்க நகைகளை விற்க முடிவு செய்தார்.\nநண்பர்கள் வாட்ஸ்-அப் குழுவில் பதிவிட்டபோது, நண்பர் ஒருவர் காங்கிரஸ் பிரமுகர் ரஞ்சன் குமாரை அறிமுகப்படுத்தினார்.\nரூ.14 லட்சம் மதிப்புள்ள நகைகளை அவரிடம் கொடுத்ததாகக் கூறப்படுகிறது. நகைகளை விற்றதாகக் கூறி ரூ.4 லட்சம் மட்டும் கொடுக்கப்பட்டது.\nமீதமுள்ள ரூ.10 லட்சத்தை தராமல் காலம் தாழ்த்தியதாகப் புகாரில் கூறப்பட்டுள்ளது.\n📍 இடம்: சென்னை, திருவல்லிக்கேணி பகுதியைச் சேர்ந்தவர் முகமது குரேஷி\n👮 நடவடிக்கை: குரேஷியின் மனைவி அளித்த புகாரின் பேரில் அண்ணா சாலை போலீசார் விசாரிக்கின்றனர்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nChennai jewellery fraud complaint against Congress functionary | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Thiruvallikeni #ChennaiNews #சென்னை",
-   "prompts": "A woman in a saree stands with her back to the camera at the front counter of Anna Salai police station in Chennai, handing a written complaint to a Tamil Nadu police sub-inspector in khaki uniform seated behind a wooden desk. The room is a plain government office with a tube light, a metal almirah, a ceiling fan, and a few files stacked on the desk. Two other constables in khaki stand in the background, slightly blurred, and a few people wait on a bench near the door. The complaint is about a jewellery sale fraud, so the mood is serious and quiet. It is daylight entering through a grilled window. Shot at eye level with a 35 mm lens, wide enough to show the desk, the counter and the office around it. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neatly arranged pile of gold jewellery, including a thick chain and a pair of bangles, resting on a dark cloth on a police station table. Beside it lies an open written complaint file with handwritten Tamil pages, a ballpoint pen placed across it, and the edge of a khaki uniform sleeve blurred in the background. A glass of water and a few stacked official files are slightly out of focus. Natural daylight from a window falls across the gold, making it shine. No readable text is visible. Shot from slightly above the table with a 50 mm lens, focusing sharply on the gold and the file. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/crime/complaint-filed-against-congress-figure-for-swindling-money-from-tv-actor-wife",
-   "published": "2026-11-25T03:03:49Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577741/chennaiminnal/bnfpx7e43lfod4b6akfl.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577746/chennaiminnal/qkakmvqq7uzo9o2zwtc1.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை: ரூ.400 கோடி வசூல் வழக்கில் அன்பில் மகேஷ் போலீஸ் காவல் மனுவில் இன்று தீர்ப்பு",
-   "english_headline": "Chennai: verdict today on police plea to question ex-minister Anbil Mahesh in custody over Rs 400 crore collection case",
-   "category": "Crime & Safety",
-   "location": "Chennai, Chennai district",
+   "location": "Kotturpuram, Adyar, Chennai district",
    "importance": "High",
    "scope": "",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "வழக்கு விவரம்",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: அன்பில் மகேஷ் காவல் மனுவில்",
-    "hl2": "ரூ.400 கோடி வசூல் வழக்கு",
+    "cat": "பாலியல் தொல்லை கைது",
+    "loc": "கோட்டூர்புரம், சென்னை",
+    "hl1": "கோட்டூர்புரத்தில் மாணவியிடம்",
+    "hl2": "ஆசிரியர் அரவிந்த் கைது",
     "slides": [
      {
-      "title": "என்ன வழக்கு?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "தனியார் பள்ளிகளுக்கு அங்கீகாரம் வாங்கித் தருவதாக <b>ரூ.400",
-       "முன்னாள் அமைச்சர் அன்பில் மகேஷ் சென்னை மத்திய குற்றப்பிரிவு",
-       "முன்னாள் எம்.எல்.ஏ. முத்துக்குமார், கார் ஓட்டுநர் சரவணன்"
+       "ராஞ்சியை சேர்ந்த 22 வயது மாணவி கோட்டூர்புரத்தில் விடுதியில்",
+       "அடையாறில் உள்ள தனியார் கல்லூரியில் படிக்கிறார்",
+       "<b>17ஆம் தேதி</b> நடைப்பயிற்சியின்போது பாலியல் தொல்லை"
       ]
      },
      {
-      "title": "சிறையில் 3 பேர்",
+      "title": "யார் கைது?",
       "lines": [
-       "மூவரும் புழல் சிறையில் அடைக்கப்பட்டுள்ளனர்",
-       "மூவரையும் தனித்தனியாக போலீசார் விசாரித்தனர்",
-       "மூவரும் முரண்பட்ட தகவல்களைக் கூறியதாகத் தெரிகிறது"
+       "பைக்கில் வந்த இளைஞர் தப்பி ஓடினார்",
+       "போலீஸ் விசாரணையில் அரவிந்த் என்பது தெரிந்தது",
+       "அடையாறில் தனியார் பள்ளியில் உடற்கல்வி ஆசிரியர்"
       ]
      },
      {
-      "title": "போலீஸ் மனு",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "மூவரையும் ஒன்றாக <b>2 நாட்கள்</b> போலீஸ் காவலில் விசாரிக்க",
-       "சென்னை ஊழல் தடுப்பு சிறப்பு கோர்ட்டில் மனு தாக்கல்",
-       "நீதிபதி எல்.எஸ்.சத்தியமூர்த்தி தீர்ப்பை இன்று அறிவிக்கிறார்"
+       "புகாரின் பேரில் கோட்டூர்புரம் போலீஸ் விசாரித்தது",
+       "நேற்று அரவிந்த் கைது செய்யப்பட்டார்",
+       "அரவிந்தின் தந்தை விசிக முக்கிய பிரமுகர் என போலீஸ்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை நீதிமன்றத்தில், முன்னாள் அமைச்சர் அன்பில் மகேஷை போலீஸ் காவலில் விசாரிக்கக் கோரும் மனு மீது இன்று தீர்ப்பு வழங்கப்படுகிறது. தனியார் பள்ளிகளுக்கு அங்கீகாரம் பெற்றுத் தருவதாகக் கூறி ரூ.400 கோடி வசூலித்ததாகப் பதிவான வழக்கில் இவர் கைது செய்யப்பட்டார். சென்னை மத்திய குற்றப்பிரிவு போலீசார் அவரைக் கைது செய்தனர். முன்னாள் சட்டமன்ற உறுப்பினர் முத்துக்குமார், கார் ஓட்டுநர் சரவணன் ஆகியோர் கோர்ட்டில் சரண் அடைந்தனர். மூவரும் புழல் சிறையில் அடைக்கப்பட்டுள்ளனர். பணம் வசூலித்தது யார், எவ்வளவு பணம் வசூலிக்கப்பட்டது, அது யாருக்கு வழங்கப்பட்டது என்பதை போலீசார் விசாரித்தனர். மூவரும் முரண்பட்ட தகவல்களைக் கூறியதாகத் தெரிகிறது. அதனால் மூவரையும் ஒன்றாக வைத்து விசாரிக்க 2 நாட்கள் போலீஸ் காவல் கோரி சென்னை ஊழல் தடுப்பு சிறப்பு கோர்ட்டில் போலீசார் மனு தாக்கல் செய்தனர். நீதிபதி எல் எஸ் சத்தியமூர்த்தி தீர்ப்பை இன்றைக்கு, புதன்கிழமை, அறிவிக்கிறார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை: ரூ.400 கோடி வசூல் வழக்கில் அன்பில் மகேஷ் போலீஸ் காவல் மனுவுக்கு இன்று தீர்ப்பு\n\n📰 முழு விவரம்:\nதனியார் பள்ளிகளுக்கு அங்கீகாரம் வாங்கித் தருவதாகக் கூறி ரூ.400 கோடி வசூலித்ததாகப் பதிவான வழக்கில் முன்னாள் அமைச்சர் அன்பில் மகேஷை சென்னை மத்திய குற்றப்பிரிவு போலீசார் கைது செய்தனர். முன்னாள் எம்.எல்.ஏ. முத்துக்குமாரும், கார் ஓட்டுநர் சரவணனும் கோர்ட்டில் சரண் அடைந்தனர். மூவரும் புழல் சிறையில் அடைக்கப்பட்டுள்ளனர். 3 பேரும் முரண்பட்ட தகவல்களைக் கூறியதாகத் தெரிகிறது. பணம் வசூலித்தது யார், எவ்வளவு பணம் வசூலிக்கப்பட்டது, யாருக்கு வழங்கப்பட்டது என்பது குறித்து போலீசார் தனித்தனியாக விசாரித்தனர். மூவரையும் ஒன்றாக வைத்து விசாரித்தால்தான் உண்மை வெளிவரும் என்று கருதி, 2 நாட்கள் போலீஸ் காவல் கோரி சென்னை ஊழல் தடுப்பு சிறப்பு கோர்ட்டில் போலீசார் மனு தாக்கல் செய்தனர். இந்த மனுவை விசாரித்த நீதிபதி எல்.எஸ்.சத்தியமூர்த்தி, தீர்ப்பை இன்று (புதன்கிழமை) அறிவிப்பதாகத் தள்ளிவைத்தார்.\n\nChennai verdict today on Anbil Mahesh police custody plea | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #ChennaiCrime",
-   "prompts": "A row of Tamil Nadu police in khaki uniform stands at the entrance of a special anti-corruption court building in Chennai, seen from behind as they wait outside a courtroom door. Several lawyers in black coats and white shirts walk along a concrete corridor with tiled floors and high ceiling fans, carrying files under their arms. A small crowd of onlookers stands at a distance near the gate of the court compound. Nearby stands a police jeep parked on the road outside, and a few two-wheelers are parked along the kerb. Documents and case files are visible in the hands of a clerk at a wooden bench. It is a bright daytime morning with soft sunlight coming through the tall windows. The camera is at eye level, 35 mm, wide enough to show the courthouse corridor, the police and the gate, with no readable signs or faces visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/judgment-today-on-the-petition-seeking-police-custody-of-anbil-mahesh",
-   "published": "2026-11-25T02:41:11Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption copies the article word for word (18 words in a row, 28% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "reel_script": "கோட்டூர்புரத்தில் கல்லூரி மாணவியிடம் அத்துமீறிய ஒருவர் கைது செய்யப்பட்டுள்ளார். ஜார்க்கண்ட் மாநிலம் ராஞ்சியைச் சேர்ந்த 22 வயது மாணவி, கோட்டூர்புரத்தில் விடுதியில் தங்கி அடையாறில் உள்ள தனியார் கல்லூரியில் படித்து வருகிறார். 17ஆம் தேதி நடைப்பயிற்சியின்போது, பைக்கில் வந்த இளைஞர் ஒருவர் மாணவிக்கு பாலியல் தொல்லை கொடுத்துவிட்டுத் தப்பிச் சென்றார். இது குறித்த புகாரின் பேரில் கோட்டூர்புரம் போலீஸார் விசாரித்தனர். விசாரணையில், அடையாறில் உள்ள பிரபல தனியார் பள்ளியில் உடற்கல்வி ஆசிரியராகப் பணியாற்றும் அரவிந்த் இதில் ஈடுபட்டது தெரியவந்தது. அவரை போலீஸார் நேற்று கைது செய்தனர். அரவிந்தின் தந்தை வி சி க வின் முக்கிய பிரமுகராக இருப்பதாக போலீஸார் தெரிவித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கோட்டூர்புரத்தில் கல்லூரி மாணவியிடம் அத்துமீறிய ஆசிரியர் அரவிந்த் கைது\n\n📰 முழு விவரம்:\nஜார்க்கண்ட் மாநிலம் ராஞ்சியைச் சேர்ந்த 22 வயது மாணவி, கோட்டூர்புரத்தில் விடுதியில் தங்கி அடையாறில் உள்ள தனியார் கல்லூரியில் படித்து வருகிறார். கடந்த 17ஆம் தேதி நடைப்பயிற்சியின்போது, பைக்கில் வந்த இளைஞர் ஒருவர் மாணவிக்குப் பாலியல் தொல்லை கொடுத்துவிட்டுத் தப்பினார். புகாரின் பேரில் கோட்டூர்புரம் போலீஸார் விசாரித்தனர். விசாரணையில், அடையாறில் உள்ள பிரபல தனியார் பள்ளியில் உடற்கல்வி ஆசிரியராகப் பணியாற்றும் அரவிந்த் என்பது தெரியவந்தது. அவரை போலீஸார் நேற்று கைது செய்தனர். அரவிந்தின் தந்தை விசிகவின் முக்கிய பிரமுகராக இருப்பதாக போலீஸார் தெரிவித்தனர்.\n🏫 பள்ளி: அடையாறில் உள்ள பிரபல தனியார் பள்ளி\n👮 நடவடிக்கை: அரவிந்த் நேற்று கைது\n\nChennai college student harassed, teacher arrested | Chennai news\n📍 கோட்டூர்புரம், சென்னை மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Adyar #சென்னை #ChennaiNews",
+   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform stands beside a white police jeep on a quiet tree-lined residential road in Kotturpuram, Chennai, as the investigation of a harassment case is underway. The road has low-rise hostel buildings and a few parked two-wheelers. In the distance, a young woman in a salwar suit walks away along the pavement early in the morning, seen from behind and slightly blurred. The morning light is soft and daylight, with trees overhead and a concrete compound wall lining the street. Shot at eye level on a 35 mm lens, wide enough to show the full road and the police vehicle, with no faces visible and no readable signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a police case folder and a written complaint sheet, placed on the bonnet of a white police jeep parked on a Chennai residential street in Kotturpuram. A khaki-uniformed police hand rests on the papers, and a two-wheeler is slightly out of focus behind them. The surface of the bonnet shows the early morning dew, and the light is natural daylight. No readable text is visible in the frame; the papers are shown as blank sheets and folder edges. Shot at a slightly high angle on a 35 mm lens to highlight the documents and the street behind. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/crime/man-arrested-for-misbehaving-with-college-student",
+   "published": "2026-11-25T03:45:02Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('அர​விந்​தின் தந்தை விசிகவின் முக்கிய பிரமுகராக இருப்பதாக போல')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592076/chennaiminnal/zubzxlotulpivvbdgob6.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592089/chennaiminnal/xcco1z9mhmwrnq4lc0ys.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பள்ளிக்கரணை சதுப்பு நிலத்தை அழிக்கும் திட்டம்: உலக வங்கி விசாரணை வேண்டும் - அன்புமணி",
+   "english_headline": "Anbumani urges World Bank probe into alleged irregularities in Neithal Meetchi project that threatens Pallikaranai marsh",
+   "category": "Civic Issues",
+   "location": "Pallikaranai marsh area, Chennai, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சுற்றுச்சூழல்",
+    "loc": "பள்ளிக்கரணை, சென்னை",
+    "hl1": "பள்ளிக்கரணை சதுப்பு நிலம்",
+    "hl2": "உலக வங்கி விசாரணை கோரிக்கை",
+    "slides": [
+     {
+      "title": "என்ன",
+      "lines": [
+       "நெய்தல் மீட்சி திட்டத்தில் முறைகேடுகள் நடந்ததாக அன்புமணி",
+       "உலக வங்கித் தலைவருக்கு அன்புமணி கடிதம்",
+       "விசாரணை நடத்த வேண்டும் என வலியுறுத்தல்"
+      ]
+     },
+     {
+      "title": "திட்ட விவரம்",
+      "lines": [
+       "<b>ரூ.1675 கோடி</b> மதிப்பில் 2025 முதல் 2030 வரை",
+       "உலக வங்கி கடன் <b>ரூ.1172.50 கோடி</b>",
+       "தமிழக அரசு நிதி <b>ரூ.502.50 கோடி</b>"
+      ]
+     },
+     {
+      "title": "சதுப்பு நிலத்தின்",
+      "lines": [
+       "ஒரு காலத்தில் <b>15,000 ஏக்கர்</b>, இப்போது <b>1750 ஏக்கர்</b>",
+       "தடுப்புச் சுவர் நீரோட்டத்தைத் தடுப்பதாக குற்றச்சாட்டு",
+       "அக். 17 மழையில் நீர் தேங்கி, வனத்துறை 3 நாள் போராடியது"
+      ]
+     },
+     {
+      "title": "மக்கள் கவனத்திற்கு",
+      "lines": [
+       "தென் சென்னையில் வெள்ள அபாயம் இருப்பதாக எச்சரிக்கை",
+       "ஆக்கிரமிப்பை அகற்றி எல்லையை வரையறுக்க வேண்டும்",
+       "அரசு இதுவரை நடவடிக்கை எடுக்கவில்லை என குற்றச்சாட்டு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பள்ளிக்கரணை சதுப்பு நிலம் அழிக்கப்படுவதாக அன்புமணி குற்றம் சாட்டியுள்ளார். நெய்தல் மீட்சி திட்டத்தில் முறைகேடுகள் நடந்துள்ளதாக அவர் கூறியுள்ளார். இதுகுறித்து உலக வங்கி விசாரணை நடத்த வேண்டும் என்று வலியுறுத்தி, உலக வங்கித் தலைவருக்கு அவர் கடிதம் எழுதியுள்ளார். இந்தத் திட்டம் 2025 முதல் 2030 வரை ஐந்தாண்டுகளுக்கு செயல்படுத்தப்படுகிறது. மொத்தம் ரூ.1675 கோடி ஒதுக்கப்பட்டுள்ளது. இதில் உலக வங்கி கடன் ரூ.1172.50 கோடி, தமிழக அரசு நிதி ரூ.502.50 கோடி. ஒரு காலத்தில் 15,000 ஏக்கராக இருந்த பள்ளிக்கரணை சதுப்பு நிலம் இப்போது 1750 ஏக்கராகச் சுருங்கிவிட்டது. சதுப்பு நிலத்தின் மையத்தில் 3 கிலோமீட்டர் நீளத் தடுப்புச் சுவர் கட்டப்படுவதாகக் குற்றச்சாட்டு. இது நீரோட்டத்தைத் தடுப்பதால் தென் சென்னையில் வெள்ள அபாயம் ஏற்படலாம் என்று அவர் எச்சரித்துள்ளார். அக்டோபர் 17ஆம் தேதி பெய்த மழையில் நீர் தேங்கியதால் வனத்துறையினர் 3 நாட்களுக்கு மேல் போராட வேண்டியிருந்தது. ஆக்கிரமிப்புகளை அகற்றி, சதுப்பு நிலத்தின் எல்லையை வரையறுக்க வேண்டும் என்றும் அவர் கோரியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பள்ளிக்கரணை சதுப்பு நிலம் அழிக்கப்படுவதாக அன்புமணி குற்றச்சாட்டு: உலக வங்கி விசாரணை கோரிக்கை\n\n📰 முழு விவரம்:\nநெய்தல் மீட்சி திட்டத்தில் முறைகேடுகள் நடந்துள்ளதாக அன்புமணி குற்றம் சாட்டியுள்ளார். இதுகுறித்து உலக வங்கி விசாரணை நடத்த வேண்டும் என்று வலியுறுத்தி உலக வங்கித் தலைவருக்கு அவர் கடிதம் எழுதியுள்ளார். சென்னையின் மிகப்பெரிய வடிநிலமான பள்ளிக்கரணை சதுப்பு நிலம் 15000 ஏக்கர் பரப்பளவு கொண்டது. சென்னை மற்றும் புறநகரின் 250 சதுர கிலோமீட்டர் பரப்பளவில் பெய்யும் மழைநீருக்கான வடிகாலாக இது உள்ளது. இங்கு மழைநீர் வடிய 65 கால்வாய்கள் வருகின்றன. ஒரு காலத்தில் 15,000 ஏக்கராக இருந்த சதுப்பு நிலம் இப்போது 1750 ஏக்கராகச் சுருங்கிவிட்டது. 2025ஆம் ஆண்டில் தொடங்கிய திட்டத்துக்காக உலக வங்கியிடம் பெற்ற கடன் தொகையில் ரூ.21.6 கோடி ஒதுக்கப்பட்டுள்ளது. சதுப்பு நிலத்தின் மையத்தில் 3 கிலோமீட்டர் நீளம், 10 அடி உயரம், 10 அடி அகலத்தில் தடுப்புச் சுவர் கட்டப்படுவதாகக் குற்றச்சாட்டு. அக்டோபர் 17ஆம் தேதி பள்ளிக்கரணை, ஜல்லடியான் பேட்டையில் பெய்த மழையில் நீர் தேங்கியது. வனத்துறையினர் 3 நாட்களுக்கு மேல் போராடி நீரை அனுப்பினர்.\n📍 இடம்: பள்ளிக்கரணை சதுப்பு நிலம், சென்னை\n🗓️ நாள்: 2026 நவம்பர் 25\n👮 நடவடிக்கை: உலக வங்கி விசாரணை நடத்த வேண்டும் என அன்புமணி கோரிக்கை\nஇந்த திட்டத்தால் தென் சென்னையில் வெள்ள அபாயம் இருப்பதாக அவர் எச்சரித்துள்ளார். இதைப் பகிருங்கள்.\n\nPallikaranai marsh destruction allegation | Chennai news\n📍 பள்ளிக்கரணை, சென்னை | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Pallikaranai #சுற்றுச்சூழல் #ChennaiNews",
+   "prompts": "A wide view of the Pallikaranai marsh in Chennai at daylight, with shallow greenish water covered by patches of reeds and water plants stretching toward the horizon. On the edge of the marsh, a narrow earthen embankment and a damaged stretch of the wetland show signs of disturbance, with dry, cleared patches of soil and uprooted vegetation. A few wetland birds, such as egrets, rise above the water. In the background, rows of residential apartment blocks and a few concrete buildings of the Chennai suburb line the far bank, and a low concrete boundary wall runs along the edge. Two or three workers in shirts and trousers, seen from behind at a distance, stand near the embankment. The sky is pale with soft daylight and no strong shadows. Shot at eye level with a 35 mm lens, wide enough to show the marsh, the reeds, the embankment and the city edge together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the marsh edge where the wetland meets a construction-disturbed embankment: cracked and churned mud, a pile of loose earth and uprooted reeds, and a few plastic sacks and tools lying on the bank beside shallow muddy water. The water surface shows floating green algae and a few stalks of cut reeds. In the blurred background, the outline of the marsh and reed beds recedes into soft daylight. No people are in focus; at the far edge a single worker's back is faintly visible. The lighting is natural and even. Shot at low angle with a 50 mm lens, focusing on the disturbed soil and water to show the damage to the wetland. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/plan-to-destroy-pallikaranai-swamp-world-bank-should-conduct-an-investigation-anbumani",
+   "published": "2026-11-25T06:50:53Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('பள்ளிக்கரணை சதுப்பு நிலத்தை அழிக்கும் திட்டம்: உலக வங்கி விசாரணை நடத்த வேண்டும் - அன்புமணி') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; caption misses facts of the article (put every one in 📰 முழு விவரம்): 09 ('2004-09 காலத்தில் பிரதமர் மன்மோகன்சிங் தலைமையிலான ஐக்கிய முற'); 1172 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய'); 50 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய'); 502 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய'); 1675 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய'); 14 ('உலக வங்கியின் கடனுதவியாக ரூ.1172.50 கோடி, தமிழக அரசின் நிதிய')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577754/chennaiminnal/qxgyt5sybmcn2fbgkdr9.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592100/chennaiminnal/ltwec10gceckcp1ujort.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592104/chennaiminnal/ctt8okrpzcwpfargzbck.jpg"
    ]
   },
   {
-   "tamil_headline": "பூவிருந்தவல்லி பகுதியில் நாளை (நவம்பர் 26) காலை 9 முதல் பிற்பகல் 2 மணி வரை மின்தடை",
-   "english_headline": "Power cut tomorrow 9 AM to 2 PM in Poovirundavalli area, Chennai, for maintenance",
-   "category": "மின் தடை",
-   "location": "Poovirundavalli, Chennai district",
-   "importance": "High",
-   "scope": "local",
+   "tamil_headline": "சென்னையில் 1,86,235 மரக்கன்றுகள் நடப்பட்டுள்ளன: பசுமை பரப்பை அதிகரிக்கும் பணி தீவிரம்",
+   "english_headline": "Chennai Corporation has planted 1,86,235 saplings so far in parks, lakes and roadsides to increase green cover",
+   "category": "Weather & Agriculture",
+   "location": "Chennai city, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "மின் தடை",
-    "loc": "பூவிருந்தவல்லி, சென்னை",
-    "hl1": "பூவிருந்தவல்லியில் நாளை (நவ.26) மின்தடை",
-    "hl2": "காலை 9 – பிற்பகல் 2 மணி",
+    "cat": "பசுமை சென்னை",
+    "loc": "சென்னை மாநகராட்சி",
+    "hl1": "சென்னையில் 1,86,235 மரக்கன்றுகள்",
+    "hl2": "பூங்கா, குளம், ஏரிக்கரையில்",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "எவ்வளவு",
       "lines": [
-       "நாளை <b>26.11.2026</b>",
-       "காலை <b>9 மணி</b> முதல் பிற்பகல் <b>2 மணி</b> வரை",
-       "மின்வாரிய பராமரிப்புப் பணி காரணமாக"
+       "இதுவரை <b>1,86,235</b> மரக்கன்றுகள் நடப்பட்டுள்ளன",
+       "சென்னை மாநகராட்சி பகுதிகளில் பசுமை பரப்பை அதிகரிக்கும் பணி",
+       "சென்னை மாநகராட்சி தகவல்"
       ]
      },
      {
-      "title": "எந்தப் பகுதிகள்?",
+      "title": "எங்கே நடப்பட்டது?",
       "lines": [
-       "பூவிருந்தவல்லி பகுதியில் மின்தடை",
-       "குப்புசுவாமி நகர், அருணாசலம் நகர்",
-       "காடுவெட்டி, வீரராகவபுரம், ஆவடி பிரதான சாலை"
+       "<b>993</b> பூங்காக்கள், <b>417</b> சென்னை பள்ளிகள்",
+       "குளங்கள், ஏரிகள், ஏரிக்கரைகள்",
+       "மெரினா, பாலவாக்கம், திருவான்மியூர் கடற்கரைகள்"
       ]
      },
      {
-      "title": "என்ன செய்ய",
+      "title": "நேற்றைய பணி",
       "lines": [
-       "பராமரிப்புப் பணி முடிந்ததும் மின் விநியோகம் வழங்கப்படும்",
-       "மொபைல் சார்ஜ், குடிநீரை முன்கூட்டியே தயார் செய்யுங்கள்"
+       "தேனாம்பேட்டை: காமராஜர் சாலை மையத்தடுப்பு",
+       "மாதவரம்: தாமரை குளம் பகுதி",
+       "ராயபுரம்: மூலக்கொத்தளம் மயானபூமி"
+      ]
+     },
+     {
+      "title": "நாற்றங்கால்",
+      "lines": [
+       "மயிலாப்பூர், மாடம்பாக்கம், மைலேடீஸ் பூங்காவில் நாற்றங்கால்",
+       "வனத்துறை, தனியார் பண்ணைகளிலிருந்தும் மரக்கன்றுகள்",
+       "தன்னார்வலர்களுக்கு மரக்கன்றுகள் வழங்கப்படுகிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பூவிருந்தவல்லி பகுதியில் நாளை, நவம்பர் 26ஆம் தேதி, 5 மணி நேரம் மின்தடை. நாளை அதாவது நவம்பர் 26ஆம் தேதி காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை மின் விநியோகம் நிறுத்தப்படும். தமிழ்நாடு மின்சார வாரியம் பராமரிப்புப் பணிகள் காரணமாக இந்த மின்தடையை அறிவித்துள்ளது. குப்புசுவாமி நகர், அருணாசலம் நகர், காடுவெட்டி, வீரராகவபுரம் மற்றும் ஆவடி பிரதான சாலை உள்ளிட்ட இடங்களில் மின்தடை ஏற்படும். பராமரிப்புப் பணி முடிந்ததும் மின் விநியோகம் மீண்டும் வழங்கப்படும். மொபைல் சார்ஜ், குடிநீர் போன்ற தேவைகளை முன்கூட்டியே பார்த்துக்கொள்ளுங்கள். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ பூவிருந்தவல்லியில் நாளை (நவம்பர் 26) மின்தடை: காலை 9 – பிற்பகல் 2 மணி வரை\n\n📰 முழு விவரம்:\nசென்னையில் மின்வாரிய பராமரிப்புப் பணி காரணமாக நாளை (நவ. 26, 2026) பூவிருந்தவல்லி பகுதியில் மின் விநியோகம் நிறுத்தப்படும்.\n🕘 நேரம்: காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை\n🏘️ பகுதிகள்: குப்புசுவாமி நகர், அருணாசலம் நகர், காடுவெட்டி, வீரராகவபுரம், ஆவடி பிரதான சாலை உள்ளிட்ட இடங்கள்\n🔧 பராமரிப்புப் பணி முடிந்தவுடன் மின் விநியோகம் கொடுக்கப்படும்.\n🔋 மொபைல் சார்ஜ், குடிநீர் போன்றவற்றை முன்கூட்டியே தயார் செய்துகொள்ளுங்கள்.\n\nPoovirundavalli power cut tomorrow 9 AM to 2 PM | Chennai news\n📍 பூவிருந்தவல்லி, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiPowerCut #மின்தடை #ChennaiNews",
-   "prompts": "A TNEB lineman in a khaki uniform and safety helmet stands on a ladder, working on a concrete electricity pole with overhead cables in a residential street of Poovirundavalli on the outskirts of Chennai, Tamil Nadu. The street is lined with low-rise houses and small local shops with their shutters half-open, but the shop signs are blank and no lights are on, showing the scheduled power cut in effect. Two more linemen stand below by a parked TNEB maintenance vehicle, with a toolbox, coils of cable and a ladder on the roadside. Several residents stand at a distance in front of their houses, seen from behind, dressed in shirts, veshti and salwar. A two-wheeler and a few bicycles are parked by the kerb. It is bright daytime, mid-morning, with soft daylight and a clear sky. Taken at eye level from across the road with a 35 mm lens, wide enough to show the whole street, the poles and the houses. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a concrete electricity pole with a TNEB transformer mounted on it, and tangled overhead cables being worked on by a lineman's gloved hands holding a spanner and a cable clamp. The lineman is seen from behind in a khaki uniform and safety helmet. Below, a roadside drain runs alongside a narrow residential street, with a corner of a house wall and a closed shop shutter in the background. The light is bright daytime, mid-morning, with a clear sky. Taken from a slightly low angle with a 35 mm lens, focused on the transformer and cables with the street blurred behind. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.maalaimalar.com/news/tamilnadu/tomorrow-power-cut-areas-in-poonamallee",
-   "published": "2026-11-25T03:22:36Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சென்னையில் பராமரிப்பு பணிகள் காரணமாக பூவிருந்தவல்லி பகுதியில'); 11 ('அதன்படி, சென்னையில் நாளை (26.11.2026) காலை 9 மணி முதல் பிற்ப')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "reel_script": "சென்னையில் இதுவரை 1,86,235 மரக்கன்றுகள் நடப்பட்டுள்ளன. பூங்காக்கள், குளங்கள், ஏரிக்கரைகள் உள்ளிட்ட இடங்களில் பசுமை பரப்பை அதிகரிக்கும் பணி தீவிரப்படுத்தப்பட்டுள்ளது. சென்னை மாநகராட்சியின் 993 பூங்காக்கள் மற்றும் 417 சென்னை பள்ளிகளில் மரக்கன்றுகள் நடப்படுகின்றன. திறந்தவெளி நிலங்கள், மயானபூமிகள், விளையாட்டுத் திடல்கள், கடற்கரைகளிலும் பணி நடைபெறுகிறது. நேற்று தேனாம்பேட்டை மண்டலம், 125வது வார்டு காமராஜர் சாலை மையத்தடுப்பில் செடிகள் நடப்பட்டன. மாதவரம் மண்டலம், 32வது வார்டு தாமரை குளம் பகுதியிலும் பணி நடைபெற்றது. ராயபுரம் மண்டலம், 53வது வார்டு மூலக்கொத்தளம் மயானபூமியிலும் மரக்கன்றுகள் நடப்பட்டன. மயிலாப்பூர், மாடம்பாக்கம், மைலேடீஸ் பூங்காவில் நாற்றங்கால் பண்ணைகள் அமைக்கப்பட்டு செடிகள் வளர்க்கப்படுகின்றன. வனத்துறை மற்றும் தனியார் பண்ணைகளிலிருந்தும் மரக்கன்றுகள் பெறப்படுகின்றன. தன்னார்வலர்கள், குடியிருப்பு நல சங்கங்களுக்கும் மரக்கன்றுகள் வழங்கப்படுகின்றன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌳 சென்னையில் இதுவரை 1,86,235 மரக்கன்றுகள் நடப்பட்டுள்ளன\n\n📰 முழு விவரம்:\nசென்னையின் பசுமை பரப்பை அதிகரிக்க பூங்கா, குளங்கள், ஏரிக்கரைகளில் மரக்கன்றுகள் நடும் பணி தீவிரப்படுத்தப்பட்டுள்ளது என்று சென்னை மாநகராட்சி தெரிவித்துள்ளது. 993 பூங்காக்கள், 417 சென்னை பள்ளிகள், திறந்தவெளி நிலங்கள், மயானபூமிகள், விளையாட்டுத் திடல்கள், குளங்கள், ஏரிகள், பாலவாக்கம், மெரினா, திருவான்மியூர் கடற்கரைகள் உள்ளிட்ட இடங்களில் நடவு நடைபெறுகிறது. நேற்று தேனாம்பேட்டை மண்டலம், 125வது வார்டு காமராஜர் சாலை மையத்தடுப்பு, மாதவரம் மண்டலம், 32வது வார்டு தாமரை குளம், ராயபுரம் மண்டலம், 53வது வார்டு மூலக்கொத்தளம் மயானபூமி, அண்ணாநகர் மண்டலம், சாந்தி காலனி சாலை 2வது அவென்யூ பகுதியிலும் நடவு நடைபெற்றது.\n📍 இடம்: சென்னை மாநகராட்சிப் பகுதிகள்\n🌱 நாற்றங்கால்: மயிலாப்பூர், மாடம்பாக்கம், மைலேடீஸ் பூங்கா\nℹ️ மக்கள் கவனத்திற்கு: தன்னார்வலர்கள், குடியிருப்பு நல சங்கங்கள் மரக்கன்றுகள் பெற்று நடலாம்.\n\nChennai tree planting drive, 1,86,235 saplings | Chennai news\n📍 சென்னை மாநகராட்சி, சென்னை | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #பசுமை",
+   "prompts": "A group of Greater Chennai Corporation workers in work clothes kneels and plants young saplings in a freshly dug soil bed beside a lake embankment in a Chennai city park. Behind them stretch rows of newly planted green saplings with small bamboo stakes, a few watering cans and a stack of plastic saplings bags on the ground. Beyond the lake, a row of mature trees and a few parked two-wheelers line the edge of the park road. Several residents in shirts and sarees stand a short distance away watching, and one volunteer carries a sapling in each hand. It is bright daytime with soft sunlight and a clear sky. Shot at eye level, 35 mm, wide enough to show the lake, the planting rows and the park, with the workers seen from behind or in the distance. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a freshly planted young sapling in dark moist soil on a road median strip in Chennai city, with a small wooden stake and a plastic watering pot resting beside it. Behind it, a row of newly dug planting pits lined along the concrete divider, with a few more saplings already planted and green shrubs growing around them. Blurred two-wheelers and an autorickshaw pass on the road in the background. A corporation worker's hand in a sleeve is seen placing soil at the base of the sapling, face not visible. Daylight, soft natural light. Shot at close range, 35 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/chennai-saplings-work-progress-corporation-information/amp",
+   "published": "2026-11-25T09:58:32+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 87 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); reel_script must tell how the story ENDED, as the article's last lines say ('சென்னை மாநகராட்சிப் பகுதிகளில் உள்ள 993 பூங்காக்கள், 417 சென்னை பள்ளிகள், திறந்தவெளி நிலங்கள், மயானபூமிகள், விளையாட்டுத் திடல்கள், குளங்கள், ஏரிகள், பாலவாக்கம் ') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577762/chennaiminnal/yj1nkyzjt0vt68hfk2z5.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795577766/chennaiminnal/vsah0setouneqimn3itd.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592111/chennaiminnal/kusj8vhivp5kebf6ahyv.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795592120/chennaiminnal/kztngi6j2jxejomynmpc.jpg"
    ]
   }
  ]
