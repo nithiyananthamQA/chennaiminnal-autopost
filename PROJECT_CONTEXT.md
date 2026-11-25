@@ -82,34 +82,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-22 | `600ad4d` | Same code as Kovai Minnal 825e3663 Never நாளை alone: the date goes with it in the voice, caption, headline and screen lines (owner 22 Nov, viewer comment) |
-| 2026-11-22 | `0b3ad35` | powercut: notices written |
-| 2026-11-22 | `355aa42` | powercut: notices written |
-| 2026-11-22 | `2baca25` | powercut: notices written |
-| 2026-11-22 | `62c45d6` | pick: written and posted |
-| 2026-11-22 | `025236e` | facebook RN-205 |
-| 2026-11-22 | `39892b4` | facebook RN-203 |
-| 2026-11-22 | `d5abd7b` | pick: picked news saved |
-| 2026-11-22 | `56013a4` | pick: picked news saved |
-| 2026-11-22 | `96f8e6f` | pick: list sent |
-| 2026-11-22 | `a8ba06f` | powercut: notices written |
-| 2026-11-22 | `b51f12a` | powercut: notices written |
-| 2026-11-22 | `119d213` | powercut: notices written |
-| 2026-11-22 | `3ad6b6d` | powercut: notices written |
-| 2026-11-22 | `6ca7c58` | pick: written and posted |
-| 2026-11-22 | `78a4160` | facebook RN-201 |
-| 2026-11-22 | `8bbffc4` | facebook RN-200 |
-| 2026-11-22 | `942afe6` | powercut: notices written |
-| 2026-11-22 | `9a542e1` | goldrate posted |
-| 2026-11-22 | `f43d35a` | facebook RN-199 |
-| 2026-11-22 | `524f336` | pick: picked news saved |
-| 2026-11-22 | `3280e13` | pick: picked news saved |
-| 2026-11-22 | `c4fe828` | pick: list sent |
-| 2026-11-22 | `e26545e` | facebook RN-196 |
-| 2026-11-22 | `d43658e` | pick: written and posted |
-| 2026-11-22 | `5665d91` | powercut: notices written |
-| 2026-11-22 | `fcc06f1` | facebook RN-195 |
-| 2026-11-22 | `7a98989` | facebook RN-198 |
-| 2026-11-22 | `79c2534` | facebook RN-194 |
-| 2026-11-22 | `f7e446a` | pick: picked news saved |
+| 2026-11-25 | `8670709` | Same code as Kovai Minnal 1ed67cb3 tests: Samayam hours tests use Dindigul as the other district (on the Salem page Salem is its own district - its sync would have stopped) |
+| 2026-11-25 | `ba07897` | powercut: notices written |
+| 2026-11-25 | `15a38f6` | comments: normal comments recorded (not e-mailed) |
+| 2026-11-25 | `520f5b2` | pick: written and posted |
+| 2026-11-25 | `0c7624c` | facebook RN-273 |
+| 2026-11-25 | `c379791` | powercut: notices written |
+| 2026-11-25 | `a10af0c` | goldrate posted |
+| 2026-11-25 | `4617250` | facebook RN-274 |
+| 2026-11-25 | `e7b444e` | facebook RN-275 |
+| 2026-11-25 | `58e6368` | facebook RN-276 |
+| 2026-11-25 | `be59efa` | facebook RN-272 |
+| 2026-11-25 | `4af3c96` | pick: picked news saved |
+| 2026-11-25 | `ffd2786` | pick: picked news saved |
+| 2026-11-25 | `c3fff73` | pick: list sent |
+| 2026-11-25 | `c3f421f` | powercut: notices written |
+| 2026-11-25 | `58beba9` | comments: normal comments recorded (not e-mailed) |
+| 2026-11-25 | `a24970c` | facebook RN-270 |
+| 2026-11-25 | `96fdec2` | facebook RN-271 |
+| 2026-11-25 | `c67da0e` | facebook RN-262 |
+| 2026-11-25 | `cc4993e` | powercut: notices written |
+| 2026-11-25 | `9beae13` | facebook RN-263 |
+| 2026-11-25 | `ea38723` | facebook RN-264 |
+| 2026-11-25 | `7dc9814` | facebook RN-267 |
+| 2026-11-25 | `0d2e06e` | facebook RN-268 |
+| 2026-11-25 | `8b0d3f9` | powercut: notices written |
+| 2026-11-25 | `0745812` | facebook RN-269 |
+| 2026-11-25 | `09c3527` | facebook RN-266 |
+| 2026-11-25 | `28bfd11` | facebook RN-265 |
+| 2026-11-25 | `7df27bb` | facebook RN-261 |
+| 2026-11-25 | `4069b5b` | facebook RN-258 |
 <!-- recent-changes:end -->
