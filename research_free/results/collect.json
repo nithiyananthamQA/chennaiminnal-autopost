@@ -3,84 +3,137 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/4-people-including-stolen-employees-at-blinket-company-arrested/4386300",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/dmk-executive-s-wife-arrested-for-snatching-5-sovereign-chains-from-woman/4386302",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs--lakh-fraud-jewelry-store-owner-arrested/4386401",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/father-daughter-killed-wife-injured-after-diesel-can-explodes-due-to-lighting/4386428",
-  "candidate filter: collected=4",
-  "to write: 4 Chennai district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Chennai; time left 79 min",
+  "manual link added: https://www.dinakaran.com/news/private_school_recognition_malpractice_anbilmahesh_inquiry",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/25/pothole-ridden-roads-residents-of-thirumudivakkam-kundrathur-thiruneermalai-at-risk-of-accidents",
+  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/25/major-step-by-india-towards-self-reliance-in-urea-production-6-new-plants-approved",
+  "manual link added: https://www.dinakaran.com/news/gemveeramani_case_charge_sheet_filed",
+  "manual link added: https://www.dinakaran.com/news/tasmac_organization_vacancies_employees_appointment",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/500-primary-school-students-who-recite-300-thirukkurals-will-be-awarded-rs-5000-each-tamil-nadu-government-order",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/two-bike-thieves-held-for-showing-water-to-police/4386319",
+  "candidate filter: collected=7",
+  "to write: 7 Chennai district candidates (max 7 stories)",
+  "round: top 7 of 7 candidates",
+  "candidates waiting: 7 Chennai; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "NOT filed (N) மூதாட்டியிடம் 5 சவரன் செயின் பறிப்பு: தி.மு.க., நி: duplicate after write",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "NOT filed (N) தீப விளக்கு தீப்பற்றி டீசல் கேன் வெடித்து விபத்து : stale: price news from 25 Nov, not today",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/500-primary-scho",
+  "try (N) manual=True: https://www.dinakaran.com/news/tasmac_organization_vacancies",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinakaran.com/news/gemveeramani_case_charge_shee",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 2}, time left 77 min",
-  "filed: 2 Chennai district stories (target 4), reels only",
+  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/25/major-step-by",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "try (N) manual=True: https://www.dinakaran.com/news/private_school_recognition_ma",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
+  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 7}, time left 77 min",
+  "filed: 7 Chennai district stories (target 7), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -90,147 +143,463 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ரூ.39 லட்சம் மோசடி: அம்பத்தூரில் நகைக்கடை உரிமையாளர் ஆனந்த் கைது",
-   "english_headline": "Ambattur jewellery shop owner Anand arrested for Rs 39 lakh fraud on Sathya",
-   "category": "Crime & Safety",
-   "location": "Ambattur, Chennai district",
-   "importance": "High",
-   "scope": "",
+   "tamil_headline": "300 திருக்குறள் ஒப்பிக்கும் 500 தொடக்கப்பள்ளி மாணவர்களுக்கு தலா ரூ.5,000 பரிசு",
+   "english_headline": "Tamil Nadu government order: 500 primary school students who recite 300 Thirukkural get Rs 5,000 each",
+   "category": "Education",
+   "location": "Chennai, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "மோசடி கைது",
-    "loc": "அம்பத்தூர், சென்னை",
-    "hl1": "அம்பத்தூரில் ரூ.39 லட்சம் மோசடி கைது",
-    "hl2": "நகைக்கடை உரிமையாளர் ஆனந்த்",
+    "cat": "கல்வி",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: 300 திருக்குறள் ஒப்பிக்கும்",
+    "hl2": "தலா ரூ.5,000 ஆண்டுதோறும்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "யாருக்கு பரிசு?",
       "lines": [
-       "அடகு நகைகளை மீட்டு விற்கும் சத்யாவிடம் <b>39 லட்சம்</b> மோசடி",
-       "நகைக்கடை உரிமையாளர் ஆனந்த் (35 வயது), கைது",
-       "இன்று (நவ. 25) போலீசார் கைது செய்தனர்"
+       "300 திருக்குறள்களை மனப்பாடம் செய்து ஒப்பிக்கும் மாணவர்கள்",
+       "முதல் <b>500 தொடக்கப்பள்ளி மாணவர்களுக்கு</b> பரிசு",
+       "அரசு, உதவி பெறும், தனியார் பள்ளி மாணவர்கள்"
       ]
      },
      {
-      "title": "எப்படி நடந்தது?",
+      "title": "எவ்வளவு பரிசு?",
       "lines": [
-       "பழனி (53 வயது), சத்யாவிடம் தென்றல் ஆனந்த், கோகுலை அறிமுகம்",
-       "சத்யா ஆனந்திடம் <b>50 லட்சம்</b> கொடுத்தார்",
-       "நகைகளை வேறு கடையில் அடகு வைத்து <b>11 லட்சம்</b> மட்டும் தந்தனர்"
+       "ஒவ்வொரு மாணவருக்கும் தலா <b>ரூ.5,000</b>",
+       "ஆண்டுதோறும் வழங்கப்படும்",
+       "பாராட்டுச் சான்றிதழும் வழங்கப்படும்"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "திட்டத்தின்",
       "lines": [
-       "சத்யா அம்பத்தூர் குற்றப்பிரிவு போலீசில் புகார்",
-       "ஆனந்த் கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டார்",
-       "உடந்தையான பழனியும் கைது, ஜாமினில் விடுவிப்பு"
+       "ஆகஸ்ட் <b>5, 2026</b> அன்று சட்டப்பேரவையில் அறிவிப்பு",
+       "அரசாணை நிலை எண் <b>206</b> வெளியீடு",
+       "ஆண்டுக்கு <b>ரூ.47 லட்சம்</b> ஒதுக்கீடு"
+      ]
+     },
+     {
+      "title": "போட்டி விவரம்",
+      "lines": [
+       "38 மாவட்டங்களிலும் போட்டிகள் நடத்தப்படும்",
+       "உணவு, தங்குமிடம், போக்குவரத்துச் செலவு அரசே ஏற்கும்",
+       "பெற்றோர், ஆசிரியர்கள் வரவேற்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அம்பத்தூரில் நகைக்கடை உரிமையாளர் ஆனந்த், 39 லட்சம் ரூபாய் மோசடி செய்த வழக்கில் கைது செய்யப்பட்டார். மண்ணடி, புது தெருவைச் சேர்ந்த சத்யா (51 வயது), அடகு நகைகளை மீட்டு மறு விற்பனை செய்து வருகிறார். அவருக்குப் பழக்கமான பழனி (53 வயது), தென்றல் ஆனந்த், கோகுல் ஆகியோரை சத்யாவிடம் அறிமுகம் செய்து வைத்தார். தென்றல் ஆனந்த், கோகுல் இருவரும் அசோக் ஜுவல்லரி கடையில் அடகு வைத்த நகைகளை மீட்க பணம் கேட்டனர். சத்யா, அவர்களுக்குப் பணம் தராமல் ஜுவல்லரி உரிமையாளர் ஆனந்திடம் 50 லட்சம் ரூபாய் கொடுத்தார். ஆனந்த், நகைகளைத் தருவதாகக் கூறி பணம் பெற்ற பின், அந்த நகைகளைத் தென்றல் ஆனந்த், கோகுலிடம் கொடுத்தார். அவர்கள் இருவரும் நகைகளை வேறு கடையில் அடகு வைத்து பணம் பெற்றனர். ஆனால் 11 லட்சம் ரூபாய் மட்டுமே தந்தனர். மீதித் தொகை தராததால் சத்யா அம்பத்தூர் குற்றப்பிரிவு போலீசில் புகார் அளித்தார். விசாரணையில் போலீசார் ஆனந்தைக் கைது செய்து இன்று சிறையில் அடைத்தனர். இந்த மோசடிக்கு உடந்தையான பழனியையும் போலீசார் கைது செய்து, ஜாமினில் விடுவித்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அம்பத்தூரில் ரூ.39 லட்சம் மோசடி: நகைக்கடை உரிமையாளர் ஆனந்த் கைது\n\n📰 முழு விவரம்:\nஅம்பத்தூரில் அடகு நகைகளை மீட்டு விற்கும் மண்ணடியைச் சேர்ந்த சத்யா (51 வயது), என்பவரிடம் 39 லட்சம் ரூபாய் மோசடி செய்ததாக, அசோக் ஜுவல்லரி உரிமையாளர் ஆனந்த் (35 வயது), இன்று (நவ. 25) கைது செய்யப்பட்டார்.\nபழனி (53 வயது), தென்றல் ஆனந்த், கோகுல் ஆகியோரை சத்யாவிடம் அறிமுகம் செய்து வைத்தார். சத்யா ஜுவல்லரி உரிமையாளர் ஆனந்திடம் 50 லட்சம் ரூபாய் கொடுத்தார். நகைகளைத் தென்றல் ஆனந்த், கோகுலிடம் கொடுத்த அவர்கள், வேறு கடையில் அடகு வைத்து 11 லட்சம் ரூபாய் மட்டுமே தந்தனர். மீதித் தொகை தராததால் சத்யா அம்பத்தூர் குற்றப்பிரிவு போலீசில் புகார் அளித்தார்.\n📍 இடம்: அம்பத்தூர், சென்னை மாவட்டம்\n🗓️ நாள்: நவ. 25\n👮 நடவடிக்கை: ஆனந்த் கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டார். உடந்தையான பழனியும் கைது செய்யப்பட்டு ஜாமினில் விடுவிக்கப்பட்டார்.\n\nAmbattur jewellery shop owner arrested for Rs 39 lakh fraud | Chennai news\n📍 அம்பத்தூர், சென்னை மாவட்டம் | நவ. 25\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Ambattur #குற்றச்செய்தி #ChennaiNews",
-   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform stands at the door of a jewellery shop on a busy street in Ambattur, Chennai, while a jewellery shop owner in a plain white shirt and black trousers is led out to a police jeep parked at the kerb. Behind them are shopkeepers and onlookers in shirts, sarees and salwars standing at a distance, seen from behind and slightly blurred. The shop front has glass display cabinets with gold chains and bangles visible inside, and a two-wheeler and an autorickshaw pass on the road. It is bright daylight, the midday sun casting short shadows on the pavement, with a light haze over the street. Camera at eye level, 35 mm lens, wide enough to show the shop front, the jeep, and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden table at a police station crime wing in Ambattur: a neat pile of gold ornaments, including a gold chain and bangles, lies beside a stack of pawn receipts and a bundle of cash notes in Indian rupees. A khaki-uniformed police hand rests at the edge of the frame, with the sleeve visible but no face shown. Behind the table, out of focus, a grey metal filing cabinet and a fan on the wall. Daylight from a window falls across the table, creating soft shadows on the gold. Camera slightly high, 35 mm, shallow depth of field keeping the gold and receipts sharp while the background softly blurs. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs--lakh-fraud-jewelry-store-owner-arrested/4386401",
-   "published": "2026-11-25T22:50:04+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "300 திருக்குறள் ஒப்பிக்கும் 500 தொடக்கப்பள்ளி மாணவர்களுக்கு தலா 5,000 ரூபாய் பரிசு வழங்கப்படும். தமிழக அரசு இதற்கான அரசாணையை வெளியிட்டுள்ளது. ஆகஸ்ட் 5, 2026 அன்று சட்டப்பேரவையில் இந்தத் திட்டம் அறிவிக்கப்பட்டது. அரசாணை நிலை எண் 206இன் படி இந்தத் திட்டம் செயல்படுத்தப்படுகிறது. அரசு, அரசு உதவி பெறும் மற்றும் தனியார் பள்ளிகளில் 5ஆம் வகுப்புவரை பயிலும் மாணவர்கள் இதில் பங்கேற்கலாம். இளம் வயதிலேயே தமிழ் இலக்கிய ஆர்வத்தை வளர்ப்பதே இந்தத் திட்டத்தின் நோக்கம். தேர்வு செய்யப்படும் முதல் 500 மாணவர்களுக்கு பரிசுத்தொகையுடன் பாராட்டுச் சான்றிதழும் வழங்கப்படும். ஏற்கனவே 1 முதல் 12ஆம் வகுப்பு வரை 1,330 திருக்குறள்களை முற்றோதல் செய்யும் மாணவர்களுக்கு தலா 15,000 ரூபாய் வழங்கும் திட்டம் தொடர்ந்து செயல்படுகிறது. பரிசுத்தொகை, மாவட்ட அளவிலான திறனாய்வுப் போட்டிகள் மற்றும் பரிசு வழங்கும் விழாவுக்காக ஆண்டுதோறும் 47 லட்சம் ரூபாய் ஒதுக்கப்பட்டுள்ளது. போட்டிகளில் பங்கேற்கும் மாணவர்களின் உணவு, தங்குமிடம் மற்றும் போக்குவரத்துச் செலவுகளையும் அரசே ஏற்கும். இந்த அறிவிப்புக்குப் பெற்றோர்களும் ஆசிரியர்களும் வரவேற்பு தெரிவித்துள்ளனர். 2026-2027 நிதியாண்டில் திருக்குறள் முற்றோதல் நிதியிலிருந்தும், 2027-2028 நிதியாண்டு முதல் தொடர் செலவினமாகவும் நிதி ஒதுக்கப்படும். விரைவில் 38 மாவட்டங்களிலும் தொடக்கப்பள்ளி மாணவர்களுக்கான திருக்குறள் ஒப்புவிக்கும் திறனாய்வுப் போட்டிகள் நடத்தப்பட்டு, தகுதியான மாணவர்கள் தேர்வு செய்யப்படுவார்கள். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📚 300 திருக்குறள் ஒப்பிக்கும் 500 தொடக்கப்பள்ளி மாணவர்களுக்கு தலா ரூ.5,000 பரிசு\n\n📰 முழு விவரம்:\nதமிழக அரசு அரசாணை நிலை எண் 206 வெளியிட்டுள்ளது. 300 திருக்குறள்களை மனப்பாடம் செய்து ஒப்பிக்கும் முதல் 500 தொடக்கப்பள்ளி மாணவர்களுக்கு ஆண்டுதோறும் தலா ரூ.5,000 பரிசும் பாராட்டுச் சான்றிதழும் வழங்கப்படும். இத்திட்டம் அரசு, அரசு உதவி பெறும் மற்றும் தனியார் பள்ளிகளில் 5ஆம் வகுப்புவரை படிக்கும் மாணவர்களுக்குப் பொருந்தும். ஆகஸ்ட் 5, 2026 அன்று சட்டப்பேரவையில் அறிவிக்கப்பட்ட இத்திட்டம், இளம் வயதிலேயே தமிழ் இலக்கிய ஆர்வத்தை வளர்க்கும் நோக்கம் கொண்டது. ஏற்கனவே 1 முதல் 12ஆம் வகுப்பு வரை 1,330 திருக்குறள்களை முற்றோதல் செய்யும் மாணவர்களுக்கு தலா ரூ.15,000 வழங்கும் திட்டம் தொடர்ந்து செயல்படுகிறது.\n💰 ஆண்டுதோறும் ரூ.47 லட்சம் ஒதுக்கீடு: பரிசுத்தொகை, மாவட்ட அளவிலான திறனாய்வுப் போட்டிகள், பரிசு வழங்கும் விழா செலவுகளுக்கு.\n🚌 போட்டிகளில் பங்கேற்கும் மாணவர்களின் உணவு, தங்குமிடம், போக்குவரத்துச் செலவுகளை அரசே ஏற்கும்.\n📅 2026-2027 நிதியாண்டில் திருக்குறள் முற்றோதல் நிதியிலிருந்தும், 2027-2028 நிதியாண்டு முதல் தொடர் செலவினமாகவும் நிதி ஒதுக்கப்படும்.\n🏫 விரைவில் 38 மாவட்டங்களிலும் தொடக்கப்பள்ளி மாணவர்களுக்கான திருக்குறள் ஒப்புவிக்கும் திறனாய்வுப் போட்டிகள் நடத்தப்படும்; தகுதியான மாணவர்கள் தேர்வு செய்யப்படுவார்கள்.\nஇந்த அறிவிப்புக்கு பெற்றோர்களும் ஆசிரியர்களும் வரவேற்பு தெரிவித்துள்ளனர். தகுதியான மாணவர்கள் தங்கள் பள்ளி மூலம் பங்கேற்கலாம்.\n\nTamil Nadu Thirukkural prize Rs 5000 for primary students | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #கல்வி",
+   "prompts": "A group of primary school students in standard Tamil Nadu school uniforms stand in a neat row inside a bright, airy school assembly hall in Chennai. The children, appearing to be around 10 to 11 years old, are seen from behind, facing a stage area where a podium is visible but empty. Their posture is attentive and upright, suggesting they are participating in a formal school event or assembly. The hall has high ceilings with white walls and large windows letting in natural daylight. In the background, a few teachers in formal attire stand near the front, observing the students. The floor is tiled and clean. The atmosphere is disciplined and academic. The focus is on the collective presence of the young students, representing the 500 beneficiaries mentioned in the news. The lighting is even and bright, typical of a daytime school setting. The camera is positioned at eye level, capturing the width of the group and the depth of the hall. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a stack of thick, hardcover books with traditional Tamil script covers, resting on a wooden desk in a classroom. The books are bound in dark blue and red cloth, typical of classic Tamil literature editions. Next to the books, a small, framed certificate with a gold seal is placed, though the text is blurred and unreadable. A student's hand, wearing a white school uniform sleeve, rests gently on the edge of the desk, fingers poised as if about to open the book. The background is softly out of focus, showing the blurred shapes of other students in uniform and a blackboard with faint chalk marks. The lighting is warm and natural, coming from a nearby window, highlighting the texture of the book covers and the wooden surface of the desk. The scene emphasizes the academic focus on Thirukkural recitation and the tangible rewards of the scholarship scheme. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/500-primary-school-students-who-recite-300-thirukkurals-will-be-awarded-rs-5000-each-tamil-nadu-government-order",
+   "published": "2026-11-25T17:53:59Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 2028; reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சென்னை' and the news itself, e.g. 'சென்னை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 20272028 ('15,000 வழங்கும் திட்டம் தொடர்ந்து செயல்படும் நிலையில், தொடக்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795635324/chennaiminnal/yabasjpe6fdqbzsembgn.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795635331/chennaiminnal/hp4wcsbnzwqyt5mekpzi.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649630/chennaiminnal/rdm15yy0d8oxec3j28x3.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649633/chennaiminnal/yaoiekiehm9wvjbduegj.jpg"
    ]
   },
   {
-   "tamil_headline": "ராயப்பேட்டையில் 'பிளிங்கிட்' நிறுவனத்தில் ரூ.10 லட்சம் பொருட்கள் திருட்டு: ஊழியர்கள் உட்பட 4 பேர் கைது",
-   "english_headline": "Four arrested, including employees, for stealing Rs 10 lakh worth of electronics from Blinkit's Royapettah branch",
+   "tamil_headline": "டாஸ்மாக் காலி பணியிடங்களுக்கு தனியார் மூலம் தற்காலிக ஊழியர்கள் நியமனம்",
+   "english_headline": "TASMAC to hire temporary staff through a private agency to fill vacant posts in district, zonal offices and warehouses",
+   "category": "Government & Services",
+   "location": "சென்னை, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு வேலை",
+    "loc": "சென்னை மாவட்டம்",
+    "hl1": "டாஸ்மாக் காலி பணியிடங்களில் தற்காலிக",
+    "hl2": "தனியார் நிறுவனம் மூலம்",
+    "slides": [
+     {
+      "title": "என்ன நடக்கிறது?",
+      "lines": [
+       "டாஸ்மாக் காலி பணியிடங்களை நிரப்ப உத்தரவு",
+       "ஓவர்சீஸ் மேன்பவர் கார்ப்பரேஷன் மூலம் தற்காலிக பணியாளர்கள்",
+       "மாவட்ட, மண்டல அலுவலகங்கள், கிடங்குகளில் நியமனம்"
+      ]
+     },
+     {
+      "title": "எந்தப் பணிகள்?",
+      "lines": [
+       "தட்டச்சர், அலுவலக உதவியாளர்",
+       "ஓட்டுநர், காவலர் பணிகள்",
+       "காலிப்பணியிட எண்ணிக்கையை சரிபார்த்து தேர்வு"
+      ]
+     },
+     {
+      "title": "தகுதி, சம்பளம்",
+      "lines": [
+       "கல்வித்தகுதி, வயது, அனுபவம், சான்றிதழ் சரிபார்ப்பு",
+       "மாவட்ட ஆட்சியரின் குறைந்தபட்ச ஊதிய அடிப்படையில் சம்பளம்",
+       "தேர்வானோர் விவரம் ஓஎம்சிஎல் நிறுவனத்துக்கு அனுப்பப்படும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "டாஸ்மாக் நிறுவனத்தில் காலி பணியிடங்களை நிரப்ப தற்காலிக ஊழியர்கள் நியமிக்கப்பட உள்ளனர். ஓவர்சீஸ் மேன்பவர் கார்ப்பரேஷன் மூலம் இந்த நியமனம் நடைபெறும். டாஸ்மாக் தலைமை அலுவலகம் கடந்த 21ஆம் தேதி வெளியிட்ட சுற்றறிக்கையின்படி இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. மாவட்ட, மண்டல அலுவலகங்கள் மற்றும் கிடங்குகளில் நிலவும் பணியாளர் பற்றாக்குறையை சமாளிக்க இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது. தட்டச்சர், அலுவலக உதவியாளர், ஓட்டுநர், காவலர் பணிகளுக்கு ஆட்கள் நியமிக்கப்படுவர். அனுமதிக்கப்பட்ட காலிப்பணியிடங்களின் எண்ணிக்கையை சரிபார்த்த பின்னரே பணியாளர்கள் தேர்வு செய்யப்பட வேண்டும். நியமனத்திற்கு முன் கல்வித்தகுதி, வயது, பணி அனுபவம் மற்றும் சான்றிதழ்கள் சரிபார்க்கப்படும். மாவட்ட ஆட்சியரின் செயல்முறை ஆணையில் குறிப்பிடப்பட்டுள்ள குறைந்தபட்ச ஊதிய அடிப்படையில் சம்பளம் நிர்ணயிக்கப்படும். தேர்வு செய்யப்பட்டோரின் பெயர், பணியிட விவரங்கள் ஓஎம்சிஎல் நிறுவனத்துக்கு அனுப்பப்படும். ஊதியத் தொகை ஓஎம்சிஎல் நிறுவனத்துக்கு வழங்கப்பட்டு, அதன் மூலம் பணியாளர்களுக்குக் கிடைப்பது உறுதி செய்யப்படும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏢 டாஸ்மாக் காலி பணியிடங்களில் தற்காலிக ஊழியர்கள் நியமனம்\n\n📰 முழு விவரம்:\nடாஸ்மாக் மாவட்ட, மண்டல அலுவலகங்கள் மற்றும் கிடங்குகளில் காலியாக உள்ள பணியிடங்களை நிரப்ப, ஓவர்சீஸ் மேன்பவர் கார்ப்பரேஷன் மூலம் தற்காலிக பணியாளர்களை நியமிக்க டாஸ்மாக் நிர்வாகம் உத்தரவிட்டுள்ளது. இது தொடர்பாக டாஸ்மாக் தலைமை அலுவலகம் கடந்த 21ஆம் தேதி வெளியிட்ட சுற்றறிக்கையில் விவரங்கள் உள்ளன. தட்டச்சர், அலுவலக உதவியாளர், ஓட்டுநர், காவலர் பணிகளுக்கு ஆட்கள் நியமிக்கப்படுவர். கல்வித்தகுதி, வயது, பணி அனுபவம், சான்றிதழ்கள் நியமனத்துக்கு முன் சரிபார்க்கப்படும்.\n💰 சம்பளம்: மாவட்ட ஆட்சியரின் செயல்முறை ஆணையில் குறிப்பிடப்பட்டுள்ள குறைந்தபட்ச ஊதிய அடிப்படையில் நிர்ணயிக்கப்படும்.\n📋 தேர்வானோர் பெயர், பணியிட விவரம் ஓஎம்சிஎல் நிறுவனத்துக்கு அனுப்பப்படும்; ஊதியத் தொகை அந்த நிறுவனத்துக்கு வழங்கப்படும்.\n\nTASMAC temporary staff hiring vacant posts | Chennai news\n📍 சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #அரசு_வேலை #சென்னை",
+   "prompts": "A government office clerk and an official sit at a desk in a TASMAC district manager office in Chennai, reviewing a stack of files and a circular on the table as new temporary staff are being selected. The room is a plain government office with wooden desks, a typewriter and an old ceiling fan, a few steel filing cabinets along the wall, and a window letting in daylight. Two or three job applicants sit on a bench at the back, seen from behind, dressed in shirts and trousers and salwar, waiting their turn. The official in a half-sleeve shirt is checking papers and certificates against a list, and no readable text appears anywhere. Taken at eye level from the doorway with a 35 mm lens, wide enough to show the whole office and its activity. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a neat pile of official files and a sheet of paper lying on a steel office desk, with a pen and a stack of applicant certificates placed beside them, slightly out of focus in the background an office clerk's hand turns a page. The desk sits in a government office with a worn wooden surface, a metal cabinet behind, and soft daylight from a side window. Nothing legible is visible on the paper; the focus is on the stack of documents and the act of checking them, showing the process of verifying candidates before appointment. Shot at slightly high eye level with a 35 mm lens, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/tasmac_organization_vacancies_employees_appointment",
+   "published": "2026-11-26T03:09:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (20 words in a row, 27% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence; slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649661/chennaiminnal/uvw6wwr3iuntgnm2wj7h.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649664/chennaiminnal/sacumxrua0ttgvfogkp6.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "போலீசாருக்கு தண்ணி காட்டிய பைக் திருடர்கள் இருவர் சிக்கினர்",
+   "english_headline": "Two bike thieves who evaded police for a month arrested in Ambattur; four bikes seized",
    "category": "Crime & Safety",
-   "location": "Royapettah, Chennai district",
+   "location": "Ambattur, Chennai district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "திருட்டு கைது",
-    "loc": "ராயப்பேட்டை, சென்னை",
-    "hl1": "ராயப்பேட்டையில் ரூ.10 லட்சம் திருட்டு",
-    "hl2": "ஊழியர்கள் உட்பட 4 பேர்",
+    "cat": "பைக் திருட்டு",
+    "loc": "அம்பத்தூர், சென்னை",
+    "hl1": "அம்பத்தூரில் பைக் திருடர்கள் இருவர் கைது",
+    "hl2": "4 பைக்குகள் பறிமுதல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ராயப்பேட்டையில் 'பிளிங்கிட்' கிளையில் திருட்டு",
-       "ரூ.<b>10 லட்சம்</b> மதிப்பிலான எலக்ட்ரானிக் பொருட்கள் திருட்டு",
-       "ஊழியர்கள் உட்பட <b>4 பேர்</b> கைது"
+       "பைக் திருட்டில் ஈடுபட்ட இருவர் <b>கைது</b>",
+       "ஒரு மாதமாக போலீசாருக்கு தண்ணி காட்டி வந்தனர்",
+       "அவர்களிடம் <b>4 பைக்குகள்</b> பறிமுதல்"
       ]
      },
      {
-      "title": "எப்படி நடந்தது?",
+      "title": "எப்படி சிக்கினர்?",
       "lines": [
-       "கடந்த <b>16ம் தேதி</b> கண்காணிப்பு கேமராக்கள் செயல்படவில்லை",
-       "ரூ.<b>1.40 லட்சம்</b> மதிப்பிலான கேமராக்கள் திருடப்பட்டன",
-       "<b>7</b> ஹார்டு டிஸ்க்குகளும் திருடுபோனன"
+       "புதூர் காவல் நிலைய எல்லையில் வாகன சோதனை",
+       "ஒரே பைக்கில் வந்த மூவர் போலீசாரின் கவனத்தை திசை",
+       "பைக்கின் பதிவு எண்ணை வைத்து விசாரித்தபோது திருட்டு பைக் என"
       ]
      },
      {
-      "title": "கைதானவர்கள்",
+      "title": "யார் கைது?",
       "lines": [
-       "ஊழியர்கள் ஸ்ரீகாந்த், சிவகுமார் கைது",
-       "முன்னாள் ஊழியர்கள் ஸ்ரீதரன், ராகேஷ் கைது",
-       "ரூ.<b>3.50 லட்சம்</b> பொருட்கள் பறிமுதல்"
+       "பாடி, நேரு தெருவைச் சேர்ந்த முத்துகுமார், <b>29</b>",
+       "அயனாவரம் பகுதியைச் சேர்ந்த மனோஜ், <b>18</b>",
+       "இருவரும் சிறையில் அடைக்கப்பட்டனர்"
+      ]
+     },
+     {
+      "title": "பறிமுதல் பைக்குகள்",
+      "lines": [
+       "இரண்டு யமஹா ஆர்15 பைக்குகள்",
+       "இரண்டு பஜாஜ் பல்சர் பைக்குகள்",
+       "இதில் தொடர்புடையோரை போலீசார் தேடி வருகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ராயப்பேட்டையில் பிளிங்கிட் நிறுவனத்தில் ரூ.10 லட்சம் மதிப்பிலான பொருட்கள் திருடப்பட்டன. திருட்டில் ஊழியர்கள் உட்பட நான்கு பேரை போலீசார் கைது செய்தனர். பிளிங்கிட் ஒரு ஆன்லைன் வர்த்தக நிறுவனம். இதன் ராயப்பேட்டை கிளை மேலாளர் கீர்த்திவாசன் (31 வயது), கடந்த 16ம் தேதி நிறுவனத்துக்கு வந்தபோது கண்காணிப்பு கேமராக்கள் செயல்படாதது தெரியவந்தது. தொடர் சோதனையில் ரூ.1.40 லட்சம் மதிப்பிலான கண்காணிப்பு கேமராக்கள், 7 ஹார்டு டிஸ்க்குகள் உட்பட ரூ.10 லட்சம் மதிப்பிலான பொருட்கள் திருடப்பட்டது தெரியவந்தது. வழக்குப்பதிவு செய்த ராயப்பேட்டை போலீசார் விசாரணை நடத்தினர். ஊழியர்களான ஸ்ரீகாந்த் (22 வயது), சிவகுமார் (26 வயது), முன்னாள் ஊழியர்களான ஸ்ரீதரன் (26 வயது), ராகேஷ் (23 வயது), ஆகியோர் திருட்டில் ஈடுபட்டது தெரியவந்தது. நேற்று நான்கு பேரையும் கைது செய்த போலீசார் ரூ.3.50 லட்சம் மதிப்பிலான பொருட்களை பறிமுதல் செய்தனர். தொடர்ந்து விசாரணை நடைபெற்று வருகிறது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ராயப்பேட்டையில் பிளிங்கிட் நிறுவனத்தில் ரூ.10 லட்சம் திருட்டு: ஊழியர்கள் உட்பட 4 பேர் கைது\n\n📰 முழு விவரம்:\nராயப்பேட்டையில் 'பிளிங்கிட்' ஆன்லைன் வர்த்தக நிறுவனத்தின் கிளையில் ரூ.10 லட்சம் மதிப்பிலான எலக்ட்ரானிக் பொருட்கள் திருடப்பட்டன. திண்டுக்கல் மாவட்டத்தைச் சேர்ந்த கீர்த்திவாசன் (31 வயது), அந்தக் கிளையின் மேலாளராகப் பணிபுரிகிறார். கடந்த 16ம் தேதி நிறுவனத்துக்கு வந்தபோது கண்காணிப்பு கேமராக்கள் செயல்படாதது தெரியவந்தது. தொடர் சோதனையில் ரூ.1.40 லட்சம் மதிப்பிலான கண்காணிப்பு கேமராக்கள், 7 ஹார்டு டிஸ்க்குகள் உட்பட ரூ.10 லட்சம் பொருட்கள் திருடுபோனது தெரியவந்தது. ராயப்பேட்டை போலீசார் வழக்குப்பதிவு செய்து தீவிர விசாரணை நடத்தினர். இதில் ஊழியர்களான ஸ்ரீகாந்த் (22 வயது), சிவகுமார் (26 வயது), முன்னாள் ஊழியர்களான ஸ்ரீதரன் (26 வயது), ராகேஷ் (23 வயது), ஆகியோர் திருட்டில் ஈடுபட்டது தெரியவந்தது. நான்கு பேரையும் நேற்று கைது செய்த போலீசார் ரூ.3.50 லட்சம் மதிப்பிலான எலக்ட்ரானிக் பொருட்களை பறிமுதல் செய்தனர். தொடர்ந்து விசாரணை நடைபெற்று வருகிறது.\n\n📍 இடம்: ராயப்பேட்டை, சென்னை மாவட்டம்\n🗓️ நாள்: நவம்பர் 25, 2026\n\nChennai Blinkit store theft, 4 arrested | Chennai news\n📍 ராயப்பேட்டை, சென்னை மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Royapettah #ChennaiNews #சென்னை",
-   "prompts": "Four men stand with their backs to the camera beside a police jeep at the gate of a small commercial branch in Royapettah, Chennai, as khaki-uniformed Tamil Nadu police officers escort them. The building is a plain concrete delivery-store unit on a busy street, with two-wheelers parked along the kerb and a few onlookers at a distance. Two of the men wear shirts and trousers, one wears a white shirt, and one has a lighter-coloured shirt; all have their hands loosely held in front. Daylight falls across the street, with a grey sky and a slightly hazy, humid look typical of Chennai. Camera at eye level, 35 mm lens, wide enough to show the shopfront, the jeep and the street. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detail shot on a table at a police station in Royapettah, Chennai, shows a neat pile of seized electronic goods: several small boxed items, a stack of hard disk drives, and loose cables spread on a plain wooden desk. Behind the table, a police officer in khaki uniform stands slightly out of focus with his back half-turned, and a metal almirah with files is visible on the wall. Natural daylight from a window falls across the table, giving a soft, clean look. No readable labels or text appear on the items. Camera slightly high, close-up, 35 mm, shallow depth of field so the seized electronics are sharp and the officer is softly blurred. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/4-people-including-stolen-employees-at-blinket-company-arrested/4386300",
-   "published": "2026-11-25T21:09:22+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 7",
+   "reel_script": "அம்பத்தூரில் பைக் திருடிய இருவர் கைது செய்யப்பட்டனர். ஒரு மாதமாக போலீசாருக்கு தண்ணி காட்டி வந்த இவர்களிடம் நான்கு பைக்குகள் பறிமுதல் செய்யப்பட்டுள்ளன. அம்பத்தூர், மங்களம்புரத்தில் உள்ள உறவினர் வீட்டுக்கு வந்திருந்த திருவள்ளூரைச் சேர்ந்த பிரேம்குமார், 35 வயது நபரின் பஜாஜ் பல்சர் பைக் கடந்த மாதம் திருடுபோனது. அம்பத்தூர் தொழிற்பேட்டை போலீசார் விசாரித்து வந்தனர். இந்நிலையில் புதூர் காவல் நிலைய எல்லையில் நடந்த வாகன சோதனையில் ஒரே பைக்கில் வந்த மூன்று வாலிபர்கள் சிக்கினர். உரிமம் கேட்டபோது போலீசாரின் கவனத்தை திசை திருப்பி, பைக்கை விட்டு மூவரும் தப்பினர். பதிவு எண்ணை வைத்து விசாரித்தபோது அது ஏற்கனவே திருடுபோன பைக் என்று தெரிந்தது. சிசிடிவி காட்சிகளின்படி, பாடி, நேரு தெருவைச் சேர்ந்த முத்துகுமார், 29 வயது மற்றும் அயனாவரம் பகுதியைச் சேர்ந்த மனோஜ், 18 வயது ஆகியோரை நேற்று முன்தினம் இரவு பிடித்து விசாரித்தனர். அதில் பிரேம்குமாரின் பைக் உட்பட நான்கு பைக்குகளை திருடியது தெரியவந்தது. இரண்டு யமஹா ஆர்15 மற்றும் இரண்டு பஜாஜ் பல்சர் பைக்குகளை போலீசார் பறிமுதல் செய்தனர். இருவரும் கைது செய்யப்பட்டு நேற்று முன்தினம் சிறையில் அடைக்கப்பட்டனர். இதில் தொடர்புடையோரை போலீசார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அம்பத்தூரில் போலீசாருக்கு தண்ணி காட்டிய பைக் திருடர்கள் இருவர் கைது: 4 பைக்குகள் பறிமுதல்\n\n📰 முழு விவரம்:\nஅம்பத்தூரில் பைக் திருட்டில் ஈடுபட்ட இருவர் கைது செய்யப்பட்டு, ஒரு மாதமாக போலீசாருக்கு தண்ணி காட்டி வந்த இவர்களிடம் நான்கு பைக்குகள் பறிமுதல் செய்யப்பட்டன.\nகடந்த மாதம் அம்பத்தூர், மங்களம்புரத்தில் உறவினர் வீட்டுக்கு வந்திருந்த திருவள்ளூரைச் சேர்ந்த பிரேம்குமார், 35 வயது நபரின் பஜாஜ் பல்சர் பைக் திருடுபோனது.\nஇந்த வழக்கை அம்பத்தூர் தொழிற்பேட்டை போலீசார் விசாரித்து வந்தனர்.\nபுதூர் காவல் நிலைய எல்லையில் வாகன சோதனையின்போது, ஒரே பைக்கில் வந்த மூன்று வாலிபர்கள் போலீசாரின் கவனத்தை திசை திருப்பி பைக்கை விட்டுத் தப்பினர்.\nபதிவு எண்ணை வைத்து விசாரித்தபோது, அது ஏற்கனவே திருடுபோன பைக் என தெரிந்தது.\nசிசிடிவி காட்சிகளின்படி, பாடி, நேரு தெருவைச் சேர்ந்த முத்துகுமார், 29 வயது மற்றும் அயனாவரம் பகுதியைச் சேர்ந்த மனோஜ், 18 வயது ஆகியோர் நேற்று முன்தினம் இரவு பிடிக்கப்பட்டனர். விசாரணையில் பிரேம்குமாரின் பைக் உட்பட நான்கு பைக்குகளை திருடியது தெரிந்தது.\nஇரண்டு யமஹா ஆர்15, இரண்டு பஜாஜ் பல்சர் பைக்குகளை போலீசார் பறிமுதல் செய்தனர். இருவரும் கைது செய்யப்பட்டு நேற்று முன்தினம் சிறையில் அடைக்கப்பட்டனர். இதில் தொடர்புடையோரை போலீசார் தேடி வருகின்றனர்.\n\nAmbattur bike thieves arrested, 4 bikes seized | Chennai news\n📍 அம்பத்தூர், சென்னை மாவட்டம் | 25 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Ambattur #ChennaiNews #சென்னை",
+   "prompts": "Four motorcycles - two Yamaha R15 and two Bajaj Pulsar - stand in a row on the concrete floor of a police station compound in Ambattur, Chennai, parked beside a khaki-uniformed Tamil Nadu police officer who is seen from behind, arms relaxed, checking the bikes. Behind them is a plain government building with a tiled roof and a low boundary wall, typical of a Chennai police station, with a few parked two-wheelers and a corporation-style street lamp. Two young male suspects in plain shirts and trousers are seen from far away, sitting on a bench under a shaded verandah with their backs to the camera, guarded by a second constable. Daylight, a slightly overcast morning. Eye-level camera at 35 mm, wide enough to show the bikes, the officer and the building together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a single black Bajaj Pulsar motorcycle, its seat and handlebar in sharp focus, parked on the rough concrete of a police station yard in Ambattur, Chennai. A khaki-clad police officer's hand rests on the bike's seat, with only his sleeve and the edge of his belt visible, the rest of his body out of frame. Behind the bike, a row of two-wheelers and a low cream-painted wall suggest a government compound. Soft daylight falls across the metal and paint, with a slight shadow beneath the wheels. Camera at a slightly high angle at 35 mm, shallow depth of field so the background is softly blurred. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/two-bike-thieves-held-for-showing-water-to-police/4386319",
+   "published": "2026-11-25T21:42:28+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The name 'Manoj' (மனோஜ்), who is 18 years old, is mentioned in the reel_script, slides_spec, and caption. As he is a minor (under 18), his name should not be disclosed; he should be referred to by his role (e.g., '18-year-old youth' or 'minor').",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649670/chennaiminnal/moaybokcmehv0s0xavte.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649673/chennaiminnal/btteiyhsexp5hm7gp1k4.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஜெம் வீரமணி மீதான 2வது வழக்கில் குற்றப்பத்திரிகை தாக்கல்",
+   "english_headline": "Chargesheet filed in second case against gem businessman Veeramani over sexual abuse of minor girls in Chennai",
+   "category": "Crime & Safety",
+   "location": "Chennai, Chennai district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றவியல் செய்தி",
+    "loc": "சென்னை",
+    "hl1": "சென்னையில் ஜெம் வீரமணி மீது",
+    "hl2": "18 சிறுமிகள் பாதிப்பு",
+    "slides": [
+     {
+      "title": "என்ன வழக்கு?",
+      "lines": [
+       "சிறுமிகளை மிரட்டி பாலியல் பலாத்காரம் செய்த வழக்கு",
+       "தொழிலதிபர் ஜெம் வீரமணி உட்பட 10 பேர் மீது வழக்கு",
+       "சிறப்பு புலனாய்வு பிரிவில் <b>9 வழக்குகள்</b> பதிவு"
+      ]
+     },
+     {
+      "title": "பாதிப்பு எண்ணிக்கை",
+      "lines": [
+       "விசாரணையில் <b>18 சிறுமிகள்</b> பாதிக்கப்பட்டது கண்டுபிடிப்பு",
+       "குற்றவாளிகள் அனைவரும் கைது செய்யப்பட்டனர்",
+       "கூட்டாளிகள் பலர் மீதும் வழக்கு"
+      ]
+     },
+     {
+      "title": "குற்றப்பத்திரிகை",
+      "lines": [
+       "விபசார தடுப்பு பிரிவு வழக்கில் <b>நவம்பர் 11</b> அன்று",
+       "நகல்கள் <b>நவம்பர் 17</b> அன்று குற்றவாளிகளுக்கு வழங்கப்பட்டது",
+       "மற்றொரு வழக்கில் <b>நவம்பர் 23</b> அன்று குற்றப்பத்திரிகை தாக்கல்"
+      ]
+     },
+     {
+      "title": "தலைமறைவு குற்றவாளி",
+      "lines": [
+       "தலைமறைவான பிரகாஷை கைது செய்ய பிடியாணை",
+       "நீதிமன்றம் பிடியாணை பிறப்பித்துள்ளது",
+       "விசாரணை தொடர்கிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் சிறுமிகளை மிரட்டி பாலியல் பலாத்காரம் செய்த வழக்கில் 18 சிறுமிகள் பாதிக்கப்பட்டது தெரியவந்துள்ளது. தொழிலதிபர் ஜெம் வீரமணி மற்றும் அவரது கூட்டாளிகள் மீது சிறப்பு புலனாய்வு பிரிவில் 9 வழக்குகள் பதிவு செய்யப்பட்டுள்ளன. ஜெம் வீரமணி உள்ளிட்ட 10 பேர் கைது செய்யப்பட்டுள்ளனர். இவர்களில் மகேந்திர சிம்ஹன், சாந்தி, லாசர், கணேசன், சீனிவாசன், சக்திவேல், பாபு, பார்த்திபன், பெருமாள் என்ற பாலா ஆகியோரும் அடங்குவர். விபசார தடுப்பு பிரிவு வழக்கில் நவம்பர் 11ஆம் தேதி நீதிமன்றத்தில் குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டது. அதன் நகல்கள் நவம்பர் 17ஆம் தேதி குற்றவாளிகளுக்கு வழங்கப்பட்டன. மற்றொரு விபசார தடுப்பு பிரிவு வழக்கில் நவம்பர் 23ஆம் தேதி குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டது. இந்த வழக்கில் தலைமறைவான பிரகாஷை கைது செய்ய பிடியாணை பிறப்பிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னையில் ஜெம் வீரமணி மீது 2வது வழக்கில் குற்றப்பத்திரிகை தாக்கல்\n\n📰 முழு விவரம்:\nசிறுமிகளை மிரட்டி பாலியல் பலாத்காரம் செய்த வழக்கில் தொழிலதிபர் ஜெம் வீரமணி மற்றும் அவரது கூட்டாளிகள் மீது சிறப்பு புலனாய்வு பிரிவில் 9 வழக்குகள் பதிவு செய்யப்பட்டுள்ளன.\nவிசாரணையில் இதுவரை 18 சிறுமிகள் பாலியல் துன்புறுத்தலுக்கு உள்ளானது கண்டுபிடிக்கப்பட்டுள்ளது.\nவிபசார தடுப்பு பிரிவு வழக்கில் நவம்பர் 11ஆம் தேதி நீதிமன்றத்தில் குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டது. நகல்கள் நவம்பர் 17ஆம் தேதி குற்றவாளிகளுக்கு வழங்கப்பட்டன.\nமற்றொரு விபசார தடுப்பு பிரிவு வழக்கில் நவம்பர் 23ஆம் தேதி குற்றப்பத்திரிகை தாக்கல் செய்யப்பட்டது.\n👮 நடவடிக்கை: தலைமறைவான பிரகாஷை கைது செய்ய பிடியாணை பிறப்பிக்கப்பட்டுள்ளது.\n\nGem Veeramani chargesheet filed, 18 girls affected | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஇதுபோன்ற செய்திகளை Share செய்யுங்கள். உள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #குற்றம்",
+   "prompts": "A stack of legal case files and a printed chargesheet lie on a wooden table in a Chennai court complex, with a Tamil Nadu police officer in khaki uniform seen from behind reviewing papers. Behind him a corridor of a district court building has ceiling fans and a few lawyers in black coats and white shirts walking slowly, shown far away and slightly blurred. Daylight comes through tall windows, giving a sober, official atmosphere. Concrete pillars and a wooden bench sit at the edge of the frame. The scene conveys a criminal case being formally filed in a Chennai court. Camera at eye level, 35 mm, wide enough to show the courtroom corridor and the desk with documents. No faces, no readable text. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a thick bundle of court documents and a sealed case file tied with red tape on a government office desk in Chennai, with a pen and a warrant-style paper beside it, slightly out of focus. In the background, a khaki-clad police constable stands at a distance seen from behind near a steel almirah filled with files. Harsh tube light and a ceiling fan overhead, daytime through a barred window. The folder edges and paper stack are the clear focal point. Camera slightly high, 35 mm close detail, shallow depth of field. No readable text, no faces, no signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/gemveeramani_case_charge_sheet_filed",
+   "published": "2026-11-26T01:42:08+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 10",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795635339/chennaiminnal/pkxffygrdtf0tv7zp3rs.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795635347/chennaiminnal/bkra6ez8yz2fxia0azwo.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649679/chennaiminnal/rxz6sqxaricqlt1o0yqo.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649683/chennaiminnal/fabeustz1fukp9njixip.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை உரத் தொழிற்சாலை உள்பட 6 ஆலை விரிவாக்கத் திட்டங்களுக்கு மத்திய அரசு ஒப்புதல்",
+   "english_headline": "Centre approves expansion of 6 urea plants including Chennai Fertilisers at Manali under new investment policy",
+   "category": "Government & Services",
+   "location": "Manali, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு அறிவிப்பு",
+    "loc": "மணலி, சென்னை",
+    "hl1": "மணலி சென்னை உரத் தொழிற்சாலை",
+    "hl2": "ரூ.54,000 கோடி முதலீடு",
+    "slides": [
+     {
+      "title": "என்ன முடிவு?",
+      "lines": [
+       "6 யூரியா ஆலை விரிவாக்கத் திட்டங்களுக்கு மத்திய அரசு ஒப்புதல்",
+       "சென்னை மணலியில் உள்ள சென்னை உரத் தொழிற்சாலையும் இதில் உள்ளது",
+       "ரூ.54,000 கோடி மதிப்பில் திட்டம்"
+      ]
+     },
+     {
+      "title": "ஏன் இந்த முடிவு?",
+      "lines": [
+       "கடந்த ஜூலையில் அறிவிக்கப்பட்ட புதிய யூரியா",
+       "18 திட்ட முன்மொழிவுகளில் 6 தேர்வு செய்யப்பட்டன",
+       "வெளிநாட்டு உர இறக்குமதியைக் குறைப்பதே நோக்கம்"
+      ]
+     },
+     {
+      "title": "மற்ற ஆலைகள்",
+      "lines": [
+       "பஞ்சாப், உத்தர பிரதேசம், மேற்கு வங்கம், ராஜஸ்தான் ஆலைகளும்",
+       "நாடு உர உற்பத்தியில் தன்னிறைவு அடைவதே இலக்கு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னை மணலியில் உள்ள சென்னை உரத் தொழிற்சாலை விரிவாக்கத்துக்கு மத்திய அரசு ஒப்புதல் அளித்துள்ளது. ரூ.54,000 கோடி மதிப்பிலான இந்தத் திட்டம் உட்பட 6 யூரியா ஆலை விரிவாக்கத் திட்டங்களுக்கு ஒப்புதல் வழங்கப்பட்டுள்ளது. கடந்த ஜூலையில் அறிவிக்கப்பட்ட 2026ஆம் ஆண்டுக்கான தேசிய யூரியா முதலீட்டுக் கொள்கையின் கீழ் இந்த முடிவு எடுக்கப்பட்டுள்ளது. புதிய ஆலைகளை அமைக்கவும், ஏற்கெனவே உள்ள ஆலைகளை விரிவுபடுத்தவும் முதலீடுகளை ஈர்ப்பதே இந்தக் கொள்கையின் நோக்கம். இந்தக் கொள்கையின் கீழ் 18 திட்ட முன்மொழிவுகள் பெறப்பட்டன. அவற்றில் எரிவாயு மூலம் யூரியா தயாரிக்கும் 6 திட்டங்கள் அடுத்தகட்ட நடவடிக்கைக்குத் தேர்வு செய்யப்பட்டுள்ளன. பஞ்சாப், உத்தர பிரதேசம், மேற்கு வங்கம், ராஜஸ்தான் மாநிலங்களில் உள்ள ஆலைகளின் விரிவாக்கத் திட்டங்களும் இதில் அடங்கும். வெளிநாடுகளில் இருந்து உர இறக்குமதியைக் குறைத்து, உர உற்பத்தியில் நாடு தன்னிறைவு அடைய வேண்டும் என்பதே இந்த நடவடிக்கையின் நோக்கம். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏭 சென்னை மணலி உரத் தொழிற்சாலை விரிவாக்கத்துக்கு மத்திய அரசு ஒப்புதல்\n\n📰 முழு விவரம்:\nசென்னை மணலியில் உள்ள சென்னை உரத் தொழிற்சாலை உள்பட 6 யூரியா ஆலை விரிவாக்கத் திட்டங்களுக்கு மத்திய அரசு ஒப்புதல் அளித்துள்ளது. ரூ.54,000 கோடி மதிப்பில் இந்தத் திட்டம் அமையவுள்ளது.\nகடந்த ஜூலையில் அறிவிக்கப்பட்ட 2026ஆம் ஆண்டுக்கான தேசிய யூரியா முதலீட்டுக் கொள்கையின் கீழ் 18 திட்ட முன்மொழிவுகள் பெறப்பட்டன. அவற்றில் எரிவாயு மூலம் யூரியா தயாரிக்கும் 6 திட்டங்கள் தேர்வு செய்யப்பட்டுள்ளன.\nபஞ்சாப் நங்கல், உத்தர பிரதேசம் ஷாஜஹான்பூர், ஜகதீஷ்பூர், மேற்கு வங்கம் பானாகர், ராஜஸ்தான் கடேபன் ஆகிய இடங்களில் உள்ள ஆலைகளும் இதில் அடங்கும்.\nவெளிநாட்டு உர இறக்குமதியைக் குறைத்து, உர உற்பத்தியில் தன்னிறைவு அடைவதே இந்த நடவடிக்கையின் நோக்கம் என மத்திய உரத் துறை மூத்த அதிகாரி தெரிவித்தார்.\n\nCentre approves Chennai Fertilisers Manali expansion | Chennai news\n📍 மணலி, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Manali #ChennaiNews #சென்னை",
+   "prompts": "Industrial chimneys and tall white storage tanks of the Chennai Fertilisers plant rise above the flat landscape at Manali, on the northern outskirts of Chennai city. Pipelines run across a concrete yard where a few plant workers in shirts and trousers walk past, seen from behind and far away, one carrying a folder. Rows of industrial sheds and a stacked pile of white urea fertiliser sacks sit at the edge of the yard near a freight lorry parked by the gate. Daylight, clear sky, a faint haze over the industrial belt. Camera at eye level, 35 mm, wide enough to show the whole plant complex with its chimneys and pipes. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked white urea fertiliser sacks piled on a concrete platform inside the Manali plant, with a steel pipeline and a valve assembly running behind them. A plant worker in a shirt and trousers stands far in the background, seen from behind, slightly blurred, inspecting the stack. Metal railings, a loading area and a corner of an industrial shed frame the scene. Daylight, neutral tones, dust on the concrete. Camera slightly high, 50 mm, shallow depth of field to keep the sacks sharp and the background soft. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/25/major-step-by-india-towards-self-reliance-in-urea-production-6-new-plants-approved",
+   "published": "2026-11-25T21:55:15.683Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649692/chennaiminnal/sbnydbwrvea1n0n7svmy.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649695/chennaiminnal/hrjrpnlmmgfet0ydbmev.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருமுடிவாக்கம், குன்றத்தூர், திருநீர்மலை சாலைகளில் பள்ளங்கள்: விபத்து அபாயம்",
+   "english_headline": "Potholed roads in Thirumudivakkam, Kundrathur and Thirunirmalai pose accident risk; residents say no action taken",
+   "category": "Roads & Transport",
+   "location": "Thirumudivakkam, Kundrathur, Thirunirmalai, Chennai district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை பிரச்னை",
+    "loc": "திருமுடிவாக்கம், குன்றத்தூர்",
+    "hl1": "திருமுடிவாக்கம், குன்றத்தூர் சாலைகளில்",
+    "hl2": "விபத்து அபாயம் அதிகரிப்பு",
+    "slides": [
+     {
+      "title": "என்ன பிரச்னை?",
+      "lines": [
+       "திருமுடிவாக்கம், குன்றத்தூர், திருநீர்மலை சாலைகள்",
+       "தினமும் விபத்துகளும் போக்குவரத்து நெரிசலும் ஏற்படுகின்றன",
+       "பள்ளங்களில் மழைநீர் தேங்கி ஆழம் தெரிவதில்லை"
+      ]
+     },
+     {
+      "title": "ஏன் ஆபத்து?",
+      "lines": [
+       "இரவில் போதிய வெளிச்சம் இல்லை",
+       "பள்ளங்களைத் தவிர்க்க திடீரெனத் திரும்பும் இருசக்கர",
+       "ஜல்லிக் கற்கள் சாலையில் சிதறிக் கிடக்கின்றன"
+      ]
+     },
+     {
+      "title": "புகார்கள் என்ன",
+      "lines": [
+       "நெடுஞ்சாலைத் துறையிடம் பலமுறை புகார் அளிக்கப்பட்டது",
+       "நம்ம சாலை செயலியில் புகார் செய்தும் நடவடிக்கை இல்லை",
+       "மக்கள் வேதனை தெரிவிக்கின்றனர்"
+      ]
+     },
+     {
+      "title": "மக்கள் கோரிக்கை",
+      "lines": [
+       "சாலைகளை நேரில் ஆய்வு செய்ய வேண்டும்",
+       "பள்ளங்களை மூடித் தற்காலிகச் சீரமைப்புப் பணி செய்ய வேண்டும்",
+       "நம்ம சாலை செயலியை மீண்டும் சரியாக இயக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "திருமுடிவாக்கம், குன்றத்தூர், திருநீர்மலை பகுதி சாலைகள் குண்டும் குழியுமாக உள்ளதால் விபத்து அபாயம் அதிகரித்துள்ளது. இந்தப் பகுதிகளில் குடியிருப்புகள், தொழிற்சாலைகள், வணிக நிறுவனங்கள் அதிகரித்து வருவதால் நாள்தோறும் ஏராளமான வாகனங்கள் இந்தச் சாலைகளைப் பயன்படுத்துகின்றன. பல இடங்களில் பெரிய பள்ளங்கள் உருவாகியுள்ளன. மழைக்காலத்தில் பள்ளங்களில் தண்ணீர் தேங்குவதால் அவற்றின் ஆழம் தெரிவதில்லை. இருசக்கர வாகன ஓட்டிகள் தடுமாறி விழுகின்றனர். பள்ளங்களைத் தவிர்க்கத் திடீரெனத் திரும்பும் வாகனங்கள் பின்னால் வரும் வாகனங்கள் மீது மோதுகின்றன. இரவில் போதிய வெளிச்சம் இல்லாததால் ஆபத்து மேலும் அதிகரிக்கிறது. போக்குவரத்து நெரிசலும் ஏற்படுகிறது. இதுகுறித்து நெடுஞ்சாலைத் துறை அதிகாரிகளிடம் பலமுறை புகார் அளிக்கப்பட்டும் இதுவரை நடவடிக்கை எடுக்கப்படவில்லை என மக்கள் குற்றம் சாட்டுகின்றனர். நம்ம சாலை செயலியில் புகார் அளித்தாலும் நடவடிக்கை இல்லை என்று கூறப்படுகிறது. சாலைகளை நேரில் ஆய்வு செய்து பள்ளங்களை மூட வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 திருமுடிவாக்கம், குன்றத்தூர், திருநீர்மலை சாலைகளில் பள்ளங்கள்: விபத்து அபாயம்\n\n📰 முழு விவரம்:\nதிருமுடிவாக்கம், குன்றத்தூர், திருநீர்மலை உள்ளிட்ட பகுதிகளில் சாலைகள் குண்டும் குழியுமாக மோசமான நிலையில் உள்ளன. சாலைப் பள்ளங்களால் தினமும் விபத்துகள் நடப்பதுடன் போக்குவரத்து நெரிசலும் ஏற்படுகிறது.\nமழைக்காலத்தில் பள்ளங்களில் தண்ணீர் தேங்குவதால் ஆழம் தெரியாமல் இருசக்கர வாகன ஓட்டிகள் விழுகின்றனர். இரவில் போதிய வெளிச்சம் இல்லாததால் ஆபத்து அதிகரிக்கிறது.\nஇதுகுறித்து நெடுஞ்சாலைத் துறை அதிகாரிகளிடம் பலமுறை புகார் அளித்தும் நடவடிக்கை எடுக்கப்படவில்லை என மக்கள் குற்றம் சாட்டுகின்றனர்.\nநம்ம சாலை செயலியில் புகார் அளித்தும் பயனில்லை என்று கூறப்படுகிறது.\n👷 கோரிக்கை: சாலைகளை நேரில் ஆய்வு செய்து, பள்ளங்களை மூடித் தற்காலிகச் சீரமைப்புப் பணி மேற்கொள்ள வேண்டும்; நம்ம சாலை செயலியில் புகார் வசதியை மீண்டும் சரியாக இயக்க வேண்டும்.\n\nPotholed roads Thirumudivakkam Kundrathur accident risk | Chennai news\n📍 திருமுடிவாக்கம், குன்றத்தூர், திருநீர்மலை, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Kundrathur #ChennaiNews #சென்னை",
+   "prompts": "A two-wheeler rider swerves sharply to avoid a deep pothole on a damaged tar road in Thirumudivakkam, while a town bus and a heavy lorry slow down behind him and vehicles crowd onto the same side of the road. The road runs past low-rise residential houses and a few small factory sheds, with a line of electric poles and a tree on one side, typical of a growing Chennai suburb on the outskirts of the city. Two or three other riders on motorcycles and a man in a shirt and veshti walk by the edge, seen from behind or from a distance, and no faces are visible. Vehicles are a red town bus, a grey lorry and several black and silver two-wheelers. The light is overcast daylight after rain, with a wet, shining road surface. The camera is at eye level, 35 mm, wide enough to show the road, the potholes and the surrounding houses. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a deep pothole on a cracked, damaged tarred road in Thirumudivakkam, filled with rain water that hides its depth, with loose gravel stones (jalli) scattered across the broken black surface and the edge of the tar peeling away. A two-wheeler tyre is just entering the frame near the edge of the pit, and the blurred background shows the lower wall of a roadside house and a few parked vehicles. Overcast daylight after rain reflects off the puddle, with wet, dark tar and muddy edges. The camera is slightly high, about 35 mm, focused on the water-filled pit and the broken road surface to show the damage that causes the accidents. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/25/pothole-ridden-roads-residents-of-thirumudivakkam-kundrathur-thiruneermalai-at-risk-of-accidents",
+   "published": "2026-11-25T21:35:54.777Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649702/chennaiminnal/ph5avpfytygr2y0qxtg1.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649705/chennaiminnal/jsccjzjv2rz3wehqhrk7.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அன்பில் மகேஷ் உள்ளிட்ட மூவரிடம் ஒருநாள் போலீஸ் காவல் விசாரணை",
+   "english_headline": "Anbil Mahesh and two others get one-day police custody in Chennai bribe case over private school recognition",
+   "category": "Crime & Safety",
+   "location": "Chennai, Chennai district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றம்",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: மூவரிடம் ஒருநாள் போலீஸ் காவல்",
+    "hl2": "ரூ.400 கோடி லஞ்ச வழக்கு",
+    "slides": [
+     {
+      "title": "என்ன வழக்கு?",
+      "lines": [
+       "தனியார் பள்ளிகளுக்கு அங்கீகாரம் பெற்றுத் தருவதாகக் கூறி",
+       "<b>400 கோடி ரூபாய்</b>க்கு மேல் லஞ்சம் பெற்றதாக வழக்கு",
+       "முன்னாள் அமைச்சர் அன்பில் மகேஷ் உள்ளிட்ட மூவர் மீது புகார்"
+      ]
+     },
+     {
+      "title": "யார் யார்?",
+      "lines": [
+       "முன்னாள் அமைச்சர் அன்பில் மகேஷ்",
+       "தேமுதிக முன்னாள் எம்எல்ஏ முத்துக்குமார்",
+       "அவரது மேலாளர் சரவணன்"
+      ]
+     },
+     {
+      "title": "நீதிமன்ற உத்தரவு",
+      "lines": [
+       "மூவரையும் ஒரு நாள் போலீஸ் காவலில் எடுத்து விசாரிக்க அனுமதி",
+       "சென்னை சிறப்பு நீதிமன்றம் உத்தரவு",
+       "விசாரணை முடிந்து <b>நாளை மாலை 5 மணிக்கு</b> ஆஜர்படுத்த வேண்டும்"
+      ]
+     },
+     {
+      "title": "இதுவரை நடந்தது",
+      "lines": [
+       "அன்பில் மகேஷை <b>3 நாள்</b>, முத்துக்குமாரை <b>5 நாள்</b>",
+       "மத்திய குற்றப் பிரிவு போலீசார் விசாரணை நடத்தினர்",
+       "மூவரும் தற்போது நீதிமன்ற காவலில் சிறையில்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் அன்பில் மகேஷ் உள்ளிட்ட மூவர் ஒருநாள் போலீஸ் காவலுக்கு அனுப்பப்பட்டனர். தனியார் பள்ளிகளுக்கு அங்கீகாரம் பெற்றுத் தருவதாகக் கூறி 400 கோடி ரூபாய்க்கு மேல் லஞ்சம் பெற்றதாக வழக்கு பதிவாகியுள்ளது. முன்னாள் அமைச்சர் அன்பில் மகேஷ், தே மு தி க முன்னாள் எம்எல்ஏ முத்துக்குமார், அவரது மேலாளர் சரவணன் ஆகியோர் நீதிமன்றக் காவலில் சிறையில் உள்ளனர். மத்திய குற்றப் பிரிவு போலீசார் அன்பில் மகேஷை 3 நாட்களும், முத்துக்குமாரை 5 நாட்களும், சரவணனை ஒரு நாளும் காவலில் எடுத்து விசாரித்தனர். மூவரையும் சேர்த்து 2 நாட்கள் காவலில் எடுத்து விசாரிக்க போலீசார் சென்னை ஊழல் தடுப்புச் சட்ட சிறப்பு நீதிமன்றத்தில் மனு தாக்கல் செய்தனர். விசாரித்த நீதிபதி எல் எஸ் சத்தியமூர்த்தி, மூவரையும் ஒரு நாள் காவலில் எடுத்து விசாரிக்க அனுமதி அளித்தார். விசாரணையின் போது மூவர் தரப்பு வழக்கறிஞர் கவனிக்கக் கூடிய தூரத்தில் இருக்கலாம் என நீதிபதி அனுமதித்தார். விசாரணை முடிந்து நாளை, நவம்பர் 27ஆம் தேதி, மாலை 5 மணிக்கு மூவரையும் நீதிமன்றத்தில் ஆஜர்படுத்த வேண்டும் என உத்தரவிட்டார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னை: அன்பில் மகேஷ் உள்ளிட்ட மூவரிடம் ஒருநாள் போலீஸ் காவல் விசாரணை\n\n📰 முழு விவரம்:\nதனியார் பள்ளிகளுக்கு அங்கீகாரம் மற்றும் அனுமதி பெற்றுத் தருவதாகக் கூறி 400 கோடி ரூபாய்க்கு மேல் லஞ்சம் பெற்றதாக பதிவு செய்யப்பட்ட வழக்கில், முன்னாள் அமைச்சர் அன்பில் மகேஷ், தேமுதிக முன்னாள் எம்எல்ஏ முத்துக்குமார், அவரது மேலாளர் சரவணன் ஆகியோர் நீதிமன்றக் காவலில் சிறையில் உள்ளனர்.\nமத்திய குற்றப் பிரிவு போலீசார் அன்பில் மகேஷை 3 நாட்களும், முத்துக்குமாரை 5 நாட்களும், சரவணனை ஒரு நாளும் விசாரித்தனர்.\nமூவரையும் சேர்த்து 2 நாட்கள் காவலில் எடுக்க சென்னை ஊழல் தடுப்புச் சட்ட சிறப்பு நீதிமன்றத்தில் போலீசார் மனு தாக்கல் செய்தனர்.\nநீதிபதி எல்.எஸ்.சத்தியமூர்த்தி மூவரையும் ஒரு நாள் காவலில் எடுத்து விசாரிக்க அனுமதித்தார்.\n👮 நடவடிக்கை: விசாரணை முடிந்து நாளை (நவம்பர் 27) மாலை 5 மணிக்கு மூவரையும் நீதிமன்றத்தில் ஆஜர்படுத்த வேண்டும் என உத்தரவு.\n\nChennai bribe case police custody | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #குற்றம்",
+   "prompts": "A Chennai special court hall in the city, with police in khaki standing near a wooden witness box as a group of lawyers in black coats talk in the corridor. Three men in plain white shirts and veshti are seen from behind, walking between two police constables toward the court exit. Several court clerks carry bundles of case files wrapped in cloth, and a few onlookers stand at a distance along the marble floor. Ceiling fans turn overhead and daylight comes through tall windows. The scene reads as a busy courtroom during working hours, with the people kept at a distance and seen from behind. The camera is at eye level, 35 mm lens, wide enough to show the hall, the police, and the lawyers together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of thick case files and bundled documents tied with red tape on a wooden table in a Chennai court room, with a black-robed lawyer's hand resting on the top folder. Behind the table, out of focus, a police constable in khaki stands guard near a barred window. The papers show no readable text, only stacked sheets and folded corners. Soft daylight from the window falls across the files and the wooden surface. The camera is close and slightly high, 35 mm lens, focused on the documents and shallow background showing the courtroom and police presence. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/private_school_recognition_malpractice_anbilmahesh_inquiry",
+   "published": "2026-11-26T01:39:52+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption copies the article word for word (16 words in a row, 26% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649723/chennaiminnal/bfcdrfcxvcus7af91jz7.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795649726/chennaiminnal/cibradgn40yxgdpj67sa.jpg"
    ]
   }
  ]
