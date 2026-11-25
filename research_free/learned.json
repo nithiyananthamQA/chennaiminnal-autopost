@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-25T11:00+05:30",
+ "updated": "2026-11-25T13:01+05:30",
  "posts_measured": 249,
  "topic_weight": {
-  "accident": 0.36,
-  "civic": -0.18,
-  "crime": 0.04,
-  "education": 0.03,
-  "infra": -0.37,
-  "jobs": -0.33,
-  "politics": -0.31,
+  "accident": 0.33,
+  "civic": -0.2,
+  "crime": 0.03,
+  "education": 1.5,
+  "infra": -0.39,
+  "jobs": -0.35,
+  "politics": -0.33,
   "poultry_agri": -0.5,
-  "power_cut": 0.77,
+  "power_cut": 0.85,
   "sports_culture": -0.28,
-  "temple": -0.21,
-  "weather": 0.08
+  "temple": -0.23,
+  "weather": 0.06
  },
  "topic_n": {
   "crime": 100,
@@ -31,9 +31,9 @@
  },
  "best_hours_ist": [
   2,
+  6,
   5,
-  22,
-  17
+  22
  ],
  "top_openings": [
   "🚨 ஆதம்பாக்கத்தில் தனிப்படை போலீஸ் அதிரடி சோதனை: 3 குற்றவாளிகள் கைது",
@@ -41,11 +41,11 @@
   "🚨 வண்ணாரப்பேட்டை ரவுடி பாம்முரளி கைது: போலீசார் துரத்தியபோது கீழே விழுந்து கை உட",
   "🚨 காசிமேடு மீனவர்கள் காலவரையற்ற வேலை நிறுத்தம் அறிவிப்பு"
  ],
- "avg_watch_s": 6.5,
+ "avg_watch_s": 6.6,
  "best_topics": [
+  "education",
   "power_cut",
-  "accident",
-  "weather"
+  "accident"
  ],
  "weak_topics": [
   "poultry_agri",
@@ -258,5 +258,5 @@
   "weather": "ours"
  },
  "reference_posts_measured": 581,
- "reference_updated": "2026-11-25T10:30+05:30"
+ "reference_updated": "2026-11-25T12:33+05:30"
 }
