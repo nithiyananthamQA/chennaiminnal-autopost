@@ -82,6 +82,22 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `945cc14` | Same code as Kovai Minnal 1f081895 posting: high-signal news posts the same night, not the next morning (owner 25 Nov) |
+| 2026-11-25 | `3140b84` | powercut: notices written |
+| 2026-11-25 | `7a9b02b` | comments: normal comments recorded (not e-mailed) |
+| 2026-11-25 | `a17526f` | powercut: notices written |
+| 2026-11-25 | `2d2f0cb` | powercut: notices written |
+| 2026-11-25 | `1ac608e` | Same code as Kovai Minnal bb9dec08 power cuts: every weekday form is a date word (திங்கட்கிழமை, புதன்கிழமையன்று) |
+| 2026-11-25 | `73a66b0` | Same code as Kovai Minnal 11811038 pick: Bing backup when Google News is busy (reference f4547cce) |
+| 2026-11-25 | `4874b34` | pick: written and posted |
+| 2026-11-25 | `4b4f60d` | pick: picked news saved |
+| 2026-11-25 | `7ff4b51` | Same code as Kovai Minnal 99b98c1a posting: as soon as ready 05:00-24:00; rounds at the Worker's real times |
+| 2026-11-25 | `83b714f` | pick: picked news saved |
+| 2026-11-25 | `117d060` | pick: list sent |
+| 2026-11-25 | `f18a865` | powercut: notices written |
+| 2026-11-25 | `96f8ba0` | Same code as Kovai Minnal bba15f3d Merge branch 'main' of https://github.com/nithiyananthamQA/kovaiminnal-autopost |
+| 2026-11-25 | `4bcf44a` | powercut: notices written |
+| 2026-11-25 | `ae00e32` | comments: normal comments recorded (not e-mailed) |
 | 2026-11-25 | `8670709` | Same code as Kovai Minnal 1ed67cb3 tests: Samayam hours tests use Dindigul as the other district (on the Salem page Salem is its own district - its sync would have stopped) |
 | 2026-11-25 | `ba07897` | powercut: notices written |
 | 2026-11-25 | `15a38f6` | comments: normal comments recorded (not e-mailed) |
@@ -96,20 +112,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `4af3c96` | pick: picked news saved |
 | 2026-11-25 | `ffd2786` | pick: picked news saved |
 | 2026-11-25 | `c3fff73` | pick: list sent |
-| 2026-11-25 | `c3f421f` | powercut: notices written |
-| 2026-11-25 | `58beba9` | comments: normal comments recorded (not e-mailed) |
-| 2026-11-25 | `a24970c` | facebook RN-270 |
-| 2026-11-25 | `96fdec2` | facebook RN-271 |
-| 2026-11-25 | `c67da0e` | facebook RN-262 |
-| 2026-11-25 | `cc4993e` | powercut: notices written |
-| 2026-11-25 | `9beae13` | facebook RN-263 |
-| 2026-11-25 | `ea38723` | facebook RN-264 |
-| 2026-11-25 | `7dc9814` | facebook RN-267 |
-| 2026-11-25 | `0d2e06e` | facebook RN-268 |
-| 2026-11-25 | `8b0d3f9` | powercut: notices written |
-| 2026-11-25 | `0745812` | facebook RN-269 |
-| 2026-11-25 | `09c3527` | facebook RN-266 |
-| 2026-11-25 | `28bfd11` | facebook RN-265 |
-| 2026-11-25 | `7df27bb` | facebook RN-261 |
-| 2026-11-25 | `4069b5b` | facebook RN-258 |
 <!-- recent-changes:end -->
