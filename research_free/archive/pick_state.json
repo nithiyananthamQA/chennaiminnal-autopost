@@ -477,7 +477,8 @@
    "score": 11.06,
    "power_cut": false,
    "listed_at": "2026-11-26T01:01:54.828913+05:30",
-   "picked_at": "2026-11-26T01:03:47.016310+05:30"
+   "picked_at": "2026-11-26T01:03:47.016310+05:30",
+   "posted": true
   },
   "C115aa3d": {
    "id": "C115aa3d",
@@ -490,7 +491,8 @@
    "score": 11.06,
    "power_cut": false,
    "listed_at": "2026-11-26T01:01:54.828913+05:30",
-   "picked_at": "2026-11-26T01:03:47.016312+05:30"
+   "picked_at": "2026-11-26T01:03:47.016312+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C1e766e3": {
    "id": "C1e766e3",
@@ -503,7 +505,8 @@
    "score": 11.06,
    "power_cut": false,
    "listed_at": "2026-11-26T01:01:54.828913+05:30",
-   "picked_at": "2026-11-26T01:03:47.016314+05:30"
+   "picked_at": "2026-11-26T01:03:47.016314+05:30",
+   "posted": true
   },
   "C2091b5f": {
    "id": "C2091b5f",
@@ -528,7 +531,8 @@
    "score": 10.39,
    "power_cut": false,
    "listed_at": "2026-11-26T01:01:54.828913+05:30",
-   "picked_at": "2026-11-26T01:03:47.016316+05:30"
+   "picked_at": "2026-11-26T01:03:47.016316+05:30",
+   "refused": "not filed: stale: price news from 25 Nov, not today"
   },
   "C1b932c1": {
    "id": "C1b932c1",
@@ -2467,7 +2471,11 @@
     "C1e766e3",
     "C22a78ab",
     "Cfaffded"
-   ]
+   ],
+   "refused": {
+    "C22a78ab": "not filed: stale: price news from 25 Nov, not today",
+    "C115aa3d": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
