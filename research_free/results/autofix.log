@@ -1,8 +1,12 @@
-01:07:28 hold lifted: RN-101 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-01:07:32 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-01:07:33 1 held news to fix: ['RN-314']
+05:06:03 location re-check failed (stays held): RN-101 403 Client Error: Forbidden for url: https://www.polimernews.com/video/anti-drug
+05:06:09 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+05:06:12 1 held news to fix: ['RN-314']
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
@@ -18,69 +22,28 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-dead for this round: groq/openai/gpt-oss-120b
-ok groq/qwen/qwen3.8-27b (4s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 9 problems
-  Headline and reel_script say the rain is 'today' (இன்று), but the article says it is expected tomorrow (நாளை, Nov 27).
-  reel_script states the date as 'இன்று நவம்பர் 27ஆம் தேதி', but the article's date (நவ.27) refers to the day after the report, so 'today' is wrong.
-  reel_script says Chennai, Tiruvallur and Chengalpattu will have heavier rain ('மழை கனமாக இருக்கும'); the article only says moderate rain with thunder and lightning in these districts, not heavier rain.
-  reel_script says 'இதற்கு முன் காயல்பட்டினத்தில் 18 சென்டிமீட்டர் மழை' - the article's 18 cm rainfall is from the past 24 hours, which the script presents without the time frame; minor but the phrasing is unclear.
-  reel_script says rain 'in Theni hill areas' will be heavy ('கனமழை') and that 'strong wind rain' will occur; the article says heavy rain with strong wind for Theni hill areas today, which the draft turns into a general claim about the 19 districts' timing ('இன்று'), conflating two different time references.
-  Slide 'மழை எச்சரிக்கை' says rain will occur 'இன்று நவம்பர் 27ஆம் தேதி', repeating the wrong 'today' timing for the tomorrow forecast.
-  Slide 'மக்கள் கவனம்' adds advice to wear rain-protective clothing ('மழைக்காப்பான உடை அணிந்து செல்லுங்கள்') that is not in the article.
-  Caption states 'இன்று நவம்பர் 27ஆம் தேதி' as the alert day, conflicting with the article's forecast for the following day.
-  Caption says 'வானிலை ஆய்வு மையம் இன்று ... எச்சரிக்கை விடுத்துள்ளது' with 'today' wording for a forecast made for tomorrow, mixing two time frames.
-attempt 1 groq/qwen/qwen3.8-27b: 9 problems
-  fact-check: Headline and reel_script say the rain is 'today' (இன்று), but the article says it is expected tomorrow (நாளை, Nov 27).
-  fact-check: reel_script states the date as 'இன்று நவம்பர் 27ஆம் தேதி', but the article's date (நவ.27) refers to the day after the report, so 'today' is wrong.
-  fact-check: reel_script says Chennai, Tiruvallur and Chengalpattu will have heavier rain ('மழை கனமாக இருக்கும'); the article only says moderate rain with thunder and lightning in these districts, not heavier rain.
-  fact-check: reel_script says 'இதற்கு முன் காயல்பட்டினத்தில் 18 சென்டிமீட்டர் மழை' - the article's 18 cm rainfall is from the past 24 hours, which the script presents without the time frame; minor but the phrasing is unclear.
-  fact-check: reel_script says rain 'in Theni hill areas' will be heavy ('கனமழை') and that 'strong wind rain' will occur; the article says heavy rain with strong wind for Theni hill areas today, which the draft turns into a general claim about the 19 districts' timing ('இன்று'), conflating two different time references.
-  fact-check: Slide 'மழை எச்சரிக்கை' says rain will occur 'இன்று நவம்பர் 27ஆம் தேதி', repeating the wrong 'today' timing for the tomorrow forecast.
-  fact-check: Slide 'மக்கள் கவனம்' adds advice to wear rain-protective clothing ('மழைக்காப்பான உடை அணிந்து செல்லுங்கள்') that is not in the article.
-  fact-check: Caption states 'இன்று நவம்பர் 27ஆம் தேதி' as the alert day, conflicting with the article's forecast for the following day.
-  fact-check: Caption says 'வானிலை ஆய்வு மையம் இன்று ... எச்சரிக்கை விடுத்துள்ளது' with 'today' wording for a forecast made for tomorrow, mixing two time frames.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
   slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
   day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The article says the moderate rain with thunder is expected tomorrow (நாளை, Nov 27), but the draft says 'இன்று' (today) throughout the headline, reel script, slides and caption, so the date/timing is wrong.
-  The draft says 'தேனி மாவட்டத்தின் மலைப்பகுதிகளில் இன்று ... கனமழை' (heavy rain today in Theni hill areas); the article attributes the heavy rain forecast to today, which is consistent, but the rest of the forecast for the 19 districts being 'today' contradicts the article's 'tomorrow'.
-  The slides and caption state 'நாள்: இன்று (நவ. 27)' which places the 27 Nov forecast as today, while the article gives நாளை (நவ.27) i.e. tomorrow, meaning the forecast date is misstated.
-  The reel_script omits that the 18 cm rainfall figure is for the 24 hours up to 'this morning' and the caption presents it as 'கடந்த 24 மணி நேரத்தில்' - this is acceptable, but the reel script's statement that the cause of the rain is the air-pressure trough is correct; however the slides also attribute 'நேற்றைய மழை' which the article does not state as yesterday.
-  The slide 'புதுச்சேரியிலும் மழைக்கு வாய்ப்பு' under the Theni heading mixes two different areas (Theni hills with heavy rain and Puducherry with moderate rain) into one slide, and the reel_script's line 'புதுச்சேரியிலும் இதே நிலை இருக்கும்' wrongly implies the same condition (thunder with moderate rain) as the 19 districts, which is roughly consistent but the framing mixes distinct facts.
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The article says the moderate rain with thunder is expected tomorrow (நாளை, Nov 27), but the draft says 'இன்று' (today) throughout the headline, reel script, slides and caption, so the date/timing is wrong.
-  fact-check: The draft says 'தேனி மாவட்டத்தின் மலைப்பகுதிகளில் இன்று ... கனமழை' (heavy rain today in Theni hill areas); the article attributes the heavy rain forecast to today, which is consistent, but the rest of the forecast for the 19 districts being 'today' contradicts the article's 'tomorrow'.
-  fact-check: The slides and caption state 'நாள்: இன்று (நவ. 27)' which places the 27 Nov forecast as today, while the article gives நாளை (நவ.27) i.e. tomorrow, meaning the forecast date is misstated.
-  fact-check: The reel_script omits that the 18 cm rainfall figure is for the 24 hours up to 'this morning' and the caption presents it as 'கடந்த 24 மணி நேரத்தில்' - this is acceptable, but the reel script's statement that the cause of the rain is the air-pressure trough is correct; however the slides also attribute 'நேற்றைய மழை' which the article does not state as yesterday.
-  fact-check: The slide 'புதுச்சேரியிலும் மழைக்கு வாய்ப்பு' under the Theni heading mixes two different areas (Theni hills with heavy rain and Puducherry with moderate rain) into one slide, and the reel_script's line 'புதுச்சேரியிலும் இதே நிலை இருக்கும்' wrongly implies the same condition (thunder with moderate rain) as the 19 districts, which is roughly consistent but the framing mixes distinct facts.
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
   sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
   slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6k595xsevr8qckv4ngn66p1` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1801. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6k595xsevr8qckv4ngn66p1` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1664. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
 
-01:08:28 RN-314 NOT fixed (try 1 of 2 ): still held: held: fact-check problems - day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
+05:07:33 RN-314 NOT fixed (try 2 of 2 ): still held: held: fact-check problems - day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
