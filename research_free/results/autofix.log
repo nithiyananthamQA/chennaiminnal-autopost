@@ -1,6 +1,6 @@
-09:06:44 hold lifted: RN-101 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-09:06:48 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-09:06:48 3 held news to fix: ['RN-290', 'RN-298', 'RN-301']
+13:06:41 hold lifted: RN-101 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+13:06:47 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+13:06:48 2 held news to fix: ['RN-301', 'RN-303']
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
@@ -20,84 +20,53 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
 dead for this round: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 dead for this round: groq/openai/gpt-oss-120b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+dead for this round: groq/qwen/qwen3.8-27b
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 ok anthropic/claude-haiku-5-5
 claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  numbers not found in the article: 2028
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 20272028 ('15,000 வழங்கும் திட்டம் தொடர்ந்து செயல்படும் நிலையில், தொடக்')
+  sentence 1 (one-line story) has 18 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  day word wrong: the draft says நாளை, written from the paper of 25 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together with the date
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 20272028 ('15,000 வழங்கும் திட்டம் தொடர்ந்து செயல்படும் நிலையில், தொடக்')
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  numbers not found in the article: 2028
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 20272028 ('15,000 வழங்கும் திட்டம் தொடர்ந்து செயல்படும் நிலையில், தொடக்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/qwen/qwen3.8-27b (4s)
-proofread rejected (3 problems)
-  missing key: reel_script
-  missing key: caption
-  missing key: scenes
-09:07:27 RN-290 FIXED - posts with the corrected text: 300 திருக்குறள் ஒப்பிக்கும் 500 தொடக்கப்பள்ளி மாணவர்களுக்கு தலா ரூ.5,000 பரிசு
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  numbers not found in the article: 598004
-  hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('சென்னை: அடை​யாறு பகுதி​யில் மின் திருட்​டில் ஈடு​பட்ட நுகர்​'); 98 ('சென்னை: அடை​யாறு பகுதி​யில் மின் திருட்​டில் ஈடு​பட்ட நுகர்​'); 5 ('அப்​போது ஒரு உயர் மதிப்​புள்ள மின் திருட்டு கண்​டு​பி​டிக்​க'); 98,004 ('அப்​போது ஒரு உயர் மதிப்​புள்ள மின் திருட்டு கண்​டு​பி​டிக்​க'); 32 ('மேலும், சம்​பந்​தப்​பட்ட மின் நுகர்​வோர்​கள் குற்​றத்தை ஒப்​'); 6 ('சென்னை: மின்சாரம் திருடியவருக்கு ரூ.6 லட்சம் அபராதம்')
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  numbers not found in the article: 598004
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: மின்சாரம் திருடியவருக்கு ரூ.6 லட்சம் அபராதம்')
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  reel_script has 176 words; need 77-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('எழும்பூர்: குளக்கரை சாலை, கிருஷ்ணதாஸ் சாலை, பார்க் தெரு, ஹைத'); 1 ('காலனி 1 முதல் 3வது குறுக்கு தெரு, சின்னபாபு தெரு, ராமானுஜம் '); 4 ('காலனி 1 முதல் 3வது குறுக்கு தெரு, சின்னபாபு தெரு, ராமானுஜம் '); 5 ('காலனி 1 முதல் 3வது குறுக்கு தெரு, சின்னபாபு தெரு, ராமானுஜம் '); 6 ('நகர், சாந்தி நகர், அருள் நகர், வி.ஜி.ஏ., நகர், காமராஜபுரம், '); 8 ('நகர், சாந்தி நகர், அருள் நகர், வி.ஜி.ஏ., நகர், காமராஜபுரம், ')
+  day word wrong: the draft says நாளை, written from the paper of 25 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together with the date
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  slides_spec.loc 'சென்னை மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('சென்னை: மின்சாரம் திருடியவருக்கு ரூ.6 லட்சம் அபராதம்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6k595xsevr8qckv4ngn66p1` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1659. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-09:07:50 RN-298 FIXED - posts with the corrected text: அடையாறு மின் திருட்டு: நுகர்வோருக்கு ரூ.5.98 லட்சம் அபராதம்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
   reel_script sentence 1 (heard in the first 3 seconds) must name the place 'எழும்பூர்' and the news itself, e.g. 'எழும்பூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
   day word wrong: the draft says நாளை, written from the paper of 25 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together with the date
-ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+proofread skipped: no free model answered: None
+13:07:20 RN-301 NOT fixed (try 2 of 2 ): still held: held: fact-check problems - day word wrong: the draft says நாளை, written from the paper of 25 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together wit
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption copies the article word for word (15 words in a row, 19% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The reel_script and slides_spec give the date as 26 November and the weekday as Thursday, but the article only says 'நாளை' (tomorrow) and gives no date or weekday; these are invented details.
-  The caption says 'இன்று (நவ. 26, வியாழக்கிழமை)' and the headline/reel say 'இன்று', but the article describes the outage as happening tomorrow ('நாளை'), so the timing word is wrong.
-  The reel_script omits the 'Ramapuram' area listed under Alamathi and several Ekkattuthangal/IT corridor localities, and the slides list 'ராஜாஜி சாலை' under Pallavaram as the area but also say 'இப்பகுதி மக்கள் முன்கூட்டியே தயாராக இருங்கள்' which is not in the article; the 'Mobile charge' advice in the caption is not in the article.
-  The reel_script says 'எழும்பூரில் குளக்கரை சாலை... ஆகியவை உள்ளன' and lists Pallavaram 'ராஜாஜி சாலை' in slides though the article places ராஜாஜி சாலை in Pallavaram list only, which is consistent; however the reel_script says 'ஐ டி காரிடாரில்... தாழம்பூர் ஆகிய பகுதிகளில் மின் தடை இருக்கும்' while slides say 'இப்பகுதி மக்கள் முன்கூட்டியே தயாராக இருங்கள்', an unsupported added instruction.
-  The caption's hashtag-free English line 'Chennai power cut today 10 am to 3 pm' repeats 'today', conflicting with the article's 'tomorrow'.
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The reel_script and slides_spec give the date as 26 November and the weekday as Thursday, but the article only says 'நாளை' (tomorrow) and gives no date or weekday; these are invented details.
-  fact-check: The caption says 'இன்று (நவ. 26, வியாழக்கிழமை)' and the headline/reel say 'இன்று', but the article describes the outage as happening tomorrow ('நாளை'), so the timing word is wrong.
-  fact-check: The reel_script omits the 'Ramapuram' area listed under Alamathi and several Ekkattuthangal/IT corridor localities, and the slides list 'ராஜாஜி சாலை' under Pallavaram as the area but also say 'இப்பகுதி மக்கள் முன்கூட்டியே தயாராக இருங்கள்' which is not in the article; the 'Mobile charge' advice in the caption is not in the article.
-  fact-check: The reel_script says 'எழும்பூரில் குளக்கரை சாலை... ஆகியவை உள்ளன' and lists Pallavaram 'ராஜாஜி சாலை' in slides though the article places ராஜாஜி சாலை in Pallavaram list only, which is consistent; however the reel_script says 'ஐ டி காரிடாரில்... தாழம்பூர் ஆகிய பகுதிகளில் மின் தடை இருக்கும்' while slides say 'இப்பகுதி மக்கள் முன்கூட்டியே தயாராக இருங்கள்', an unsupported added instruction.
-  fact-check: The caption's hashtag-free English line 'Chennai power cut today 10 am to 3 pm' repeats 'today', conflicting with the article's 'tomorrow'.
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  day word wrong: the draft says நாளை, written from the paper of 25 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together with the date
+  The draft names the 2-year-old child as the victim in the article's terms, but the draft's slides_spec and caption describe the child only by age/role, which is fine; however, the article names the 2-year-old girl 'தன்ஷிகா' - the draft does not name her, so no violation there. Problem found: the caption and reel_script state the child is a 'பெண் குழந்தை' (girl) in the caption and slides, which the article does state, so no issue.
+  The draft omits the father's name in some places but includes 'அறிவழகன்' in reel_script and caption; this is an adult named in the article and is acceptable.
+  The reel_script says the fire 'இந்த சம்பவம் நடந்தது' at Madhavaram and describes the diesel can as 'அறிவழகனின் டீசல் கேன்', which is consistent with the article.
+  The reel_script's line 'தந்தையையும் 2 வயது குழந்தையும் உயிரிழந்தனர்' is accurate; no invented details were found in the headline, reel, slides or caption beyond the footer, which is excluded from review.
+  The caption's English footer 'Madhavaram fire, father and child dead | Chennai news' is part of the footer and is excluded from review.
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The draft names the 2-year-old child as the victim in the article's terms, but the draft's slides_spec and caption describe the child only by age/role, which is fine; however, the article names the 2-year-old girl 'தன்ஷிகா' - the draft does not name her, so no violation there. Problem found: the caption and reel_script state the child is a 'பெண் குழந்தை' (girl) in the caption and slides, which the article does state, so no issue.
+  fact-check: The draft omits the father's name in some places but includes 'அறிவழகன்' in reel_script and caption; this is an adult named in the article and is acceptable.
+  fact-check: The reel_script says the fire 'இந்த சம்பவம் நடந்தது' at Madhavaram and describes the diesel can as 'அறிவழகனின் டீசல் கேன்', which is consistent with the article.
+  fact-check: The reel_script's line 'தந்தையையும் 2 வயது குழந்தையும் உயிரிழந்தனர்' is accurate; no invented details were found in the headline, reel, slides or caption beyond the footer, which is excluded from review.
+  fact-check: The caption's English footer 'Madhavaram fire, father and child dead | Chennai news' is part of the footer and is excluded from review.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6k595xsevr8qckv4ngn66p1` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 2048. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-09:08:26 RN-301 NOT fixed (try 1 of 2 ): still held: held: fact-check problems - day word wrong: the draft says நாளை, written from the paper of 25 Nov - that tomorrow is today or over - write the day as it is TODAY (இன்று / நாளை from today) together wit
+proofread skipped: no free model answered: None
+13:07:49 RN-303 FIXED - posts with the corrected text: சென்னை மாதவரத்தில் கார்த்திகை தீபத்தால் தீ விபத்து: தந்தை, குழந்தை பலி
