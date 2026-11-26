@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/heavy-rainfall-likely-in-8-districts-of-tamil-nadu-tomorrow/4382973": {
-   "at": "2026-11-22T13:50:51.621022+05:30",
-   "power_cut": false,
-   "why": "not a power cut",
-   "title": "தமிழகத்தில் நாளை 8 மாவட்டங்களில் கனமழைக்கு வாய்ப்பு"
-  },
   "https://tamil.abplive.com/news/dharmapuri/dharmapuri-power-cut-19-11-2026-know-timings-areas-affected-by-power-shutdown-280024#district-section": {
    "at": "2026-11-22T14:50:47.860957+05:30",
    "power_cut": false,
@@ -1793,15 +1787,17 @@
    "power_cut": false,
    "why": "other district",
    "title": "இன்றைய மின் தடை: திருவள்ளூர்"
+  },
+  "https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-27-2026-due-to-maintenance-work/articleshow/136183551.cms#district-section": {
+   "at": "2026-11-26T13:50:51.502057+05:30",
+   "power_cut": false,
+   "why": "not this district",
+   "title": "தமிழகத்தில் நாளை (27-11-2026) மின்தடை அறிவிப்பு! ஏரியாக்கள் லிஸ்ட் இதோ!"
   }
  },
  "done": {},
  "retried": {},
  "refused": {
-  "Cae7ad60": {
-   "why": "not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-   "at": "2026-11-24T13:56:11.988237+05:30"
-  },
   "C742d8e9": {
    "why": "not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
    "at": "2026-11-25T05:57:11.448296+05:30"
@@ -1817,6 +1813,10 @@
   "C7524d94": {
    "why": "not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
    "at": "2026-11-26T09:56:41.740558+05:30"
+  },
+  "Cd7c54e9": {
+   "why": "not filed: duplicate after write",
+   "at": "2026-11-26T13:57:15.812453+05:30"
   }
  }
 }
