@@ -1107,7 +1107,8 @@
    "score": 11.08,
    "power_cut": false,
    "listed_at": "2026-11-27T05:01:27.971250+05:30",
-   "picked_at": "2026-11-27T05:03:11.492895+05:30"
+   "picked_at": "2026-11-27T05:03:11.492895+05:30",
+   "posted": true
   },
   "C0307224": {
    "id": "C0307224",
@@ -1120,7 +1121,8 @@
    "score": 8.67,
    "power_cut": false,
    "listed_at": "2026-11-27T05:01:27.971250+05:30",
-   "picked_at": "2026-11-27T05:03:11.492913+05:30"
+   "picked_at": "2026-11-27T05:03:11.492913+05:30",
+   "posted": true
   },
   "C26b3227": {
    "id": "C26b3227",
@@ -1133,7 +1135,8 @@
    "score": 8.67,
    "power_cut": false,
    "listed_at": "2026-11-27T05:01:27.971250+05:30",
-   "picked_at": "2026-11-27T05:03:11.492917+05:30"
+   "picked_at": "2026-11-27T05:03:11.492917+05:30",
+   "posted": true
   },
   "Ca04109a": {
    "id": "Ca04109a",
@@ -1146,7 +1149,8 @@
    "score": 8.67,
    "power_cut": false,
    "listed_at": "2026-11-27T05:01:27.971250+05:30",
-   "picked_at": "2026-11-27T05:03:11.492899+05:30"
+   "picked_at": "2026-11-27T05:03:11.492899+05:30",
+   "posted": true
   },
   "C24e3484": {
    "id": "C24e3484",
@@ -1159,7 +1163,8 @@
    "score": 8.67,
    "power_cut": false,
    "listed_at": "2026-11-27T05:01:27.971250+05:30",
-   "picked_at": "2026-11-27T05:03:11.492903+05:30"
+   "picked_at": "2026-11-27T05:03:11.492903+05:30",
+   "posted": true
   },
   "C119688c": {
    "id": "C119688c",
@@ -1172,7 +1177,8 @@
    "score": 8.67,
    "power_cut": false,
    "listed_at": "2026-11-27T05:01:27.971250+05:30",
-   "picked_at": "2026-11-27T05:03:11.492921+05:30"
+   "picked_at": "2026-11-27T05:03:11.492921+05:30",
+   "posted": true
   },
   "C9534f91": {
    "id": "C9534f91",
@@ -1199,7 +1205,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-27T05:01:27.971250+05:30",
-   "picked_at": "2026-11-27T05:03:11.492909+05:30"
+   "picked_at": "2026-11-27T05:03:11.492909+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C7cd61ae": {
    "id": "C7cd61ae",
@@ -3242,7 +3249,10 @@
     "C26b3227",
     "C387746d",
     "Ca04109a"
-   ]
+   ],
+   "refused": {
+    "C387746d": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {
