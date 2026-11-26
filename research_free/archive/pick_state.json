@@ -797,7 +797,8 @@
     "https://www.dailythanthi.com/news/weather/which-districts-are-likely-to-experience-rain-until-4-pm",
     "https://www.maalaimalar.com/news/tamilnadu/imd-inform-districts-where-rain-is-likely-until-the-29th"
    ],
-   "listed_at": "2026-11-26T17:01:50.200719+05:30"
+   "listed_at": "2026-11-26T17:01:50.200719+05:30",
+   "picked_at": "2026-11-26T17:05:04.437515+05:30"
   },
   "C3cee2e8": {
    "id": "C3cee2e8",
@@ -809,7 +810,8 @@
    "category": "குற்றம்",
    "score": 11.1,
    "power_cut": false,
-   "listed_at": "2026-11-26T17:01:50.200719+05:30"
+   "listed_at": "2026-11-26T17:01:50.200719+05:30",
+   "picked_at": "2026-11-26T17:05:04.437506+05:30"
   },
   "Ce922135": {
    "id": "Ce922135",
@@ -821,7 +823,8 @@
    "category": "குற்றம்",
    "score": 11.1,
    "power_cut": false,
-   "listed_at": "2026-11-26T17:01:50.200719+05:30"
+   "listed_at": "2026-11-26T17:01:50.200719+05:30",
+   "picked_at": "2026-11-26T17:05:04.437518+05:30"
   },
   "Cfba0594": {
    "id": "Cfba0594",
@@ -857,7 +860,8 @@
    "category": "மழை / வானிலை",
    "score": 11.0,
    "power_cut": false,
-   "listed_at": "2026-11-26T17:01:50.200719+05:30"
+   "listed_at": "2026-11-26T17:01:50.200719+05:30",
+   "picked_at": "2026-11-26T17:05:04.437511+05:30"
   },
   "C8475af9": {
    "id": "C8475af9",
@@ -3021,8 +3025,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-26T18:01:50.200719+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 4 of 84 by insights",
+    "ids": [
+     "C3cee2e8",
+     "C8a6132c",
+     "Cc445f69",
+     "Ce922135"
+    ],
+    "at": "2026-11-26T17:05:04.437493+05:30"
+   },
+   "written": [
+    "C3cee2e8",
+    "C8a6132c",
+    "Cc445f69",
+    "Ce922135"
+   ]
   }
  },
  "retry": {
