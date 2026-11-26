@@ -1,3 +1,64 @@
-17:08:17 location re-check failed (stays held): RN-101 403 Client Error: Forbidden for url: https://www.polimernews.com/video/anti-drug
-17:08:21 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-17:08:22 0 held news to fix: []
+21:08:54 hold lifted: RN-101 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+21:08:57 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+21:08:58 1 held news to fix: ['RN-313']
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (4s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (1s)
+factcheck by groq/qwen/qwen3.8-27b: 2 problems
+  The reel_script states the incident happened at night ('இரவு நேரத்தில்'), but the article does not specify the time of day.
+  The slides_spec mentions 'case registered' ('வழக்கு பதிவு'), but the article only states that police are investigating based on the complaint, without explicitly confirming a case registration.
+attempt 1 groq/qwen/qwen3.8-27b: 2 problems
+  fact-check: The reel_script states the incident happened at night ('இரவு நேரத்தில்'), but the article does not specify the time of day.
+  fact-check: The slides_spec mentions 'case registered' ('வழக்கு பதிவு'), but the article only states that police are investigating based on the complaint, without explicitly confirming a case registration.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+dead for this round: groq/qwen/qwen3.8-27b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 1 problems
+  Slide and caption add an advisory ('தனியாக இருப்போர் கவனமாக இருங்கள' / do not admit unknown people) that is not in the article, an invented detail
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  fact-check: Slide and caption add an advisory ('தனியாக இருப்போர் கவனமாக இருங்கள' / do not admit unknown people) that is not in the article, an invented detail
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 1 problems
+  The draft's tamil_headline and reel_script call the victim 'மூதாட்டி' (elderly woman), but the article describes Selvi as 53 years old; the draft's own slides say 53 வயது, so the 'elderly woman' framing is not supported by the article (wording choice is acceptable only if the article described her that way, which it does not).
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  fact-check: The draft's tamil_headline and reel_script call the victim 'மூதாட்டி' (elderly woman), but the article describes Selvi as 53 years old; the draft's own slides say 53 வயது, so the 'elderly woman' framing is not supported by the article (wording choice is acceptable only if the article described her that way, which it does not).
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+21:10:05 RN-313 FIXED - posts with the corrected text: மேற்கு மாம்பலத்தில் கொரோனா ஊசி கேட்டு பெண்ணிடம் நகை பறிப்பு

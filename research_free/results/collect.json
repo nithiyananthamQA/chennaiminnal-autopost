@@ -3,20 +3,20 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinakaran.com/news/chennai-pledging-of-fake-gold-jewellery-3-arrested",
-  "manual link added: https://www.dailythanthi.com/news/weather/heavy-rain-forecast-7-districts-tamil-nadu",
-  "manual link added: https://www.dailythanthi.com/news/weather/which-districts-are-likely-to-experience-rain-until-7-pm-5",
-  "manual link added: https://www.dinakaran.com/news/tender-case-k-n-nehru-brother-assistant-arrested",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/jewellery-snatched-from-elderly-woman-after-she-was-asked-if-she-had-been-injected-with-corona/4386681",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/4-cannabis-plants-removed-from-railway-track-area/4386764",
+  "manual link added: https://www.maalaimalar.com/news/tamilnadu/agriculture-affected-by-ash-waste-from-the-north-chennai-thermal-power-station",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/two-trucks-fined-for-dumping-sewage-into-drain/4386655",
   "candidate filter: collected=4",
   "to write: 4 Chennai district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinakaran.com/news/tender-case-k-n-nehru-brother",
-  "try (N) manual=True: https://www.dailythanthi.com/news/weather/which-districts-ar",
-  "try (N) manual=True: https://www.dailythanthi.com/news/weather/heavy-rain-forecas",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
+  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/agriculture-affec",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinakaran.com/news/chennai-pledging-of-fake-gold",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
@@ -27,40 +27,43 @@
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (21s)",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -69,17 +72,6 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -87,11 +79,33 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -101,247 +115,235 @@
  ],
  "stories": [
   {
-   "tamil_headline": "டெண்டர் முறைகேடு வழக்கில் கே.என்.நேருவின் சகோதரர் உதவியாளர் கவி பிரசாத் சென்னை விமான நிலையத்தில் கைது",
-   "english_headline": "Tender irregularity case: K.N. Nehru's brother's assistant Kavi Prasad arrested at Chennai airport while trying to flee abroad",
-   "category": "Crime & Safety",
-   "location": "Chennai airport, Chennai city, Chennai district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "வடிகாலில் கழிவுநீர் கொட்டிய இரு லாரிகளுக்கு அபராதம்",
+   "english_headline": "Two lorries fined for dumping sewage into drain at Velappanchavadi, Thiruverkadu",
+   "category": "Civic Issues",
+   "location": "Velappanchavadi, Thiruverkadu, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "கைது செய்தி",
-    "loc": "சென்னை விமான நிலையம்",
-    "hl1": "வெளிநாடு செல்ல முயன்ற உதவியாளர் கைது",
-    "hl2": "டெண்டர் முறைகேடு வழக்கில்",
+    "cat": "சாலை வடிகால்",
+    "loc": "வேலப்பன்சாவடி, திருவேற்காடு",
+    "hl1": "வேலப்பன்சாவடியில் வடிகாலில் கழிவுநீர்",
+    "hl2": "தலா ரூ.10,000 அபராதம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சென்னை விமான நிலையத்தில் கவி பிரசாத் கைது",
-       "வெளிநாடு தப்பிச் செல்ல முயன்றபோது பிடிபட்டார்",
-       "லஞ்ச ஒழிப்புத்துறை போலீசார் கைது செய்தனர்"
+       "வேலப்பன்சாவடியில் தேசிய நெடுஞ்சாலை மழைநீர் வடிகாலில்",
+       "இரு லாரிகள் வடிகாலை உடைத்து கழிவுநீரைக் கொட்டின"
       ]
      },
      {
-      "title": "பின்னணி",
+      "title": "ஏன் பிரச்சனை?",
       "lines": [
-       "நகராட்சி நிர்வாகத் துறையில் டெண்டர், பணி நியமன முறைகேடு",
-       "கே.என்.நேருவின் சகோதரர் ரவிச்சந்திரனின் உதவியாளர் கவி",
-       "முன்கூட்டியே ஒப்பந்ததாரர்களுக்குப் பணிகள்"
+       "வடிகால் அடைப்பால் சிறிய மழைக்கும் தண்ணீர் செல்ல வழியில்லை",
+       "சாலையில் கழிவுநீர் தேங்கி வாகன ஓட்டிகள் அவதிப்படுகின்றனர்"
       ]
      },
      {
-      "title": "விசாரணை விவரம்",
+      "title": "நடவடிக்கை",
       "lines": [
-       "2,538 பணியிடங்கள் நிரப்பப்பட்டதில் ரூ.634 கோடி",
-       "செப்டம்பர் 5 அன்று 30 இடங்களில் சோதனை நடந்தது",
-       "அக்டோபர் 29 அன்று 25 இடங்களில் மீண்டும் சோதனை"
-      ]
-     },
-     {
-      "title": "தலைமறைவு",
-      "lines": [
-       "வெளிநாடு செல்லாமல் தடுக்க லுக் அவுட் நோட்டீஸ் அனுப்பப்பட்டது",
-       "விமான நிலையத்தில் குடியேற்ற அதிகாரிகள் தடுத்து நிறுத்தினர்",
-       "தகவல் தந்ததும் லஞ்ச ஒழிப்புத்துறை கைது செய்தது"
+       "நகராட்சி அதிகாரிகள் திடீர் சோதனையில் இரு",
+       "ஓட்டுநர்கள் யுவராஜ் (45 வயது), இப்ராஹீம் (55 வயது), ஆகியோருக்கு தலா"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை விமான நிலையத்தில் டெண்டர் முறைகேடு வழக்கில் கவி பிரசாத் கைது செய்யப்பட்டார். இவர் முன்னாள் அமைச்சர் கே என் நேருவின் சகோதரர் ரவிச்சந்திரனின் உதவியாளர். நகராட்சி நிர்வாக மற்றும் குடிநீர் வழங்கல் துறையில் டெண்டர் மற்றும் பணி நியமனம் தொடர்பான முறைகேடு வழக்கில் இவர் தேடப்பட்டு வந்தார். கே என் நேரு 2021 மற்றும் 2026ஆம் ஆண்டுகளில் இந்தத் துறையின் அமைச்சராக இருந்தார். இவரது பணிக்காலத்தில் 2,538 பணியிடங்கள் நிரப்பப்பட்டன. அந்தப் பணியிடங்கள் நிரப்பியதில் ரூ.634 கோடி கைமாறியதாக அமலாக்கத்துறை புகார் கூறியது. அதன் அடிப்படையில் லஞ்ச ஒழிப்புத்துறை வழக்குப் பதிவு செய்தது. செப்டம்பர் 5ஆம் தேதி ரவிச்சந்திரனுக்குச் சொந்தமான 30 இடங்களில் சோதனை நடத்தப்பட்டது. அக்டோபர் 29ஆம் தேதி முன்னாள் அமைச்சர் கே என் நேருவுக்குச் சொந்தமான 25 இடங்களிலும் சோதனை நடந்தது. தொலைபேசி உரையாடல்களின் அடிப்படையில், டெண்டர் திறக்கப்படுவதற்கு முன்பே குறிப்பிட்ட ஒப்பந்ததாரர்களுக்குப் பணிகள் ஒதுக்கப்பட்டதாகக் கவி பிரசாத் மீது குற்றச்சாட்டு உள்ளது. வெளிநாடு தப்பாமல் இருக்க அனைத்து விமான நிலையங்களுக்கும் லுக் அவுட் நோட்டீஸ் அனுப்பப்பட்டது. வெளிநாடு செல்ல வந்தபோது குடியேற்ற அதிகாரிகள் அவரைத் தடுத்து நிறுத்தினர். தகவல் அறிந்து வந்த லஞ்ச ஒழிப்புத்துறை போலீசார் அவரைக் கைது செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை விமான நிலையத்தில் டெண்டர் முறைகேடு வழக்கில் கவி பிரசாத் கைது\n\n📰 முழு விவரம்:\nநகராட்சி நிர்வாக மற்றும் குடிநீர் வழங்கல் துறையில் டெண்டர், பணி நியமன முறைகேடு வழக்கில் தேடப்பட்டு வந்த கே.என்.நேருவின் சகோதரர் ரவிச்சந்திரனின் உதவியாளர் கவி பிரசாத், வெளிநாடு தப்பிச் செல்ல முயன்றபோது சென்னை விமான நிலையத்தில் கைது செய்யப்பட்டார்.\n📍 இடம்: சென்னை விமான நிலையம்\n👮 நடவடிக்கை: குடியேற்ற அதிகாரிகள் தடுத்து நிறுத்திய பின், லஞ்ச ஒழிப்புத்துறை போலீசார் கைது செய்து விசாரணை நடத்துகின்றனர்.\n🗓️ பின்னணி: 2,538 பணியிடங்கள் நிரப்பியதில் ரூ.634 கோடி கைமாறியதாக அமலாக்கத்துறை புகார் அளித்ததைத் தொடர்ந்து வழக்குப் பதிவு செய்யப்பட்டது.\n\nChennai airport arrest tender case | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #ChennaiPolice",
-   "prompts": "Inside the departures hall of Chennai airport, a group of plainclothes and uniformed police officers in khaki stands near the immigration counters while a man in a plain shirt and trousers is seen from behind, flanked by immigration officials in uniform. Travellers with rolling suitcases and trolleys move at a distance along the polished floor under bright ceiling lights, and a glass check-in counter with departure boards blurred in the background. The atmosphere is tense but quiet, with officers standing close around the man as he is taken away from the immigration queue. Time appears to be daytime under artificial airport light, with no weather visible through the large glass windows. Camera at eye level, 35 mm, wide enough to show the whole departure hall and the immigration counters. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a table at an airport police room where plastic evidence bags hold stacks of paper files and a few black electronic devices, laptop and hard disks, placed beside a folded official notice. Behind the table, the sleeve of a khaki uniform of a police officer is visible at the edge of the frame, with a blurred airport counter and passengers far in the background. The objects are sharply focused in soft daylight from a window, with a plain desk surface and no readable text in frame. The mood is procedural and serious, emphasising seized documents and devices as the core of the investigation. Camera at slightly high angle, 35 mm, close enough to show the documents and devices clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/tender-case-k-n-nehru-brother-assistant-arrested",
-   "published": "2026-11-26T15:48:53+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சென்னை விமான நிலையம்', e.g. 'சென்னை விமான நிலையம்: ...' or 'சென்னை விமான நிலையம்-இல் ...' - viewers share news of their own area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('அந்த கடித்தின் அடிப்படையில் லஞ்ச ஒழிப்புத்துறை வழக்கு பதிவு '); 30 ('அந்த கடித்தின் அடிப்படையில் லஞ்ச ஒழிப்புத்துறை வழக்கு பதிவு '); 241 ('அந்த சோதனையில் 241 ஆவணங்கள், மின்னணு சாதனங்கள் கைப்பற்றப்பட்'); 25 ('அந்த சோதனையில் 241 ஆவணங்கள், மின்னணு சாதனங்கள் கைப்பற்றப்பட்'); 29 ('அந்த சோதனையில் 241 ஆவணங்கள், மின்னணு சாதனங்கள் கைப்பற்றப்பட்'); 170 ('இந்த சோதனையில் வழக்கு தொடர்பாக 170 ஆவணங்கள், 13 மின்னணு சாதன')",
+   "reel_script": "திருவேற்காடு அருகே வேலப்பன்சாவடியில் வடிகாலில் கழிவுநீர் கொட்டிய இரு லாரிகளுக்கு அபராதம் விதிக்கப்பட்டது. சென்னை – பெங்களூரு தேசிய நெடுஞ்சாலையோரத்தில் உள்ள மழைநீர் வடிகாலை உடைத்து, கழிவுநீரகற்றும் லாரிகள் கழிவுநீரைக் கொட்டி வந்துள்ளன. இதனால் வடிகால் அடைப்பு ஏற்பட்டது. சிறிய மழைக்கே தண்ணீர் செல்ல வழியின்றி சாலையில் கழிவுநீர் தேங்கியது. வாகன ஓட்டிகள் அவதிப்பட்டு வருகின்றனர். திருவேற்காடு நகராட்சி கமிஷனர் ராமர் உத்தரவின்படி, நேற்று அதிகாரிகள் திடீர் சோதனையில் ஈடுபட்டனர். அப்போது கழிவுநீர் கொட்டிய இரு லாரிகள் பிடிபட்டன. லாரி ஓட்டுநர்கள் யுவராஜ் (45 வயது), இப்ராஹீம் (55 வயது), ஆகியோருக்கு தலா 10 ஆயிரம் ரூபாய் அபராதம் விதிக்கப்பட்டது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚛 வடிகாலில் கழிவுநீர் கொட்டிய இரு லாரிகளுக்கு அபராதம்\n\n📰 முழு விவரம்:\nதிருவேற்காடு அடுத்த வேலப்பன்சாவடியில், சென்னை – பெங்களூரு தேசிய நெடுஞ்சாலையோரத்தில் உள்ள மழைநீர் வடிகாலில் கழிவுநீர் கொட்டப்பட்டது. வடிகாலை உடைத்து கழிவுநீரகற்றும் லாரிகள் கழிவுநீரைக் கொட்டி வந்தன. இதனால் வடிகால் அடைப்பட்டு, சிறிய மழைக்கும் தண்ணீர் செல்ல வழியின்றி சாலையில் கழிவுநீர் தேங்கியது. வாகன ஓட்டிகள் அவதிப்படுகின்றனர். திருவேற்காடு நகராட்சி கமிஷனர் ராமர் உத்தரவின்படி அதிகாரிகள் நேற்று திடீர் சோதனை நடத்தினர். கழிவுநீர் கொட்டிய இரு லாரிகள் பிடிபட்டன. ஓட்டுநர்கள் யுவராஜ் (45 வயது), இப்ராஹீம் (55 வயது), ஆகியோருக்கு தலா ரூ.10,000 அபராதம் விதிக்கப்பட்டது.\n📍 இடம்: வேலப்பன்சாவடி, திருவேற்காடு\n👮 நடவடிக்கை: நகராட்சி அதிகாரிகள் இரு லாரிகளைப் பிடித்து தலா ரூ.10,000 அபராதம் விதித்தனர்\n\nTwo lorries fined for sewage dumping in Thiruverkadu drain | Chennai news\n📍 வேலப்பன்சாவடி, திருவேற்காடு, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Thiruverkadu #ChennaiNews #சென்னை",
+   "prompts": "A Thiruverkadu municipal inspection team stops two sewage tanker lorries on the roadside of the Chennai-Bengaluru National Highway at Velappanchavadi, with a dark foul-looking stream of sewage flowing out from a broken section of a concrete storm water drain onto the road. The place is a busy suburban highway edge in Chennai district, with a grey concrete drain lid cracked open, a stretch of tar road beside it, and a few two-wheelers and a car passing at a distance. Two lorries, one white and one grey tanker type, are parked at an angle with their rear hoses still connected to the drain opening. Two men in shirts and trousers stand far off, seen from behind, while officials in plain clothes and a corporation worker in a light uniform inspect the drain. Daylight, slightly overcast, with dull even light. Camera at eye level, 35 mm, wide enough to show the highway, the drain and the lorries together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a broken concrete storm water drain beside a highway in Velappanchavadi, Thiruverkadu, with dark sewage sludge clogging the channel and spilling over its cracked edge onto the wet tar road. Crumbled concrete slabs, a rusted iron grating and a plastic bucket lie near the opening, and a thin film of stagnant grey water sits on the road surface. The blurred shape of a tanker lorry's rear end and a rubber suction hose lie at the edge of the frame. Daylight, flat and grey. Camera close to ground level, 35 mm, shallow depth of field, focused on the blocked drain and sewage. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/two-trucks-fined-for-dumping-sewage-into-drain/4386655",
+   "published": "2026-11-26T15:52:27+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 3 line 2 longer than 60 characters; caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('திருவேற்காடு: வேலப்பன்சாவடி அருகே தேசிய நெடுஞ்சாலை மழைநீர் வ'); 10 ('லாரி ஓட்டுநர்கள் யுவராஜ், 45, இப்ராஹீம், 55, ஆகியோருக்கு தலா')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795693023/chennaiminnal/nexbzlxeipivnnrdc2y2.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795693029/chennaiminnal/rv5invjaht81fh5iqao6.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795707467/chennaiminnal/fzzcs53dnytnot6vtu6t.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795707469/chennaiminnal/hjczcbtlezx4cyigibws.jpg"
    ]
   },
   {
-   "tamil_headline": "தமிழகத்தில் 7 மாவட்டங்களில் இன்று கனமழைக்கு வாய்ப்பு",
-   "english_headline": "Heavy rain likely in 7 Tamil Nadu districts today, says Chennai Meteorological Centre",
+   "tamil_headline": "பொன்னேரி: வடசென்னை அனல்மின் நிலைய சாம்பல் கழிவால் விவசாயம் பாதிப்பு",
+   "english_headline": "Ponneri farmers say Vada Chennai thermal plant ash waste is damaging crops; demand compensation",
    "category": "Weather & Agriculture",
-   "location": "Tamil Nadu (statewide forecast), Chennai district",
-   "importance": "High",
-   "scope": "",
+   "location": "Ponneri, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "மழை எச்சரிக்கை",
-    "loc": "தமிழகம்",
-    "hl1": "தமிழகத்தில் 7 மாவட்டங்களில் இன்று கனமழை",
-    "hl2": "இடி, மின்னலுடன் பலத்த காற்று",
-    "slides": [
-     {
-      "title": "இன்றைய எச்சரிக்கை",
-      "lines": [
-       "26-11-2026 அன்று <b>7 மாவட்டங்களில்</b> கனமழைக்கு வாய்ப்பு",
-       "திண்டுக்கல், மதுரை, விருதுநகர், கன்னியாகுமரி",
-       "இடி, மின்னலுடன் மணிக்கு 30 முதல் 40 கிலோமீட்டர் வேகக் காற்று"
-      ]
-     },
-     {
-      "title": "சென்னை நிலவரம்",
-      "lines": [
-       "சென்னையில் சில பகுதிகளில் லேசான அல்லது மிதமான மழை",
-       "வானம் ஓரளவு மேகமூட்டத்துடன் இருக்கும்",
-       "வெப்பநிலை <b>31-32° செல்சியஸ்</b> வரை இருக்கும்"
-      ]
-     },
-     {
-      "title": "அடுத்த நாட்கள்",
-      "lines": [
-       "27-11-2026: தேனி மலைப்பகுதியில் ஓரிரு இடங்களில் கனமழை",
-       "28-11-2026: பல மாவட்டங்களில் ஓரிரு இடங்களில் மிதமான மழை",
-       "வெப்பநிலை பெரிய மாற்றம் இன்றி இயல்பாக இருக்கும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தமிழகத்தில் 7 மாவட்டங்களில் இன்று கனமழை பெய்ய வாய்ப்புள்ளது. இது சென்னை வானிலை ஆய்வு மையம் வெளியிட்ட அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. 26-11-2026 அன்று திண்டுக்கல், மதுரை, விருதுநகர், கன்னியாகுமரி மாவட்டங்கள் மற்றும் தேனி, தென்காசி, திருநெல்வேலி மாவட்டங்களின் மலைப்பகுதிகளில் ஓரிரு இடங்களில் கனமழை பெய்யக்கூடும். இடி, மின்னல் மற்றும் மணிக்கு 30 முதல் 40 கிலோமீட்டர் வேகத்தில் பலத்த காற்றும் வீசும். சென்னை, திருவள்ளூர், செங்கல்பட்டு, காஞ்சிபுரம் உள்ளிட்ட பல மாவட்டங்களில் ஒருசில இடங்களில் மிதமான மழை பெய்யக்கூடும். 27-11-2026 அன்று தேனி மலைப்பகுதியில் ஓரிரு இடங்களில் கனமழை பெய்யக்கூடும். 28-11-2026 அன்று பல மாவட்டங்களில் ஓரிரு இடங்களில் மிதமான மழை பெய்யக்கூடும். சென்னை மற்றும் புறநகர் பகுதிகளில் இன்றும் நாளையும் வானம் ஓரளவு மேகமூட்டத்துடன் இருக்கும். அதிகபட்ச வெப்பநிலை 31 முதல் 32 டிகிரி செல்சியஸ் வரை இருக்கும். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ தமிழகத்தில் 7 மாவட்டங்களில் இன்று கனமழைக்கு வாய்ப்பு\n\n📰 முழு விவரம்:\nசென்னை வானிலை ஆய்வு மையம் வெளியிட்ட அறிக்கையின்படி, 26-11-2026 அன்று திண்டுக்கல், மதுரை, விருதுநகர், கன்னியாகுமரி மாவட்டங்கள் மற்றும் தேனி, தென்காசி, திருநெல்வேலி மலைப்பகுதிகளில் ஓரிரு இடங்களில் இடி, மின்னலுடன் கனமழை பெய்யக்கூடும்.\nகுமரிக்கடல் பகுதியிலிருந்து தமிழகம், கேரளம் வழியாக தெற்கு உள் கர்நாடகா வரை சுமார் 1.5 கி.மீ. உயரம் வரை ஒரு காற்றழுத்த தாழ்வு பாதை நிலவுகிறது.\nசென்னை, திருவள்ளூர், செங்கல்பட்டு, காஞ்சிபுரம், நீலகிரி, கோயம்புத்தூர், திருச்சிராப்பள்ளி, தஞ்சாவூர் உள்ளிட்ட பல மாவட்டங்களில் ஒருசில இடங்களில் மிதமான மழை பெய்யக்கூடும்.\n27-11-2026 அன்று தேனி மலைப்பகுதியில் ஓரிரு இடங்களில் கனமழை பெய்யக்கூடும்.\n28-11-2026 அன்று நீலகிரி, கோயம்புத்தூர், தஞ்சாவூர், ராமநாதபுரம் உள்ளிட்ட பல மாவட்டங்களில் ஓரிரு இடங்களில் மிதமான மழை பெய்யக்கூடும்.\nஏனைய தமிழகத்தில் ஒருசில இடங்களில் இடி, மின்னலுடன் லேசான மழை பெய்யக்கூடும்.\nசென்னையில் சில பகுதிகளில் லேசான அல்லது மிதமான மழை பெய்யலாம். வானம் ஓரளவு மேகமூட்டத்துடன் இருக்கும். அதிகபட்ச வெப்பநிலை 31-32° செல்சியஸ், குறைந்தபட்ச வெப்பநிலை 24-25° செல்சியஸ் வரை இருக்கக்கூடும்.\n26-11-2026 முதல் 30-11-2026 வரை வெப்பநிலையில் குறிப்பிடத்தக்க மாற்றம் இருக்க வாய்ப்பு குறைவு; இயல்பு நிலையிலேயே இருக்கக்கூடும்.\nவிவசாயிகளும் வாகன ஓட்டிகளும் கவனமாக இருங்கள்.\n\nHeavy rain likely in 7 Tamil Nadu districts today | Chennai weather\n📍 தமிழகம், சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiRain #மழை #ChennaiNews",
-   "prompts": "A wide, overcast sky hangs over the Chennai city skyline on a late-November day, with heavy rain clouds gathering above a row of concrete buildings and a flyover on Anna Salai. Below, the street is busy but the sky is dark grey, and a few two-wheelers and an MTC town bus move slowly along the wet road, their headlights on. A few people walk under umbrellas on the pavement, seen from behind and far away, while distant rain curtains fall over the rooftops toward the Marina direction. Early afternoon light is dim and flat, and the air looks heavy with the moisture of the forecast thunderstorms. Shot at eye level on a 35 mm lens, wide enough to show the city and the approaching storm clouds with no readable signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wet tarmac road in Chennai, with fresh rain water pooling in a shallow dip near a drain, reflecting the grey, cloud-heavy sky above. Thin ripples spread across the puddle as a light rain drizzles down, and a few scattered dried leaves float on the surface beside a worn kerb. In the blurred background, the edge of an autorickshaw wheel passes slowly, and the low concrete wall of a roadside drain lies at the edge of the frame. The light is soft and overcast, with the mood of an approaching thunderstorm and gusty wind. Shot close-up at a low angle on a 35 mm lens, focused on the water and wet road with no readable text or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/weather/heavy-rain-forecast-7-districts-tamil-nadu",
-   "published": "2026-11-26T08:51:14Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 40 ('உயரம் வரை குமரிக்கடல் பகுதியிலிருந்து தமிழகம் மற்றும் கேரளம்'); 40 ('ஏனைய தமிழகத்தில் ஒருசில இடங்களில் இடி, மின்னலுடன் கூடிய லேசா')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795693040/chennaiminnal/vxkjwkep9izjw6zsfrvi.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795693045/chennaiminnal/t1xk7gx2hmnf19w5umka.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தமிழகத்தில் 23 மாவட்டங்களில் இரவு 7 மணி வரை மழை",
-   "english_headline": "Rain likely in 23 Tamil Nadu districts till 7 PM today as a trough runs over the coast",
-   "category": "Weather & Agriculture",
-   "location": "Tamil Nadu (23 districts including Kanchipuram, Chengalpattu, Madurai, Trichy, Thanjavur)",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மழை எச்சரிக்கை",
-    "loc": "தமிழ்நாடு",
-    "hl1": "தமிழ்நாடு: இன்று இரவு 7 மணி வரை மழை",
-    "hl2": "23 மாவட்டங்களில் மழைக்கு",
-    "slides": [
-     {
-      "title": "எங்கே மழை?",
-      "lines": [
-       "தமிழகத்தில் <b>23 மாவட்டங்களில்</b> மழைக்கு வாய்ப்பு",
-       "இன்று இரவு <b>7 மணி</b> வரை மழை பெய்யலாம்",
-       "லேசான இடி, மின்னலுடன் லேசானது முதல் மிதமான மழை"
-      ]
-     },
-     {
-      "title": "காரணம் என்ன?",
-      "lines": [
-       "மன்னார் வளைகுடா முதல் தென்மேற்கு வங்கக்கடல் வரை காற்றழுத்த",
-       "இதனால் தமிழகத்தில் இன்று மழை பெய்ய வாய்ப்பு",
-       "சென்னை வானிலை ஆய்வு மையம் தகவல்"
-      ]
-     },
-     {
-      "title": "மழை உள்ள",
-      "lines": [
-       "காஞ்சிபுரம், செங்கல்பட்டு, தருமபுரி, கிருஷ்ணகிரி",
-       "விழுப்புரம், சேலம், நாமக்கல், பெரம்பலூர், திருநெல்வேலி",
-       "மதுரை, திண்டுக்கல், திருப்பூர், கரூர், தேனி, தஞ்சாவூர் உட்பட"
-      ]
-     },
-     {
-      "title": "கவனமாக இருங்கள்",
-      "lines": [
-       "வெளியே செல்லும்போது குடை, மழைக்கோட்டு எடுத்துச் செல்லுங்கள்",
-       "ஈரமான சாலைகளில் வாகனங்களை மெதுவாக ஓட்டுங்கள்",
-       "மின்னலின்போது மரங்களுக்கு அடியில் நிற்க வேண்டாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தமிழகத்தில் 23 மாவட்டங்களில் இன்று மழை பெய்யலாம். இரவு 7 மணி வரை லேசான இடி, மின்னலுடன் மழை தொடரும். மன்னார் வளைகுடா முதல் தென்மேற்கு வங்கக்கடல் வரை காற்றழுத்த தாழ்வுப்பாதை நிலவுவதே இதற்குக் காரணம். காஞ்சிபுரம், செங்கல்பட்டு, தருமபுரி, கிருஷ்ணகிரி, திருவண்ணாமலை, விழுப்புரம், சேலம், நாமக்கல், பெரம்பலூர், திருநெல்வேலி, தூத்துக்குடி, தென்காசி, விருதுநகர், இராமநாதபுரம், மதுரை, திண்டுக்கல், திருப்பூர், கரூர், தேனி, திருச்சிராப்பள்ளி, தஞ்சாவூர், புதுக்கோட்டை, சிவகங்கை ஆகிய மாவட்டங்களில் லேசானது முதல் மிதமான மழை பெய்ய வாய்ப்புள்ளது. இந்தத் தகவலைச் சென்னை வானிலை ஆய்வு மையம் தெரிவித்துள்ளது. வெளியே செல்வோர் குடை, மழைக்கோட்டு எடுத்துச் செல்லுங்கள். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ தமிழ்நாடு: இன்று இரவு 7 மணி வரை 23 மாவட்டங்களில் மழை\n\n📰 முழு விவரம்:\nதமிழகத்தில் 23 மாவட்டங்களில் இன்று இரவு 7 மணி வரை மழை பெய்ய வாய்ப்புள்ளது. மன்னார் வளைகுடா முதல் தென்மேற்கு வங்கக்கடல் வரை ஒரு காற்றழுத்த தாழ்வுப்பாதை நிலவுவதால் இந்த மழை எதிர்பார்க்கப்படுகிறது. லேசான இடி, மின்னலுடன் லேசானது முதல் மிதமான மழை பெய்யலாம் என்று சென்னை வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.\n\n📍 மாவட்டங்கள்: காஞ்சிபுரம், செங்கல்பட்டு, தருமபுரி, கிருஷ்ணகிரி, திருவண்ணாமலை, விழுப்புரம், சேலம், நாமக்கல், பெரம்பலூர், திருநெல்வேலி, தூத்துக்குடி, தென்காசி, விருதுநகர், இராமநாதபுரம், மதுரை, திண்டுக்கல், திருப்பூர், கரூர், தேனி, திருச்சிராப்பள்ளி, தஞ்சாவூர், புதுக்கோட்டை, சிவகங்கை\n🗓️ நாள்: 26 நவம்பர் 2026\n🕘 நேரம்: இரவு 7 மணி வரை\n\nℹ️ மக்கள் கவனத்திற்கு: வெளியே செல்லும்போது குடை, மழைக்கோட்டு எடுத்துச் செல்லுங்கள்.\n\nTamil Nadu rain today 23 districts till 7 PM | Tamil Nadu news\n📍 தமிழ்நாடு | 26 நவம்பர் 2026\n\nஉங்கள் பகுதி மழை நிலவரத்தைப் பகிருங்கள் 🙏\n\n#ChennaiMinnal #Chennai #TamilNadu #ChennaiRain #சென்னை",
-   "prompts": "A wide paddy field in a Tamil Nadu village under heavy grey monsoon-style clouds, with light rain falling across the green crop rows. Two farmers in white veshti and shirts stand at the bund edge of the field, seen from behind and far away, one holding a cloth over the head against the drizzle. A narrow mud path runs between the fields toward a line of coconut palms and a distant village with tiled roofs. A few water-filled channels reflect the grey sky. Late afternoon, overcast light with soft, muted tones. Camera at eye level, 35 mm lens, wide enough to show the whole field and the sky. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a farmer's hands holding a wet paddy stalk in a field after light rain, with fine raindrops on the green leaves and muddy water pooled around the bare feet of the farmer in a white veshti. The soil is dark and soft, and a few grain heads bend under the moisture. Behind the stalk, the blurred field and grey clouds show the rain has just started. Overcast daylight, nearly around 5 PM. Camera slightly low and close, 50 mm lens, shallow depth of field so the background is softly blurred. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/weather/which-districts-are-likely-to-experience-rain-until-7-pm-5",
-   "published": "2026-11-26T10:47:50Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption must contain the exact follow line; reel_script copies the article word for word (22 words in a row, 28% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795693054/chennaiminnal/sshpnhwpnf7zsl4grucd.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795693061/chennaiminnal/zq2slwogcl9ugzcyerl3.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் போலி நகை அடகு மோசடி: 3 பேர் கைது",
-   "english_headline": "3 arrested in Chennai for pawning fake jewellery in over 25 banks and finance firms",
-   "category": "Crime & Safety",
-   "location": "Vadapalani, Chennai, Chennai district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மோசடி கைது",
-    "loc": "வடபழனி, சென்னை",
-    "hl1": "25க்கும் மேற்பட்ட வங்கிகளில் போலி நகை",
-    "hl2": "3 பேர் கைது",
+    "cat": "விவசாயம்",
+    "loc": "பொன்னேரி, சென்னை",
+    "hl1": "பொன்னேரி: சாம்பல் கழிவால் விவசாயம்",
+    "hl2": "நஷ்ட ஈடு கோரிக்கை",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "போலி நகைகளை அடகு வைத்து <b>25</b>க்கும் மேற்பட்ட வங்கிகளில் மோசடி",
-       "கோடம்பாக்கத்தில் ஒரு தனியார் நகைக்கடன் நிறுவனத்திலும் மோசடி",
-       "வடபழனி உதவி ஆணையர் தலைமையிலான தனிப்படை போலீசார் கைது"
+       "பொன்னேரி வட்ட விவசாயிகள் சங்க ஆலோசனை கூட்டம் நடைபெற்றது",
+       "வடசென்னை அனல்மின் நிலைய சாம்பல் கழிவால் விவசாயம் பாதிப்பு",
+       "பயிர்கள் நாசமாகி விளைச்சல் குறைவதால் நஷ்டம்"
       ]
      },
      {
-      "title": "யார் கைது?",
+      "title": "தீர்மானங்கள்",
       "lines": [
-       "தூத்துக்குடியைச் சேர்ந்த பிரவீன் உட்பட <b>3 பேர்</b> கைது",
-       "பிரவீன் மீது 5 மோசடி வழக்குகள் நிலுவையில் உள்ளன",
-       "சிசிடிவி பதிவுகளை வைத்து போலீசார் தேடி பிடித்தனர்"
+       "நஷ்ட ஈட்டை விவசாயிகளுக்கு வழங்க வேண்டும் என தீர்மானம்",
+       "தாழ்வாகச் செல்லும் மின்சார கம்பிகளை உடனடியாக சரி செய்ய",
+       "பயிர்களை மேய்ந்து நாசமாக்கும் குதிரை, மாடுகளை அரசு"
       ]
      },
      {
-      "title": "எப்படி சிக்கினர்?",
+      "title": "மேலும் கோரிக்கைகள்",
       "lines": [
-       "நகைகளைத் தணிக்கை செய்தபோது அவை போலி என தெரிந்தது",
-       "நிறுவனம் சார்பாக வடபழனி காவல் நிலையத்தில் புகார்",
-       "முதல்கட்ட விசாரணையில் மோசடி விவரம் அம்பலமானது"
+       "சிருவாக்கம் ஊராட்சியில் கூட்டுறவு வங்கி அமைக்க வேண்டும்",
+       "ஏரி பாசனக் களங்கள், கால்வாய் ஆக்கிரமிப்புகளை வருவாய்த்துறை",
+       "இளவம்பேடு தனியார் திருமண மண்டபத்தில் கூட்டம் நடந்தது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் 25க்கும் மேற்பட்ட வங்கிகளில் போலி நகைகளை அடகு வைத்து மோசடி நடந்துள்ளது. வடபழனி உதவி ஆணையர் தலைமையிலான தனிப்படை போலீசார் 3 பேரை கைது செய்துள்ளனர். கோடம்பாக்கத்தில் செயல்படும் ஒரு தனியார் நகைக்கடன் நிறுவனத்தில், சில மாதங்களுக்கு முன்பு போலி நகைகளை அடகு வைத்து பணம் பெறப்பட்டது. அடகு வைக்கப்பட்ட நகைகளை உயர் அதிகாரிகள் தணிக்கை செய்தபோது அவை போலி என தெரியவந்தது. இதையடுத்து நிறுவனம் சார்பாக வடபழனி காவல் நிலையத்தில் புகார் அளிக்கப்பட்டது. போலீசார் விசாரணை நடத்தி, நகையை அடகு வைத்த நபரை சிசிடிவி பதிவுகளின் உதவியுடன் தேடினர். அவர் தூத்துக்குடியைச் சேர்ந்த பிரவீன் என தெரியவந்தது. பிரவீன் உட்பட 3 பேரையும் போலீசார் கைது செய்து விசாரித்து வருகின்றனர். பிரவீன் மீது ஏற்கனவே 5 மோசடி வழக்குகள் நிலுவையில் உள்ளன. முதல்கட்ட விசாரணையில், 25க்கும் மேற்பட்ட வங்கிகள் மற்றும் தனியார் நகைக்கடன் நிறுவனங்களில் இதே முறையில் பணம் பெற்றது அம்பலமாகியுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 25க்கும் மேற்பட்ட வங்கிகளில் போலி நகை அடகு: 3 பேர் கைது\n\n📰 முழு விவரம்:\nசென்னையில் போலி நகைகளை அடகு வைத்து 25க்கும் மேற்பட்ட வங்கிகளையும் தனியார் நகைக்கடன் நிறுவனங்களையும் ஏமாற்றிய கும்பலை, வடபழனி உதவி ஆணையர் தலைமையிலான தனிப்படை போலீசார் கைது செய்தனர். கோடம்பாக்கத்திலுள்ள ஒரு தனியார் நகைக்கடன் நிறுவனத்தில் சில மாதங்களுக்கு முன் போலி நகைகளை அடகு வைத்து பணம் பெறப்பட்டது. நகைகளை உயர் அதிகாரிகள் தணிக்கை செய்தபோது அவை போலி என்பது தெரியவந்தது. வடபழனி காவல் நிலையத்தில் நிறுவனம் புகார் அளித்தது. சிசிடிவி பதிவுகளை வைத்து தேடியதில் தூத்துக்குடியைச் சேர்ந்த பிரவீன் உட்பட 3 பேர் பிடிபட்டனர். பிரவீன் மீது ஏற்கனவே 5 மோசடி வழக்குகள் நிலுவையில் உள்ளன.\n📍 இடம்: வடபழனி, சென்னை மாவட்டம்\n🗓️ நாள்: 26 நவம்பர் 2026\n👮 நடவடிக்கை: 3 பேர் கைது; போலீசார் தொடர்ந்து விசாரணை\n\nChennai fake gold loan fraud, 3 arrested | Chennai news\n📍 வடபழனி, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Vadapalani #குற்றம் #ChennaiNews",
-   "prompts": "Inside a private gold-loan office in Vadapalani, Chennai, a row of khaki-uniformed Tamil Nadu police officers stand behind a wooden table on which a tray of gold-coloured jewellery pieces, chains and bangles is laid out as evidence, while two men in plain shirts and trousers sit on a bench with their backs to the camera, their faces hidden. The room is a typical Chennai finance-firm interior with a glass counter, steel almirahs, wall calendars left blank, and tube lights overhead, giving a bright, clinical daytime look. Two plastic chairs and a stack of case files sit on the table beside the jewellery. Daylight comes through a shutter-door window at the back. Shot at eye level on a 35 mm lens, wide enough to show the officers, the table and the room, with faces turned away or blurred and no readable text. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden table inside a Chennai gold-loan office: several pieces of thin, dull gold-coloured jewellery, a chain, a pair of bangles and a small pendant, are spread on a white cloth beside a stack of pawn-slip files and a pair of plain steel tweezers and a magnifying glass. A khaki sleeve of a police officer rests on the edge of the frame, out of focus. Soft tube-light falls on the jewellery to show how the pieces look in a tray of evidence, with the rest of the room blurred in the background. Taken at slightly high angle on a 35 mm lens, daytime light, no readable labels, stamps or text visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/chennai-pledging-of-fake-gold-jewellery-3-arrested",
-   "published": "2026-11-26T14:00:34+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'வடபழனி', e.g. 'வடபழனி: ...' or 'வடபழனி-இல் ...' - viewers share news of their own area",
+   "reel_script": "பொன்னேரி பகுதியில் வடசென்னை அனல்மின் நிலைய சாம்பல் கழிவால் விவசாயம் பாதிக்கப்படுவதாக விவசாயிகள் குற்றம் சாட்டியுள்ளனர். பொன்னேரி அடுத்த இளவம்பேடு தனியார் திருமண மண்டபத்தில் பொன்னேரி வட்ட விவசாயிகள் சங்க ஆலோசனைக் கூட்டம் நடைபெற்றது. நிர்வாகிகள் நந்தகுமார், முனிரத்தினம், ஜானகிராமன் தலைமை வகித்தனர். அனல்மின் நிலைய சாம்பல் கழிவால் பயிர்கள் நாசமாகி விளைச்சல் குறைவதாகவும், இதனால் நஷ்டம் ஏற்படுவதாகவும் விவசாயிகள் தெரிவித்தனர். இந்த நஷ்டத்தை விவசாயிகளுக்கு வழங்க வேண்டும் என்று தீர்மானம் நிறைவேற்றப்பட்டது. விவசாய நிலங்களில் தாழ்வாகச் செல்லும் மின்சார கம்பிகளை உடனடியாக சரி செய்ய வேண்டும் என்றும் கோரப்பட்டது. பயிர்களை மேய்ந்து நாசமாக்கும் குதிரை, மாடுகளை அரசு கட்டுப்படுத்தி விவசாயிகளைப் பாதுகாக்க வேண்டும். சிருவாக்கம் ஊராட்சியில் கூட்டுறவு வங்கி அமைக்கவும், ஏரி பாசனக் களங்கள் மற்றும் கால்வாய் நீர்வழிப் பாதை ஆக்கிரமிப்புகளை வருவாய்த்துறை அகற்றவும் தீர்மானங்கள் நிறைவேற்றப்பட்டன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 பொன்னேரி: சாம்பல் கழிவால் விவசாயம் பாதிப்பு - நஷ்ட ஈடு கோரிக்கை\n\n📰 முழு விவரம்:\nபொன்னேரி வட்ட விவசாயிகள் சங்க ஆலோசனைக் கூட்டம் இளவம்பேடு தனியார் திருமண மண்டபத்தில் நடைபெற்றது. வடசென்னை அனல்மின் நிலைய சாம்பல் கழிவுகளால் விவசாயம் பாதிக்கப்படுவதாக விவசாயிகள் குற்றம் சாட்டினர். பயிர்கள் நாசமாகி விளைச்சல் குறைவதால் நஷ்டம் ஏற்படுவதாகவும், அதற்கான நஷ்டத்தை வழங்க வேண்டும் என்றும் தீர்மானம் நிறைவேற்றப்பட்டது.\n📍 இடம்: இளவம்பேடு, பொன்னேரி அருகே\n👥 நிர்வாகிகள்: நந்தகுமார், முனிரத்தினம், ஜானகிராமன் தலைமையில் நடைபெற்றது\n⚡ தாழ்வாகச் செல்லும் மின்சார கம்பிகளை உடனடியாக சரி செய்ய கோரிக்கை\n🐎 பயிர்களை மேய்ந்து நாசமாக்கும் குதிரை, மாடுகளை அரசு கட்டுப்படுத்த வேண்டும்\n🏦 சிருவாக்கம் ஊராட்சியில் கூட்டுறவு வங்கி அமைக்க வேண்டும்\n🚜 ஏரி பாசனக் களங்கள், கால்வாய் ஆக்கிரமிப்புகளை வருவாய்த்துறை அகற்ற வேண்டும்\nவிவசாயிகள் இந்தச் செய்தியை Share செய்யுங்கள்.\n\nPonneri farmers ash waste crop damage | Chennai news\n📍 பொன்னேரி, சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Ponneri #விவசாயம் #ChennaiNews",
+   "prompts": "Farmers sit in rows on white plastic chairs inside a plain private wedding hall in a village near Ponneri, Tiruvallur-side Chennai district, as a farmers' association advisory meeting is held. Seen from behind at the back of the hall, a dozen men in white shirts and veshti sit facing a low stage where three leaders sit at a table with a microphone and a stack of papers. Through open side doors the flat green paddy fields and a line of tall TNEB electric poles and wires stretch into the distance, with a thin haze of ash-grey dust in the air beyond the fields. A few farmers raise their hands in agreement. It is daytime, with bright diffused light coming through the hall windows. Camera at eye level, 35 mm, wide enough to show the hall, the audience and the stage. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of dry, greyish fly-ash dust coating the leaves of a paddy crop at the edge of a field near Ponneri, with a row of tall TNEB electric poles and sagging overhead wires running low across the farmland behind it. A farmer's bare hand in a white shirt sleeve gently touches a wilted, dust-covered stalk, out of focus at the edge of the frame. The soil is cracked and pale grey with ash, and a small irrigation canal runs beside the field. Daylight, slightly hazy. Camera low and close, 50 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.maalaimalar.com/news/tamilnadu/agriculture-affected-by-ash-waste-from-the-north-chennai-thermal-power-station",
+   "published": "2026-11-26T09:27:30Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795693074/chennaiminnal/iricwf52fjyrv5kz8iu2.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795693079/chennaiminnal/snika64wq9jrcccfvgio.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795707475/chennaiminnal/ebwbrnucuhdhhuvskglz.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795707477/chennaiminnal/zw2k6nvyq3ggqqm4p1ra.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெருங்களத்தூர் ரயில் தண்டவாள பகுதியில் 4 கஞ்சா செடிகள் அகற்றம்",
+   "english_headline": "Four cannabis plants removed from railway track area near Perungalathur station",
+   "category": "Crime & Safety",
+   "location": "Perungalathur, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போதை பொருள்",
+    "loc": "பெருங்களத்தூர், சென்னை",
+    "hl1": "பெருங்களத்தூர் தண்டவாளத்தில் கஞ்சா",
+    "hl2": "4 செடிகள் அகற்றம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பெருங்களத்தூர் ரயில் நிலையம் அருகே தண்டவாளப் பகுதியில் 4",
+       "போலீசார் அந்தச் செடிகளை அகற்றினர்",
+       "நவ. 26 அன்று இச்சம்பவம் நடந்தது"
+      ]
+     },
+     {
+      "title": "எப்படித்",
+      "lines": [
+       "காலையில் அந்த வழியாகச் சென்றவர்கள் சந்தேகம் அடைந்தனர்",
+       "குடியிருப்போர் நலச்சங்கத்துக்கு தகவல் தெரிவித்தனர்",
+       "நலச்சங்கத்தினர் படம் எடுத்து இணையத்தில் பார்த்து கஞ்சா என"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "பீர்க்கன்காரணை காவல் நிலையத்தில் புகார் அளிக்கப்பட்டது",
+       "போலீசார் இடத்துக்கு வந்து 4 செடிகளை அகற்றினர்",
+       "குடியிருப்போர் நலச்சங்கத்தினர் ரோந்துப் பணியை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பெருங்களத்தூர் ரயில் நிலையம் அருகே தண்டவாளப் பகுதியில் வளர்ந்திருந்த 4 கஞ்சா செடிகள் போலீசாரால் அகற்றப்பட்டுள்ளன. நவம்பர் 26ஆம் தேதி காலையில் அந்த வழியாகச் சென்றவர்கள் ஒரு செடியைக் கண்டு சந்தேகப்பட்டனர். அவர்கள் பெருங்களத்தூர் - பீர்க்கன்காரணை குடியிருப்போர் நலச்சங்கத்துக்குத் தகவல் தெரிவித்தனர். நலச்சங்கத்தினர் செடியைப் படம் எடுத்து இணையத்தில் தேடிப் பார்த்தபோது அது கஞ்சா செடி என உறுதியானது. இது குறித்து பீர்க்கன்காரணை காவல் நிலையத்தில் புகார் அளிக்கப்பட்டது. போலீசார் சம்பவ இடத்துக்கு வந்து 4 கஞ்சா செடிகளைக் கண்டறிந்து அகற்றினர். அந்தப் பகுதியில் குற்றச்செயல்கள் அதிகம் நடப்பதாகவும், ரோந்துப் பணியை அதிகரிக்க வேண்டும் என்றும் நலச்சங்கத்தினர் கூறினர். இரண்டு மாதங்களுக்கு முன்பு இந்திரா நகரில் ஒரு கஞ்சா செடி அகற்றப்பட்டதையும் அவர்கள் சுட்டிக்காட்டினர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பெருங்களத்தூர் ரயில் தண்டவாள பகுதியில் 4 கஞ்சா செடிகள் அகற்றம்\n\n📰 முழு விவரம்:\nபெருங்களத்தூர் ரயில் நிலையம் அருகே தண்டவாளப் பகுதியில் வளர்ந்திருந்த 4 கஞ்சா செடிகளை போலீசார் அகற்றினர். நவ. 26 காலை அந்த வழியாகச் சென்றவர்கள் சந்தேகப்பட்டு குடியிருப்போர் நலச்சங்கத்துக்குத் தகவல் தெரிவித்தனர். நலச்சங்கத்தினர் செடியைப் படம் எடுத்து இணையத்தில் பார்த்தபோது கஞ்சா செடி என உறுதியானது. பீர்க்கன்காரணை காவல் நிலையத்தில் புகார் அளிக்கப்பட்டது. போலீசார் வந்து 4 செடிகளைக் கண்டறிந்து அகற்றினர். இரண்டு மாதங்களுக்கு முன்பு இந்திரா நகரிலும் ஒரு கஞ்சா செடி அகற்றப்பட்டது.\n📍 இடம்: பெருங்களத்தூர் ரயில் நிலையத்திலிருந்து சுமார் 100 அடி தூரத்தில் தண்டவாளப் பகுதி\n🗓️ நாள்: நவ. 26\n👮 நடவடிக்கை: போலீசார் 4 கஞ்சா செடிகளை அகற்றினர்\n\nPerungalathur railway track cannabis plants removed | Chennai news\n📍 பெருங்களத்தூர், சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\nநண்பர்களுக்கு Share செய்யுங்கள்\n\n#ChennaiMinnal #Chennai #Perungalathur #ChennaiNews #சென்னை",
+   "prompts": "Two police constables in khaki uniform crouch beside a railway track at Perungalathur, Chennai, in bright morning daylight, carefully lifting out four green cannabis plants growing among tall weeds and scrub on the track-side. Behind them the steel rails run straight towards the railway station platform, and a small heap of garbage lies on the ballast along the edge of the track about 100 feet from the station. Two residents from the local welfare association stand a few steps back at a distance, seen from behind in shirts and trousers, one holding a mobile phone. The track bed is gravelly with dry grass, a concrete electric pole stands at the far side, and a few commuters walk along the platform far away. Shot at eye level with a 35 mm lens, wide enough to show the rails, the weeds, the police action and the station. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of four freshly uprooted green cannabis plants lying on the gravel ballast beside a railway track, their leaves and stems clearly visible and their roots still showing soil. Behind them are steel rails and wooden sleepers, tall dry weeds and scrub at the edge of the track, and a pile of mixed garbage nearby. A police officer's khaki-clad hand and boot are just visible at the edge of the frame as he sets the plants down. Morning daylight falls across the gravel, and the soft background shows the track running into the distance. Camera is at low, near-ground height with a 35 mm lens, focused on the plants and the gravel. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/4-cannabis-plants-removed-from-railway-track-area/4386764",
+   "published": "2026-11-26T17:28:03+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795707482/chennaiminnal/z4fqkgljgl1sjdoetua4.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795707484/chennaiminnal/z941ltyqbokzmtrfwchs.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மேற்கு மாம்பலத்தில் கொரோனா ஊசி போட்டீர்களா என கேட்டு நகை பறிப்பு",
+   "english_headline": "Woman robbed of one sovereign earring in West Mambalam after a man posing as a government worker asked about her Covid vaccine",
+   "category": "Crime & Safety",
+   "location": "West Mambalam, Chennai district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "மேற்கு மாம்பலம்",
+    "hl1": "மேற்கு மாம்பலத்தில் நகை பறிப்பு",
+    "hl2": "ஒரு சவரன் கம்மல் பறிப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "வீட்டில் தனியாக இருந்த <b>53 வயது</b> செல்வியிடம் நகை பறிப்பு",
+       "தன்னை அரசு ஊழியர் என அறிமுகப்படுத்திக் கொண்ட நபர்",
+       "கொரோனா தடுப்பூசி போட்டீர்களா என கேட்டார்"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "செல்வி தடுப்பூசி போட்டதாகக் கூறினார்",
+       "குடிக்கத் தண்ணீர் கேட்டார் அந்த நபர்",
+       "தண்ணீர் எடுக்க உள்ளே சென்றபோது பின்தொடர்ந்தார்"
+      ]
+     },
+     {
+      "title": "என்ன பறிப்பு?",
+      "lines": [
+       "கத்தியைக் காட்டி மிரட்டினார்",
+       "<b>ஒரு சவரன்</b> கம்மல் பறிக்கப்பட்டது",
+       "வீட்டிலிருந்த <b>50 ரூபாய்</b> பறிக்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "போலீஸ் விசாரணை",
+      "lines": [
+       "மர்ம நபரை போலீசார் தேடி வருகின்றனர்",
+       "குமரன் நகர் போலீசார் புகார் அடிப்படையில் விசாரிக்கின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மேற்கு மாம்பலத்தில் வீட்டில் தனியாக இருந்த பெண்ணிடம் ஒரு சவரன் நகை பறிக்கப்பட்டது. எத்திராஜ் நகரைச் சேர்ந்த 53 வயது செல்வி இன்று நவம்பர் 26ஆம் தேதி வீட்டில் தனியாக இருந்தார். அப்போது 35 வயது மதிக்கத்தக்க ஒருவர் தன்னை அரசு ஊழியர் என அறிமுகப்படுத்திக் கொண்டார். அவர் கொரோனா தடுப்பூசி செலுத்திக் கொண்டீர்களா என விசாரித்தார். செல்வி தடுப்பூசி செலுத்திக் கொண்டதாகக் கூறினார். அதன்பின் அந்த நபர் குடிக்கத் தண்ணீர் கேட்டார். தண்ணீர் எடுக்க செல்வி வீட்டிற்குள் சென்றபோது, அவரை பின்தொடர்ந்து சென்ற நபர் கத்தியைக் காட்டி மிரட்டினார். ஒரு சவரன் கம்மலையும், வீட்டிலிருந்த 50 ரூபாயையும் பறித்துக்கொண்டு தப்பினார். மர்ம நபரை போலீசார் தேடி வருகின்றனர். புகாரின்படி குமரன் நகர் போலீசார் விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மேற்கு மாம்பலத்தில் கொரோனா ஊசி கேள்வி கேட்டு ஒரு சவரன் கம்மல் பறிப்பு\n\n📰 முழு விவரம்:\nமேற்கு மாம்பலம், எத்திராஜ் நகரைச் சேர்ந்த 53 வயது செல்வி இன்று (நவ. 26) வீட்டில் தனியாக இருந்தார். அப்போது 35 வயது மதிக்கத்தக்க ஒருவர் தன்னை அரசு ஊழியர் என அறிமுகப்படுத்திக் கொண்டு, கொரோனா தடுப்பூசி செலுத்திக் கொண்டீர்களா என விசாரித்தார். செல்வி தடுப்பூசி செலுத்திக் கொண்டதாகக் கூறியதும், அவர் குடிக்கத் தண்ணீர் கேட்டார். தண்ணீர் எடுக்க வீட்டிற்குள் சென்றபோது அவரை பின்தொடர்ந்து சென்று, கத்தியைக் காட்டி மிரட்டி ஒரு சவரன் கம்மலையும், வீட்டிலிருந்த 50 ரூபாயையும் பறித்துக்கொண்டு தப்பினார்.\n📍 இடம்: எத்திராஜ் நகர், மேற்கு மாம்பலம்\n🗓️ நாள்: நவ. 26\n👮 நடவடிக்கை: மர்ம நபரைத் தேடி வருவதாகவும், புகாரின்படி குமரன் நகர் போலீசார் விசாரிப்பதாகவும் தெரிவிக்கப்பட்டுள்ளது.\n\nWest Mambalam gold earring robbery | Chennai news\n📍 மேற்கு மாம்பலம், சென்னை மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #WestMambalam #குற்றம் #ChennaiNews",
+   "prompts": "A narrow residential lane in West Mambalam, Chennai, with independent Tamil Nadu style houses and a low compound gate, shows a police jeep parked at the roadside in the afternoon light, with a Tamil Nadu police constable in khaki uniform standing at the gate of a house while another officer writes notes on a clipboard. The house door is partly open and the pavement is empty of onlookers. A woman in a cotton saree is seen from behind at the doorway, slightly blurred, her back turned to the camera, her hand on the door frame, speaking with the police. The street has a concrete compound wall, a few potted plants, and a two-wheeler parked near the gate. The daylight is soft and overcast, indicating a calm, ordinary neighbourhood. The camera is at eye level, 35 mm, wide enough to show the house and the street around it, with no readable text or signboards visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a small wooden table inside a dimly lit home, with a single gold sovereign earring lying on a white handkerchief beside a glass of water and a folded Rs 50 note, all placed under a police officer's gloved hand that is pointing to the items for an inventory record. Behind the table, a khaki-uniformed constable is slightly out of focus, and a corner of a metal almirah and a calendar on the wall are visible without any readable text. The light comes from a window to the side, creating soft shadows. The earring is the sharp focus of the frame, shown without any person's face. There is no knife, blood or injury in the frame. The camera is close and slightly high, 35 mm, emphasising the stolen gold and the cash as evidence of the robbery. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/jewellery-snatched-from-elderly-woman-after-she-was-asked-if-she-had-been-injected-with-corona/4386681",
+   "published": "2026-11-26T16:23:03+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The draft's reel_script and caption say the 35-year-old man \"was following\" her into the house and threatened her with a knife, but the article says he asked for water and she went inside; the draft's 'followed' is consistent, so no issue there. However, the caption's phrase 'தண்ணீர் எடுக்க வீட்டிற்குள் சென்றபோது அவரை பின்தொடர்ந்து சென்று' is fine; the real issue is the caption and reel_script state the victim 'was alone' and the article's date (today, 26 Nov) is presented as 'இன்று' which matches the article's '(நவ.,26)' - no issue.; fact-check: reel_script omits that the article only says the unknown person 'took a sovereign earring and Rs 50' - this is covered, so no omission.; fact-check: Slide 'என்ன பறிப்பு?' says 'ஒரு சவரன் கம்மல் பறிக்கப்பட்டது' and separately 'வீட்டிலிருந்த 50 ரூபாய்' - accurate.; fact-check: The victim is named (செல்வி) in the reel_script, caption and slides; she is an adult woman victim of a robbery, not a sexual offence, so naming her is not a legal violation under the rules provided.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 4 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795707519/chennaiminnal/q5zmw39fdev9pepailbs.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795707521/chennaiminnal/vpxezjnlc3ifhqz6kijt.jpg"
    ]
   }
  ]
