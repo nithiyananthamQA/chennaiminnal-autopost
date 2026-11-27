@@ -1082,7 +1082,8 @@
    "score": 11.27,
    "power_cut": false,
    "listed_at": "2026-11-27T17:01:45.220371+05:30",
-   "picked_at": "2026-11-27T17:05:01.618343+05:30"
+   "picked_at": "2026-11-27T17:05:01.618343+05:30",
+   "posted": true
   },
   "Ca8cc6fe": {
    "id": "Ca8cc6fe",
@@ -1095,7 +1096,8 @@
    "score": 11.09,
    "power_cut": false,
    "listed_at": "2026-11-27T17:01:45.220371+05:30",
-   "picked_at": "2026-11-27T17:05:01.618339+05:30"
+   "picked_at": "2026-11-27T17:05:01.618339+05:30",
+   "posted": true
   },
   "C66943ec": {
    "id": "C66943ec",
@@ -1108,7 +1110,8 @@
    "score": 10.96,
    "power_cut": false,
    "listed_at": "2026-11-27T17:01:45.220371+05:30",
-   "picked_at": "2026-11-27T17:05:01.618341+05:30"
+   "picked_at": "2026-11-27T17:05:01.618341+05:30",
+   "posted": true
   },
   "C3533663": {
    "id": "C3533663",
@@ -1121,7 +1124,8 @@
    "score": 10.96,
    "power_cut": false,
    "listed_at": "2026-11-27T17:01:45.220371+05:30",
-   "picked_at": "2026-11-27T17:05:01.618335+05:30"
+   "picked_at": "2026-11-27T17:05:01.618335+05:30",
+   "refused": "not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)"
   },
   "C60e3e4f": {
    "id": "C60e3e4f",
@@ -3452,7 +3456,10 @@
     "C3533663",
     "C66943ec",
     "Ca8cc6fe"
-   ]
+   ],
+   "refused": {
+    "C3533663": "not filed: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)"
+   }
   }
  },
  "retry": {
