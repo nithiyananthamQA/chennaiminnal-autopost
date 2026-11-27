@@ -3,30 +3,27 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinakaran.com/news/tambaram-city-ganja-seized",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/union-minister-says-bullet-train-project-is-implemented-the-journey-between-chennai-and-bengaluru-could-be-covered-in-73-mins",
-  "manual link added: https://www.dinamani.com/half-century-ago/2026/Nov/27/chennai-train-stranded-in-floodwaters-for-36-hours",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/increase-in-financial-assistance-for-sri-lankan-tamils-living-in-camps",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/26/welfare-projects-worth-rs-41-crore-in-perambur",
-  "candidate filter: collected=5",
-  "to write: 5 Chennai district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/increase-in-financi",
-  "try (N) manual=True: https://www.dinamani.com/half-century-ago/2026/Nov/27/chenna",
+  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/27/tn-rain-update-for-next-3-hours-22",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/5-students-arrested-in-connection-with-kidnapping-and-assault-of-college-student",
+  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/27/chennai-guindy-park-closed-until-nov-30-for-bird-deaths",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/successive-bird-deaths-guindy-childrens-park-to-be-closed-for-3-days-announcement-states",
+  "candidate filter: collected=4",
+  "to write: 4 Chennai district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/successive-bird-",
+  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/27/chennai-guind",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/5-students-arres",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/union-minister-says",
+  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/27/tn-rain-updat",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinakaran.com/news/tambaram-city-ganja-seized",
+  "NOT filed (N) பறவைகள் உயிரிழப்பு: சென்னை கிண்டி பூங்கா நவ. 30 வர: duplicate after write",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
-  "filed: 5 Chennai district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 78 min",
+  "filed: 3 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -34,7 +31,7 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
@@ -54,25 +51,47 @@
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "ok anthropic/claude-haiku-5-5",
+  "dead for this round: groq/qwen/qwen3.8-27b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "dead for this round: groq/qwen/qwen3.8-27b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -83,366 +102,186 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "வெங்கடகிரி அருகே 36 மணி நேரம் வெள்ளத்தில் சிக்கிய சென்னை ரயில்",
-   "english_headline": "Howrah-Chennai Mail stranded 36 hours in floodwaters near Venkatagiri, Andhra Pradesh; 800 passengers fed by IAF airdrop",
-   "category": "Roads & Transport",
-   "location": "Venkatagiri near Renigunta, Andhra Pradesh; Chennai Central, Chennai district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரயில் சேவை பாதிப்பு",
-    "loc": "வெங்கடகிரி, ஆந்திரா",
-    "hl1": "வெங்கடகிரி அருகே 36 மணி நேரம்",
-    "hl2": "800 பயணிகள் தவிப்பு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "ஹௌரா - சென்னை மெயில் வெங்கடகிரி அருகே வெள்ளத்தில் சிக்கியது",
-       "நவ. 25 அதிகாலை முதல் நவ. 26 மாலை வரை நின்றது",
-       "சுமார் <b>800 பயணிகள்</b> ரயிலுக்குள் தவித்தனர்"
-      ]
-     },
-     {
-      "title": "உணவு வழங்கல்",
-      "lines": [
-       "தாம்பரத்திலிருந்து விமானம் மூலம் <b>2000",
-       "டாக்டர் ராம்தாஸ் பயணிகளுக்கு மருத்துவ உதவி அளித்தார்",
-       "ரயில்வே ஊழியர்கள் இரவு பகலாக உடைப்பைச் சரிசெய்தனர்"
-      ]
-     },
-     {
-      "title": "சென்னை ரயில்",
-      "lines": [
-       "சென்ட்ரல் ரயில் நிலையத்தில் தொடர்ந்து 2 நாட்கள் ரயில்கள்",
-       "அரக்கோணத்திலேயே ரயில்கள் நிறுத்தப்பட்டன",
-       "சென்னை – அரக்கோணம், கூடூர் பாதைகளில் வெள்ளப் பாதிப்பு"
-      ]
-     },
-     {
-      "title": "பயணிகள் பயணம்",
-      "lines": [
-       "ரயில் நவ. 26 மாலை 4.30க்கு அரக்கோணம் நோக்கிப் புறப்பட்டது",
-       "மீட்டர் கேஜ் பாதையில் சிறப்பு ரயில்கள் மூலம் எழும்பூர்",
-       "கூடுதல் பேருந்துகள் விட பல்லவன் போக்குவரத்துக் கழகம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வெங்கடகிரி அருகே ஹௌரா - சென்னை மெயில் ரயில் 36 மணி நேரம் வெள்ளத்தில் சிக்கித் தவித்தது. வியாழக்கிழமை அதிகாலை சென்னை வந்திருக்க வேண்டிய இந்த ரயில், இருபுறமும் தண்டவாளத்தில் ஓடிய வெள்ளத்தால் நிற்க வேண்டியதாயிற்று. நவம்பர் 25 அதிகாலை முதல் நவம்பர் 26 மாலை வரை ரயில் அதே இடத்தில் நின்றது. சுமார் 800 பயணிகள் கொட்டும் மழையிலும் பசியிலும் ரயிலுக்குள் காத்திருந்தனர். பின்னர் சென்னை தாம்பரத்திலிருந்து விமானம் மூலம் சுமார் 2000 உணவுப் பொட்டலங்கள் போடப்பட்டன. தென் பிராந்திய ரயில்வே பிரதம வைத்திய அதிகாரி டாக்டர் ராம்தாஸ், நெல்லூர் கலெக்டர், வெங்கடகிரி தாசில்தார் உதவியுடன் பயணிகளுக்கு மருத்துவ உதவி அளித்தார். ரயில்வே அதிகாரிகள் இரவு பகலாக வெங்கடகிரி-ரேணிகுண்டா பாதையில் ஏற்பட்ட உடைப்பைச் சரிசெய்தனர். நவ. 26 மாலை 4.30 மணிக்கு ரயில் அரக்கோணம் நோக்கிக் கிளம்பியது. ரேணிகுண்டாவில் சூடான உணவும் பானங்களும் வழங்கப்பட்டன. பயணிகள் மீட்டர் கேஜ் பாதையில் சிறப்பு ரயில்கள் மூலம் காஞ்சிபுரம், செங்கல்பட்டு வழியாக சென்னை எழும்பூர் வருவர். கூடுதல் பயணிகள் வருகையால் எழும்பூரிலிருந்து மேலும் பேருந்துகள் இயக்க பல்லவன் போக்குவரத்துக் கழகம் கேட்டுக்கொள்ளப்பட்டுள்ளது. சென்னை சென்ட்ரல் ரயில் நிலையத்தில் தொடர்ந்து இரண்டாவது நாளாக ரயில்கள் புறப்படவும் வரவும் இல்லை. சென்னை - அரக்கோணம், சென்னை - கூடூர் பாதைகள் வெள்ளத்தால் பாதிக்கப்பட்டுள்ளன. சில இடங்களில் தண்டவாளங்கள் பெயர்ந்துள்ளன, மண் அரித்துள்ளது. அரக்கோணம் வழியாக வரும் ரயில்கள் அங்கேயே நிறுத்தப்பட்டு வெளியூர்களுக்குத் திருப்பி விடப்படுகின்றன. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 வெங்கடகிரி அருகே 36 மணி நேரம் வெள்ளத்தில் சிக்கிய சென்னை ரயில்\n\n📰 முழு விவரம்:\nசென்னைக்கு வந்து கொண்டிருந்த ஹௌரா - சென்னை மெயில் ரயில், ஆந்திராவில் வெங்கடகிரி ரயில் நிலையம் அருகே இருபுறமும் தண்டவாளத்தில் வெள்ளம் ஓடியதால் முன்னும் பின்னும் செல்ல முடியாமல் 36 மணி நேரம் நின்றது.\nவியாழக்கிழமை அதிகாலை சென்னை வந்திருக்க வேண்டிய ரயில், நவ. 25 அதிகாலை முதல் நவ. 26 மாலை வரை இருந்த இடத்திலேயே நின்றது.\nசுமார் 800 பயணிகள் கொட்டும் மழையிலும் பசியிலும் ரயிலுக்குள் தவித்தனர்.\nசென்னை தாம்பரத்திலிருந்து விமானம் மூலம் சுமார் 2000 உணவுப் பொட்டலங்கள் போடப்பட்டன.\nதென் பிராந்திய ரயில்வே பிரதம வைத்திய அதிகாரி டாக்டர் ராம்தாஸ், நெல்லூர் கலெக்டர், வெங்கடகிரி தாசில்தார் உதவியுடன் பயணிகளுக்கு மருத்துவ உதவி அளித்தார்.\nரயில்வே அதிகாரிகள் இரவு பகலாக வெங்கடகிரி-ரேணிகுண்டா பாதையில் ஏற்பட்ட உடைப்பைச் சரிசெய்தனர்.\nநவ. 26 மாலை 4.30 மணிக்கு ரயில் அரக்கோணம் நோக்கிப் புறப்பட்டது; ரேணிகுண்டாவில் சூடான உணவும் பானங்களும் வழங்கப்பட்டன.\nபயணிகள் அரக்கோணத்தில் இருந்து மீட்டர் கேஜ் பாதை வழியாக சிறப்பு ரயில்களில் காஞ்சிபுரம், செங்கல்பட்டு வழியாக சென்னை எழும்பூர் வருவர்.\nகூடுதல் பயணிகள் வருகையால் எழும்பூரிலிருந்து மேலும் பேருந்துகள் இயக்க பல்லவன் போக்குவரத்துக் கழகம் கேட்டுக்கொள்ளப்பட்டுள்ளது.\nசுமார் 5 ஆண்டுகளுக்கு முன் ஹைதராபாத்-சென்னை எக்ஸ்பிரஸ் தெனாலி அருகே புயலில் சிக்கியபோதும் இதே போல சுமார் 800 பயணிகள் தவித்தனர்.\n\n🚉 சென்னை சென்ட்ரல் ரயில் நிலையத்திலிருந்து தொடர்ந்து இரண்டாவது நாளாக நவ. 26 வெள்ளிக்கிழமையும் எந்த ரயிலும் புறப்படவில்லை, வரவுமில்லை.\nசென்னை - அரக்கோணம், சென்னை - கூடூர் பாதைகள் வெள்ளத்தால் பாதிக்கப்பட்டுள்ளன. சில இடங்களில் வெள்ளம் கரைபுரண்டு ஓடுகிறது, சில இடங்களில் தண்டவாளத்தின் கீழ் மண் அரித்துள்ளது, சில இடங்களில் தண்டவாளங்கள் பெயர்ந்துள்ளன.\nகூடூர் - ரேணிகுண்டா இடையிலும் ரயில் சேவை பாதிக்கப்பட்டுள்ளது.\nஅரக்கோணம் வழியாக சென்னை வரும் ரயில்கள் அங்கேயே நிறுத்தப்பட்டு, வெளியூர்களுக்குத் திருப்பி விடப்படுகின்றன.\n\nChennai train stranded 36 hours in floodwaters near Venkatagiri | Chennai news\n📍 வெங்கடகிரி, ஆந்திரா / சென்னை சென்ட்ரல், சென்னை மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #ChennaiRain #சென்னை",
-   "prompts": "A long old-style Indian passenger train with several dark-green coaches stands stopped on railway tracks that are surrounded by brown floodwater spreading across flat paddy fields near a small rural railway station in Andhra Pradesh, Venkatagiri. Floodwater covers the track bed and reaches up to the wheels, with the rails partly submerged. Heavy grey monsoon clouds hang over the scene in the late afternoon, with steady rain falling. Passengers in cotton shirts, saris and dhotis can be seen from behind, standing at open doorways and windows of the coaches, looking out over the water. A few distant railway workers in khaki shirts stand on a raised embankment beside the track, some carrying tools. Two or three small wooden bullock-cart tracks and a few palm trees appear at the edge of the flood. The camera is at eye level about 30 metres away in a 35 mm wide shot, showing the whole train, the flooded tracks and the surrounding fields so the stranded situation is clear. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a section of railway track in floodwater, with the steel rails half-submerged in brown muddy water and the wooden sleepers partly exposed. Some sleepers and the ballast beneath the rails appear washed out, leaving a dip in the embankment where the soil has eroded. Rain drops ripple the surface of the flood water around the rail. Behind the rails, the rear wheels and lower body of a dark old passenger coach are visible, with wet steel and rust. A few scattered food packets wrapped in paper lie half-floating on the water near the sleepers, suggesting airdrop supplies. Grey overcast daylight, steady rain. The camera is low, about 50 cm above the water, using a 35 mm lens to focus on the damaged track and the stranded coach behind it. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/half-century-ago/2026/Nov/27/chennai-train-stranded-in-floodwaters-for-36-hours",
-   "published": "2026-11-27T02:18:00.000Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('அது மாலை 6.30 மணிக்கு ரேணிகுண்டா வந்து சேர்ந்த போது அலுத்துப'); 11 ('27.11.1976: 36 மணி நேரம் வெள்ளத்தில் சிக்கிய சென்னை ரயில்'); 1976 ('27.11.1976: 36 மணி நேரம் வெள்ளத்தில் சிக்கிய சென்னை ரயில்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750485/chennaiminnal/e6wuoskhe3yekcinjsar.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750487/chennaiminnal/vx1cn2bsvwfsw0r5yhy8.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பாம்பாறு அணை முகாமில் 148 புதிய வீடுகள்; இலங்கைத் தமிழர் பணக்கொடை உயர்வு",
-   "english_headline": "148 new houses at Pambaru Dam Sri Lankan Tamil camp; monthly cash aid raised",
-   "category": "Government & Services",
-   "location": "Pambaru Dam, Krishnagiri district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு திட்டம்",
-    "loc": "பாம்பாறு அணை, கிருஷ்ணகிரி",
-    "hl1": "பாம்பாறு அணை: 148 புதிய வீடுகள் திறப்பு",
-    "hl2": "பணக்கொடை ரூ.1,800 வரை உயர்வு",
-    "slides": [
-     {
-      "title": "புதிய வீடுகள்",
-      "lines": [
-       "பாம்பாறு அணை இலங்கைத் தமிழர் மறுவாழ்வு முகாமில் <b>148",
-       "ரூ.8.52 கோடியில் கட்டப்பட்டு, ரூ.1.37 கோடியில் அடிப்படை",
-       "முதல்வர் விஜய் காணொலி வழியாகத் திறந்து வைத்தார்"
-      ]
-     },
-     {
-      "title": "பணக்கொடை உயர்வு",
-      "lines": [
-       "குடும்பத் தலைவருக்கு ரூ.1,500-ல் இருந்து <b>ரூ.1,800</b>",
-       "12 வயது மற்றும் அதற்கு மேற்பட்டோருக்கு ரூ.1,000-ல் இருந்து",
-       "12 வயதுக்குட்பட்ட குழந்தைகளுக்கு ரூ.500-ல் இருந்து <b>ரூ.600</b>"
-      ]
-     },
-     {
-      "title": "பயனாளிகள்",
-      "lines": [
-       "ஆண்டுக்கு <b>ரூ.14.95 கோடி</b> கூடுதல் செலவு",
-       "<b>19,710 குடும்பங்களைச்</b> சேர்ந்த <b>56,638 பேர்</b> பயன்பெறுவர்",
-       "நேற்று 16 பயனாளிகளுக்கு உதவித்தொகை வழங்கப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பாம்பாறு அணை இலங்கைத் தமிழர் மறுவாழ்வு முகாமில் 148 புதிய வீடுகள் திறக்கப்பட்டுள்ளன. இந்த வீடுகள் ரூ.8.52 கோடியில் கட்டப்பட்டு, ரூ.1.37 கோடியில் அடிப்படை வசதிகளும் செய்து கொடுக்கப்பட்டுள்ளன. முதல்வர் விஜய் தலைமைச் செயலகத்தில் இருந்து காணொலி வழியாக இந்த வீடுகளைத் திறந்து வைத்தார். அதே நேரத்தில், முகாம்வாழ் இலங்கைத் தமிழர்களுக்கான மாதாந்திரப் பணக்கொடையும் உயர்த்தப்பட்டுள்ளது. குடும்பத் தலைவருக்கு ரூ.1,500-ல் இருந்து ரூ.1,800 ஆக உயர்த்தப்படுகிறது. 12 வயது மற்றும் அதற்கு மேற்பட்டோருக்கு ரூ.1,000-ல் இருந்து ரூ.1,200 ஆகவும், 12 வயதுக்குட்பட்ட குழந்தைகளுக்கு ரூ.500-ல் இருந்து ரூ.600 ஆகவும் உயர்த்தப்படுகிறது. இதற்காக ஆண்டுக்கு ரூ.14.95 கோடி கூடுதல் செலவாகும். 19,710 குடும்பங்களைச் சேர்ந்த 56,638 பேர் இதனால் பயன்பெறுவர். நேற்று 16 பயனாளிகளுக்கு முதல்வர் விஜய் உதவித்தொகையை வழங்கித் திட்டத்தைத் தொடங்கி வைத்தார். அமைச்சர் க.தென்னரசு உள்ளிட்ட அதிகாரிகள் நிகழ்ச்சியில் பங்கேற்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏠 பாம்பாறு அணை முகாமில் 148 புதிய வீடுகள்; பணக்கொடை உயர்வு\n\n📰 முழு விவரம்:\nசென்னை: கிருஷ்ணகிரியில் உள்ள இலங்கைத் தமிழர் மறுவாழ்வு முகாமில் ரூ.9.89 கோடியில் கட்டப்பட்ட 148 புதிய வீடுகளை முதல்வர் விஜய் திறந்து வைத்தார். அதே நிகழ்ச்சியில், முகாம்வாழ் இலங்கைத் தமிழர்களுக்கான உயர்த்தப்பட்ட மாதாந்திரப் பணக்கொடை திட்டத்தையும் தொடங்கி வைத்தார். வீடுகள் ரூ.8.52 கோடியில் கட்டப்பட்டு, ரூ.1.37 கோடியில் அடிப்படை வசதிகள் செய்யப்பட்டுள்ளன.\nகுடும்பத் தலைவருக்கான பணக்கொடை ரூ.1,500-ல் இருந்து ரூ.1,800 ஆகவும், 12 வயது மற்றும் அதற்கு மேற்பட்டோருக்கு ரூ.1,000-ல் இருந்து ரூ.1,200 ஆகவும், 12 வயதுக்குட்பட்ட குழந்தைகளுக்கு ரூ.500-ல் இருந்து ரூ.600 ஆகவும் உயர்த்தப்படுகிறது.\nஇதற்காக ஆண்டுக்கு ரூ.14.95 கோடி கூடுதல் செலவாகும். 19,710 குடும்பங்களைச் சேர்ந்த 56,638 முகாம்வாழ் இலங்கைத் தமிழர்கள் பயன்பெறுவர். நேற்று 4 குடும்பங்களைச் சேர்ந்த 16 பயனாளிகளுக்கு முதல்வர் விஜய் உதவித்தொகையை வழங்கினார்.\nநிகழ்ச்சியில் அமைச்சர் க.தென்னரசு, தலைமைச் செயலர் மு.சாய்குமார், பொதுத்துறை செயலர் எ.சுந்தரவல்லி உள்ளிட்டோர் பங்கேற்றனர்.\n\nSri Lankan Tamil camp Krishnagiri new houses, cash aid hike | Chennai news\n📍 பாம்பாறு அணை, கிருஷ்ணகிரி மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Krishnagiri #தமிழகம் #ChennaiNews",
-   "prompts": "A row of newly built, identical single-storey concrete houses with fresh white and cream walls and tiled roofs stands in a dry open camp at Pambaru Dam, Krishnagiri district, a rehabilitation settlement for Sri Lankan Tamil families. In the foreground, a few women in sarees and men in shirts and veshti stand far off, seen from behind, looking toward the new homes, with a small group of officials in a government hall at the edge of the frame. A worn dirt road runs between the houses, a few plastic water pots sit at a doorstep, and a simple neem tree gives partial shade. The scene is in bright daylight under a clear sky, shot at eye level with a 35 mm lens, wide enough to show the full row of houses and the open camp ground around them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a newly completed house doorway at the Pambaru Dam camp, showing a freshly painted cream wall, a new steel-framed door and a concrete step with a pair of worn rubber slippers placed neatly beside it. Beside the doorstep stands a plastic water pot and a folded cotton towel hung on a rope, with a patch of swept dry earth beyond. Behind it, the edge of a neighbouring new house is softly out of focus. Bright daylight falls from the side, creating soft shadows, shot at slightly high eye level with a 50 mm lens, with no people in sharp focus and no visible text or signboards. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/increase-in-financial-assistance-for-sri-lankan-tamils-living-in-camps",
-   "published": "2026-11-27T00:50:11Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 99 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 15 ('.மாதாந்​திரப் பணக் கொடையை ஆண்​டுக்கு ரூ.14.95 கோடி கூடுதல் ச')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750495/chennaiminnal/zktyptoxfv6fwtapa6qv.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750498/chennaiminnal/c6ikpfawe2f0wsn7vsks.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பெரம்பூரில் ரூ.41.66 கோடியில் நலத் திட்டப் பணிகள் நடைபெறுகின்றன",
-   "english_headline": "Rs 41.66 crore welfare works underway in Perambur constituency, Chennai",
-   "category": "Government & Services",
-   "location": "Perambur constituency, Chennai city, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசுப் பணிகள்",
-    "loc": "பெரம்பூர், சென்னை",
-    "hl1": "பெரம்பூரில் ரூ.41.66 கோடியில் பணிகள்",
-    "hl2": "கேமரா, பூங்கா, சாலை பணிகள்",
-    "slides": [
-     {
-      "title": "எவ்வளவு பணிகள்?",
-      "lines": [
-       "பெரம்பூர் தொகுதியில் <b>ரூ.41.66 கோடியில்</b> நலத் திட்டப் பணிகள்",
-       "சென்னை மாநகராட்சி செய்திக்குறிப்பில் தகவல்",
-       "பணிகள் தற்போது நடைபெற்று வருகின்றன"
-      ]
-     },
-     {
-      "title": "தொகுதி நிதி பணிகள்",
-      "lines": [
-       "<b>ரூ.20.30 லட்சத்தில்</b> 5 இடங்களில் பணிகள்",
-       "கண்காணிப்புக் கேமராக்கள், மின்சார வாகன மின்னேற்றம்",
-       "பெண்கள் பாதுகாப்பு கட்டுப்பாட்டு அறை, வைஃபை, 5 பேருந்து"
-      ]
-     },
-     {
-      "title": "பூங்கா",
-      "lines": [
-       "வாசுகி நகர் பூங்காவில் <b>ரூ.1.08 கோடியில்</b>",
-       "சர்மா நகரில் <b>ரூ.1.31 கோடியில்</b> உடற்பயிற்சிக் கருவிகள்",
-       "சர்மா நகரில் <b>ரூ.1.42 கோடியில்</b> குத்துச் சண்டை வளையம்"
-      ]
-     },
-     {
-      "title": "பிற பணிகள்",
-      "lines": [
-       "பள்ளிக் கட்டடம், மரக்கன்று நடுதல், இண்டர்லாக் சாலை",
-       "நகர்ப்புற ஆரம்ப சுகாதார நிலையம், வார்டு அலுவலகம்",
-       "மழைநீர் வடிகால், மின்மோட்டார் அறை, மீன், காய்கறி அறைகள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பெரம்பூர் சட்டப்பேரவைத் தொகுதியில் ரூ.41.66 கோடியில் நலத் திட்டப் பணிகள் நடைபெற்று வருகின்றன. இதுகுறித்து சென்னை மாநகராட்சி செய்திக்குறிப்பு வெளியிட்டுள்ளது. தொகுதி மேம்பாட்டு நிதியிலிருந்து ரூ.20.30 லட்சத்தில் 5 இடங்களில் பணிகள் நடைபெறுகின்றன. சிட்கோ நகர் பிரதான சாலை, எருக்கஞ்சேரி நெடுஞ்சாலையில் உள்ள சர்மா நகர் உள்ளிட்ட இடங்களில் கண்காணிப்புக் கேமராக்கள் அமைக்கப்படுகின்றன. மின்சார வாகனங்களுக்கு மின்னேற்றும் வசதியும் ஏற்படுத்தப்படுகிறது. பெண்கள் பாதுகாப்பை மையப்படுத்திய கட்டுப்பாட்டு அறை, வைஃபை வசதி, நவீன மின் விளக்குகளுடன் 5 பேருந்து நிழற்குடைகளும் கட்டப்பட்டு வருகின்றன. சிட்கோ சாலையில் உள்ள வாசுகி நகர் பூங்காவில் மாநகராட்சி மூலதன நிதியிலிருந்து ரூ.1.08 கோடியில் மாற்றுத்திறனாளிகளுக்கான ரப்பர் தளம் அமைக்கப்படுகிறது. சர்மா நகரில் ரூ.1.31 கோடியில் உடற்பயிற்சிக் கருவிகளும், ரூ.1.42 கோடியில் குத்துச் சண்டை வளையம் மற்றும் பார்வையாளர் மாடமும் அமைக்கப்படுகின்றன. பள்ளிக் கட்டடம், மரக்கன்றுகள் நடுதல், இண்டர்லாக் சாலை, நகர்ப்புற ஆரம்ப சுகாதார நிலையம், வார்டு அலுவலகக் கட்டடம், சமுதாயக் கூடம், மழைநீர் வடிகால், மின்மோட்டார் அறை, மீன் மற்றும் காய்கறி அறைகள் ஆகிய பணிகளும் நடைபெறுகின்றன. மொத்தம் ரூ.41.66 கோடியில் இந்தப் பணிகள் நடைபெறுவதாக தெரிவிக்கப்பட்டுள்ளது. பெரம்பூர் தொகுதியில் முதல்வர் ஜோசப் விஜய் போட்டியிட்டு வென்றுள்ளார் என்பது குறிப்பிடத்தக்கது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏗️ பெரம்பூரில் ரூ.41.66 கோடியில் நலத் திட்டப் பணிகள்\n\n📰 முழு விவரம்:\nபெரம்பூர் சட்டப்பேரவைத் தொகுதியில் ரூ.41.66 கோடியில் நலத் திட்டப் பணிகள் நடைபெற்று வருகின்றன என சென்னை மாநகராட்சி செய்திக்குறிப்பு தெரிவிக்கிறது.\nதொகுதி மேம்பாட்டு நிதியிலிருந்து ரூ.20.30 லட்சத்தில் 5 இடங்களில் கண்காணிப்புக் கேமராக்கள், மின்சார வாகன மின்னேற்றும் வசதி, பெண்கள் பாதுகாப்பு கட்டுப்பாட்டு அறை, வைஃபை வசதி, 5 நவீன பேருந்து நிழற்குடைகள் கட்டப்படுகின்றன.\n🌳 வாசுகி நகர் பூங்காவில் ரூ.1.08 கோடியில் மாற்றுத்திறனாளிகளுக்கான ரப்பர் தளம்.\n🏋️ சர்மா நகரில் ரூ.1.31 கோடியில் உடற்பயிற்சிக் கருவிகள், ரூ.1.42 கோடியில் குத்துச் சண்டை வளையம், பார்வையாளர் மாடம்.\n🏫 பள்ளிக் கட்டடம், மரக்கன்று நடுதல், இண்டர்லாக் சாலை, சுகாதார நிலையம், வார்டு அலுவலகம், சமுதாயக் கூடம், மழைநீர் வடிகால் உள்ளிட்ட பணிகளும் நடைபெறுகின்றன.\n📍 இடம்: பெரம்பூர் சட்டப்பேரவைத் தொகுதி, சென்னை\n🗓️ நாள்: 26 நவம்பர் 2026\n\nChennai Perambur Rs 41.66 crore welfare works | Chennai news\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Perambur #ChennaiNews #சென்னை",
-   "prompts": "Corporation workers in helmets and high-visibility vests work on a new bus shelter under construction on a busy Chennai city road in Perambur, with a row of two-wheelers and an MTC town bus passing by. Partly built concrete pillars and a roof frame stand at the roadside, a few steel rods and cement bags are stacked nearby, and a surveillance camera mounted on a pole is being fitted. Shops with shuttered fronts line the street behind them, and roadside vendors sit under umbrellas. The workers are seen from behind and far away, in shirts and trousers, some carrying tools. Daylight, clear sky, mid-morning. Camera at eye level, 35 mm, wide enough to show the street and the half-built shelter. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of freshly laid interlocking paver blocks in a grey and red pattern on a Chennai park path, with a row of new rubber-surfaced ground tiles near a wheelchair ramp edge. A corporation worker's gloved hands press a block into place with a rubber mallet, and a small pile of sand and a cement bucket sit beside the fresh work. Behind, a few young trees with bamboo supports and a low green railing show the park setting. Bright daylight, morning. Camera slightly high, 35 mm, tight framing on the paving and tools. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/26/welfare-projects-worth-rs-41-crore-in-perambur",
-   "published": "2026-11-26T23:53:43.971Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script says the Rs 20.30 lakh works are at 5 places in the constituency; the article lists the 5 places as part of that scheme but the draft's 'தொகுதி மேம்பாட்டு நிதி' phrasing is acceptable; however, the reel_script says 'சர்மா நகர்' is on 'எருக்கஞ்சேரி நெடுஞ்சாலை' and the article gives this as a location of the cameras - not a problem. Main issue: the reel_script states the 'பிற பணிகள்' include 'இண்டர்லாக் சாலை' and 'நகர்ப்புற ஆரம்ப சுகாதார நிலையம்' as ongoing works, which is accurate, but the reel_script says 'வாசுகி நகர் பூங்காவில்' is on 'சிட்கோ சாலை' which matches. No definite factual error found beyond the caption date '26 நவம்பர் 2026', which is a posting-date footer and is not a problem.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750503/chennaiminnal/pvoofjzgmpy7pkvco0gx.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750506/chennaiminnal/vu4mlxgwgbftg9u137z5.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை-பெங்களூரு புல்லட் ரயிலில் 73 நிமிடத்தில் பயணம்: அஸ்வினி வைஷ்ணவ் தகவல்",
-   "english_headline": "Bullet train could cut Chennai-Bengaluru travel to 73 minutes, says Union Minister Ashwini Vaishnaw",
-   "category": "Government & Services",
-   "location": "Chennai, Chennai district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரயில்வே",
-    "loc": "சென்னை",
-    "hl1": "சென்னை-பெங்களூரு 73 நிமிடத்தில்",
-    "hl2": "புல்லட் ரயில் திட்டம்",
-    "slides": [
-     {
-      "title": "என்ன திட்டம்?",
-      "lines": [
-       "புல்லட் ரயில் திட்டம் நடைமுறைக்கு வந்தால்",
-       "சென்னை-பெங்களூரு பயணம் <b>73 நிமிடங்கள்</b>",
-       "தற்போது 5 முதல் 7 மணி நேரம் ஆகிறது"
-      ]
-     },
-     {
-      "title": "ஹைதராபாத் பயணம்",
-      "lines": [
-       "தற்போது சென்னை-ஹைதராபாத் பயணம் 8 முதல் 12 மணி நேரம்",
-       "புல்லட் ரயிலில் ஹைதராபாத்-அமராவதி-சென்னை <b>3 மணி நேரம்</b>",
-       "2047-க்குள் வளர்ந்த தமிழ்நாடு இலக்கு"
-      ]
-     },
-     {
-      "title": "ரயில்வே நிதி",
-      "lines": [
-       "தமிழகத்துக்கான ரயில்வே ஒதுக்கீடு ரூ.7,600 கோடி",
-       "முன்பு ஆண்டுக்கு ரூ.870 கோடி மட்டுமே",
-       "ரூ.48,000 கோடி மதிப்பிலான திட்டங்களுக்கு அனுமதி"
-      ]
-     },
-     {
-      "title": "நிலம்",
-      "lines": [
-       "தேவையான 4,800 ஹெக்டேரில் 1,253 ஹெக்டேர் மட்டுமே",
-       "நிலம் கையகப்படுத்துவது மாநில அரசின் பொறுப்பு",
-       "கல்லூர் ரயில் நிலையம் <b>100 நாளில்</b> திறக்கப்படும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னை-பெங்களூரு பயணம் புல்லட் ரயிலில் 73 நிமிடங்களில் முடியும். மத்திய ரயில்வே அமைச்சர் அஸ்வினி வைஷ்ணவ் இந்தத் தகவலைச் சென்னை தி.நகரில் நடந்த விழாவில் தெரிவித்தார். தற்போது இந்தப் பயணத்துக்கு 5 முதல் 7 மணி நேரம் ஆகிறது. சென்னை-ஹைதராபாத் பயணம் தற்போது 8 முதல் 12 மணி நேரம் ஆகிறது. புல்லட் ரயில் திட்டத்தில் ஹைதராபாத்-அமராவதி-சென்னை பயணம் 3 மணி நேரத்தில் முடியும். தமிழகத்துக்கான ரயில்வே ஒதுக்கீடு ஆண்டுக்கு ரூ.870 கோடியிலிருந்து ரூ.7,600 கோடியாக உயர்ந்துள்ளதாக அவர் கூறினார். ரூ.48,000 கோடி மதிப்பிலான ரயில்வே திட்டங்களுக்கு அனுமதி அளிக்கப்பட்டுள்ளது. தேவையான 4,800 ஹெக்டேர் நிலத்தில் இதுவரை 1,253 ஹெக்டேர் மட்டுமே கையகப்படுத்தப்பட்டுள்ளது. நிலம் கையகப்படுத்தி வழங்குவது மாநில அரசின் பொறுப்பு. திருநெல்வேலி-அம்பாசமுத்திரம் இடையே உள்ள கல்லூர் ரயில் நிலையம் 100 நாட்களுக்குள் மீண்டும் திறக்கப்படும் என்று அமைச்சர் அறிவித்தார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚄 சென்னை-பெங்களூரு புல்லட் ரயிலில் 73 நிமிடத்தில் பயணிக்கலாம்\n\n📰 முழு விவரம்:\nபுல்லட் ரயில் திட்டம் நடைமுறைக்கு வந்தால் சென்னை-பெங்களூரு பயணம் சுமார் 73 நிமிடங்களாகக் குறையும் என மத்திய ரயில்வே அமைச்சர் அஸ்வினி வைஷ்ணவ் தெரிவித்தார். தற்போது இப்பயணத்துக்கு 5 முதல் 7 மணி நேரம் ஆகிறது.\n🚆 சென்னை-ஹைதராபாத் பயணம் தற்போது 8 முதல் 12 மணி நேரம்; புல்லட் ரயிலில் ஹைதராபாத்-அமராவதி-சென்னை பயணம் சுமார் 3 மணி நேரம்.\n💰 தமிழகத்துக்கான ரயில்வே ஒதுக்கீடு ஆண்டுக்கு ரூ.870 கோடியிலிருந்து ரூ.7,600 கோடியாக உயர்ந்துள்ளது. ரூ.48,000 கோடி மதிப்பிலான திட்டங்களுக்கு அனுமதி அளிக்கப்பட்டுள்ளது.\n🏗️ தேவையான 4,800 ஹெக்டேர் நிலத்தில் 1,253 ஹெக்டேர் மட்டுமே கையகப்படுத்தப்பட்டுள்ளது. நிலம் வழங்குவது மாநில அரசின் பொறுப்பு.\n🚉 திருநெல்வேலி-அம்பாசமுத்திரம் இடையே உள்ள கல்லூர் ரயில் நிலையம் 100 நாட்களுக்குள் மீண்டும் திறக்கப்படும் என அமைச்சர் அறிவித்தார்.\n\nBullet train Chennai Bengaluru 73 minutes | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #ரயில் #சென்னை",
-   "prompts": "A Union Railway Minister stands at a microphone on a decorated stage at a BJP Constitution Day event in T. Nagar, Chennai, holding a phone to his ear as he speaks to the Railway Board chairman. Behind him, party flags and banners in saffron and green hang over the stage, and a row of white plastic chairs fills the hall. In the audience, BJP party workers in white shirts and veshti, some in dark shirts, stand up and clap with raised hands, seen from behind and from a distance. Daylight comes through the hall's open side, and the scene feels busy but orderly. Shot at eye level from the back of the hall with a 35 mm lens, wide enough to show the stage, the banners and the standing crowd, with no readable text on the banners. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a black mobile phone held in a man's hand, pressed to his ear at the edge of a stage, with a bunch of microphone cables and a small water bottle on a wooden podium in the foreground. Behind the podium, the blurred silhouettes of party workers in white shirts and veshti stand and clap in the background. The light is warm daylight from a hall window, and the shallow focus keeps the phone and the hand sharp. Shot at slightly high eye level with a 35 mm lens, focusing on the phone call that announced the reopening of a railway station, with no readable text or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/union-minister-says-bullet-train-project-is-implemented-the-journey-between-chennai-and-bengaluru-could-be-covered-in-73-mins",
-   "published": "2026-11-27T02:39:09Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 24 ('அதாவது, தேவை​யான நிலத்​தில் 24 சதவீதம் மட்​டுமே வழங்​கப்​பட்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750530/chennaiminnal/hqtpkrynnswrlmxuvq5w.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750533/chennaiminnal/ttlklhczssjz1pm20k50.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தாம்பரம் மாநகரில் தீவிர சோதனை: 1100 கிலோ கஞ்சா பறிமுதல், 18 பேர் கைது",
-   "english_headline": "Intensive checks in Tambaram city: 1100 kg ganja seized, 18 arrested",
-   "category": "Crime & Safety",
-   "location": "Tambaram city, Chennai district",
+   "tamil_headline": "கிண்டி சிறுவர் பூங்கா 3 நாட்கள் மூடல்: பறவைகள் அடுத்தடுத்து உயிரிழப்பு",
+   "english_headline": "Guindy Children's Park closed for 3 days after several birds die; bird flu not yet confirmed",
+   "category": "Health",
+   "location": "Guindy Children's Park, Chennai town, Chennai district",
    "importance": "High",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "போலீஸ் சோதனை",
-    "loc": "தாம்பரம் மாநகரம்",
-    "hl1": "தாம்பரம் மாநகரில் தீவிர சோதனை",
-    "hl2": "1100 கிலோ கஞ்சா பறிமுதல்",
+    "cat": "பறவைகள் உயிரிழப்பு",
+    "loc": "கிண்டி, சென்னை",
+    "hl1": "கிண்டி சிறுவர் பூங்கா 3 நாட்கள் மூடல்",
+    "hl2": "பறவைகள் அடுத்தடுத்து",
     "slides": [
      {
-      "title": "சிறப்பு சோதனை",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "தாம்பரம் மாநகர காவல் எல்லையில் நேற்று சிறப்பு சோதனை",
-       "59 சிறப்பு காவல் குழுக்களைச் சேர்ந்த 191 காவல் அதிகாரிகள்",
-       "ஆணையர் நஜ்முல் ஹோடா உத்தரவின்படி நடவடிக்கை"
+       "கிண்டி சிறுவர் பூங்காவில் பறவைகள் உயிரிழந்தன",
+       "நீர்வாழ் பறவைகள் அடைப்பிடத்தில் <b>27.11.2026</b> அன்று",
+       "உயிரிழப்புக்கான காரணம் இன்னும் கண்டறியப்படவில்லை"
       ]
      },
      {
-      "title": "குற்றவாளிகள் சோதனை",
+      "title": "பரிசோதனை",
       "lines": [
-       "204 சரித்திர பதிவேடு குற்றவாளிகள் சோதனை செய்யப்பட்டனர்",
-       "குற்றச் சம்பவங்களில் தற்போதும் ஈடுபடுகின்றனரா என சோதனை",
-       "சோதனையில் சரித்திர பதிவேட்டில் உள்ளவர்கள் வேறு குற்றவாளிகள்"
+       "மாதிரிகள் போபாலில் உள்ள தேசிய உயர் பாதுகாப்பு விலங்கு",
+       "பறவைக் காய்ச்சல் தொற்று இதுவரை உறுதி செய்யப்படவில்லை"
       ]
      },
      {
-      "title": "கைது, பறிமுதல்",
+      "title": "பூங்கா மூடல்",
       "lines": [
-       "<b>18 பேர்</b> கைது: 9 சரித்திர பதிவேடு குற்றவாளிகள், 9",
-       "கைதானவர்கள் நீதிமன்றத்தில் ஆஜர்; நீதிமன்ற காவலுக்கு",
-       "<b>1100 கிலோ</b> கஞ்சா பறிமுதல்"
+       "முன்னெச்சரிக்கையாக <b>நாளை முதல் 30ஆம் தேதி வரை</b> பூங்கா",
+       "மறு உத்தரவு வரும் வரை மூடல் தொடரும்"
       ]
      },
      {
-      "title": "தொடர் நடவடிக்கை",
+      "title": "நடவடிக்கைகள்",
       "lines": [
-       "இதுபோன்ற சிறப்பு சோதனைகள் தொடர்ந்து நடைபெறும்",
-       "குற்றங்களைத் தடுக்கவும் பொதுமக்கள் பாதுகாப்பை உறுதி",
-       "சட்டம் ஒழுங்கு பாதுகாக்கப்படும் என போலீஸ் அதிகாரி"
+       "பாதிக்கப்பட்ட அடைப்பிடம் தனிமைப்படுத்தப்பட்டு",
+       "பிற பறவைகள், விலங்குகளின் உடல்நிலை தொடர்ந்து",
+       "பொதுமக்கள் ஒத்துழைக்குமாறு கேட்கப்பட்டுள்ளனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தாம்பரம் மாநகரில் 1100 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டு, 18 பேர் கைது செய்யப்பட்டனர். தாம்பரம் மாநகர காவல் ஆணையர் நஜ்முல் ஹோடா உத்தரவின்படி, நேற்று மாநகர காவல் எல்லைக்குட்பட்ட பகுதிகளில் சிறப்பு சோதனை நடத்தப்பட்டது. 59 சிறப்பு காவல் குழுக்களைச் சேர்ந்த 191 காவல் அதிகாரிகள் மற்றும் காவலர்கள் இதில் ஈடுபட்டனர். இந்தச் சோதனையில் 204 சரித்திர பதிவேடு குற்றவாளிகள் தற்போதும் குற்றச் சம்பவங்களில் ஈடுபடுகின்றனரா என சோதனை செய்யப்பட்டனர். இந்த நடவடிக்கையின்போது 9 சரித்திர பதிவேடு குற்றவாளிகள் மற்றும் 9 சரித்திர பதிவேட்டில் இல்லாத குற்றவாளிகள் என 18 பேர் கைது செய்யப்பட்டனர். அவர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு நீதிமன்றக் காவலுக்கு அனுப்பப்பட்டனர். அதே நடவடிக்கையின்போது 1100 கிலோ கஞ்சாவும் பறிமுதல் செய்யப்பட்டது. இதுபோன்ற சிறப்பு சோதனைகள் தொடர்ந்து நடைபெறும் என்றும், குற்றவாளிகளைக் கண்காணித்து பொதுமக்களின் பாதுகாப்பு உறுதி செய்யப்படும் என்றும் போலீஸ் அதிகாரி ஒருவர் தெரிவித்தார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தாம்பரம் மாநகரில் தீவிர சோதனை: 1100 கிலோ கஞ்சா பறிமுதல், 18 பேர் கைது\n\n📰 முழு விவரம்:\nதாம்பரம் மாநகர காவல் ஆணையர் நஜ்முல் ஹோடா உத்தரவின்படி, நேற்று மாநகர காவல் எல்லைக்குட்பட்ட பகுதிகளில் சிறப்பு சோதனை நடத்தப்பட்டது. 59 சிறப்பு காவல் குழுக்களைச் சேர்ந்த 191 காவல் அதிகாரிகள் மற்றும் காவலர்கள் இதில் ஈடுபட்டனர். 204 சரித்திர பதிவேடு குற்றவாளிகள் தற்போதும் குற்றச் சம்பவங்களில் ஈடுபடுகின்றனரா என சோதனை செய்யப்பட்டனர். இதில் 9 சரித்திர பதிவேடு குற்றவாளிகள் மற்றும் 9 சரித்திர பதிவேட்டில் இல்லாத குற்றவாளிகள் என 18 பேர் கைது செய்யப்பட்டனர். அவர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு நீதிமன்றக் காவலுக்கு அனுப்பப்பட்டனர். இந்த நடவடிக்கையின்போது 1100 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டது.\n📍 இடம்: தாம்பரம் மாநகர காவல் எல்லை, சென்னை மாவட்டம்\n🗓️ நாள்: நவம்பர் 26, 2026\n👮 நடவடிக்கை: 18 பேர் கைது, 1100 கிலோ கஞ்சா பறிமுதல்\nℹ️ மக்கள் கவனத்திற்கு: இதுபோன்ற சிறப்பு சோதனைகள் தொடர்ந்து நடைபெறும் என போலீஸ் அதிகாரி தெரிவித்துள்ளார்.\n\nTambaram police special drive, 1100 kg ganja seized | Chennai news\n📍 தாம்பரம் மாநகரம், சென்னை மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Tambaram #ChennaiNews #சென்னை",
-   "prompts": "A row of Tamil Nadu police in khaki uniform stand beside a police jeep at a roadside checkpoint in Tambaram city, Chennai, as part of an intensive crackdown. Behind them, a large heap of sacks and bulk packets of seized ganja is stacked on the ground and a line of arrested men sits or stands under police watch, seen from behind and far away. The setting is a typical Tambaram city street with two-wheelers parked along the road, low shops and a few autorickshaws in the background. It is daylight with clear sky and slightly hazy sunshine. Camera at eye level, 35 mm, wide enough to show the police, the seized heap and the street together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a large pile of seized ganja packed in bulk sacks and plastic bundles, placed on a plain tarpaulin or police table on a Tambaram roadside. In the foreground the edge of a khaki police sleeve and a cap brim are visible, slightly out of focus, while the green-brown dried ganja leaves are sharply in focus. Behind the pile, a blurred police jeep and a few policemen stand at a distance. Daylight, neutral midday light. Camera slightly above the pile, 35 mm, shallow depth of field to highlight the seized contraband. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/tambaram-city-ganja-seized",
-   "published": "2026-11-27T08:15:41+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script copies the article word for word (17 words in a row, 15% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "கிண்டி சிறுவர் பூங்காவில் பறவைகள் அடுத்தடுத்து உயிரிழந்ததால், பூங்கா மூன்று நாட்களுக்கு மூடப்படுகிறது. 27.11.2026 அன்று நீர்வாழ் பறவைகள் அடைப்பிடத்தில் சில பறவைகள் உயிரிழந்தன. அவற்றின் உயிரிழப்புக்கான காரணம் இன்னும் கண்டறியப்படவில்லை. பரிசோதனைக்காக மாதிரிகள் போபாலில் உள்ள தேசிய உயர் பாதுகாப்பு விலங்கு நோய்கள் ஆய்வு நிறுவனத்துக்கு அனுப்பப்படவுள்ளன. இதுவரை பறவைக் காய்ச்சல் தொற்று உறுதி செய்யப்படவில்லை. முன்னெச்சரிக்கை நடவடிக்கையாக, நாளை முதல் 30ஆம் தேதி வரை பார்வையாளர்களுக்குப் பூங்கா மூடப்படும். மறு உத்தரவு வரும் வரை மூடல் தொடரும். பாதிக்கப்பட்ட அடைப்பிடம் தனிமைப்படுத்தப்பட்டு, கிருமிநாசினியால் சுத்தம் செய்யப்படுகிறது. பிற பறவைகள், விலங்குகளின் உடல்நிலை தொடர்ந்து கண்காணிக்கப்படுகிறது. பொதுமக்கள் இந்த நடவடிக்கைகளுக்கு ஒத்துழைக்குமாறு கேட்டுக்கொள்ளப்பட்டுள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கிண்டி சிறுவர் பூங்கா 3 நாட்கள் மூடல்: பறவைகள் அடுத்தடுத்து உயிரிழப்பு\n\n📰 முழு விவரம்:\nகிண்டி சிறுவர் பூங்கா நிர்வாகம் வெளியிட்ட அறிக்கையின்படி, நீர்வாழ் பறவைகள் அடைப்பிடத்தில் இன்று (27.11.2026) சில பறவைகள் உயிரிழந்தன. உயிரிழப்புக்கான காரணம் இன்னும் கண்டறியப்படவில்லை. பரிசோதனைக்காக மாதிரிகள் போபாலில் உள்ள தேசிய உயர் பாதுகாப்பு விலங்கு நோய்கள் ஆய்வு நிறுவனத்துக்கு அனுப்பப்பட உள்ளன. பறவைக் காய்ச்சல் தொற்று இதுவரை உறுதி செய்யப்படவில்லை. முன்னெச்சரிக்கையாக பூங்கா நாளை முதல் 30ஆம் தேதி வரை, மூன்று நாட்களுக்கு அல்லது மறு உத்தரவு வரும் வரை பார்வையாளர்களுக்கு மூடப்படும். இந்திய அரசின் வழிகாட்டுதல்படி பாதிக்கப்பட்ட அடைப்பிடம் தனிமைப்படுத்தப்பட்டு, கிருமிநாசினியால் சுத்தம் செய்யப்படுகிறது. பிற பறவைகள், விலங்குகளின் உடல்நிலை தொடர்ந்து கண்காணிக்கப்படுகிறது.\n\nGuindy Children's Park closed 3 days after birds die | Chennai news\n📍 கிண்டி, சென்னை மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Guindy #ChennaiNews #சென்னை",
+   "prompts": "Inside the Guindy Children's Park aquatic bird enclosure in Chennai, a park staff member in a green uniform and white rubber boots stands at the fence of a shallow pond where a few white and grey waterbirds float calmly among reeds, with two or three birds lying still on the muddy bank. Behind the enclosure are tall shady trees and a paved walking path where the park's gates are visible at a distance, with a few visitors seen from behind, mostly children with adult parents, walking away. The enclosure is a fenced area with iron mesh and a concrete edge, a small wooden board stands at the gate, and the midday daylight is soft under an overcast Chennai sky. Camera at eye level, 35 mm, wide enough to show the park setting and the pond. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a black plastic sprayer nozzle and a bucket of disinfectant placed on the concrete edge beside a wire-mesh bird enclosure in Guindy Children's Park, Chennai. A gloved hand in blue protective gloves holds the sprayer, and wet, freshly disinfected concrete shines in the daylight, with a few damp feathers and a small mud patch visible on the ground. Behind it, out of focus, the green shrubs and the pond water of the enclosure can be seen, and a park worker wearing a face mask stands far back. Soft daylight, camera at slightly high angle, 50 mm close detail shot that makes the disinfection and isolation measures clear. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/successive-bird-deaths-guindy-childrens-park-to-be-closed-for-3-days-announcement-states",
+   "published": "2026-11-27T05:57:02Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750545/chennaiminnal/kfdrm8wkn8flissqj97s.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795750548/chennaiminnal/ablkcr9tkgdwkex47qzv.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795765027/chennaiminnal/gaeownxbtpw2efk6jyhe.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795765030/chennaiminnal/xdtsmhypgzugboopkygx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னையில் கல்லூரி மாணவனை கடத்தி தாக்கிய 5 மாணவர்கள் கைது",
+   "english_headline": "Five students arrested in Chennai for abducting and assaulting a college student",
+   "category": "Crime & Safety",
+   "location": "Chennai city (Nungambakkam police area), Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றம்",
+    "loc": "சென்னை",
+    "hl1": "கல்லூரி மாணவனை கடத்தி தாக்கிய 5 பேர்",
+    "hl2": "2 பேருக்கு தேடுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சென்னையில் கல்லூரி மாணவர் அபுபக்கர் சித்திக் கடத்தப்பட்டு",
+       "நவம்பர் <b>25</b> இரவு ஸ்கூல் சாலையில் சம்பவம்",
+       "முன்விரோதமே காரணம் என கூறப்படுகிறது"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "காரை வழிமறித்து வாக்குவாதம் செய்தனர்",
+       "மற்றொரு காரில் வந்த கும்பல் அவரை கடத்திச் சென்றது",
+       "பல் உடைந்து கைவிரலில் பலத்த காயம்"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "நுங்கம்பாக்கம் போலீசார் தேடுதல் நடத்தினர்",
+       "<b>5 பேர்</b> கைது; நீதிமன்றக் காவலில் அடைப்பு",
+       "<b>2 பேர்</b> (கவுரவ், எஸ்வின்) தேடப்படுகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் கல்லூரி மாணவனை கடத்திச் சென்று தாக்கிய வழக்கில் 5 மாணவர்கள் கைது செய்யப்பட்டனர். நவம்பர் 25ஆம் தேதி இரவு, லயோலா கல்லூரி அருகே உள்ள ஸ்கூல் சாலையில் சம்பவம் நடந்தது. பி ஏ ஆங்கிலம் இரண்டாம் ஆண்டு படிக்கும் அபுபக்கர் சித்திக், தனது நண்பருடன் காரில் சென்று கொண்டிருந்தார். இருசக்கர வாகனத்தில் வந்தவர்கள் விபத்து ஏற்படுத்தியதாகக் கூறி காரை வழிமறித்து வாக்குவாதம் செய்தனர். அப்போது மற்றொரு காரில் வந்த கும்பல் அபுபக்கரை வலுக்கட்டாயமாகக் கடத்திச் சென்று தாக்கியது. இதில் அவரது முன் பல் உடைந்தது; கைவிரலிலும் பலத்த காயம் ஏற்பட்டது. போலீசார் நெருங்குவதை அறிந்த கும்பல், அவரை கே கே நகர் இ எஸ் ஐ சி ஆஸ்பத்திரி அருகே இறக்கிவிட்டுத் தப்பியது. இரண்டு மாதங்களுக்கு முன் ஸ்டெல்லா மேரிஸ் கல்லூரி அருகே நடந்த டிஜே நிகழ்ச்சியின் போது ஏற்பட்ட தகராறே முன்விரோதத்திற்குக் காரணம். நுங்கம்பாக்கம் போலீசார் லயோலா கல்லூரி மாணவர் ஜே. சுதன், ராமாபுரம் ஈஸ்வரி பொறியியல் கல்லூரி மாணவர்கள் ஏ. அம்ரித், ஆர். கனிஷ்க், எம். அபுபக்கர், ஏ. சரண் சூர்யா ஆகிய 5 பேரைக் கைது செய்து நீதிமன்றக் காவலில் அடைத்துள்ளனர். கவுரவ், எஸ்வின் ஆகிய 2 மாணவர்களை போலீசார் தீவிரமாகத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னையில் கல்லூரி மாணவனை கடத்தி தாக்கிய 5 பேர் கைது\n\n📰 முழு விவரம்:\nசென்னையில் பி.ஏ. ஆங்கிலம் இரண்டாம் ஆண்டு படிக்கும் அபுபக்கர் சித்திக்கை கடத்திச் சென்று தாக்கிய வழக்கில் 5 மாணவர்கள் கைது செய்யப்பட்டனர். நவம்பர் 25ஆம் தேதி இரவு லயோலா கல்லூரி அருகே உள்ள ஸ்கூல் சாலையில் சம்பவம் நடந்தது. காரை வழிமறித்து வாக்குவாதம் செய்த கும்பல், மற்றொரு காரில் வந்தவர்களுடன் சேர்ந்து அவரை வலுக்கட்டாயமாகக் கடத்திச் சென்று தாக்கியது. இதில் முன் பல் உடைந்து, கைவிரலில் பலத்த காயம் ஏற்பட்டது. போலீசார் நெருங்கியதால் கே.கே. நகர் இ.எஸ்.ஐ.சி ஆஸ்பத்திரி அருகே அவரை இறக்கிவிட்டுத் தப்பியது. இரண்டு மாதங்களுக்கு முன் ஸ்டெல்லா மேரிஸ் கல்லூரி அருகே நடந்த டிஜே நிகழ்ச்சியின் தகராறே முன்விரோதம்.\n👮 நடவடிக்கை: நுங்கம்பாக்கம் போலீசார் ஜே. சுதன், ஏ. அம்ரித், ஆர். கனிஷ்க், எம். அபுபக்கர், ஏ. சரண் சூர்யா ஆகிய 5 பேரைக் கைது செய்து நீதிமன்றக் காவலில் அடைத்துள்ளனர்.\n🔍 கவுரவ், எஸ்வின் ஆகிய 2 மாணவர்கள் தேடப்படுகின்றனர்.\n\nFive students arrested in Chennai for abducting and assaulting college student | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Nungambakkam #ChennaiNews #சென்னை",
+   "prompts": "A group of five young male college students, seen from behind and at a distance, stands under the custody of Tamil Nadu police in khaki on the forecourt of a Nungambakkam police station in Chennai city at night. The students wear ordinary shirts and trousers and their hands are held together loosely by the constables. Behind them, a white police jeep is parked with its light bar switched off, and a tall concrete police station compound wall with a gate stands in the background. Ground-floor lights glow yellow through the windows of the station building, and a few onlookers are visible at a far distance. Two-wheelers are parked along the road edge. It is night, lit by sodium street lamps and the building lights. The camera is at eye level, 35 mm, wide enough to show the police station gate and the vehicle, with no readable signs or text visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a dark-coloured car stopped on a quiet Chennai city street at night, its driver door left open, with a pair of two-wheelers parked beside the road edge and a few scattered items of a roadside scene. Yellow sodium street lamps reflect on the wet tarmac, and the blurred trunks of roadside trees form the background. In the foreground, a single white police cap rests on the car bonnet beside a small pile of loose papers, suggesting the aftermath of a hurried search. No people are shown in sharp focus; only a distant police khaki uniform is faintly visible at the edge of the frame. Time is night, light from street lamps only. Camera is slightly high, 35 mm, close enough to show the car and the scattered items clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/5-students-arrested-in-connection-with-kidnapping-and-assault-of-college-student",
+   "published": "2026-11-27T07:12:15Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script copies the article word for word (15 words in a row, 16% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence; hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795765037/chennaiminnal/a92tsobh1amn4c8lusyp.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795765039/chennaiminnal/bovkp8sgl4jq9qxcb7ld.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை உள்பட 12 மாவட்டங்களில் அடுத்த 3 மணி நேரம் மழை வாய்ப்பு",
+   "english_headline": "Rain likely in Chennai and 11 other districts for the next 3 hours, till 1 PM on 27 Nov",
+   "category": "Weather & Agriculture",
+   "location": "Chennai, Chennai district (forecast for 12 districts including Chennai)",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மழை எச்சரிக்கை",
+    "loc": "சென்னை",
+    "hl1": "சென்னையில் அடுத்த 3 மணி நேரம் மழை",
+    "hl2": "பகல் 1 மணி வரை",
+    "slides": [
+     {
+      "title": "எந்தெந்த",
+      "lines": [
+       "சென்னை, காஞ்சிபுரம், திருவள்ளூர், செங்கல்பட்டு",
+       "கோவை, நீலகிரி, திண்டுக்கல், மதுரை",
+       "திருநெல்வேலி, தென்காசி, விருதுநகர், கன்னியாகுமரி"
+      ]
+     },
+     {
+      "title": "எப்போது வரை?",
+      "lines": [
+       "நவ. 27 பகல் <b>1 மணி</b> வரை",
+       "லேசானது முதல் மிதமான மழை பெய்யலாம்",
+       "சென்னை, புறநகரில் இன்று காலை நல்ல மழை பெய்தது"
+      ]
+     },
+     {
+      "title": "மழை நிலவரம்",
+      "lines": [
+       "வடகிழக்குப் பருவமழை இயல்பைவிட <b>19%</b> குறைவு",
+       "தென் மாவட்டங்களில் சில நாட்களாக மழை பெய்கிறது",
+       "வானிலை ஆய்வு மையத்தின் தகவல் இது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னை உள்பட 12 மாவட்டங்களில் அடுத்த 3 மணி நேரத்தில் மழை பெய்யலாம். நவம்பர் 27ஆம் தேதி பகல் 1 மணி வரை இந்த மழை இருக்கும் என்று சென்னை வானிலை ஆய்வு மையம் தெரிவித்துள்ளது. சென்னை, காஞ்சிபுரம், திருவள்ளூர், செங்கல்பட்டு, கோவை, நீலகிரி, திண்டுக்கல், திருநெல்வேலி, தென்காசி, விருதுநகர், மதுரை, கன்னியாகுமரி ஆகிய மாவட்டங்களில் லேசானது முதல் மிதமான மழை பெய்ய வாய்ப்பு உள்ளது. சென்னை மற்றும் புறநகர்ப் பகுதிகளில் இன்று காலை நல்ல மழை பெய்தது. தமிழ்நாட்டில் நடப்பாண்டு வடகிழக்குப் பருவமழை இயல்பைவிட 19 சதவிகிதம் குறைவாகப் பெய்துள்ளது. தென் மாவட்டங்களில் கடந்த சில நாட்களாக மழை தொடர்ந்து பெய்து வருகிறது. வெளியே செல்வோர் குடை, மழை உடையுடன் செல்லுங்கள். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌧️ சென்னை உள்பட 12 மாவட்டங்களில் அடுத்த 3 மணி நேரத்தில் மழை வாய்ப்பு\n\n📰 முழு விவரம்:\nநவம்பர் 27 பகல் 1 மணி வரை சென்னை உள்பட 12 மாவட்டங்களில் லேசானது முதல் மிதமான மழை பெய்யக்கூடும் என்று சென்னை வானிலை ஆய்வு மையம் அறிவித்துள்ளது. சென்னை, புறநகரில் இன்று காலையும் நல்ல மழை பெய்தது. தமிழ்நாட்டில் இந்த ஆண்டு வடகிழக்குப் பருவமழை வழக்கத்தை விட 19 சதவிகிதம் குறைவாகவே பெய்துள்ளது. தென் மாவட்டங்களில் சில நாட்களாகத் தொடர்ந்து மழை பெய்து வருகிறது.\n📍 மழை எதிர்பார்க்கப்படும் மாவட்டங்கள்: சென்னை, காஞ்சிபுரம், திருவள்ளூர், செங்கல்பட்டு, கோவை, நீலகிரி, திண்டுக்கல், மதுரை, திருநெல்வேலி, தென்காசி, விருதுநகர், கன்னியாகுமரி\n🕐 நேரம்: நவ. 27 பகல் 1 மணி வரை\nℹ️ மக்கள் கவனத்திற்கு: வெளியே செல்வோர் குடை, மழை உடை எடுத்துச் செல்லுங்கள்.\n\nChennai rain next 3 hours, 12 districts | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiRain #மழை #சென்னை",
+   "prompts": "Under a heavy grey monsoon sky in Chennai city, light rain falls steadily on a wide city road lined with concrete shops and tall buildings. The asphalt is wet and reflects the overcast light. Two-wheelers and autorickshaws move slowly, their riders in raincoats and shirts, shown from behind. A few people walk under black umbrellas on the footpath. A MTC town bus passes in the distance. It is late morning, the light is soft and flat, and the air looks damp. Shot at eye level, 35 mm, wide enough to show the whole street and the sky. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of wet tarmac on a Chennai road after morning rain, with light drizzle creating small ripples in a shallow puddle in a pothole. Rain drops fall through the frame, lit by soft grey daylight. In the blurred background, a two-wheeler's rear wheel and a pair of sandals on the wet footpath are visible. Late morning, overcast, humid city air. Shot at low angle, 35 mm, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/27/tn-rain-update-for-next-3-hours-22",
+   "published": "2026-11-27T04:56:55.061Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795765064/chennaiminnal/u6zkztekj8bqs9hstlxv.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795765068/chennaiminnal/onqohd6cby4wimysrodn.jpg"
    ]
   }
  ]

@@ -1,6 +1,6 @@
-09:06:05 hold lifted: RN-101 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-09:06:08 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-09:06:09 1 held news to fix: ['RN-326']
+13:08:05 hold lifted: RN-101 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+13:08:09 hold lifted: RN-165 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+13:08:10 2 held news to fix: ['RN-326', 'RN-329']
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
@@ -20,48 +20,86 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
 dead for this round: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 dead for this round: groq/openai/gpt-oss-120b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/qwen/qwen3.8-27b (0s)
-factcheck by groq/qwen/qwen3.8-27b: 1 problems
-  Missing important fact: The article states that the Chief Minister Joseph Vijay contested and won in the Perambur constituency, which is a key context mentioned in the article but omitted from the reel_script.
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  fact-check: Missing important fact: The article states that the Chief Minister Joseph Vijay contested and won in the Perambur constituency, which is a key context mentioned in the article but omitted from the reel_script.
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 1 problems
-  reel_script says the Chief Minister Joseph Vijay 'won' the Perambur constituency; the article says he contested and won there, which is consistent, but the draft's caption and reel also state he 'received petitions from the public' only in caption, which is in the article; no error there. However, reel_script states that the 5 CCTV cameras, EV charging, women's safety control room, Wi-Fi and 5 bus shelters are being built, while the article says all of these are under construction only with the MLA fund ₹20.30 lakh; this matches. Main issue: the slides say 'Sharma Nagar' has the CCTV/EV set (article places 'Sharma Nagar' among the 5 locations) — consistent. Caption omits nothing material.
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  fact-check: reel_script says the Chief Minister Joseph Vijay 'won' the Perambur constituency; the article says he contested and won there, which is consistent, but the draft's caption and reel also state he 'received petitions from the public' only in caption, which is in the article; no error there. However, reel_script states that the 5 CCTV cameras, EV charging, women's safety control room, Wi-Fi and 5 bus shelters are being built, while the article says all of these are under construction only with the MLA fund ₹20.30 lakh; this matches. Main issue: the slides say 'Sharma Nagar' has the CCTV/EV set (article places 'Sharma Nagar' among the 5 locations) — consistent. Caption omits nothing material.
+dead for this round: groq/qwen/qwen3.8-27b
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 7 problems
+  The article states the Perambur CM is Joseph Vijay (முதல்வர் ஜோசப் விஜய்) and that he won the constituency; the draft does not mention this, which is not a fact error but no invention here. However, the article says Rs.1.08 crore is from 'மாநகராட்சி மூலதன நிதி' and the Rs.1.31 crore is from 'மூலதன நிதி மற்றும் முதல்வரின் ஒருங்கிணைந்த நகா்ப்பு மேம்பாட்டுத் திட்டம்' - the draft's reel_script omits the funding source, which is acceptable.
+  The reel_script states the Rs.20.30 lakh works are 'பணிகள் நடைபெறுகின்றன' generally, but the article says the cameras, charging, control room, wifi and 5 bus shelters are built from the MLA development fund; the reel_script says 'பணிகள்' without naming the fund, so the link is mostly fine.
+  slides_spec line 'சிட்கோ நகர் பிரதான சாலை, எருக்கஞ்சேரி நெடுஞ்சாலை உட்பட <b>5' has a malformed unclosed <b> tag and a sentence that is not complete in Tamil meaning (the '5' is orphaned, lacking the noun 'இடங்களில்').
+  The reel_script says the 5 bus shelters are installed as 'பேருந்து நிறுத்த நிழற்குடைகள்' but omits the modern lighting described in the article; this is a minor omission not an error.
+  The reel_script states 'பள்ளிக் கட்டடம், சமுதாயக் கூடம், வார்டு அலுவலகக் கட்டடம், நகர்ப்புற ஆரம்ப சுகாதார நிலையக் கட்டடம் ஆகியவையும் கட்டப்படுகின்றன' which is consistent with the article.
+  The reel_script's sentence 'இதை சென்னை மாநகராட்சி செய்திக்குறிப்பில் தெரிவித்துள்ளது' is grammatically awkward but has clear meaning.
+  The caption says '5 நவீன பேருந்து நிறுத்த நிழற்குடைகள்' under பணிகள while the reel_script says 'பேருந்து நிறுத்த நிழற்குடைகளும்' - consistent.
+claude rewrite 1 anthropic/claude-haiku-5-5: 7 problems
+  fact-check: The article states the Perambur CM is Joseph Vijay (முதல்வர் ஜோசப் விஜய்) and that he won the constituency; the draft does not mention this, which is not a fact error but no invention here. However, the article says Rs.1.08 crore is from 'மாநகராட்சி மூலதன நிதி' and the Rs.1.31 crore is from 'மூலதன நிதி மற்றும் முதல்வரின் ஒருங்கிணைந்த நகா்ப்பு மேம்பாட்டுத் திட்டம்' - the draft's reel_script omits the funding source, which is acceptable.
+  fact-check: The reel_script states the Rs.20.30 lakh works are 'பணிகள் நடைபெறுகின்றன' generally, but the article says the cameras, charging, control room, wifi and 5 bus shelters are built from the MLA development fund; the reel_script says 'பணிகள்' without naming the fund, so the link is mostly fine.
+  fact-check: slides_spec line 'சிட்கோ நகர் பிரதான சாலை, எருக்கஞ்சேரி நெடுஞ்சாலை உட்பட <b>5' has a malformed unclosed <b> tag and a sentence that is not complete in Tamil meaning (the '5' is orphaned, lacking the noun 'இடங்களில்').
+  fact-check: The reel_script says the 5 bus shelters are installed as 'பேருந்து நிறுத்த நிழற்குடைகள்' but omits the modern lighting described in the article; this is a minor omission not an error.
+  fact-check: The reel_script states 'பள்ளிக் கட்டடம், சமுதாயக் கூடம், வார்டு அலுவலகக் கட்டடம், நகர்ப்புற ஆரம்ப சுகாதார நிலையக் கட்டடம் ஆகியவையும் கட்டப்படுகின்றன' which is consistent with the article.
+  fact-check: The reel_script's sentence 'இதை சென்னை மாநகராட்சி செய்திக்குறிப்பில் தெரிவித்துள்ளது' is grammatically awkward but has clear meaning.
+  fact-check: The caption says '5 நவீன பேருந்து நிறுத்த நிழற்குடைகள்' under பணிகள while the reel_script says 'பேருந்து நிறுத்த நிழற்குடைகளும்' - consistent.
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 5 problems
-  reel_script says the Rs 20.30 lakh MLA-fund CCTV work is set up at 5 places including Sharma Nagar, but the article says the 5 places include Sharma Nagar only as one of the sites along the road; minor, but the reel_script also omits the 5 modern bus-stop shelters from the MLA-fund works
-  reel_script omits the key article fact that the Chief Minister Joseph Vijay won the Perambur constituency and received grievance petitions from the public recently
-  slides_spec 'hl2' says '5 இடங்களில் கேமராக்கள்' and the slide 'எம்எல்ஏ நிதி' adds 'சிட்கோ நகர் சாலை பகுதிகள்' - the reel_script and slides describe the CCTV location inconsistently with the article's 'சிட்கோ நகர் பிரதான சாலை and எருக்கஞ்சேரி நெடுஞ்சாலை' wording
-  slides_spec claims 'சமுதாயக் கூடம் கட்டப்படுகிறது' and 'சாலைப் பணிகள் நடைபெறுகின்றன' - the article says interlock paver block road, fine, but the slide 'பிற பணிகள்' presents the Rs 1.42 crore boxing ring under 'சர்மா நகரில்' implicitly; the article states the boxing ring is also at Sharma Nagar, which is consistent, but the reel_script's sentence 'அங்கு ரூ.1.42 கோடியில் குத்துச் சண்டை வளையம், பார்வையாளர் மாடமும் அமைக்கப்படுகின்றன' merges two facts (the boxing ring and the spectator gallery) into a sentence whose grammar is acceptable but the article describes the gallery as having a pull-cloth roof, which is omitted - minor
-  reel_script says 'மாற்றுத்திறனாளிகளுக்கான ரப்பர் தளம் அமைக்கப்படுகிறது' while slides say 'வாசுகி நகர் பூங்காவில்' is part of 'பிற பணிகள' - consistent, no issue
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: reel_script says the Rs 20.30 lakh MLA-fund CCTV work is set up at 5 places including Sharma Nagar, but the article says the 5 places include Sharma Nagar only as one of the sites along the road; minor, but the reel_script also omits the 5 modern bus-stop shelters from the MLA-fund works
-  fact-check: reel_script omits the key article fact that the Chief Minister Joseph Vijay won the Perambur constituency and received grievance petitions from the public recently
-  fact-check: slides_spec 'hl2' says '5 இடங்களில் கேமராக்கள்' and the slide 'எம்எல்ஏ நிதி' adds 'சிட்கோ நகர் சாலை பகுதிகள்' - the reel_script and slides describe the CCTV location inconsistently with the article's 'சிட்கோ நகர் பிரதான சாலை and எருக்கஞ்சேரி நெடுஞ்சாலை' wording
-  fact-check: slides_spec claims 'சமுதாயக் கூடம் கட்டப்படுகிறது' and 'சாலைப் பணிகள் நடைபெறுகின்றன' - the article says interlock paver block road, fine, but the slide 'பிற பணிகள்' presents the Rs 1.42 crore boxing ring under 'சர்மா நகரில்' implicitly; the article states the boxing ring is also at Sharma Nagar, which is consistent, but the reel_script's sentence 'அங்கு ரூ.1.42 கோடியில் குத்துச் சண்டை வளையம், பார்வையாளர் மாடமும் அமைக்கப்படுகின்றன' merges two facts (the boxing ring and the spectator gallery) into a sentence whose grammar is acceptable but the article describes the gallery as having a pull-cloth roof, which is omitted - minor
-  fact-check: reel_script says 'மாற்றுத்திறனாளிகளுக்கான ரப்பர் தளம் அமைக்கப்படுகிறது' while slides say 'வாசுகி நகர் பூங்காவில்' is part of 'பிற பணிகள' - consistent, no issue
+  slides_spec 'சிட்கோ' slide line reads 'சிட்கோ நகர் பிரதான சாலை, எருக்கஞ்சேரி நெடுஞ்சாலையில் <b>5' - an unclosed/broken sentence with no clear meaning (ungrammatical, incomplete)
+  reel_script says சர்மா நகர் is one of the 5 places where the MLA-fund works are done, which the article does not state (article only says 'சர்மா நகர் உள்ளிட்ட 5 இடங்களில்' - this is actually consistent, so no issue there)
+  reel_script omits the 5 bus-stop shelters with modern lights, the Wi-Fi/CCTV list is partial, and the mentioned MLA-fund works are not clearly distinguished from the corporation capital-fund works, mixing two funding sources into one sentence
+  reel_script omits the important fact that the Chief Minister Joseph Vijay won the Perambur constituency and recently received public petitions there, a notable fact of the article missing from the script
+  slides_spec 'பிற பணிகள்' slide omits the water-tank motor rooms and fish/vegetable market rooms, and the 'பல இடங்களில்' headline is vague but not false
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: slides_spec 'சிட்கோ' slide line reads 'சிட்கோ நகர் பிரதான சாலை, எருக்கஞ்சேரி நெடுஞ்சாலையில் <b>5' - an unclosed/broken sentence with no clear meaning (ungrammatical, incomplete)
+  fact-check: reel_script says சர்மா நகர் is one of the 5 places where the MLA-fund works are done, which the article does not state (article only says 'சர்மா நகர் உள்ளிட்ட 5 இடங்களில்' - this is actually consistent, so no issue there)
+  fact-check: reel_script omits the 5 bus-stop shelters with modern lights, the Wi-Fi/CCTV list is partial, and the mentioned MLA-fund works are not clearly distinguished from the corporation capital-fund works, mixing two funding sources into one sentence
+  fact-check: reel_script omits the important fact that the Chief Minister Joseph Vijay won the Perambur constituency and recently received public petitions there, a notable fact of the article missing from the script
+  fact-check: slides_spec 'பிற பணிகள்' slide omits the water-tank motor rooms and fish/vegetable market rooms, and the 'பல இடங்களில்' headline is vague but not false
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 6 problems
+  reel_script says the Rs 20.30 lakh MLA fund goes to 'பாதுகாப்புப் பணிகள்' (security works), but the article lists CCTV cameras, EV charging, women's safety control room, Wi-Fi and bus shelters, which is only a partial and slightly different framing; the article does not say all of these are security works
+  reel_script says the Rs 1.31 crore exercise equipment and Rs 1.42 crore boxing ring are in Sharma Nagar, which matches the article, but the Rs 1.42 crore boxing ring and spectator gallery are described as one item when the article lists them together with the gallery; minor, but the reel_script also omits that the article says 'Rs 20.30 lakh' applies to 5 locations including Sharma Nagar, and the caption says 'சர்மா நகர் உள்ளிட்ட 5 இடங்களில்' attaching the 5 locations to Sharma Nagar near Erukkanchery highway, which is a conflation of places
+  caption says the 5 bus shelters have 'நவீன மின் விளக்குகளுடன்' correctly, but the reel_script omits the EV charging, Wi-Fi, and cameras location list details are partially mixed, and the reel_script says the women's safety control room is 'கட்டுப்பாட்டு அறை' without the 'centralized' detail, which is acceptable
+  reel_script says the 'Rs 1.08 crore' rubber floor for disabled persons is at Vasugi Nagar park from capital funds, which matches, but the slide and reel_script drop the Chief Minister's integrated urban development scheme funding attribution for the Sharma Nagar works, an omitted source detail
+  slides_spec 'பாதுகாப்பு வசதிகள்' slide says 'சிட்கோ நகர் பிரதான சாலை, எருக்கஞ்சேரி நெடுஞ்சாலையில் 5' which is an ungrammatical, incomplete sentence with no clear meaning in Tamil
+  slides_spec 'மொத்த செலவு' slide says 'மொத்தம் ரூ.41.66 கோடி மதிப்பில் நடைபெறுகின்றன' which is acceptable, but the slide line 'பெரம்பூர் சட்டப்பேரவைத் தொகுதியில் நலத் திட்டப் பணிகள்' is fine; the 'பூங்கா, பயிற்சி' slide line 'வாசுகி நகர் பூங்காவில் ரூ.1.08 கோடி மதிப்பில்' is an incomplete sentence missing the work description
+claude rewrite 3 anthropic/claude-haiku-5-5: 6 problems
+  fact-check: reel_script says the Rs 20.30 lakh MLA fund goes to 'பாதுகாப்புப் பணிகள்' (security works), but the article lists CCTV cameras, EV charging, women's safety control room, Wi-Fi and bus shelters, which is only a partial and slightly different framing; the article does not say all of these are security works
+  fact-check: reel_script says the Rs 1.31 crore exercise equipment and Rs 1.42 crore boxing ring are in Sharma Nagar, which matches the article, but the Rs 1.42 crore boxing ring and spectator gallery are described as one item when the article lists them together with the gallery; minor, but the reel_script also omits that the article says 'Rs 20.30 lakh' applies to 5 locations including Sharma Nagar, and the caption says 'சர்மா நகர் உள்ளிட்ட 5 இடங்களில்' attaching the 5 locations to Sharma Nagar near Erukkanchery highway, which is a conflation of places
+  fact-check: caption says the 5 bus shelters have 'நவீன மின் விளக்குகளுடன்' correctly, but the reel_script omits the EV charging, Wi-Fi, and cameras location list details are partially mixed, and the reel_script says the women's safety control room is 'கட்டுப்பாட்டு அறை' without the 'centralized' detail, which is acceptable
+  fact-check: reel_script says the 'Rs 1.08 crore' rubber floor for disabled persons is at Vasugi Nagar park from capital funds, which matches, but the slide and reel_script drop the Chief Minister's integrated urban development scheme funding attribution for the Sharma Nagar works, an omitted source detail
+  fact-check: slides_spec 'பாதுகாப்பு வசதிகள்' slide says 'சிட்கோ நகர் பிரதான சாலை, எருக்கஞ்சேரி நெடுஞ்சாலையில் 5' which is an ungrammatical, incomplete sentence with no clear meaning in Tamil
+  fact-check: slides_spec 'மொத்த செலவு' slide says 'மொத்தம் ரூ.41.66 கோடி மதிப்பில் நடைபெறுகின்றன' which is acceptable, but the slide line 'பெரம்பூர் சட்டப்பேரவைத் தொகுதியில் நலத் திட்டப் பணிகள்' is fine; the 'பூங்கா, பயிற்சி' slide line 'வாசுகி நகர் பூங்காவில் ரூ.1.08 கோடி மதிப்பில்' is an incomplete sentence missing the work description
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+13:08:54 RN-326 NOT fixed (try 2 of 2 ): still held: held: fact-check problems - fact-check: reel_script says சர்மா நகர் is one of the 5 places where the MLA-fund works are done, which the article does not state (article only says 'சர்மா நகர் உள்ளிட்ட 5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('கிண்டி சிறுவர் பூங்கா 3 நாட்கள் மூடப்படுவதாக அறிவிப்பு')
+  day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption copies the article word for word (16 words in a row, 37% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6k595xsevr8qckv4ngn66p1` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1491. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-09:07:03 RN-326 NOT fixed (try 1 of 2 ): still held: held: fact-check problems - fact-check: reel_script says the Chief Minister Joseph Vijay 'won' the Perambur constituency
+proofread skipped: no free model answered: None
+13:09:23 RN-329 NOT fixed (try 1 of 2 ): still held: held: fact-check problems - day word wrong: the draft says நாளை but its day (27 Nov) is today - write the day as it is TODAY (இன்று / நாளை from today) together with the date
