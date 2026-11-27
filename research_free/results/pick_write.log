@@ -1,17 +1,12 @@
-writing [N]: சென்னை விமான நிலையத்திலிருந்து துபாய்க்கு அமெரிக்க டாலர்கள் 
-writing [N]: 16 வயது சிறுவனுக்குப் பாலியல் தொல்லை கொடுத்ததாகப் புகார்.. ப
-writing [N]: “வேறு வழியின்றி இப்போது தவெக எம்எல்ஏ கைது...” - மு.க.ஸ்டாலின
+writing [N]: பெண் போலீசை காதலித்து ஏமாற்றியதாக, சக போலீஸ்காரர் கைது
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: சிறுமியிடம் பாலியல் அத்துமீறல் அரசு அதிகாரி ‘போக்சோ’வில் கைத
+writing [N]: ரூ.3.22 லட்சம் பாலிசி காசோலை மோசடி 17 ஆண்டுக்குபின் ‘தபால்கா
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
@@ -32,273 +27,198 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3-flash-preview (9s)
-attempt 1 gemini/gemini-3-flash-preview: 1 problems
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (10s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  numbers not found in the article: 18
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (10s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok gemini/gemini-3-flash-preview (11s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok groq/openai/gpt-oss-120b (2s)
-factcheck by groq/openai/gpt-oss-120b: 2 problems
-  Draft adds a specific date (நவம்பர் 27 / 27 நவம்பர் 2026) which is not mentioned in the article
-  The employee’s name is given as “சுஹைப்” in the draft, but the article refers to the person as “சுஹைப்பு” (or “சுஹைப்பை”), so the name does not match the source
-attempt 2 gemini/gemini-3-flash-preview: 2 problems
-  fact-check: Draft adds a specific date (நவம்பர் 27 / 27 நவம்பர் 2026) which is not mentioned in the article
-  fact-check: The employee’s name is given as “சுஹைப்” in the draft, but the article refers to the person as “சுஹைப்பு” (or “சுஹைப்பை”), so the name does not match the source
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok groq/openai/gpt-oss-120b (3s)
-factcheck by groq/openai/gpt-oss-120b: 3 problems
-  Reel script first sentence is ungrammatical and missing a verb ("வண்டலூரில் 16 வயது சிறுவனுக்குப் பாலியல் தொல்லை கொடுத்த காவல் துணை கண்காணிப்பாளர் கைது.")
-  Reel script repeatedly calls DSP Vasanthan "காவல் துணை கண்காணிப்பாளர்", a role not mentioned in the article (article calls him DSP)
-  Caption includes a specific date "27 நவம்பர் 2026" which is not present in the article
-attempt 2 gemini/gemini-3-flash-preview: 3 problems
-  fact-check: Reel script first sentence is ungrammatical and missing a verb ("வண்டலூரில் 16 வயது சிறுவனுக்குப் பாலியல் தொல்லை கொடுத்த காவல் துணை கண்காணிப்பாளர் கைது.")
-  fact-check: Reel script repeatedly calls DSP Vasanthan "காவல் துணை கண்காணிப்பாளர்", a role not mentioned in the article (article calls him DSP)
-  fact-check: Caption includes a specific date "27 நவம்பர் 2026" which is not present in the article
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (5s)
+attempt 1 groq/qwen/qwen3.8-27b: 2 problems
+  reel_script copies the article word for word (24 words in a row, 25% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  caption copies the article word for word (24 words in a row, 28% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/qwen/qwen3.8-27b (3s)
-attempt 3 groq/qwen/qwen3.8-27b: 3 problems
-  reel_script has 56 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption copies the article word for word (31 words in a row, 83% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok gemini/gemini-3.5-flash (55s)
-attempt 1 gemini/gemini-3.5-flash: 2 problems
-  sentence 1 (one-line story) has 19 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சென்னை' and the news itself, e.g. 'சென்னை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok groq/qwen/qwen3.8-27b (0s)
-factcheck by groq/qwen/qwen3.8-27b: 1 problems
-  Missing the name of the arrested DSP (Vasanthan) in the reel_script, which is a key fact provided in the article and included in other parts of the draft.
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  fact-check: Missing the name of the arrested DSP (Vasanthan) in the reel_script, which is a key fact provided in the article and included in other parts of the draft.
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  slide 2 line 1 is cut off mid-phrase ('ப்பந்த ஊழியர் சுஹைப்') - write a complete short phrase
-  known issue card_cut_mid_phrase: card cut off mid-phrase ('ர் ஒப்பந்த ஊழியர் சுஹைப்') - rewrite so it does not happen again
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  reel_script must end with exactly: மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption copies the article word for word (20 words in a row, 74% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok gemini/gemini-3.6-flash (36s)
+attempt 1 gemini/gemini-3.6-flash: 1 problems
   sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
 ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  caption copies the article word for word (15 words in a row, 26% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+  hl1 (the first headline on screen) must name the place 'மணலி', e.g. 'மணலி: ...' or 'மணலி-இல் ...' - viewers share news of their own area
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 7 problems
-  The reel_script and caption say the arrest happened 'சென்னை அருகே' (near Chennai), but the article gives no such location; the only place mentioned is Kallakurichi.
-  The reel_script calls the victim 'அதிகாரி' and describes her in a way that could be read as an identifying detail; the article only says 'பாதிக்கப்பட்ட அதிகாரி' and 'இரும்புப் பெண்மணி', which is acceptable, but the draft adds no name, so this is fine; however the reel_script states that the MLA 'கைது செய்யப்பட்டார்' without the article mentioning who arrested him, which is consistent. No further issue there.
-  The caption claims Stalin said ministers and alliance leaders 'எம்எல்ஏவுக்கு ஆதரவாகப் பேசியதாக' (spoke in support of the MLA), which is a paraphrase beyond the article's wording of denying the complaint and issuing 'நடத்தைச் சான்றிதழ்' (character certificates).
-  The reel_script says 'அமைச்சர்கள் முதல் கூட்டணிக் கட்சித் தலைவர்கள் வரை புகாரை மறுத்ததாகக் குற்றம் சாட்டினார்' and slide 2 says ministers and alliance leaders 'புகாரை மறுத்தனர்' as fact, omitting that this is Stalin's allegation as reported in the article; the framing is acceptable as attributed, but the slide presents it as a stated fact.
-  The reel_script says 'மகளிர் ஆணையம் ஆகியவற்றின் சீற்றத்தால்' (the anger of the women's commission and High Court) led to the arrest, presenting Stalin's claim that the arrest was forced 'வேறு வழியின்றி' as established cause rather than his opinion.
-  The article's key fact that the arrest was attributed by Stalin to 'வேறு வழியின்றி' is present, but the slide text 'உயர் நீதிமன்றம், மகளிர் ஆணைய அழுத்தத்தால் கைது நடந்தது' states the cause as fact, which the article only presents as Stalin's view.
-  The caption and reel_script describe the posting only as a social media post; the article says the statement was posted 'இன்று' which is not mentioned, a minor omission rather than a factual error.
-claude rewrite 1 anthropic/claude-haiku-5-5: 7 problems
-  fact-check: The reel_script and caption say the arrest happened 'சென்னை அருகே' (near Chennai), but the article gives no such location; the only place mentioned is Kallakurichi.
-  fact-check: The reel_script calls the victim 'அதிகாரி' and describes her in a way that could be read as an identifying detail; the article only says 'பாதிக்கப்பட்ட அதிகாரி' and 'இரும்புப் பெண்மணி', which is acceptable, but the draft adds no name, so this is fine; however the reel_script states that the MLA 'கைது செய்யப்பட்டார்' without the article mentioning who arrested him, which is consistent. No further issue there.
-  fact-check: The caption claims Stalin said ministers and alliance leaders 'எம்எல்ஏவுக்கு ஆதரவாகப் பேசியதாக' (spoke in support of the MLA), which is a paraphrase beyond the article's wording of denying the complaint and issuing 'நடத்தைச் சான்றிதழ்' (character certificates).
-  fact-check: The reel_script says 'அமைச்சர்கள் முதல் கூட்டணிக் கட்சித் தலைவர்கள் வரை புகாரை மறுத்ததாகக் குற்றம் சாட்டினார்' and slide 2 says ministers and alliance leaders 'புகாரை மறுத்தனர்' as fact, omitting that this is Stalin's allegation as reported in the article; the framing is acceptable as attributed, but the slide presents it as a stated fact.
-  fact-check: The reel_script says 'மகளிர் ஆணையம் ஆகியவற்றின் சீற்றத்தால்' (the anger of the women's commission and High Court) led to the arrest, presenting Stalin's claim that the arrest was forced 'வேறு வழியின்றி' as established cause rather than his opinion.
-  fact-check: The article's key fact that the arrest was attributed by Stalin to 'வேறு வழியின்றி' is present, but the slide text 'உயர் நீதிமன்றம், மகளிர் ஆணைய அழுத்தத்தால் கைது நடந்தது' states the cause as fact, which the article only presents as Stalin's view.
-  fact-check: The caption and reel_script describe the posting only as a social media post; the article says the statement was posted 'இன்று' which is not mentioned, a minor omission rather than a factual error.
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 ok anthropic/claude-haiku-5-5
-real photo step skipped for 'DSP Vasanthan arrested under POCSO Act o': real photos switched off
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 9 ('2025-ம் ஆண்டில் சுமார் 9 மாதங்கள் நானும், அஜய் ஆகாசும் நான் ')
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The article says the Kallakurichi TVK MLA's arrest came after pressure from the High Court and the Women's Commission, but the draft's reel_script and caption do not mention that the arrest was made 'without any other way' (வேறு வழியின்றி) - this is a wording nuance, not a major issue; main concern is the draft's 'arrest followed pressure' framing matches the article.
-  The draft's slide 'கைது குறித்த' and reel script describe the 119-day inaction as 'நடவடிக்கை எடுக்கப்படவில்லை' (no action taken), which the article says ('119 நாட்களாக இதில் நடவடிக்கை எடுக்காமல்') - accurate; no issue there.
-  The draft's reel_script says Stalin said the officer was 'மனதளவில் உடைக்கும்' targeted - accurate.
-  The reel_script and caption state the arrest happened but omit that the complaint was made by a woman officer described as 'இரும்புப் பெண்மணி' who filed the complaint despite pressure - the victim's courageous complaint is an important fact missing from the reel_script.
-  The caption date '27 நவம்பர் 2026' is the posting date line, which is excluded from checking.
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The article says the Kallakurichi TVK MLA's arrest came after pressure from the High Court and the Women's Commission, but the draft's reel_script and caption do not mention that the arrest was made 'without any other way' (வேறு வழியின்றி) - this is a wording nuance, not a major issue; main concern is the draft's 'arrest followed pressure' framing matches the article.
-  fact-check: The draft's slide 'கைது குறித்த' and reel script describe the 119-day inaction as 'நடவடிக்கை எடுக்கப்படவில்லை' (no action taken), which the article says ('119 நாட்களாக இதில் நடவடிக்கை எடுக்காமல்') - accurate; no issue there.
-  fact-check: The draft's reel_script says Stalin said the officer was 'மனதளவில் உடைக்கும்' targeted - accurate.
-  fact-check: The reel_script and caption state the arrest happened but omit that the complaint was made by a woman officer described as 'இரும்புப் பெண்மணி' who filed the complaint despite pressure - the victim's courageous complaint is an important fact missing from the reel_script.
-  fact-check: The caption date '27 நவம்பர் 2026' is the posting date line, which is excluded from checking.
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 44 ('அண்ணாசாலை, எல்.ஐ.சி., அலுவலகத்தில் மேலாளராக பணிபுரியும் கண்ண')
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The article does not say the complainant is a woman officer in the reel_script, though it says 'இரும்புப் பெண்மணி' (iron lady) filed the complaint; the draft's 'பெண் அதிகாரி' is consistent with the article, so this is not a problem. However, the caption and reel_script attribute the 'இழிவான பிரசாரம்' and 'அழுத்தம்' claims to Stalin's accusations, which matches the article.
-  The draft's slides_spec 'hl2' and slide line '119 நாட்களாக நடவடிக்கை எடுக்கப்படவில்லை' state that no action was taken for 119 days; the article says this as Stalin's criticism, presented in the draft as fact rather than as Stalin's claim.
-  The slides_spec line 'உயர் நீதிமன்றம், மகளிர் ஆணைய அழுத்தத்தால் கைது' presents the cause of the arrest as established fact, whereas the article only attributes it to Stalin's statement ('வேறு வழியின்றி... கைது செய்யப்பட்டிருக்கிறார்' as his view).
-  The reel_script omits the arrest details beyond the basic fact; the article's core point that the arrest followed 119 days of inaction is included, so no missing key fact.
-claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The article does not say the complainant is a woman officer in the reel_script, though it says 'இரும்புப் பெண்மணி' (iron lady) filed the complaint; the draft's 'பெண் அதிகாரி' is consistent with the article, so this is not a problem. However, the caption and reel_script attribute the 'இழிவான பிரசாரம்' and 'அழுத்தம்' claims to Stalin's accusations, which matches the article.
-  fact-check: The draft's slides_spec 'hl2' and slide line '119 நாட்களாக நடவடிக்கை எடுக்கப்படவில்லை' state that no action was taken for 119 days; the article says this as Stalin's criticism, presented in the draft as fact rather than as Stalin's claim.
-  fact-check: The slides_spec line 'உயர் நீதிமன்றம், மகளிர் ஆணைய அழுத்தத்தால் கைது' presents the cause of the arrest as established fact, whereas the article only attributes it to Stalin's statement ('வேறு வழியின்றி... கைது செய்யப்பட்டிருக்கிறார்' as his view).
-  fact-check: The reel_script omits the arrest details beyond the basic fact; the article's core point that the arrest followed 119 days of inaction is included, so no missing key fact.
+  The reel_script, caption and slides_spec name the girl as a 15-year-old student, which is fine, but the draft does not name the minor; however the reel_script says the girl went to him 'to study' and the article says she came for maths tuition, which is consistent - no problem there.
+  The reel_script and caption state the official was 'arrested' and the article says he was arrested; no issue there.
+  The caption says 'சிறுமி தோழியிடம் அழுததால் விஷயம் பெற்றோருக்குத் தெரிந்தது' - article says the friend's inquiry led to info reaching parents; minor paraphrase but accurate.
+  The caption says 'பாலியல் தொல்லை' style allegations were not described as 'பாலியல் அத்துமீறல்' consistently; the caption says 'அத்துமீறியதாகப் புகார்' which is a complaint, while the reel_script states it as established fact ('அத்துமீறிய அரசு அதிகாரி') before any finding - the article says police confirmed the molestation, so this is supported.
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The reel_script, caption and slides_spec name the girl as a 15-year-old student, which is fine, but the draft does not name the minor; however the reel_script says the girl went to him 'to study' and the article says she came for maths tuition, which is consistent - no problem there.
+  fact-check: The reel_script and caption state the official was 'arrested' and the article says he was arrested; no issue there.
+  fact-check: The caption says 'சிறுமி தோழியிடம் அழுததால் விஷயம் பெற்றோருக்குத் தெரிந்தது' - article says the friend's inquiry led to info reaching parents; minor paraphrase but accurate.
+  fact-check: The caption says 'பாலியல் தொல்லை' style allegations were not described as 'பாலியல் அத்துமீறல்' consistently; the caption says 'அத்துமீறியதாகப் புகார்' which is a complaint, while the reel_script states it as established fact ('அத்துமீறிய அரசு அதிகாரி') before any finding - the article says police confirmed the molestation, so this is supported.
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 7 problems
+  The reel_script and caption give the 26-year-old policeman's full name (அஜய் ஆகாஷ்), which is an adult named in the article, so this is acceptable; however, the victim is a female police officer in a sexual-offence/cheating-in-relationship case and the draft does not identify her by name, which is correct.
+  The reel_script says the complaint was filed by a female police officer in Chennai at a police station, but the article says the complaint was filed at the Egmore all-women police station, which the draft mentions only as the case registrant, so no error there.
+  The reel_script states 'நேற்று முன்தினம்' (day before yesterday) surrender, which matches the article, but the reel_script omits that the policeman was serving in Trichy under the Tamil Nadu Special Police, and says he is 'திருச்சியில் ... பணியாற்றும்' which matches; no mismatch.
+  The caption and reel_script say the woman and accused lived together 'in Nariyangadu house' only in the caption; the article supports this, so not a problem.
+  The reel_script says the woman's family agreed to the marriage ('பெண்ணின் வீட்டார் சம்மதித்தனர்') which matches the article.
+  The slides_spec line 'சென்னையில் நடந்த சம்பவம' and the headline 'சென்னை: பெண் போலீசை ஏமாற்றிய' are consistent with the article.
+  The reel_script and caption state the accused was 'பெண் போலீசை காதலித்து ஏமாற்றிய' – the article describes the complaint as cheating/deception, which is consistent with the article's framing.
+claude rewrite 2 anthropic/claude-haiku-5-5: 7 problems
+  fact-check: The reel_script and caption give the 26-year-old policeman's full name (அஜய் ஆகாஷ்), which is an adult named in the article, so this is acceptable; however, the victim is a female police officer in a sexual-offence/cheating-in-relationship case and the draft does not identify her by name, which is correct.
+  fact-check: The reel_script says the complaint was filed by a female police officer in Chennai at a police station, but the article says the complaint was filed at the Egmore all-women police station, which the draft mentions only as the case registrant, so no error there.
+  fact-check: The reel_script states 'நேற்று முன்தினம்' (day before yesterday) surrender, which matches the article, but the reel_script omits that the policeman was serving in Trichy under the Tamil Nadu Special Police, and says he is 'திருச்சியில் ... பணியாற்றும்' which matches; no mismatch.
+  fact-check: The caption and reel_script say the woman and accused lived together 'in Nariyangadu house' only in the caption; the article supports this, so not a problem.
+  fact-check: The reel_script says the woman's family agreed to the marriage ('பெண்ணின் வீட்டார் சம்மதித்தனர்') which matches the article.
+  fact-check: The slides_spec line 'சென்னையில் நடந்த சம்பவம' and the headline 'சென்னை: பெண் போலீசை ஏமாற்றிய' are consistent with the article.
+  fact-check: The reel_script and caption state the accused was 'பெண் போலீசை காதலித்து ஏமாற்றிய' – the article describes the complaint as cheating/deception, which is consistent with the article's framing.
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption copies the article word for word (17 words in a row, 20% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-image match: False The image is an AI-generated stock illustration of Indian police officers walking toward a gate, not a real photograph r
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-image match: False The image is a generic stock/AI-generated photo of stacked plates in a kitchen and does not show DSP Vasanthan, an arres
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'DSP Vasanthan arrested under POCSO Act o'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261127-2106","first":"RN-335"}
-posting job started at once
-real photo step skipped for 'Contract employee arrested at Chennai Ai': real photos switched off
-writing [N]: த.வெ.க. எம்.எல்.ஏ. கைது: “தவறிழைத்த அனைவரும் தண்டிக்கப்படும்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-image match: False The image is an AI-generated illustration containing visible glitches (such as a headless person on the left) rather tha
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 free fact-check unavailable, using Claude: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The article does not say the Kallakurichi TVK MLA was arrested for a specific offence; the draft does not state the complaint subject, but it also does not name the victim, so no victim-identifying issue arises.
-  The reel_script and slides_spec describe the complainant only as 'அதிகாரி' (officer), which matches the article, so no problem there.
-  The slide line 'புகார் கொடுத்த அதிகாரிக்கு ஆதரவாக நின்றோம் என்று ஸ்டாலின்' attributes to Stalin a statement that he stood in support of the officer; the article does not explicitly say this.
-  The slide line 'இதுகுறித்து மேலும் தகவல் வெளியாகலாம்' (more information may be released) is an invented claim not in the article.
-  The reel_script states Stalin said the arrest happened 'உயர்நீதிமன்றம், மகளிர் ஆணையம் போன்ற அமைப்புகளின் சீற்றத்தால்' - this matches the article, but the reel_script omits the article's key claim that the MLA is accused of misconduct against a female officer, which is an important fact of who did what.
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The article does not say the Kallakurichi TVK MLA was arrested for a specific offence; the draft does not state the complaint subject, but it also does not name the victim, so no victim-identifying issue arises.
-  fact-check: The reel_script and slides_spec describe the complainant only as 'அதிகாரி' (officer), which matches the article, so no problem there.
-  fact-check: The slide line 'புகார் கொடுத்த அதிகாரிக்கு ஆதரவாக நின்றோம் என்று ஸ்டாலின்' attributes to Stalin a statement that he stood in support of the officer; the article does not explicitly say this.
-  fact-check: The slide line 'இதுகுறித்து மேலும் தகவல் வெளியாகலாம்' (more information may be released) is an invented claim not in the article.
-  fact-check: The reel_script states Stalin said the arrest happened 'உயர்நீதிமன்றம், மகளிர் ஆணையம் போன்ற அமைப்புகளின் சீற்றத்தால்' - this matches the article, but the reel_script omits the article's key claim that the MLA is accused of misconduct against a female officer, which is an important fact of who did what.
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-image match: False The image is an AI-generated illustrative photo showing US currency and security equipment, not an authentic photograph 
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The article's victim is a female officer (the 'இரும்புப் பெண்மணி' who filed the complaint); the draft calls her a 'பெண் அதிகாரி' and describes the complaint in a way that implies a sexual/harassment offence, so her role is fine but the draft's framing as 'ஒழுங்கீனம்' (misconduct) for a case the article describes as a complaint against the MLA's conduct toward her, with no name given, is acceptable; however the article does not state the arrest was 'ஒழுங்கீனம்' in a legal sense and the draft's claim that Stalin accused ministers of 'முயன்றதாக' hiding the complaint is roughly supported, so no clear factual error stands out beyond the caption's use of 'தைரியமாக' which is an added characterization of the article's 'தைரியமாகப் புகார் அளித்தார்' (supported).
-  The reel_script states the arrest happened 'சென்னை உயர்நீதிமன்றம், மகளிர் ஆணையம் போன்ற அமைப்புகளின் அழுத்தத்தால்' which matches the article, but the reel_script's 'சென்னை உயர்நீதிமன்றம்' is a Madras High Court reference the article gives only as 'உயர்நீதிமன்றம்' (no city stated), adding 'சென்னை' is an invented location detail.
-  The slides_spec 'loc' is 'கள்ளக்குறிச்சி' and the caption footer location is out of scope, but the headline and reel do not mention that the MLA is of 'த.வெ.க.' party specifically as 'சட்டமன்ற உறுப்பினர்' - this is supported, so no issue there.
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: The article's victim is a female officer (the 'இரும்புப் பெண்மணி' who filed the complaint); the draft calls her a 'பெண் அதிகாரி' and describes the complaint in a way that implies a sexual/harassment offence, so her role is fine but the draft's framing as 'ஒழுங்கீனம்' (misconduct) for a case the article describes as a complaint against the MLA's conduct toward her, with no name given, is acceptable; however the article does not state the arrest was 'ஒழுங்கீனம்' in a legal sense and the draft's claim that Stalin accused ministers of 'முயன்றதாக' hiding the complaint is roughly supported, so no clear factual error stands out beyond the caption's use of 'தைரியமாக' which is an added characterization of the article's 'தைரியமாகப் புகார் அளித்தார்' (supported).
-  fact-check: The reel_script states the arrest happened 'சென்னை உயர்நீதிமன்றம், மகளிர் ஆணையம் போன்ற அமைப்புகளின் அழுத்தத்தால்' which matches the article, but the reel_script's 'சென்னை உயர்நீதிமன்றம்' is a Madras High Court reference the article gives only as 'உயர்நீதிமன்றம்' (no city stated), adding 'சென்னை' is an invented location detail.
-  fact-check: The slides_spec 'loc' is 'கள்ளக்குறிச்சி' and the caption footer location is out of scope, but the headline and reel do not mention that the MLA is of 'த.வெ.க.' party specifically as 'சட்டமன்ற உறுப்பினர்' - this is supported, so no issue there.
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Contract employee arrested at Chennai Ai'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261127-2106","first":"RN-336"}
-ok anthropic/claude-haiku-5-5
+  The caption contains a sentence ending in 'Madhuravoyal official arrested under POCSO for sexual harassment of minor girl | Chennai news', which is an English line not in the article and not part of the allowed footer.
+  The reel_script states the girl 'அழுதபோது இந்தத் தகவல் வெளிப்பட்டது' and the caption says she cried to her friend about the harassment; the article says she cried to her friend, which matches, but the reel_script omits that the girl came for maths tuition with a low maths score, which is a relevant fact of the article.
+  The reel_script says 'சிறுமி தனது தோழியிடம் அழுதபோது' — the article says the friend enquired and the girl cried; the sequence is blended, mixing two facts into one sentence (the friend's inquiry and the girl's crying).
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The caption contains a sentence ending in 'Madhuravoyal official arrested under POCSO for sexual harassment of minor girl | Chennai news', which is an English line not in the article and not part of the allowed footer.
+  fact-check: The reel_script states the girl 'அழுதபோது இந்தத் தகவல் வெளிப்பட்டது' and the caption says she cried to her friend about the harassment; the article says she cried to her friend, which matches, but the reel_script omits that the girl came for maths tuition with a low maths score, which is a relevant fact of the article.
+  fact-check: The reel_script says 'சிறுமி தனது தோழியிடம் அழுதபோது' — the article says the friend enquired and the girl cried; the sequence is blended, mixing two facts into one sentence (the friend's inquiry and the girl's crying).
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 2 problems
-  The draft mentions the victim is a 'பெண் அதிகாரி' (woman officer), which the article describes as 'அதிகாரி' and a 'இரும்புப் பெண்மணி' — the gender/role is consistent, but the reel_script and slides do not name the accused; no minor's name is present. The main problem: the caption says the arrest 'நடந்ததாக' and the reel_script says 'சட்டமன்ற உறுப்பினர்' correctly, but the caption's 'போராட்டம் தொடரும்' is an invented claim not in the article (the article says 'ஓயமாட்டோம்', which is a vow, not a statement that a protest will continue).
-  The caption's closing 'KALLAKURICHI TVK MLA arrested | Chennai news' English line is an English summary not drawn from the Tamil text; the article does not state the word 'Chennai news' context beyond the dateline, so this is not a factual problem but the reel_script omits that the MLA is the accused in a case of alleged misconduct, leaving out the core 'who did what' of the complaint (the nature of the 'ஒழுங்கீனம்' / misconduct against an officer).
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  fact-check: The draft mentions the victim is a 'பெண் அதிகாரி' (woman officer), which the article describes as 'அதிகாரி' and a 'இரும்புப் பெண்மணி' — the gender/role is consistent, but the reel_script and slides do not name the accused; no minor's name is present. The main problem: the caption says the arrest 'நடந்ததாக' and the reel_script says 'சட்டமன்ற உறுப்பினர்' correctly, but the caption's 'போராட்டம் தொடரும்' is an invented claim not in the article (the article says 'ஓயமாட்டோம்', which is a vow, not a statement that a protest will continue).
-  fact-check: The caption's closing 'KALLAKURICHI TVK MLA arrested | Chennai news' English line is an English summary not drawn from the Tamil text; the article does not state the word 'Chennai news' context beyond the dateline, so this is not a factual problem but the reel_script omits that the MLA is the accused in a case of alleged misconduct, leaving out the core 'who did what' of the complaint (the nature of the 'ஒழுங்கீனம்' / misconduct against an officer).
+proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
+real photo step skipped for 'Postman Ramamurthy, 64, arrested after 1': real photos switched off
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+image match: False The photo is an AI-generated image depicting a generic scenario of police escorting an elderly man, not an authentic pho
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Postman Ramamurthy, 64, arrested after 1'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0104","first":"RN-337"}
+posting job started at once
+real photo step skipped for 'Policeman Ajay Akash arrested for allege': real photos switched off
+writing [N]: தாம்பரத்தில் 2 நாளில் 57 ரவுடிகள் கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+image match: False The photo is an AI-generated image showing a female police officer from behind and does not depict the actual real-life 
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 486 ('இதில், 486 சரித்திரப் பதிவேடு குற்றவாளிகள், 117 தொடர் குற்றச'); 117 ('இதில், 486 சரித்திரப் பதிவேடு குற்றவாளிகள், 117 தொடர் குற்றச')
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Policeman Ajay Akash arrested for allege'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0105","first":"RN-338"}
+real photo step skipped for 'Government official arrested under POCSO': real photos switched off
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption copies the article word for word (25 words in a row, 59% of its phrases): keep every fact, name and number but write every sentence in your OWN words (shorter, in spoken order) - never copy a sentence
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Government official arrested under POCSO'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0105","first":"RN-339"}
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 486 ('இதில், 486 சரித்திரப் பதிவேடு குற்றவாளிகள், 117 தொடர் குற்றச'); 117 ('இதில், 486 சரித்திரப் பதிவேடு குற்றவாளிகள், 117 தொடர் குற்றச')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+real photo step skipped for '57 rowdies arrested in 2-day special dri': real photos switched off
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for '57 rowdies arrested in 2-day special dri'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0105","first":"RN-340"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dailythanthi.com/news/tamilnadu/tvk-mla-arrest-we-will-not-rest-until-all-those-who-committed-the-wrongdoing-are-punished-mk-stalin
-manual link added: https://www.hindutamil.in/news/tamilnadu/mkstalins-reaction-to-mla-arul-vignesh-arrested
-manual link added: https://www.polimernews.com/districtnews/police-deputy-superintendent-arrested-under-pocso-act-over-alleged-sexual-harassment-of-16-year-old-boy-12846604
-manual link added: https://www.polimernews.com/districtnews/attempt-to-smuggle-us-dollars-from-chennai-airport-to-dubai-12845526
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/57-rowdies-in-2-days-in-tambaram-arrested/4387925
+manual link added: https://www.dailythanthi.com/news/tamilnadu/fellow-police-officer-arrested-for-cheating-on-female-police-officer-by-falling-in-love
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/rs-322-lakh-policy-cheque-fraud-postman-caught-after-17-years/4387986
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/govt-official-arrested-for-sexually-assaulting-minor-girl-in-pocso/4388011
 candidate filter: collected=4
 to write: 4 Chennai district candidates (max 4 stories)
 round: top 4 of 4 candidates
 candidates waiting: 4 Chennai; time left 79 min
-try (N) manual=True: https://www.polimernews.com/districtnews/attempt-to-smuggle-
-try (N) manual=True: https://www.polimernews.com/districtnews/police-deputy-super
-try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/mkstalins-reaction-
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/fellow-police-of
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
 posting job started at once
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/tvk-mla-arrest-w
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
-NOT filed (N) “வேறு வழியின்றி இப்போது தவெக எம்எல்ஏ கைது...” - மு: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)
-NOT filed (N) த.வெ.க. எம்.எல்.ஏ. கைது: “தவறிழைத்த அனைவரும் தண்டி: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)
-candidate loop ended: left 0, tried={'N': 4}, done={'N': 2}, time left 76 min
-filed: 2 Chennai district stories (target 4), reels only
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 77 min
+filed: 4 Chennai district stories (target 4), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":4,"updated":0} 
-stories: 2
+stories: 4
