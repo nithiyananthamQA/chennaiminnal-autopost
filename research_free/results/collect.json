@@ -3,36 +3,30 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinakaran.com/news/prakashs-anticipatory-bail-plea-transferred-two-judge-bench",
-  "manual link added: https://www.dinakaran.com/news/female-iasofficer-sexual-complaint-lawyer-petition-governor",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/man-who-complained-against-stalin-over-granite-veeramani-appears-before-police-for-questioning/4387886",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/27/possibility-of-heavy-rain-in-6-districts-today",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/imd-predicts-rain-in-six-districts-today-weather-report",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/3500-drug-tablet-1-kg-cannabis-in-korattur-seized-youth-arrested/4387922",
-  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/27/children-from-a-special-school-travel-on-the-metro-train",
-  "candidate filter: collected=7",
-  "to write: 7 Chennai district candidates (max 7 stories)",
-  "round: top 7 of 7 candidates",
-  "candidates waiting: 7 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-chen",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/imd-predicts-rain-i",
+  "manual link added: https://www.hindutamil.in/news/crime/police-constable-arrested-for-deceiving-female-police-officer",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/28/sexual-harassment-complaint-district-collectors-office-official-arrested",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/eps-allegations-for-delay-in-orders-for-free-pongal-dhotis-and-sarees",
+  "manual link added: https://www.dinakaran.com/news/mkstalin-accuses-thawekagovernment-creatingdanger-statesovereignty",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/direct-cargo-shipping-service-between-chennai-and-thailand-agreement-signed",
+  "candidate filter: collected=5",
+  "to write: 5 Chennai district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Chennai; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/direct-cargo-shi",
+  "try (N) manual=True: https://www.dinakaran.com/news/mkstalin-accuses-thawekagover",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/eps-allegations-for",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
-  "NOT filed (N) நவ.30-ல் புதிய காற்றழுத்த தாழ்வுப் பகுதி உருவாகிறத: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/man-who-compl",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinakaran.com/news/female-iasofficer-sexual-comp",
-  "NOT filed (N) இன்று 6 மாவட்டங்களில் பலத்த மழைக்கு வாய்ப்பு: not Coimbatore district news (the story's first lines name another place and no Coimbatore place)",
-  "try (N) manual=True: https://www.dinakaran.com/news/prakashs-anticipatory-bail-pl",
+  "try (N) manual=True: https://www.hindutamil.in/news/crime/police-constable-arrest",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 5}, time left 77 min",
-  "filed: 5 Chennai district stories (target 7), reels only",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
+  "filed: 5 Chennai district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -43,8 +37,10 @@
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
@@ -52,86 +48,43 @@
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "not available on this plan: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (1s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -143,310 +96,335 @@
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னை மெட்ரோ ரயிலில் 250 சிறப்புப் பள்ளி குழந்தைகள் பயணம்",
-   "english_headline": "250 special school children ride Chennai Metro",
-   "category": "Civic Issues",
-   "location": "Chennai town, Chennai district",
+   "tamil_headline": "சென்னை - தாய்லாந்து இடையே நேரடி சரக்கு கப்பல் சேவை: ஒப்பந்தம் கையெழுத்து",
+   "english_headline": "Direct cargo ship service between Chennai and Thailand: agreement signed",
+   "category": "Business & Prices",
+   "location": "Chennai port, Chennai district",
    "importance": "Medium",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "சிறப்புப் பள்ளி",
-    "loc": "சென்னை",
-    "hl1": "சென்னை மெட்ரோவில் 250 குழந்தைகள் பயணம்",
-    "hl2": "மாற்றுத்திறனாளிகள் தினம்",
+    "cat": "வர்த்தகம்",
+    "loc": "சென்னை துறைமுகம்",
+    "hl1": "சென்னை - தாய்லாந்து நேரடி சரக்கு கப்பல்",
+    "hl2": "ஒப்பந்தம் கையெழுத்து",
     "slides": [
      {
-      "title": "பயணம் தொடங்கியது",
+      "title": "என்ன மாற்றம்?",
       "lines": [
-       "<b>250</b> சிறப்புப் பள்ளி குழந்தைகள் மெட்ரோவில்",
-       "விமான நிலைய நிலையத்தில் பயணம் தொடங்கியது",
-       "வெள்ளிக்கிழமை காலை நடைபெற்றது"
+       "சென்னை துறைமுகத்தில் இருந்து தாய்லாந்தின் ரனோங்",
+       "இந்தியாவின் கிழக்கு பகுதிக்கும் தாய்லாந்திற்கும் இடையே"
       ]
      },
      {
-      "title": "பங்கேற்பாளர்கள்",
+      "title": "யார் சேவை?",
       "lines": [
-       "காஞ்சிபுரம், விருதுநகர், தாம்பரம், பூந்தமல்லி பள்ளிகள்",
-       "ஆசிரியர்கள் மற்றும் மாணவர்கள் பயணம்",
-       "ஏ.ஜி.டி.எம்.எஸ். நிலையம் வரை சென்றனர்"
+       "டி.சி.ஐ. சீவேஸ் இந்த சேவையை வழங்க உள்ளது",
+       "சென்னை துறைமுக ஆணையத்துக்கும் டி.சி.ஐ. சீவேஸ்"
       ]
      },
      {
-      "title": "நிகழ்ச்சி விவரம்",
+      "title": "கப்பல் விவரம்",
       "lines": [
-       "சர்வதேச மாற்றுத்திறனாளிகள் தினத்தை முன்னிட்டு",
-       "மாற்றுத்திறனாளிகள் நல ஆணையர் மு.லட்சுமி கலந்துகொண்டார்",
-       "சென்னை மெட்ரோ நிறுவனம் ஏற்பாடு செய்தது"
+       "இந்த புதிய வழித்தடத்தில் டி.சி.ஐ. சூர்யா கப்பல் இயக்கப்பட",
+       "இதற்கான நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை மெட்ரோ ரயிலில் 250 சிறப்புப் பள்ளி குழந்தைகள் பயணம் செய்தனர். சர்வதேச மாற்றுத்திறனாளிகள் தினத்தை முன்னிட்டு இந்த நிகழ்ச்சி நடைபெற்றது. சென்னை மெட்ரோ ரயில் நிறுவனம் மற்றும் மாற்றுத்திறனாளிகள் நல ஆணையகம் இணைந்து இந்த பயணத்தை ஏற்பாடு செய்தன. தமிழ்நாடு முழுவதும் உள்ள அரசு சிறப்புப் பள்ளிகளைச் சேர்ந்த மாணவர்கள் பங்கேற்றனர். காஞ்சிபுரம், விருதுநகர், தாம்பரம் மற்றும் பூந்தமல்லி பகுதிகளைச் சேர்ந்த குழந்தைகளும் இணைந்தனர். அவர்களது ஆசிரியர்கள் மற்றும் மாணவர்கள் பயணத்தில் கலந்துகொண்டனர். வெள்ளிக்கிழமை காலை விமான நிலைய மெட்ரோ நிலையத்தில் பயணம் தொடங்கியது. குழந்தைகள் ஏ ஜி டி எம் எஸ் மெட்ரோ நிலையம் வரை பயணம் செய்தனர். மாற்றுத்திறனாளிகள் நல ஆணையர் மு.லட்சுமி நிகழ்ச்சியில் கலந்துகொண்டார். மாற்றுத்திறனாளிகள் நல இணை இயக்குநர் சி.ஜெயச்சந்திரனும் இணைந்தார். சென்னை மெட்ரோ ரயில் நிறுவன அதிகாரிகள் நிகழ்ச்சியில் பங்கேற்றனர். மெட்ரோ பயண அனுபவம் பெற இந்த நிகழ்ச்சி ஏற்படுத்தப்பட்டது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚇 சென்னை மெட்ரோவில் 250 சிறப்புப் பள்ளி குழந்தைகள் பயணம் - மாற்றுத்திறனாளிகள் தினம்\n\n📰 முழு விவரம்:\nசர்வதேச மாற்றுத்திறனாளிகள் தினத்தை முன்னிட்டு சென்னை மெட்ரோ ரயில் நிறுவனம் மற்றும் மாற்றுத்திறனாளிகள் நல ஆணையகம் இணைந்து பயணத்தை ஏற்பாடு செய்தன. தமிழ்நாடு முழுவதும் உள்ள அரசு சிறப்புப் பள்ளிகளைச் சேர்ந்த 250 மாற்றுத்திறனாளி குழந்தைகள் மற்றும் ஆசிரியர்கள் பயணத்தில் பங்கேற்றனர். காஞ்சிபுரம், விருதுநகர், தாம்பரம் மற்றும் பூந்தமல்லி பகுதிகளைச் சேர்ந்த பள்ளிகளின் மாணவர்கள் இணைந்தனர். வெள்ளிக்கிழமை காலை விமான நிலைய மெட்ரோ நிலையத்தில் பயணம் தொடங்கியது. குழந்தைகள் ஏ.ஜி.டி.எம்.எஸ். மெட்ரோ நிலையம் வரை பயணம் செய்தனர். மாற்றுத்திறனாளிகள் நல ஆணையர் மு.லட்சுமி, இணை இயக்குநர் சி.ஜெயச்சந்திரன் மற்றும் மெட்ரோ அதிகாரிகள் நிகழ்ச்சியில் கலந்துகொண்டனர்.\n\n📍 இடம்: சென்னை மெட்ரோ (விமான நிலையம் - ஏ.ஜி.டி.எம்.எஸ்.)\n🗓️ நாள்: வெள்ளிக்கிழமை\n🕘 நேரம்: காலை\nℹ️ நோக்கம்: சர்வதேச மாற்றுத்திறனாளிகள் தினம்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nChennai Metro special school children trip | Chennai news\n📍 Chennai, Chennai | 27 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiMetro #ChennaiNews #சென்னை",
-   "prompts": "A group of school children from a government special school board a Chennai Metro Rail train at an elevated station platform on a bright Friday morning, guided by their teachers who hold their hands gently. The platform is clean and modern, with a yellow safety line along the edge, glass barriers, and the silver metro train standing at the platform with its doors open. Most children wear school uniforms, some in white shirts and dark trousers or skirts, and a few carry small school bags on their backs. Their teachers, women in cotton sarees and men in shirts, stand beside them, smiling and helping them step in. Seen from slightly behind and to the side, at eye level, shot with a 35 mm lens wide enough to show the platform, the train and the Chennai skyline beyond. Daylight, soft sunshine, a cheerful and celebratory mood. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the metro train's sliding doors opening onto a crowded interior, with a few children in school uniform seated by the window, their small hands resting on the seat backs and a teacher's hand guiding one child's wrist. The grab handles, the grey and blue cushioned seats, and the polished floor are in sharp focus. Through the window, the blurred platform and a yellow safety line are visible. Shot from close range at slightly high angle with a 35 mm lens, soft daylight streaming through the carriage windows, a calm, joyful atmosphere. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/27/children-from-a-special-school-travel-on-the-metro-train",
-   "published": "2026-11-27T20:03:15.179Z",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "சென்னை துறைமுகத்திலிருந்து தாய்லாந்தின் ரனோங் துறைமுகத்திற்கு நேரடி சரக்கு கப்பல் சேவை தொடங்கப்பட உள்ளது. இதன் மூலம் இந்தியாவின் கிழக்குப் பகுதிக்கும் தாய்லாந்துக்கும் இடையே புதிய கடல்வழி வர்த்தக இணைப்பு உருவாக உள்ளது. இந்த சேவையை டி சி ஐ சீவேஸ் வழங்க இருக்கிறது. டி சி ஐ சீவேஸ் என்பது டிரான்ஸ்போர்ட் கார்ப்பரேஷன் ஆப் இந்தியா நிறுவனத்தின் கடல்வழிப் போக்குவரத்துப் பிரிவாகும். இதற்காக சென்னை துறைமுக ஆணையத்துக்கும் டி சி ஐ சீவேஸ் நிறுவனத்துக்கும் இடையே புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தாகியுள்ளது. இந்த புதிய வழித்தடத்தில் டி சி ஐ சூர்யா கப்பல் இயக்கப்பட உள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚢 சென்னை - தாய்லாந்து இடையே நேரடி சரக்கு கப்பல் சேவை தொடங்குகிறது\n\n📰 முழு விவரம்:\nசென்னை துறைமுகத்திலிருந்து தாய்லாந்தின் ரனோங் துறைமுகத்திற்கு நேரடி சரக்கு கன்டெய்னர் கப்பல் போக்குவரத்தைத் தொடங்குவதற்கான நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது. இதன் மூலம் இந்தியாவின் கிழக்குப் பகுதிக்கும் தாய்லாந்துக்கும் இடையே புதிய கடல்வழி வர்த்தக இணைப்பு உருவாக உள்ளது.\nடிரான்ஸ்போர்ட் கார்ப்பரேஷன் ஆப் இந்தியா நிறுவனத்தின் கடல்வழிப் போக்குவரத்துப் பிரிவான டி.சி.ஐ. சீவேஸ் இந்த சேவையை வழங்க உள்ளது. சென்னை துறைமுக ஆணையத்துக்கும் டி.சி.ஐ. சீவேஸ் நிறுவனத்துக்கும் இடையே புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தாகியுள்ளது. இந்த புதிய வழித்தடத்தில் டி.சி.ஐ. சூர்யா கப்பல் இயக்கப்பட உள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.\n\n🚢 இடம்: சென்னை துறைமுகம் - ரனோங் துறைமுகம் (தாய்லாந்து)\n🤝 ஒப்பந்தம்: சென்னை துறைமுக ஆணையம் - டி.சி.ஐ. சீவேஸ்\n\nChennai Thailand direct cargo ship service agreement | Chennai news\n📍 சென்னை துறைமுகம், சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiPort #ChennaiNews #சென்னை",
+   "prompts": "At Chennai port, a large container ship is berthed at the quay while tall gantry cranes lift stacked cargo containers in the bright morning daylight. In the foreground, a group of port officials and business representatives in formal shirts and trousers stand around a long table under a canopy, a signing ceremony underway, with a pen and papers on the table. Behind them, rows of colourful stacked shipping containers, forklifts and trucks line the quay, with the blue Bay of Bengal visible at the edge of the harbour. The men are seen from behind or at a distance, and a few port workers in helmets walk along the dock. Shot at eye level on a 35 mm lens, wide enough to show the harbour, the ship and the cranes together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a long row of stacked shipping containers on the Chennai port quay, their rust-streaked steel surfaces and bold colours (red, blue, green) catching the sunlight, with the corner locking fittings and a yellow container crane hook hanging overhead. In the soft background, the blurred hull of a container ship sits at berth, and a port worker in a helmet and high-visibility vest walks past at a distance. The composition focuses on the containers as the cargo that will travel the new Chennai to Thailand sea route. Daylight, eye level, 35 mm lens, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/direct-cargo-shipping-service-between-chennai-and-thailand-agreement-signed",
+   "published": "2026-11-28T03:22:39Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822503/chennaiminnal/czpvlp9c84sesvl7mgjl.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822505/chennaiminnal/cscoonw8n5zkbwty3ohg.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836914/chennaiminnal/ysdhpegfqnbrljcmtslw.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836916/chennaiminnal/yvxbgrzjg11zsem9987j.jpg"
    ]
   },
   {
-   "tamil_headline": "கொரட்டூரில் 3,500 போதை மாத்திரை, 1 கிலோ கஞ்சா பறிமுதல்: வாலிபர் கைது",
-   "english_headline": "3,500 drug tablets and 1 kg ganja seized at Korattur station; youth arrested",
-   "category": "Crime & Safety",
-   "location": "Korattur railway station, Chennai district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போதைப் பொருள் கைது",
-    "loc": "கொரட்டூர், சென்னை",
-    "hl1": "கொரட்டூரில் 3,500 போதை மாத்திரை பறிமுதல்",
-    "hl2": "₹10.50 லட்சம் மதிப்பு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கொரட்டூர் ரயில் நிலையத்தில் போலீசார் மாறு வேடத்தில் சோதனை",
-       "போதை மாத்திரை கடத்தி வந்த அஜித்குமார் (24 வயது), கைது",
-       "<b>3,500</b> போதை மாத்திரைகள், <b>1 கிலோ</b> கஞ்சா பறிமுதல்"
-      ]
-     },
-     {
-      "title": "எப்படி",
-      "lines": [
-       "மும்பையில் இருந்து சென்னை சென்ட்ரலுக்கு ரயிலில் வருவதாக",
-       "பெரம்பூரில் இறங்கி மின்சார ரயிலில் கொரட்டூர் வந்தார்",
-       "ஆட்டோ நிறுத்தம் அருகே பிடித்து பையை சோதித்தனர்"
-      ]
-     },
-     {
-      "title": "யார் இவர்?",
-      "lines": [
-       "ஒக்கியம் துரைப்பாக்கம், கண்ணகி நகரைச் சேர்ந்தவர்",
-       "'வாட்ஸாப்' குழு மூலம் மாணவர்களுக்கு விற்றார்",
-       "ஏற்கனவே கைதாகி, ஜாமினில் வந்து மீண்டும் விற்றார்"
-      ]
-     },
-     {
-      "title": "மதிப்பு, நடவடிக்கை",
-      "lines": [
-       "போதை பொருட்களின் மதிப்பு <b>10.50 லட்சம் ரூபாய்</b>",
-       "விசாரணைக்கு பின் நேற்று சிறையில் அடைக்கப்பட்டார்",
-       "மாணவர்கள் போதைப் பொருளுக்கு இரையாக வேண்டாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கொரட்டூரில் 3,500 போதை மாத்திரைகள் மற்றும் 1 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டு, 24 வயது வாலிபர் கைது செய்யப்பட்டார். கொரட்டூர் ரயில் நிலையத்தில் மாறு வேடத்தில் போலீசார் நடத்திய சோதனையில் அஜித்குமார் பிடிபட்டார். மும்பையில் இருந்து சென்னை சென்ட்ரலுக்கு விரைவு ரயிலில் போதை மாத்திரைகளுடன் வருவதாக நேற்று காலை ரகசிய தகவல் கிடைத்தது. அவர் பெரம்பூர் ரயில் நிலையத்தில் இறங்கி, மின்சார ரயில் மூலம் கொரட்டூர் வந்தார். கொரட்டூர் ரயில் நிலையம் அருகே உள்ள ஆட்டோ நிறுத்தம் அருகில் போலீசார் அவரை மடக்கி, பையைச் சோதனை செய்தனர். விசாரணையில் அவர் ஒக்கியம் துரைப்பாக்கம், கண்ணகி நகரைச் சேர்ந்தவர் என்பது தெரிய வந்தது. 'வாட்ஸாப்' குழு மூலம் மாணவர்களுக்கும் ரவுடிகளுக்கும் போதை பொருட்களை விற்று வந்துள்ளார். ஏற்கனவே நீலாங்கரை காவல் நிலைய எல்லையில் போதை வழக்கில் கைதாகி, சிறை சென்று, ஜாமினில் வெளியே வந்து மீண்டும் விற்பனையில் ஈடுபட்டுள்ளார். பறிமுதல் செய்யப்பட்ட போதை பொருட்களின் மதிப்பு 10.50 லட்சம் ரூபாய். விசாரணைக்கு பின் அஜித்குமார் நேற்று சிறையில் அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கொரட்டூரில் 3,500 போதை மாத்திரை, 1 கிலோ கஞ்சா பறிமுதல்: வாலிபர் கைது\n\n📰 முழு விவரம்:\nகொரட்டூர் ரயில் நிலையத்தில் மாறு வேடத்தில் போலீசார் நடத்திய சோதனையில், போதை மாத்திரை கடத்தி வந்த அஜித்குமார் (24 வயது), கைது செய்யப்பட்டார். அவரிடமிருந்து 3,500 போதை மாத்திரைகள், 1 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டன. மும்பையிலிருந்து சென்னை சென்ட்ரலுக்கு ரயிலில் வருவதாக ரகசிய தகவல் கிடைத்ததையடுத்து போலீசார் கண்காணித்தனர். பெரம்பூரில் இறங்கி மின்சார ரயிலில் கொரட்டூர் வந்த அவரை, ஆட்டோ நிறுத்தம் அருகே மடக்கிப் பிடித்தனர். 'வாட்ஸாப்' குழு மூலம் மாணவர்களுக்கும் ரவுடிகளுக்கும் போதை பொருட்களை விற்றது தெரியவந்தது. ஏற்கனவே நீலாங்கரை காவல் நிலைய எல்லையில் போதை வழக்கில் சிறை சென்று, ஜாமினில் வந்து மீண்டும் விற்பனையில் ஈடுபட்டவர் என்பதும் தெரியவந்துள்ளது. பறிமுதல் செய்யப்பட்ட போதை பொருட்களின் மதிப்பு 10.50 லட்சம் ரூபாய். அஜித்குமார் நேற்று சிறையில் அடைக்கப்பட்டார்.\n📍 இடம்: கொரட்டூர் ரயில் நிலையம், சென்னை மாவட்டம்\n🗓️ நாள்: நவம்பர் 27, 2026\n\nKorattur drug tablets and ganja seized, youth arrested | Chennai news\n📍 கொரட்டூர், சென்னை மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Korattur #ChennaiNews #சென்னை",
-   "prompts": "Two plain-clothes policemen in shirts and trousers stand beside a young man sitting on a station bench at Korattur railway station, Chennai, as an autorickshaw waits at the auto stand just outside. Behind them a suburban electric train stands at the platform, its doors open, and commuters with bags walk past in the morning daylight. The young man, about 24, wears a plain shirt and trousers, his face turned away from the camera. The police officers are seen from behind, one holding a closed black plastic bag. The scene is calm and tense, with ordinary station life continuing around the arrest. Shot at eye level, 35 mm, wide enough to show the platform, the auto stand, and the station shed with its overhead roof and tracks. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a plain wooden table or police cloth at Korattur railway station, showing the seized goods laid out: neat bundles of drug tablet strips stacked in rows, beside a packet of dry green ganja spread on paper. A police officer's hand in khaki sleeve rests on the edge of the table, and a black plastic bag lies open nearby. The background is blurred to show the station platform, with a suburban train and passengers far behind. Morning daylight falls from the side, giving clear texture to the tablets and the ganja. Shot at slightly high angle, 35 mm, shallow depth of field, focused on the seized contraband. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/3500-drug-tablet-1-kg-cannabis-in-korattur-seized-youth-arrested/4387922",
-   "published": "2026-11-27T20:56:38+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822521/chennaiminnal/uh4avbqdiqhcfgiytwje.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822523/chennaiminnal/kxi3vurkdjqpl9xqmjvn.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "‘கிரானைட்’ வீரமணி விவகாரம்: ஸ்டாலின் மீது புகார் கொடுத்த வழக்கறிஞர் போலீஸ் விசாரணைக்கு ஆஜர்",
-   "english_headline": "Granite Veeramani case: lawyer who complained against Stalin appears before police",
-   "category": "Crime & Safety",
-   "location": "Chennai, Chennai district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போலீஸ் விசாரணை",
-    "loc": "சென்னை",
-    "hl1": "சென்னையில் வீரமணி வழக்கு: புகார்தாரர்",
-    "hl2": "சிறப்பு புலனாய்வு குழு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "வழக்கறிஞர் வேல்முருகன் நேற்று போலீஸ் விசாரணைக்கு ஆஜரானார்",
-       "இவர் அக். <b>3</b> அன்று சென்னை போலீஸ் கமிஷனர் அலுவலகத்தில்",
-       "புகார் ‘கிரானைட்’ வீரமணி விவகாரம் தொடர்பானது"
-      ]
-     },
-     {
-      "title": "புகாரில் என்ன?",
-      "lines": [
-       "முன்னாள் முதல்வர் ஸ்டாலின், முன்னாள் கமிஷனர் அருண் மீது",
-       "வீரமணி மீதான ‘போக்சோ’ வழக்கு கமுக்கமாக முடித்து",
-       "ரகுபதியையும் வழக்கில் சேர்க்க வேண்டும் என்று கோரிக்கை"
-      ]
-     },
-     {
-      "title": "விசாரணை நிலவரம்",
-      "lines": [
-       "சிறப்பு புலனாய்வு குழு போலீசார் <b>சம்மன்</b> அனுப்பியிருந்தனர்",
-       "வேறு பணிகள் இருப்பதால் மற்றொரு நாள் ஆஜராக கூறப்பட்டுள்ளது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் வீரமணி வழக்கில் புகார் கொடுத்த வழக்கறிஞர் வேல்முருகன் நேற்று போலீஸ் விசாரணைக்கு ஆஜரானார். கிரானைட் வீரமணி மீது சிறுமியரை பாலியல் வன்முறை செய்ததாக புகார் அளிக்கப்பட்டுள்ளது. அக்டோபர் 3ஆம் தேதி சென்னை மாநகர போலீஸ் கமிஷனர் அலுவலகத்தில் வேல்முருகன் புகார் அளித்தார். தி மு க ஆட்சியில் காவல் துறை அமைச்சராக இருந்த முன்னாள் முதல்வர் ஸ்டாலின் மீதும், முன்னாள் கமிஷனர் அருண் மீதும் அவர் குற்றம் சாட்டியுள்ளார். வீரமணி மீதான போக்சோ வழக்கு கமுக்கமாக முடித்து வைக்கப்பட்டதாகவும், சட்டத்துறை அமைச்சர் ரகுபதிக்கும் இது தெரியும் என்றும் அவர் கூறினார். ரகுபதியையும் வழக்கில் சேர்க்க வேண்டும் என்று கோரினார். சிறப்பு புலனாய்வு குழு போலீசார் அனுப்பிய சம்மனின் அடிப்படையில் அவர் ஆஜரானார். வேறு பணிகள் இருப்பதால் மற்றொரு நாள் ஆஜராக வேண்டும் என விசாரணை அதிகாரிகள் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னையில் வீரமணி வழக்கு: புகார்தாரர் வழக்கறிஞர் வேல்முருகன் போலீஸ் விசாரணைக்கு ஆஜர்\n\n📰 முழு விவரம்:\nகிரானைட் வீரமணி மீது சிறுமியரை பாலியல் வன்முறை செய்ததாகப் புகார் அளிக்கப்பட்டுள்ளது. இந்தப் புகாரை அளித்த வழக்கறிஞர் வேல்முருகன், நேற்று சிறப்பு புலனாய்வு குழு போலீசார் அனுப்பிய சம்மனின் அடிப்படையில் விசாரணைக்கு ஆஜரானார்.\nஅக். 3 அன்று சென்னை மாநகர போலீஸ் கமிஷனர் அலுவலகத்தில் அவர் அளித்த புகாரில், தி.மு.க. ஆட்சியில் காவல் துறை அமைச்சராக இருந்த முன்னாள் முதல்வர் ஸ்டாலினும், முன்னாள் சென்னை மாநகர போலீஸ் கமிஷனர் அருணும் நடவடிக்கை எடுப்பதில் அலட்சியமாக இருந்ததாகக் குற்றம் சாட்டப்பட்டுள்ளது.\nவீரமணி மீதான போக்சோ வழக்கு கமுக்கமாக முடித்து வைக்கப்பட்டதாகவும், சட்டத்துறை அமைச்சர் ரகுபதிக்கும் இது தெரியும் என்றும் அவர் கூறியுள்ளார். இதனால் ஸ்டாலின், அருண், ரகுபதி ஆகியோரையும் வழக்கில் சேர்க்க வேண்டும் என அவர் கோரியுள்ளார்.\nவிசாரணைக்குப் பிறகு, வேறு பணிகள் இருப்பதால் மற்றொரு நாள் ஆஜராக வேண்டும் என விசாரணை அதிகாரிகள் தெரிவித்துள்ளதாக வேல்முருகன் கூறியுள்ளார்.\n\nGranite Veeramani case: complainant lawyer appears before police | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Chennai",
-   "prompts": "A Chennai police Special Investigation Team officer in khaki uniform sits at a desk inside a government police office, while a lawyer in a black coat stands before the desk, seen from behind, appearing for questioning in a complaint case. The room is a Tamil Nadu police office in central Chennai, with a wooden table stacked with files and paper documents, a tubelight-lit ceiling, a fan, and a plain cream wall with a framed calendar left blank. Two more khaki-uniformed police personnel stand near a cabinet of case files in the background, slightly blurred. The lawyer is shown from behind, his face not visible, carrying a folder of papers under one arm. It is daytime, the light coming in through a window with grey soft daylight. Camera at eye level, 35 mm, wide enough to show the whole room and the desk with files. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official case files and a summons paper lying on a government office desk in a Chennai police investigation room, with a black lawyer's coat sleeve and a pen resting beside it. The papers are plain white and blank-looking, with no readable text. A blue ink pen rests on the folder, and a steel desk fan sits slightly out of focus in the background. Soft daylight from a window falls across the desk. Shallow depth of field, 50 mm, camera slightly above the desk, focusing on the stack of files and the paper summons. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/man-who-complained-against-stalin-over-granite-veeramani-appears-before-police-for-questioning/4387886",
-   "published": "2026-11-28T02:12:03+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 97 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822551/chennaiminnal/bmgald81xd9jq7k58big.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822554/chennaiminnal/rkrqwupygzxcnd96txq1.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பெண் ஐஏஎஸ் அதிகாரி பாலியல் புகார்: தலைமைச் செயலாளர் மீது விசாரணை கோரி மனு",
-   "english_headline": "Advocate petitions Governor to probe Chief Secretary Sai Kumar over delay in acting on a woman IAS officer's sexual harassment complaint",
+   "tamil_headline": "திருப்பரங்குன்றம் மலையில் தீபம் ஏற்ற உச்சநீதிமன்ற உத்தரவு: ஸ்டாலின் தவெக அரசை குற்றம் சாட்டினார்",
+   "english_headline": "Supreme Court orders lamp lighting on Thiruparankundram hill pillar; M.K. Stalin blames TVK government",
    "category": "Government & Services",
-   "location": "Chennai, Chennai district",
+   "location": "Thiruparankundram hill, Madurai district",
    "importance": "High",
-   "scope": "",
+   "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு நடவடிக்கை",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: தலைமைச் செயலாளர் மீது விசாரணை",
-    "hl2": "பெண் IAS அதிகாரி புகார்",
+    "cat": "அரசியல் செய்தி",
+    "loc": "திருப்பரங்குன்றம், மதுரை",
+    "hl1": "திருப்பரங்குன்றம் தீபம்: உச்சநீதிமன்ற",
+    "hl2": "ஸ்டாலின் தவெக அரசு மீது",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன உத்தரவு?",
       "lines": [
-       "பெண் ஐஏஎஸ் அதிகாரி பாலியல் துன்புறுத்தல் புகார் அளித்தார்",
-       "புகார் மீது உரிய நடவடிக்கை தாமதமானதாகக் குற்றச்சாட்டு",
-       "தலைமைச் செயலாளர் சாய் குமார் மீது குற்றச்சாட்டு"
+       "திருப்பரங்குன்றம் மலை உச்சித் தூணில் இன்று <b>தீபம்</b>",
+       "மலை முழுவதும் சிஆர்பிஎப் படையிடம் ஒப்படைப்பு",
+       "கோயில் அறங்காவலர்கள் குழு கலைப்பு"
       ]
      },
      {
-      "title": "யார் மனு",
+      "title": "யார் நேரில் ஆஜர்?",
       "lines": [
-       "வழக்கறிஞர் மோகன்தாஸ் தமிழக கவர்னரிடம் மனு அளித்தார்",
-       "விசாரணை நடத்தி துறைரீதியான நடவடிக்கை கோரப்பட்டுள்ளது",
-       "தவறு நிரூபிக்கப்பட்டால் குற்றவியல் நடவடிக்கையும்"
+       "தலைமைச் செயலாளர், டிஜிபி ஆஜராக வேண்டும்",
+       "அறநிலையத்துறை ஆணையர், மதுரை ஆட்சியர் ஆஜராக வேண்டும்",
+       "துணை ஆணையர் உள்ளிட்டோரும் ஆஜராக வேண்டும்"
       ]
      },
      {
-      "title": "என்ன விசாரிக்க",
+      "title": "ஸ்டாலின்",
       "lines": [
-       "புகார் பற்றி தலைமைச் செயலாளர் எப்போது தகவல் பெற்றார்",
-       "அதன் பின் என்ன நடவடிக்கை எடுத்தார் என்பது முக்கியம்",
-       "அரசு கோப்புகள், பதிவேடுகள், தொலைபேசி விவரங்கள் மூலம் விசாரணை"
+       "தவெக அரசு வலுவான வாதங்களை வைக்கவில்லை என ஸ்டாலின்",
+       "திமுக அரசே வழிபாட்டு மரபுகளைக் காத்ததாக ஸ்டாலின் கூறினார்",
+       "முதல்வர் விஜய் வாய் திறக்க மறுப்பதாகவும் விமர்சனம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் பெண் ஐஏஎஸ் அதிகாரியின் பாலியல் புகார் மீது தலைமைச் செயலாளர் நடவடிக்கை எடுக்கவில்லை என்ற குற்றச்சாட்டு எழுந்துள்ளது. பெண் ஐஏஎஸ் அதிகாரி அளித்த பாலியல் துன்புறுத்தல் புகார் மீது உரிய நடவடிக்கை எடுக்காமல் காலதாமதம் செய்ததாகத் தலைமைச் செயலாளர் சாய் குமார் மீது குற்றச்சாட்டு உள்ளது. இதுதொடர்பாக வழக்கறிஞர் மோகன்தாஸ் தமிழக கவர்னரிடம் மனு அளித்துள்ளார். மனுவில், தலைமைச் செயலாளர் மீது விசாரணை நடத்த வேண்டும் என்று கோரப்பட்டுள்ளது. தவறு நிரூபிக்கப்பட்டால் துறைரீதியாகவும், குற்றவியல் ரீதியாகவும் நடவடிக்கை எடுக்க வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார். பெண்கள் பாலியல் துன்புறுத்தலுக்கு ஆளாகும் விவகாரங்களில் உயர் பதவியில் இருப்பவர்களும் சட்டப்படி கடமையை நிறைவேற்ற வேண்டும் என்று மோகன்தாஸ் கூறினார். ஒரு பெண் வாய்மொழியாகப் புகார் தெரிவித்தாலும் அதை அதிகாரிகள் அலட்சியப்படுத்தக்கூடாது என்றும் அவர் தெரிவித்தார். தலைமைச் செயலாளர் எப்போது தகவல் பெற்றார், அதன் பின் என்ன நடவடிக்கை எடுத்தார் என்பதை அரசு கோப்புகள், பதிவேடுகள், தொலைபேசி விவரங்கள் மூலம் விசாரிக்க வேண்டும் என்றும் கோரப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை: பெண் ஐஏஎஸ் அதிகாரி பாலியல் புகார் மீது தாமதம் - தலைமைச் செயலாளர் மீது விசாரணை கோரி மனு\n\n📰 முழு விவரம்:\nபெண் ஐஏஎஸ் அதிகாரி அளித்த பாலியல் துன்புறுத்தல் புகார் மீது உரிய நடவடிக்கை எடுக்காமல் காலதாமதம் செய்ததாகத் தலைமைச் செயலாளர் சாய் குமார் மீது குற்றச்சாட்டு எழுந்துள்ளது.\nஇதுதொடர்பாக வழக்கறிஞர் மோகன்தாஸ் தமிழக கவர்னரிடம் மனு அளித்துள்ளார். தலைமைச் செயலாளர் மீது விசாரணை நடத்தி, தவறு நிரூபிக்கப்பட்டால் துறைரீதியாகவும் குற்றவியல் ரீதியாகவும் நடவடிக்கை எடுக்க வேண்டும் என்று அவர் கோரியுள்ளார்.\nஒரு பெண் வாய்மொழியாகப் புகார் தெரிவித்தாலும் அதிகாரிகள் அலட்சியப்படுத்தக் கூடாது என்று மோகன்தாஸ் வலியுறுத்தியுள்ளார்.\n🔍 தலைமைச் செயலாளர் எப்போது தகவல் பெற்றார், அதன் பின் என்ன நடவடிக்கை எடுத்தார் என்பதை அரசு கோப்புகள், பதிவேடுகள், தொலைபேசி விவரங்கள் மூலம் விசாரிக்க வேண்டும் என்றும் கோரப்பட்டுள்ளது.\n\nChennai IAS officer sexual harassment complaint, Chief Secretary probe plea | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #அரசு\n\n",
-   "prompts": "A lawyer in a black coat and white shirt hands a sealed petition envelope to a government officer at the entrance of a formal government building in Chennai, with a small group of reporters holding microphones and notebooks gathered at a distance. Behind them stand tall white pillars, a wide stone staircase and a row of khaki-uniformed police near the gate, while a few cars wait on the road outside in the daylight. The people are seen from behind or far away, with no faces visible. Other clothing includes men in shirts and veshti and a woman in a cotton saree among the staff. The scene reads as a formal petition handover at a state office in Chennai during the day. Camera at eye level, 35 mm lens, wide enough to show the building and the gathered group. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a thick stack of official papers tied with a red string on a polished wooden table, with a fountain pen resting on top and a government file register open beside it. Dim light from a window falls across the papers, and a blurred glimpse of a khaki-uniformed sleeve and a reporter's microphone sits at the edge of the frame. No readable text, signboards or logos appear. The detail suggests a formal complaint and official records being examined. Camera close and slightly high, 50 mm lens, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/female-iasofficer-sexual-complaint-lawyer-petition-governor",
-   "published": "2026-11-28T01:36:29+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "reel_script": "திருப்பரங்குன்றம் மலை உச்சித் தூணில் இன்று தீபம் ஏற்ற உச்சநீதிமன்றம் உத்தரவிட்டுள்ளது. மலை முழுவதும் சிஆர்பிஎப் படையிடம் ஒப்படைக்கப்பட்டுள்ளது. கோயில் அறங்காவலர்கள் குழு கலைக்கப்பட்டுள்ளது. முன்னாள் நீதிபதிகள் கொண்ட குழுவிடம் பொறுப்பு ஒப்படைக்கப்பட்டுள்ளது. தலைமைச் செயலாளர், டிஜிபி, அறநிலையத்துறை ஆணையர், மதுரை ஆட்சியர், துணை ஆணையர் ஆகியோர் நேரில் ஆஜராக வேண்டும் என உத்தரவிடப்பட்டுள்ளது. இந்த நிலைக்கு த வெ க அரசே காரணம் என தி மு க தலைவர் மு க ஸ்டாலின் குற்றம் சாட்டியுள்ளார். உச்சநீதிமன்றத்தில் அரசு வலுவான வாதங்களை வைக்கவில்லை என்றும், அறங்காவலர் குழுவைக் காரணம் காட்டியதாகவும் அவர் கூறினார். திருப்பரங்குன்றத்தில் காலம் காலமாக பின்பற்றப்பட்ட வழிபாட்டு மரபுகளை தி மு க அரசே காப்பாற்றியதாகவும் ஸ்டாலின் தெரிவித்துள்ளார். முதல்வர் விஜய் இதுகுறித்து வாய் திறக்க மறுப்பது தமிழ்நாட்டிற்கு துரோகம் என்றும் அவர் விமர்சித்துள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 திருப்பரங்குன்றம் மலை உச்சித் தூணில் தீபம் ஏற்ற உச்சநீதிமன்றம் உத்தரவு\n\n📰 முழு விவரம்:\nதிருப்பரங்குன்றம் மலை உச்சித் தூணில் இன்று தீபம் ஏற்ற உச்சநீதிமன்றம் உத்தரவிட்டுள்ளது. மலை முழுவதும் சிஆர்பிஎப் படையிடம் ஒப்படைக்கப்பட்டுள்ளது. கோயில் அறங்காவலர்கள் குழு கலைக்கப்பட்டு, முன்னாள் நீதிபதிகள் கொண்ட குழுவிடம் பொறுப்பு ஒப்படைக்கப்பட்டுள்ளது.\nதலைமைச் செயலாளர், டிஜிபி, அறநிலையத்துறை ஆணையர், மதுரை ஆட்சியர், துணை ஆணையர் ஆகியோர் நேரில் ஆஜராக வேண்டும் என உத்தரவிடப்பட்டுள்ளது.\nஇதற்கு தவெக அரசே காரணம் என திமுக தலைவர் மு.க.ஸ்டாலின் குற்றம் சாட்டியுள்ளார். உச்சநீதிமன்றத்தில் அரசு வலுவான வாதங்களை வைக்கவில்லை என்றும், அறங்காவலர் குழுவைக் காரணம் காட்டியதாகவும் அவர் கூறினார்.\nதிருப்பரங்குன்றத்தில் வழிபாட்டு மரபுகளை திமுக அரசே காப்பாற்றியதாகவும், முதல்வர் விஜய் இதுகுறித்து வாய் திறக்க மறுப்பது தமிழ்நாட்டிற்கு துரோகம் என்றும் ஸ்டாலின் விமர்சித்துள்ளார்.\n\nSupreme Court orders Thiruparankundram lamp lighting | Madurai news\n📍 திருப்பரங்குன்றம், மதுரை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Madurai #ChennaiNews #சென்னை",
+   "prompts": "A row of CRPF personnel in dark uniform with rifles walks along the rocky steps of Thiruparankundram hill in Madurai district, while a tall stone pillar stands on the summit above them. Below the hill, the base of a traditional temple gopuram with painted stucco figures rises above a small cluster of devotees, some in white veshti and shirts, others in sarees, standing quietly and seen from behind. The steps are worn grey granite cut into the rock, with a few stone lamp holders beside the path. The sky is pale morning light with a soft haze over the dry Madurai hills. Photographed from a low wide angle at about eye level, 35 mm, showing the full hill, the summit pillar and the temple base together. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the tall stone deepathoon pillar on the rocky summit of Thiruparankundram hill, its top ringed with iron lamp holders and a few unlit oil lamps resting on the stone ledge. A single CRPF personnel in khaki-green uniform stands at a distance beside the pillar, seen from behind and slightly blurred. Rough granite boulders and sparse dry scrub surround the base, and the Madurai plains stretch pale and hazy below. Soft daylight falls from the side, emphasising the grain of the stone. Eye-level 35 mm shot, tight enough to show the pillar and the lamp holders clearly. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/mkstalin-accuses-thawekagovernment-creatingdanger-statesovereignty",
+   "published": "2026-11-28T01:14:13+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: place word 'மலையில்' is not in the article",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822562/chennaiminnal/h6skb4vfjek2g4v9ktdn.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822565/chennaiminnal/dei7re1rukzofis8gjlu.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836939/chennaiminnal/wbqnbsawtgowxvyunr6g.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836942/chennaiminnal/nltqjq6bmfmyhxhpmnkd.jpg"
    ]
   },
   {
-   "tamil_headline": "ஜெம் வீரமணி வழக்கில் பிரகாஷ் முன்ஜாமீன் மனு இரு நீதிபதி அமர்வுக்கு மாற்றம்",
-   "english_headline": "Plea of absconding Prakash in POCSO case against Gem Veeramani moved to two-judge bench in Madras High Court",
-   "category": "Crime & Safety",
+   "tamil_headline": "சென்னை: பொங்கல் இலவச வேட்டி, சேலை ஆர்டர் தாமதம்; 5 லட்சம் தறி தொழிலாளர்கள் பாதிப்பு",
+   "english_headline": "Chennai: Delay in Pongal free veshti-saree orders leaves 5 lakh handloom and powerloom workers affected, says Palaniswami",
+   "category": "Government & Services",
    "location": "Chennai, Chennai district",
    "importance": "High",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றம்",
+    "cat": "அரசு அறிவிப்பு",
     "loc": "சென்னை",
-    "hl1": "சென்னை: ஜெம் வீரமணி வழக்கில் மனு மாற்றம்",
-    "hl2": "பிரகாஷ் முன்ஜாமீன் மனு",
+    "hl1": "சென்னை: பொங்கல் வேட்டி, சேலை ஆர்டர்",
+    "hl2": "5 லட்சம் தொழிலாளர்கள்",
     "slides": [
      {
-      "title": "என்ன வழக்கு?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "சிறுமிகளுக்கு பாலியல் வன்கொடுமை வழக்கில் ஜெம் கிரானைட்",
-       "அவர் மீது <b>9 வழக்குகள்</b> பதிவு",
-       "லஞ்ச குற்றச்சாட்டில் தொழிலதிபர் பிரகாஷ் தலைமறைவு"
+       "பொங்கல் இலவச வேட்டி, சேலை ஆர்டர் <b>4 மாத</b> தாமதம்",
+       "ஆணை இப்போதுதான் வழங்க முடிவு",
+       "2027 பொங்கலுக்கு நெய்ய ஆர்டர்"
       ]
      },
      {
-      "title": "பிரகாஷ் மீது",
+      "title": "ஏன் தாமதம்?",
       "lines": [
-       "அதிகாரிகளுக்கு லஞ்சம் கொடுக்க இடைத்தரகர் என குற்றச்சாட்டு",
-       "ஆதாரங்களை அழிக்க உதவியதாகவும் குற்றச்சாட்டு",
-       "வெளிநாடு தப்பியதாகக் கூறப்படுகிறது"
+       "வேட்டி: <b>8 முழம்</b> இருந்ததை <b>4 முழமாக</b> மாற்றம்",
+       "டிசைன் மாற்றம் பற்றி முடிவு தாமதம்",
+       "வழக்கமாக ஜூன், ஜூலையில் ஆர்டர் வழங்கப்படும்"
       ]
      },
      {
-      "title": "நடவடிக்கை",
+      "title": "யாருக்கு பாதிப்பு?",
       "lines": [
-       "லுக் அவுட் நோட்டீஸ், இன்டர்போல் ரெட் கார்னர் நோட்டீஸ்",
-       "பாஸ்போர்ட் முடக்க சிறப்பு புலனாய்வுக் குழு நடவடிக்கை",
-       "<b>40 கோடி ரூபாய்</b> வங்கிக் கணக்குகள் முடக்கம்"
+       "சுமார் <b>5 லட்சம்</b> கைத்தறி, விசைத்தறித் தொழிலாளர்கள்",
+       "வேலை இழந்து வாழ்வாதாரம் பாதிப்பு",
+       "ஆர்டர் ஆட்டோலூம் தொழில் நடத்துவோருக்கு"
       ]
      },
      {
-      "title": "நீதிமன்றம்",
+      "title": "அரசின் பதில்?",
       "lines": [
-       "பிரகாஷ் முன்ஜாமீன் மனு இரு நீதிபதி அமர்வுக்கு மாற்றம்",
-       "வீரமணியின் விடுவிப்பு மனுவுக்கு <b>30 நவம்பர்</b> வரை பதில் கோரல்",
-       "விசாரணை தள்ளிவைப்பு"
+       "பொங்கலுக்கு இன்னும் <b>2 மாதம்</b> மட்டுமே",
+       "உரிய நேரத்தில் வேட்டி, சேலை வழங்க கோரிக்கை",
+       "தவெக அரசு நடவடிக்கை எடுக்க வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னையில் சிறுமிகள் பாலியல் வன்கொடுமை வழக்கில் தேடப்படும் தொழிலதிபர் பிரகாஷின் முன்ஜாமீன் மனு, இரு நீதிபதி அமருக்கு மாற்றப்பட்டுள்ளது. ஜெம் கிரானைட் வீரமணி கைது செய்யப்பட்டுள்ளார். அவர் மீது 9 வழக்குகள் பதிவாகியுள்ளன. அவரது வழக்குகளை முடித்து வைக்க அதிகாரிகளுக்குப் பல கோடி ரூபாய் லஞ்சம் கொடுக்க இடைத்தரகராகச் செயல்பட்டதாக பிரகாஷ் மீது குற்றம் சாட்டப்பட்டுள்ளது. ஆதாரங்களை அழிக்கவும் அவர் உதவியதாகக் கூறப்படுகிறது. இதையடுத்து பிரகாஷ் தலைமறைவானார். அவர் வெளிநாடு தப்பியதாகக் கூறப்படுவதால் லுக் அவுட் நோட்டீஸ் பிறப்பிக்கப்பட்டுள்ளது. அவரது பாஸ்போர்ட்டை முடக்கவும், இன்டர்போல் மூலம் ரெட் கார்னர் நோட்டீஸ் பிறப்பிக்கவும் சிறப்பு புலனாய்வுக் குழு நடவடிக்கை எடுத்து வருகிறது. அவருக்குச் சொந்தமான 40 கோடி ரூபாய் வங்கிக் கணக்குகளும் முடக்கப்பட்டுள்ளன. பிரகாஷின் முன்ஜாமீன் மனு, நீதிபதி சுந்தர் மோகன் முன்பு விசாரணைக்கு வந்தது. இரு நீதிபதிகள் அமர்வே விசாரிப்பது சரியாக இருக்கும் எனக் கூறி அவர் வழக்கை மாற்றினார். வீரமணி தன்னை விடுவிக்கக் கோரிய மனுவுக்கு, நவம்பர் 30ஆம் தேதிக்குள் காவல்துறை பதிலளிக்க போக்சோ சிறப்பு நீதிமன்றம் உத்தரவிட்டுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை: ஜெம் வீரமணி வழக்கில் தேடப்படும் பிரகாஷின் முன்ஜாமீன் மனு இரு நீதிபதி அமர்வுக்கு மாற்றம்\n\n📰 முழு விவரம்:\nசிறுமிகளுக்கு பாலியல் வன்கொடுமை செய்ததாக ஜெம் கிரானைட் வீரமணி கைது செய்யப்பட்டுள்ளார். அவர் மீது 9 வழக்குகள் பதிவாகியுள்ளன. அவரது வழக்குகளை முடித்து வைக்க அதிகாரிகளுக்கு பல கோடி ரூபாய் லஞ்சம் கொடுக்க இடைத்தரகராகச் செயல்பட்டதாகத் தொழிலதிபர் பிரகாஷ் மீது குற்றச்சாட்டு உள்ளது. ஆதாரங்களை அழிக்க உதவியதாகவும் அவர் மீது குற்றச்சாட்டு உள்ளது. இதையடுத்து அவர் தலைமறைவானார். வெளிநாடு தப்பியதாகக் கூறப்படுவதால் லுக் அவுட் நோட்டீஸ் பிறப்பிக்கப்பட்டுள்ளது. பாஸ்போர்ட்டை முடக்கவும், இன்டர்போல் ரெட் கார்னர் நோட்டீஸ் பிறப்பிக்கவும் சிறப்பு புலனாய்வுக் குழு நடவடிக்கை எடுத்து வருகிறது. அவருக்குச் சொந்தமான சுமார் 40 கோடி ரூபாய் வங்கிக் கணக்குகளும் முடக்கப்பட்டுள்ளன.\nபிரகாஷின் முன்ஜாமீன் மனு நீதிபதி சுந்தர் மோகன் முன்பு விசாரணைக்கு வந்தது. இதை இரு நீதிபதிகள் அமர்வு விசாரிப்பதே சரியாக இருக்கும் என்று கூறி வழக்கை மாற்றி உத்தரவிட்டார்.\nஇதற்கிடையே, வீரமணி தன்னை வழக்கிலிருந்து விடுவிக்கக் கோரிய மனுவுக்கு நவம்பர் 30ஆம் தேதிக்குள் காவல்துறை பதிலளிக்குமாறு போக்சோ சிறப்பு நீதிமன்றம் உத்தரவிட்டுள்ளது.\n\nChennai POCSO case Gem Veeramani | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #குற்றம்",
-   "prompts": "A row of lawyers in black coats and white bands walks up the wide stone steps of the Madras High Court in Chennai, carrying bundles of case files tied with cloth tape, past tall arched pillars and a few armed police in khaki standing near the entrance. Behind them, the Chennai courthouse complex is bright in daytime sunlight, with a stream of clerks and litigants moving along the veranda and a few parked two-wheelers and black cars at the gate. Sunlit stone and red-tiled colonial architecture fill the frame, with heavy city traffic faintly visible beyond the compound wall. Men and women in plain office clothes are seen from behind or far away, some holding files close to their chests, others gathered in small groups discussing quietly. Late-morning light, clear sky, no visible signboards or readable text. Camera at eye level, 35 mm, wide enough to show the courthouse façade and the entrance steps with the crowd moving through them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of thick court case files and loose legal papers resting on a wooden table in a Chennai court office, with a pair of black-and-white lawyer's bands and a closed law book beside them. A khaki-uniformed police officer's sleeve and a folded cap are blurred in the background, and a ceiling fan turns above a dim, high-ceilinged government hall. Soft window light falls across the stacked bundles, tied with cloth tape, and a metal file cabinet stands behind in shadow. No faces visible, no readable text or document headings. Camera at slightly high angle, 35 mm, shallow depth of field focusing on the files and the table surface. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/prakashs-anticipatory-bail-plea-transferred-two-judge-bench",
-   "published": "2026-11-28T01:14:17+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "reel_script": "சென்னையில் பொங்கல் இலவச வேட்டி, சேலை ஆர்டர் தாமதத்தால் சுமார் 5 லட்சம் தறி தொழிலாளர்கள் பாதிக்கப்பட்டுள்ளதாக பழனிசாமி குற்றம் சாட்டியுள்ளார். அ தி மு க பொதுச்செயலாளர் பழனிசாமி வெளியிட்ட செய்திக்குறிப்பில் இந்தக் குற்றச்சாட்டு இடம்பெற்றுள்ளது. 6 மாதங்களுக்கு முன்பு ஆட்சிக்கு வந்த முதல்வர் விஜய் தலைமையிலான கூட்டணி அரசு, பொங்கலுக்குத் தரமான வேட்டி, சேலை வழங்கப்போவதாக அறிவித்தது. வேட்டியின் அளவு 8 முழத்தில் இருந்து 4 முழமாக மாற்றப்பட்டது. ஒருசில மாறுதல்களும் செய்யப்பட்டன. சுமார் 4 மாத தாமதத்துக்குப் பிறகு, 2027ஆம் ஆண்டு பொங்கல் பண்டிகைக்கு இலவச வேட்டி, சேலை நெய்ய ஆணை வழங்க அரசு முடிவு எடுத்துள்ளது. வழக்கமாக இந்த ஆர்டர் ஒவ்வொரு ஆண்டும் ஜூன், ஜூலை மாதங்களில் வழங்கப்படும். வேட்டி, சேலை டிசைன்களில் மாற்றம் பற்றி முடிவெடுக்க தாமதமானதே காரணம் என்று கூறப்படுகிறது. பொங்கலுக்கு இன்னும் 2 மாதமே உள்ள நிலையில், ஆர்டர் ஆட்டோலூம் தொழில் நடத்துபவர்களுக்கும் வழங்கப்பட்டுள்ளதாக தமிழ்நாடு விசைத்தறிச் சங்கங்களின் கூட்டமைப்பினர் தெரிவிக்கின்றனர். இதனால் சுமார் 5 லட்சம் கைத்தறி, விசைத்தறித் தொழிலாளர்கள் வேலை இழந்து வாழ்வாதாரத்தை இழந்து நிற்கும் நிலை ஏற்பட்டுள்ளதாக பழனிசாமி கூறியுள்ளார். உரிய நேரத்தில் பொங்கலுக்கான வேட்டி, சேலைகளை வழங்க த வெ க அரசு நடவடிக்கை எடுக்க வேண்டும் என்றும் அவர் கோரியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ சென்னை: பொங்கல் இலவச வேட்டி, சேலை ஆர்டர் தாமதம் – 5 லட்சம் தறி தொழிலாளர்கள் பாதிப்பு\n\n📰 முழு விவரம்:\nதமிழகத்தில் 6 மாதங்களுக்கு முன்பு ஆட்சிக்கு வந்த முதல்வர் விஜய் தலைமையிலான கூட்டணி அரசு, பொங்கலுக்குத் தரமான வேட்டி, சேலை வழங்கப்போவதாக அறிவித்தது.\nவேட்டியை 8 முழத்தில் இருந்து 4 முழமாக்கி, ஒருசில மாறுதல்களைச் செய்து, சுமார் 4 மாத தாமதத்துக்குப் பிறகு, 2027ஆம் ஆண்டு பொங்கலுக்கு இலவச வேட்டி, சேலை நெய்ய ஆணை வழங்க அரசு முடிவு எடுத்துள்ளது.\nவழக்கமாக இந்த ஆர்டர் ஜூன், ஜூலை மாதங்களில் வழங்கப்படும். டிசைன் மாற்றம் பற்றி முடிவெடுக்க தாமதமானதால், பொங்கலுக்கு இன்னும் 2 மாதமே உள்ள நிலையில் ஆர்டர் ஆட்டோலூம் தொழில் நடத்துபவர்களுக்கும் வழங்கப்பட்டுள்ளதாக தமிழ்நாடு விசைத்தறிச் சங்கங்களின் கூட்டமைப்பினர் தெரிவிக்கின்றனர்.\nஇதனால் சுமார் 5 லட்சம் கைத்தறி, விசைத்தறித் தொழிலாளர்கள் வேலை இழந்து வாழ்வாதாரத்தை இழக்கும் நிலையில் உள்ளனர் என பழனிசாமி குற்றம் சாட்டியுள்ளார்.\nஉரிய நேரத்தில் பொங்கலுக்கான வேட்டி, சேலைகளை வழங்க தவெக அரசு நடவடிக்கை எடுக்க வேண்டும் என அவர் கோரியுள்ளார்.\n\nChennai Pongal free veshti saree order delay, 5 lakh weavers affected | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #பொங்கல் #சென்னை",
+   "prompts": "A group of handloom and powerloom weavers stands in a Chennai district weaving-cooperative compound, seen from behind, as a government official in a plain shirt holds a bundle of folded cream-coloured veshtis and bright sarees. Behind them is a row of powerloom machines under a tin roof, and a few weaver women in cotton sarees and men in veshti and shirt watch quietly. The workers are dressed in everyday cotton, their faces turned away, and the mood looks tense and waiting. Daylight falls through open shed sides, giving a soft, even light. Camera at eye level, 35 mm, wide enough to show the weaving shed and the crowd, with the stacked bundles in the foreground. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of neatly folded, unlabelled white veshtis with coloured saree borders resting on a wooden table in a powerloom unit. Beside them, a wooden loom shuttle and a cotton thread spool sit on the bare table, and a few unfolded sarees hang from a rack in the blurred background. Only the cloth and tools are sharp, with no readable text or labels visible. Soft natural light from a side window, late morning, a plain dusty concrete floor below. Camera slightly high, 50 mm macro-style, shallow depth of field. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/tamilnadu/eps-allegations-for-delay-in-orders-for-free-pongal-dhotis-and-sarees",
+   "published": "2026-11-28T00:49:01Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836950/chennaiminnal/yaglv4ksufnofrslx3ry.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836952/chennaiminnal/lwtqcfedkfasqpionex4.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பாலியல் தொல்லை புகார்: ஆட்சியர் அலுவலக அதிகாரி கைது",
+   "english_headline": "Sexual harassment complaint: Thiruvallur Collectorate official arrested",
+   "category": "Crime & Safety",
+   "location": "Maduravoyal, Chennai district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றம் & பாதுகாப்பு",
+    "loc": "மதுரவாயல், சென்னை",
+    "hl1": "மதுரவாயலில் அதிகாரி கைது",
+    "hl2": "மாணவிக்கு பாலியல் தொல்லை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "மதுரவாயலில் 10ஆம் வகுப்பு மாணவிக்கு பாலியல் தொல்லை புகார்",
+       "திருவள்ளூர் மாவட்ட ஆட்சியர் அலுவலக அதிகாரி கைது",
+       "பிரம்மநாயகம் (48 வயது), ஊரக வளர்ச்சித் துறை உதவி இயக்குநர்"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "மாணவி பக்கத்து வீட்டில் வசித்த பிரம்மநாயகத்திடம்",
+       "கடந்த <b>ஜனவரி</b> மாதம் முதல் தொல்லை கொடுத்ததாகக் கூறப்படுகிறது",
+       "தோழி மூலம் தாய்க்கு விஷயம் தெரிந்தது"
+      ]
+     },
+     {
+      "title": "நடவடிக்கை",
+      "lines": [
+       "விருகம்பாக்கம் அனைத்து மகளிர் காவல் நிலையத்தில் தாய் புகார்",
+       "வழக்குப் பதிவு செய்து அதிகாரி கைது செய்யப்பட்டார்",
+       "நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைக்கப்பட்டார்"
+      ]
+     },
+     {
+      "title": "பணியிடை நீக்கம்",
+      "lines": [
+       "கைது செய்த பின் பணியிடை நீக்கம் செய்யப்பட்டதாகத் தகவல்",
+       "மாணவிகளின் பாதுகாப்பு குறித்து பெற்றோர் கவனமாக இருங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மதுரவாயலில் பத்தாம் வகுப்பு மாணவிக்கு பாலியல் தொல்லை அளித்ததாக அதிகாரி கைது செய்யப்பட்டார். திருவள்ளூர் மாவட்ட ஆட்சியர் அலுவலகத்தில் ஊரக வளர்ச்சித் துறை உதவி இயக்குநராகப் பணியாற்றிய பிரம்மநாயகம் (48 வயது) கைது செய்யப்பட்டார். மதுரவாயல் பகுதியில் தனியார் பள்ளியில் பத்தாம் வகுப்பு படிக்கும் மாணவி, பக்கத்து வீட்டில் வசித்த பிரம்மநாயகத்திடம் கணக்குப் பாடம் பயின்று வந்ததாகக் கூறப்படுகிறது. கடந்த ஜனவரி மாதம் முதல் அவர் மாணவிக்குத் தொல்லை கொடுத்து வந்ததாகக் கூறப்படுகிறது. மாணவியின் தோழி மூலம் இந்த விஷயம் அவரது தாய்க்குத் தெரியவந்தது. தாய் விருகம்பாக்கம் அனைத்து மகளிர் காவல் நிலையத்தில் புகார் அளித்தார். போலீஸார் வழக்குப் பதிவு செய்து பிரம்மநாயகத்தைக் கைது செய்தனர். பின்னர் அவர் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டார். கைது செய்யப்பட்டதைத் தொடர்ந்து அவர் பணியிடை நீக்கம் செய்யப்பட்டுள்ளதாகவும் தகவல் வெளியாகியுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மதுரவாயலில் மாணவிக்கு பாலியல் தொல்லை: ஆட்சியர் அலுவலக அதிகாரி கைது\n\n📰 முழு விவரம்:\nமதுரவாயலில் பத்தாம் வகுப்பு மாணவிக்கு பாலியல் தொல்லை அளித்ததாக எழுந்த புகாரில், திருவள்ளூர் மாவட்ட ஆட்சியர் அலுவலகத்தில் ஊரக வளர்ச்சித் துறை உதவி இயக்குநராகப் பணியாற்றிய பிரம்மநாயகம் (48 வயது) கைது செய்யப்பட்டார்.\nமாணவி பக்கத்து வீட்டில் வசித்த அவரிடம் கணக்குப் பாடம் பயின்று வந்ததாகக் கூறப்படுகிறது.\nகடந்த ஜனவரி மாதம் முதல் தொல்லை கொடுத்து வந்ததாகக் கூறப்படுகிறது. தோழி மூலம் தாய்க்கு விஷயம் தெரியவந்தது.\n📍 இடம்: மதுரவாயல், சென்னை மாவட்டம்\n👮 நடவடிக்கை: விருகம்பாக்கம் அனைத்து மகளிர் காவல் நிலையத்தில் புகார்; வழக்குப் பதிவு செய்து கைது; நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைப்பு.\n🏛️ கைதுக்குப் பிறகு பணியிடை நீக்கம் செய்யப்பட்டதாகத் தகவல்.\n\nMaduravoyal student harassment, official arrested | Chennai news\n📍 மதுரவாயல், சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Maduravoyal #ChennaiNews #சென்னை",
+   "prompts": "A woman police officer in khaki uniform stands beside a grey police jeep on a quiet residential street in Maduravoyal, Chennai, as a middle-aged man in a plain white shirt and dark trousers, seen from behind and slightly blurred, is led toward the vehicle by a constable. The street has modest two-storey houses with concrete compound walls, a row of parked two-wheelers, and a few onlookers standing at a distance near a tea shop. Daylight, mild overcast sky. Camera at eye level, 35 mm lens, wide enough to show the street and the house facades. Tamil Nadu police vehicle clearly visible, no readable text on the vehicle. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden study table inside a modest home in Chennai, with an open school mathematics notebook, a pencil case, and a ruler laid out beside a stack of papers and a pair of reading glasses. A small corner of a police complaint folder rests on the table edge, out of focus. Soft daylight from a window falls across the table. Camera slightly high, 50 mm lens, shallow depth of field, no readable text or handwriting visible. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/28/sexual-harassment-complaint-district-collectors-office-official-arrested",
+   "published": "2026-11-28T00:31:25.820Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('மதுரவாயலில் 10-ஆம் வகுப்பு மாணவிக்கு பாலியல் தொல்லை அளித்ததா')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822587/chennaiminnal/i4xlwkxhvsmbn0i84wo1.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795822589/chennaiminnal/wp5kaadgcf1sucaipvhh.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836963/chennaiminnal/l5szkvxflamabywinf5o.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836966/chennaiminnal/oeit5sqjeujchkepzcre.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெண் காவலரை ஏமாற்றி திருமணம் மறுத்த காவலர் அஜய் ஆகாஷ் கைது",
+   "english_headline": "Constable Ajay Akash arrested for refusing to marry a woman constable he had promised to wed",
+   "category": "Crime & Safety",
+   "location": "Egmore, Chennai town, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் வழக்கு",
+    "loc": "சென்னை",
+    "hl1": "சென்னை: பெண் காவலரை ஏமாற்றிய காவலர் கைது",
+    "hl2": "டிச. 10 வரை காவலில்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருச்சி பட்டாலியன் காவலர் அஜய் ஆகாஷ் கைது",
+       "திருமணம் செய்வதாக கூறி பின்னர் மறுத்ததாக புகார்",
+       "சென்னையில் பணியாற்றும் பெண் காவலர் புகார் கொடுத்தார்"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "2025 முதல் எழும்பூர் காவலர் குடியிருப்பில் ஒன்றாக வசித்தனர்",
+       "வேறு சமூகம் என்பதால் திருமணத்துக்கு மறுப்பு",
+       "அவருக்கு வேறொரு பெண்ணுடன் நிச்சயதார்த்தம்"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "ஜூன் மாதம் எழும்பூர் மகளிர் போலீசார் வழக்குப் பதிவு",
+       "அஜய் ஆகாஷ் <b>26</b>ம் தேதி நீதிமன்றத்தில் சரணடைந்தார்",
+       "டிச. <b>10</b> வரை நீதிமன்றக் காவலில் வைக்க உத்தரவு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் திருமணம் செய்வதாக ஏமாற்றிய காவலர் ஒருவர் கைது செய்யப்பட்டுள்ளார். புதுக்கோட்டை மாவட்டம் இலுப்பூர் பகுதியைச் சேர்ந்த அஜய் ஆகாஷ், 26 வயது. இவர் திருச்சி பட்டாலியனில் காவலராகப் பணியாற்றுகிறார். சென்னையில் பணியாற்றும் ஒரு பெண் காவலருடன் அவருக்குப் பழக்கம் ஏற்பட்டது. அவரையே திருமணம் செய்வதாக அஜய் ஆகாஷ் உறுதியளித்ததாகக் கூறப்படுகிறது. இருவரும் 2025 முதல் எழும்பூர் காவலர் குடியிருப்பில் கணவன் மனைவி போல ஒரே வீட்டில் வசித்தனர். பின்னர், பெண் காவலர் வேறு சமூகத்தைச் சேர்ந்தவர் என்பதால், திருமணத்துக்கு அஜய் ஆகாஷ் மறுப்பு தெரிவித்தார். அவருக்கு வேறொரு பெண்ணுடன் நிச்சயதார்த்தம் நடந்ததாகவும் கூறப்படுகிறது. இது குறித்து பெண் காவலர் ஜூன் மாதம் சென்னை காவல் ஆணையர் அலுவலகத்தில் புகார் கொடுத்தார். எழும்பூர் மகளிர் போலீசார் வழக்குப் பதிவு செய்தனர். இதை அறிந்த அஜய் ஆகாஷ் தலைமறைவானார். பின்னர் 26ஆம் தேதி சென்னை முதன்மை செஷன்ஸ் நீதிமன்றத்தில் அவர் சரணடைந்தார். அஜய் ஆகாஷை டிசம்பர் 10ஆம் தேதி வரை நீதிமன்றக் காவலில் வைக்க நீதிபதி உத்தரவிட்டார். போலீசார் அவரை கைது செய்தனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மணம் முடிப்பதாக ஏமாற்றிய காவலர் கைது: சென்னையில் பெண் காவலர் புகார்\n\n📰 முழு விவரம்:\nதிருச்சி பட்டாலியனில் பணியாற்றும் காவலர் அஜய் ஆகாஷ் (26 வயது), திருமணம் செய்வதாகக் கூறி ஏமாற்றியதாகப் புகார் எழுந்ததால் கைது செய்யப்பட்டார். சென்னையில் பணியாற்றும் பெண் காவலருடன் 2025 முதல் எழும்பூர் காவலர் குடியிருப்பில் ஒரே வீட்டில் வசித்து வந்தார். வேறு சமூகத்தைச் சேர்ந்தவர் என்பதால் திருமணத்தை மறுத்ததாகக் கூறப்படுகிறது.\n📍 இடம்: எழும்பூர், சென்னை\n🗓️ நாள்: ஜூன் மாதம் புகார்; 26ஆம் தேதி சரணடைவு\n👮 நடவடிக்கை: எழும்பூர் மகளிர் போலீசார் வழக்குப் பதிவு; சென்னை முதன்மை செஷன்ஸ் நீதிமன்றத்தில் சரணடைந்த அவரை டிச. 10 வரை நீதிமன்றக் காவலில் வைக்க உத்தரவு\nℹ️ மக்கள் கவனத்திற்கு: குற்றச்சாட்டுகள் நிரூபிக்கப்படவில்லை; வழக்கு நடைபெற்று வருகிறது.\nநண்பர்களுக்கு Share செய்யுங்கள்.\n\nChennai constable arrested for cheating woman constable | Chennai news\n📍 எழும்பூர், சென்னை | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Egmore #ChennaiNews #சென்னை",
+   "prompts": "A Tamil Nadu police constable in khaki uniform is led away by two women and men police officers in khaki outside the Chennai Principal Sessions Court building in central Chennai, after a court remand order. Seen from behind at a distance, the constable has his hands held in front and his cap slightly tilted. Around the courthouse steps are a few lawyers in black coats and clerks carrying files, while a police jeep stands parked at the gate under the morning sun. The high arched courthouse entrance, pillars and a busy road with two-wheelers and an autorickshaw form the backdrop. Daylight, clear sky, Chennai city heat. Camera at eye level, 35 mm, wide enough to show the courthouse and the police escort. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of legal case files and printed papers on a wooden table inside a court room in Chennai, beside a black police-issue cap and a pair of khaki uniform shoulder badges left on the table. A blurred figure of a woman in a khaki saree stands at a distance behind the table, seen from behind, while a judge's wooden bench and dark robe edge appear softly out of focus in the background. Warm tube lights of a government court hall and a fan on the ceiling. Afternoon daylight through a tall window. Camera slightly high, 35 mm, shallow depth of field focusing on the case files. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/crime/police-constable-arrested-for-deceiving-female-police-officer",
+   "published": "2026-11-28T02:40:13Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 79 ('போலீ​ஸார் அவரை கைது செய்​தனர்..மெரினா லூப் சாலையில் 79 ஆக்கி')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836992/chennaiminnal/fz2uutafk0ultsk6rjlb.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795836995/chennaiminnal/xo1yqag4oqdy29mc7dii.jpg"
    ]
   }
  ]
