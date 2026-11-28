@@ -3,24 +3,24 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.polimernews.com/districtnews/camera-found-in-womens-changing-room-at-private-company-police-arrest-company-manager-12848300",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/tragedy-in-chennai-3-people-killed-after-being-hit-by-train-while-trying-to-cross-tracks",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/ttv-dhinakaran-slams-tvk-govt-2",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/government-buses-paralyzed-due-to-tire-shortage-anbumani-condemns",
+  "manual link added: https://www.maalaimalar.com/news/tamilnadu/imd-information-heavy-rain-in-5-districts",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/chennai-court-orders-compensation-of-rs3170-lakh-to-the-family-of-a-boy-who-died-after-being-hit-by-a-government-bus",
+  "manual link added: https://www.maalaimalar.com/news/tamilnadu/houses-and-shops-demolition-in-alandur",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/singappen-loan-scheme-for-women-to-start-self-employment-applications-welcome",
   "candidate filter: collected=4",
   "to write: 4 Chennai district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Chennai; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/government-buses",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/ttv-dhinakaran-slam",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/tragedy-in-chenn",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/singappen-loan-s",
+  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/houses-and-shops-",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/chennai-court-or",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "try (N) manual=True: https://www.polimernews.com/districtnews/camera-found-in-wom",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/imd-information-h",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 78 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 73 min",
   "filed: 4 Chennai district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
@@ -31,325 +31,362 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (39s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (43s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (49s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (37s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (30s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (40s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (42s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m6",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (17s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (3s)",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "முதல்வர் விஜய் மீதான நடவடிக்கை எப்போது? டிடிவி தினகரன் கேள்வி",
-   "english_headline": "When will action be taken against CM Vijay for covering up the case? TTV Dhinakaran asks",
-   "category": "Government & Services",
-   "location": "Chennai, Chennai district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசியல் அறிக்கை",
-    "loc": "சென்னை",
-    "hl1": "சென்னை: முதல்வர் விஜய் மீதான நடவடிக்கை",
-    "hl2": "டிடிவி தினகரன் கேள்வி",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "தவெக எம்எல்ஏ அருள் விக்னேஷ் கைது செய்யப்பட்டுள்ளார்",
-       "பெண் ஐஏஎஸ் அதிகாரிக்கு ஆபாசக் குறுஞ்செய்திகள் அனுப்பிய",
-       "நான்கு மாதங்களாக புகார் <b>மூடி மறைக்கப்பட்டது</b>"
-      ]
-     },
-     {
-      "title": "யார் மீது கேள்வி?",
-      "lines": [
-       "குற்றத்தை மூடி மறைத்த முதல்வர் விஜய்",
-       "தலைமைச் செயலாளர், காவல்துறைத் தலைவர்",
-       "சட்டத்துறை அமைச்சரும் கேள்விக்குரியவர்கள்"
-      ]
-     },
-     {
-      "title": "தினகரனின் கேள்வி",
-      "lines": [
-       "குற்றம் சாட்டப்பட்ட எம்எல்ஏ கைது செய்யப்பட்டுள்ளார்",
-       "மூடி மறைத்தவர்கள் மீதான நடவடிக்கை எப்போது?",
-       "அமமுக பொதுச்செயலாளர் டிடிவி தினகரன் அறிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் முதல்வர் விஜய் மீதான நடவடிக்கை எப்போது என டிடிவி தினகரன் கேள்வி எழுப்பியுள்ளார். குற்றம் சாட்டப்பட்ட த வெ க எம்எல்ஏ அருள் விக்னேஷ் கைது செய்யப்பட்டுள்ளார். அவர் மீது பெண் ஐஏஎஸ் அதிகாரிக்கு ஆபாசக் குறுஞ்செய்திகள் அனுப்பியதாகக் குற்றச்சாட்டு உள்ளது. இந்தப் புகார் உரிய நேரத்தில் விசாரிக்கப்படாமல் கடந்த நான்கு மாதங்களாக மூடி மறைக்கப்பட்டதாக தினகரன் குற்றம் சாட்டியுள்ளார். வழக்கு உயர்நீதிமன்றம் வரை சென்ற பின்னரே எம்எல்ஏ கைது செய்யப்பட்டதாக அவர் கூறியுள்ளார். புகாரை மூடி மறைத்தவர்களும் சட்டத்தின் முன் குற்றவாளிகள்தான் என்று அவர் தெரிவித்துள்ளார். தலைமைச் செயலாளர், காவல்துறைத் தலைவர், சட்டத்துறை அமைச்சர் மற்றும் முதல்வர் விஜய் ஆகியோர் மீதும் நடவடிக்கை வேண்டும் என அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னை: முதல்வர் விஜய் மீதான நடவடிக்கை எப்போது? டிடிவி தினகரன் கேள்வி\n\n📰 முழு விவரம்:\nகுற்றம் சாட்டப்பட்ட தவெக எம்எல்ஏ அருள் விக்னேஷ் கைது செய்யப்பட்டுள்ளார். அவர் மீது பெண் ஐஏஎஸ் அதிகாரிக்கு ஆபாசக் குறுஞ்செய்திகள் அனுப்பிய குற்றச்சாட்டு உள்ளது. இந்தப் புகாரை உரிய நேரத்தில் விசாரிக்காமல் கடந்த நான்கு மாதங்களாக மூடி மறைக்க முயன்றதாக டிடிவி தினகரன் குற்றம் சாட்டியுள்ளார். வழக்கு உயர்நீதிமன்றம் வரை சென்ற பின்னரே எம்எல்ஏ கைது செய்யப்பட்டதாக அவர் கூறியுள்ளார். பெண் அதிகாரிக்கு மன உளைச்சல் ஏற்படுத்தியது குற்றம் என்றும், அதை மூடி மறைக்க முயன்றவர்களும் சட்டத்தின் முன் குற்றவாளிகள் என்றும் அவர் தெரிவித்துள்ளார்.\n👉 கிட்டத்தட்ட மூன்று மாதங்களுக்கும் மேலாக புகாரை மறைத்ததாகச் சொல்லப்படும் தலைமைச் செயலாளர், புகாரை விசாரிக்காமல் அலட்சியமாகச் செயல்பட்டதாக காவல்துறைத் தலைவர், இச்சம்பவம் வதந்தி என திசைதிருப்ப முயன்றதாகக் சட்டத்துறை அமைச்சர், அனைவர் மீதும் நடவடிக்கை வேண்டும் என அவர் வலியுறுத்துகிறார். இவை அனைத்திற்கும் மேலாக முதல்வர் விஜய் மீதும் நடவடிக்கை வேண்டும் என்றும் அவர் கேட்கிறார்.\n📌 சாதாரண குடிமகன் தவறு செய்தால் உடனடியாக சட்டம் பாய்வதாகவும், ஆளுங்கட்சியினரிடம் அது செயலிழப்பதாகவும் தினகரன் விமர்சித்துள்ளார்.\n🔎 ரூ.500 வரையிலான யுபிஐ பரிவர்த்தனைகளுக்கு எஸ்எம்எஸ் நிறுத்தம் என ஹெச்டிஎஃப்சி வங்கி அறிவித்துள்ளது.\n\nTTV Dhinakaran asks when action against CM Vijay will be taken | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #Politics",
-   "prompts": "A politician's statement on a phone screen is held up in a government office corridor in Chennai, with a woman in a saree and a man in a shirt seen from behind as they walk past a green-painted wall, the phone and a stack of printed case papers in focus; a Chennai secretariat-style government building with a pillared verandah stands in the background, and the light is ordinary daylight. Four people are visible: two officials in formal shirts and one woman in a cotton saree, all seen from behind or far off, the nearest one partly blurred, and a fourth figure holding a folder by a doorway. The camera sits at eye level about ten metres back with a 35 mm lens, wide enough to show the government building and the corridor so that the setting is clearly a Chennai administrative office. No readable text, logos, signboards or recognisable faces appear anywhere in the frame. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a smartphone held in two hands, its screen showing a blurred social media post with no legible words, resting on top of a file of printed documents tied with red tape on a wooden desk in a government office in Chennai. Behind the desk, a bare white wall, an ordinary ceiling fan and a slightly open window let in natural daylight. A pair of reading glasses lies beside the file and a steel water tumbler sits at the edge of the frame. The camera is at eye level, about half a metre from the desk, using a 35 mm lens, with shallow focus so the phone and papers are sharp and the background is softly out of focus. No faces show, no text is readable, and no logos or brand names appear. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/ttv-dhinakaran-slams-tvk-govt-2",
-   "published": "2026-11-28T07:12:50Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 85 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); source/outlet name or link appears: தினகரன்",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795851284/chennaiminnal/cknhdn3slwaqaoyhq73e.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795851287/chennaiminnal/j08z9qhbcbwcwyuhljmg.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தமிழ்நாடு: டயர் பற்றாக்குறையால் 1500-க்கும் கூடுதலான அரசு பேருந்துகள் நிறுத்தம்",
-   "english_headline": "Tamil Nadu: over 1,500 government buses halted for want of tyres; Anbumani condemns it",
-   "category": "Roads & Transport",
-   "location": "Tamil Nadu (Chennai)",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போக்குவரத்து",
-    "loc": "தமிழ்நாடு",
-    "hl1": "தமிழ்நாடு: டயர் பற்றாக்குறையால்",
-    "hl2": "<b>1500+</b> பேருந்துகள்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கடந்த <b>2 மாதங்களாக</b> டயர்கள் வாங்கப்படவில்லை",
-       "<b>1500-க்கும் கூடுதலான</b> பேருந்துகள் இயக்கப்படவில்லை",
-       "ஒவ்வொரு பணிமனையிலும் <b>5 முதல் 10</b> பேருந்துகள் நிறுத்தம்"
-      ]
-     },
-     {
-      "title": "ஏன் இந்த நிலை?",
-      "lines": [
-       "புதிய டெண்டர்கள் கடந்த <b>8 மாதங்களாக</b> கோரப்படவில்லை",
-       "ஒப்பந்தம் பெற்ற நிறுவனங்கள் டயர் வழங்க மறுப்பு",
-       "நிதி நெருக்கடியால் உதிரிபாகங்களும் வாங்கப்படவில்லை"
-      ]
-     },
-     {
-      "title": "மக்கள் பாதிப்பு",
-      "lines": [
-       "கிராமப்புற மக்கள் அதிகம் பாதிப்பு",
-       "2 பேருந்துகளில் ஒன்று நிறுத்தப்பட்டுள்ளது",
-       "பழுதான டயர்களால் விபத்துகள் நடப்பதாக கவலை"
-      ]
-     },
-     {
-      "title": "அன்புமணி கண்டனம்",
-      "lines": [
-       "பா.ம.க. தலைவர் அன்புமணி ராமதாஸ் கண்டனம்",
-       "நிதியை உடனே வழங்கி, டயர்களை வாங்க வலியுறுத்தல்",
-       "பேருந்துகளை விபத்தின்றி இயக்க கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தமிழ்நாட்டில் அரசுப் பேருந்துகள் 1500-க்கும் கூடுதலாக இயக்கப்படாமல் நிறுத்தப்பட்டுள்ளன. கடந்த இரு மாதங்களாக அரசுப் போக்குவரத்துக் கழகங்களுக்கு டயர்கள் வாங்கப்படாததே இதற்குக் காரணம். ஒவ்வொரு பணிமனையிலும் 5 முதல் 10 பேருந்துகள் வீதம் நிறுத்தப்பட்டுள்ளன. தமிழ்நாட்டில் மொத்தம் 8 போக்குவரத்துக் கழகங்கள் செயல்படுகின்றன. இவை 26 மண்டலங்களாகப் பிரிக்கப்பட்டு, 317 பணிமனைகளிலிருந்து 21,198 பேருந்துகள் இயக்கப்படுகின்றன. வெற்றிப் பயணத் திட்டத்தால் ஏற்பட்ட இழப்பு ஈடு செய்யப்படாததால் நிதி நெருக்கடி ஏற்பட்டது. உதிரிபாகங்களும் வாங்கப்படவில்லை. புதிய டயர் டெண்டர்கள் கடந்த 8 மாதங்களாகக் கோரப்படவில்லை. கடந்த ஆண்டு செப்டம்பர் மாதம் கோரப்பட்ட ஒப்பந்தம் கடந்த மார்ச் மாதத்துடன் காலாவதியானது. செப்டம்பர் வரை பழைய விலையில் டயர் வழங்கிய நிறுவனங்கள், உற்பத்திச் செலவு அதிகரித்ததாகக் கூறி கடந்த இரு மாதங்களாக வழங்க மறுத்துவிட்டன. கிராமப்புற மக்கள் அதிகம் பாதிக்கப்பட்டுள்ளனர். 2 பேருந்துகளில் ஒன்று நிறுத்தப்பட்டுள்ளது. பழுதான டயர்களால் பஞ்சர், டயர் வெடிப்பு போன்ற விபத்துகள் நடக்கின்றன. பா ம க தலைவர் அன்புமணி ராமதாஸ் இதற்குக் கண்டனம் தெரிவித்துள்ளார். அரசுப் போக்குவரத்துக் கழகங்களுக்கான நிதியை உடனே வழங்கி, டயர்களை வாங்கி, பேருந்துகளை விபத்தின்றி இயக்க வேண்டும் என அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 தமிழ்நாடு: டயர் பற்றாக்குறையால் 1500-க்கும் கூடுதலான அரசு பேருந்துகள் நிறுத்தம்\n\n📰 முழு விவரம்:\nதமிழ்நாட்டில் அரசுப் போக்குவரத்துக் கழகங்களுக்கு கடந்த இரு மாதங்களாக டயர்கள் வாங்கப்படவில்லை. இதனால் 1500-க்கும் கூடுதலான பேருந்துகள் இயக்கப்படாமல் நிறுத்தப்பட்டுள்ளன. ஒவ்வொரு பணிமனையிலும் 5 முதல் 10 பேருந்துகள் வரை நிறுத்தப்பட்டுள்ளன.\n🏢 தமிழ்நாட்டில் மொத்தம் 8 போக்குவரத்துக் கழகங்கள் உள்ளன. இவை 26 மண்டலங்களாகப் பிரிக்கப்பட்டு, 317 பணிமனைகளிலிருந்து 21,198 பேருந்துகள் இயக்கப்படுகின்றன.\n💰 விடியல் பயணத் திட்டம் வெற்றிப் பயணத் திட்டமாக மேம்படுத்தப்பட்டது. அதனால் ஏற்பட்ட இழப்பு ஈடு செய்யப்படவில்லை. இதனால் ஏற்பட்ட நிதி நெருக்கடியால் பேருந்து உதிரிபாகங்களும் வாங்கப்படவில்லை.\n📅 புதிய டயர் டெண்டர்கள் கடந்த 8 மாதங்களாகக் கோரப்படவில்லை. டயர் வழங்கும் ஒப்பந்தங்கள் 6 மாதத்துக்கு ஒருமுறை கோரப்படும். கடைசியாக கடந்த ஆண்டு செப்டம்பர் மாதம் கோரப்பட்ட ஒப்பந்தம் கடந்த மார்ச் மாதத்துடன் காலாவதியானது.\n🏭 அதன் பிறகும் செப்டம்பர் வரை 6 மாதங்களுக்கு முன்பு ஒப்புக்கொண்ட விலையில் டயர்களை வழங்கிய நிறுவனங்கள், உற்பத்திச் செலவு அதிகரித்ததாகக் கூறி கடந்த இரு மாதங்களாக டயர் வழங்க மறுத்துவிட்டன.\n🚏 கிராமப்புற மக்கள் பெரிதும் பாதிக்கப்பட்டுள்ளனர். 2 அல்லது 3 பேருந்துகள் செல்லும் கிராமங்களில் ஒரு பேருந்து நிறுத்தப்பட்டுள்ளது. பெண்களுக்கான இலவசப் பேருந்துப் பயணத் திட்டத்தின் நோக்கமும் பாதிக்கப்பட்டுள்ளது.\n⚠️ பழுதான டயர்களுடன் இயக்கப்படும் பேருந்துகள் பஞ்சர், டயர் வெடிப்பு போன்ற விபத்துகளுக்கு உள்ளாகின்றன.\n🗣️ பா.ம.க. தலைவர் அன்புமணி ராமதாஸ் இதற்குக் கண்டனம் தெரிவித்துள்ளார். அரசுப் போக்குவரத்துக் கழகங்களுக்கு வழங்க வேண்டிய நிதியை உடனே வழங்கி, டயர்களை வாங்கி, பேருந்துகளை விபத்தின்றி இயக்க நடவடிக்கை எடுக்க வேண்டும் என அவர் வலியுறுத்தியுள்ளார்.\n\nTamil Nadu govt buses halted for want of tyres, 1500+ buses off road | Chennai news\n📍 தமிழ்நாடு | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #TamilNadu #போக்குவரத்து #ChennaiNews",
-   "prompts": "A row of idle state government buses stands parked in a bus depot yard in Chennai, their windscreens and roofs dusty as they wait without running. The depot is a wide concrete yard lined with a corrugated-roof workshop shed and a boundary wall, with a few other buses parked nearby and a rain-stained tin roof overhead. Two depot mechanics in shirts and trousers walk between the parked buses, seen from behind and far away, while a single worker stands near the shed doorway. The buses are of the long town and express type in maroon and white, all with their tyres visibly low or resting on the concrete. It is a bright daylight morning with a pale sky and dust in the air. Shot at eye level from a slightly high angle with a 35 mm lens, wide enough to show the full line of parked buses and the depot shed behind them. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a state bus's rear wheel on the depot concrete, its tyre worn smooth and flattened, with a stack of old, cracked spare tyres leaning against a workshop wall beside it. A mechanic's hand, seen only from the wrist down in a shirt sleeve, rests on the rim as if checking the tyre, and a pair of tyre levers and a jack lie on the ground nearby. The surface is oily and dusty, with a puddle and fallen leaves at the edge of the frame. Bright daylight falls from one side, creating clear shadows on the tyre tread. Shot at low eye level with a 50 mm lens, close enough to make the worn tyres the clear focus of the picture. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/government-buses-paralyzed-due-to-tire-shortage-anbumani-condemns",
-   "published": "2026-11-28T05:25:04Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 500",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795851303/chennaiminnal/uj6yig25qdizeq8vvzi8.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795851310/chennaiminnal/x0fzeqdknfdgdmwhephs.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னையில் 3 பேர் ரெயிலில் அடிபட்டு பலி: தண்டவாளம் கடக்கையில் விபத்து",
-   "english_headline": "3 killed in separate train accidents in Chennai while crossing railway tracks",
-   "category": "Crime & Safety",
-   "location": "Vyasarpadi, Villivakkam, Perambur - Chennai, Chennai district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Chennai Minnal",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரெயில் விபத்து",
-    "loc": "சென்னை",
-    "hl1": "சென்னையில் 3 பேர் ரெயிலில் அடிபட்டு பலி",
-    "hl2": "தண்டவாளம் கடக்க முயன்றபோது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "தண்டவாளத்தைக் கவனக்குறைவாகக் கடக்க முயன்ற <b>3 பேர்</b>",
-       "மூவரும் சம்பவ இடத்திலேயே உயிரிழந்தனர்",
-       "அடுத்தடுத்து 3 விபத்துகள் நடந்தன"
-      ]
-     },
-     {
-      "title": "வியாசர்பாடி",
-      "lines": [
-       "இஸ்மாயில் ஷெரிப் (வயது <b>57</b>) தண்டவாளத்தைக் கடக்க முயன்றார்",
-       "அவ்வழியாக வந்த ரெயில் மோதியது",
-       "அவர் சம்பவ இடத்திலேயே உயிரிழந்தார்"
-      ]
-     },
-     {
-      "title": "வில்லிவாக்கம்",
-      "lines": [
-       "தீபா (வயது <b>34</b>) தண்டவாளத்தைக் கடக்க முயன்றார்",
-       "வில்லிவாக்கம் ரெயில் நிலையப் பகுதியில் ரெயில் மோதியது",
-       "பலத்த காயத்துடன் சம்பவ இடத்திலேயே உயிரிழந்தார்"
-      ]
-     },
-     {
-      "title": "பெரம்பூர்",
-      "lines": [
-       "சுமார் <b>35 வயது</b> ஆண் ஒருவர் தண்டவாளத்தைக் கடக்க முயன்றார்",
-       "ரெயிலில் அடிபட்டு உயிரிழந்தார்",
-       "ரெயில்வே போலீசார் விசாரணை நடத்தி வருகின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னையில் தண்டவாளம் கடக்க முயன்ற 3 பேர் ரெயிலில் அடிபட்டு உயிரிழந்தனர். வியாசர்பாடியில் இஸ்மாயில் ஷெரிப், 57 வயது முதியவர் தண்டவாளத்தைக் கடக்க முயன்றார். அவ்வழியாக வந்த ரெயில் மோதியதில் அவர் தூக்கி வீசப்பட்டு சம்பவ இடத்திலேயே உயிரிழந்தார். இன்று சனிக்கிழமை வில்லிவாக்கம் ரெயில் நிலையப் பகுதியில் தீபா, 34 வயது பெண் தண்டவாளத்தைக் கடக்க முயன்றார். அவர் மீது ரெயில் மோதியதில் பலத்த காயமடைந்து சம்பவ இடத்திலேயே உயிரிழந்தார். பெரம்பூர் பகுதியில் சுமார் 35 வயது மதிக்கத்தக்க ஆண் ஒருவர் தண்டவாளத்தைக் கடக்க முயன்றபோது ரெயிலில் அடிபட்டு உயிரிழந்தார். மூன்று உடல்களும் மீட்கப்பட்டு பிரேத பரிசோதனைக்காக அரசு மருத்துவமனைக்கு அனுப்பப்பட்டன. பெரம்பூரில் உயிரிழந்தவர் யார் என்றும், விபத்து நடந்த விதம் குறித்தும் ரெயில்வே போலீசார் வழக்குப் பதிவு செய்து தீவிர விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சென்னையில் தண்டவாளம் கடக்க முயன்ற 3 பேர் ரெயிலில் அடிபட்டு பலி\n\n📰 முழு விவரம்:\nசென்னையின் வெவ்வேறு பகுதிகளில் தண்டவாளத்தைக் கவனக்குறைவாகக் கடக்க முயன்ற 3 பேர் ரெயிலில் அடிபட்டு சம்பவ இடத்திலேயே உயிரிழந்தனர். அடுத்தடுத்து நடந்த இந்த 3 விபத்துகளும் அப்பகுதியில் பெரும் சோகத்தை ஏற்படுத்தியுள்ளன.\nவியாசர்பாடியில் இஸ்மாயில் ஷெரிப் (57 வயது) தண்டவாளத்தைக் கடக்க முயன்றபோது ரெயில் மோதியதில் தூக்கி வீசப்பட்டு உயிரிழந்தார்.\nவில்லிவாக்கம் ரெயில் நிலையப் பகுதியில் இன்று (சனிக்கிழமை) தீபா (34 வயது) என்ற பெண் தண்டவாளத்தைக் கடக்க முயன்றபோது ரெயில் மோதியதில் பலத்த காயமடைந்து உயிரிழந்தார்.\nபெரம்பூர் பகுதியில் சுமார் 35 வயது மதிக்கத்தக்க ஆண் ஒருவர் தண்டவாளத்தைக் கடக்க முயன்றபோது ரெயிலில் அடிபட்டு உயிரிழந்தார்.\n👮 நடவடிக்கை: ரெயில்வே போலீசார் சம்பவ இடங்களுக்கு விரைந்து சென்று உடல்களை மீட்டு பிரேத பரிசோதனைக்காக அரசு மருத்துவமனைக்கு அனுப்பினர். பெரம்பூரில் உயிரிழந்தவர் யார் என்றும், விபத்துகள் நடந்த விதம் குறித்தும் வழக்குப் பதிவு செய்து தீவிர விசாரணை நடத்தி வருகின்றனர்.\n\nChennai 3 killed by train while crossing tracks | Chennai news\n📍 வியாசர்பாடி, வில்லிவாக்கம், பெரம்பூர் - சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Vyasarpadi #Villivakkam #Perambur #ChennaiNews",
-   "prompts": "A railway police constable in khaki stands beside a stretch of steel railway tracks running between low concrete houses and small shops in a Chennai city neighbourhood near Villivakkam station, with a few onlookers standing well back and seen from behind. Two-wheelers and an autorickshaw are parked at the edge of the lane, and a red-and-white Chennai suburban train is slowing down in the distance on the track. A few men in shirts and veshti and a woman in a saree stand at a respectful distance, their backs to the camera, with an unclear white cloth covering a shape on the ballast at the track's edge rather than any visible injury. It is daytime on a Saturday with flat, bright overcast light and a hazy sky. Shot at eye level on a 35 mm lens, wide enough to show the tracks, the houses and the crowd. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the railway track at a level crossing in Chennai, showing the steel rails, wooden sleepers and gravel ballast, with a rusted iron fence and a single pair of worn chappals left beside the track. A small bundle of marigold flowers lies on the sleepers near a painted white railway boundary stone, and a railway police constable's khaki boot is partly visible at the edge of the frame. Behind, out of focus, concrete houses and a blue steel gate line the track. It is daytime with soft, flat overcast light and no visible blood or injury. Shot at low angle on a 50 mm lens to emphasise the rails and the warning of the crossing. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/tragedy-in-chennai-3-people-killed-after-being-hit-by-train-while-trying-to-cross-tracks",
-   "published": "2026-11-28T05:19:27Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 6",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795851321/chennaiminnal/xifjlprqxylov2sxyhtb.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795851323/chennaiminnal/kn2ikbwz911hdwnt1bh5.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை வானகரத்தில் ஒப்பனையறையில் ரகசிய கேமரா: மேலாளர் கைது",
-   "english_headline": "Hidden camera found in women's changing room at a private firm in Vanagaram, Chennai; manager arrested",
-   "category": "Crime & Safety",
-   "location": "Vanagaram, Chennai district",
+   "tamil_headline": "ஆலந்தூர் ஆசர்கானா பகுதியில் வீடுகள், கடைகள் இடிப்பு: பெண்கள் சாலை மறியலால் பரபரப்பு",
+   "english_headline": "Demolition of shops and houses on Cantonment land in Alandur leads to road blockade by women",
+   "category": "Civic Issues",
+   "location": "Alandur, Chennai district",
    "importance": "High",
    "scope": "local",
    "post_to": "Chennai Minnal",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "வானகரம், சென்னை",
-    "hl1": "வானகரத்தில் பெண்கள் ஒப்பனையறையில் கேமரா",
-    "hl2": "நிறுவன மேலாளர் கைது",
+    "cat": "ஆக்கிரமிப்பு இடிப்பு",
+    "loc": "ஆலந்தூர், சென்னை",
+    "hl1": "ஆலந்தூரில் வீடுகள் கடைகள் இடிப்பு",
+    "hl2": "பெண்கள் திடீர் சாலை மறியல்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "இடிப்பு நடவடிக்கை",
       "lines": [
-       "வானகரத்தில் ஒரு தனியார் நிறுவனத்தில் சம்பவம்",
-       "பெண்கள் ஒப்பனையறையில் சிறிய <b>ஸ்பை கேமரா</b> மறைத்து",
-       "நிறுவனத்தின் மேலாளர் கைது செய்யப்பட்டார்"
+       "ஆலந்தூர் ஆசர்கானா பகுதியில் இடிப்பு",
+       "கண்டோன்மென்ட் நிலம் ஆக்கிரமிப்பு என நடவடிக்கை",
+       "இன்று காலை ஜே.சி.பி எந்திரத்துடன் வந்த அதிகாரிகள்"
       ]
      },
      {
-      "title": "எப்படி",
+      "title": "மக்கள் எதிர்ப்பு",
       "lines": [
-       "பெண் ஊழியர் ஒருவர் ஒப்பனையறைக்குச் சென்றபோது வாஷ்",
-       "சக பெண் ஊழியருடன் சேர்ந்து போலீசில் புகார் அளித்தார்",
-       "புகாரை அடுத்து சிசிடிவி காட்சிகள் ஆய்வு செய்யப்பட்டன"
+       "வீடுகள், கடைகளை இடிக்க மக்கள் எதிர்ப்பு",
+       "அதிகாரிகளுடன் வாக்குவாதம் செய்த மக்கள்",
+       "பெண்கள் திடீரெனச் சாலையில் அமர்ந்து மறியல்"
       ]
      },
      {
-      "title": "சிசிடிவியில் என்ன?",
+      "title": "மக்கள் தரப்பு",
       "lines": [
-       "மேலாளர் வன்னியராஜ் இரவில் பெண்கள் ஒப்பனையறைக்குள் சென்றார்",
-       "வெகு நேரம் கழித்து அவர் வெளியே வந்தது பதிவாகி இருந்தது",
-       "இதன் அடிப்படையில் அவர் கைது செய்யப்பட்டார்"
+       "<b>35 ஆண்டுகளுக்கு</b> மேலாக வசிப்பதாகத் தகவல்",
+       "முறையாக வாடகை, வரி செலுத்துவதாக மக்கள் கூற்று",
+       "நீதிமன்ற உத்தரவுப்படி நடவடிக்கை என உதவி ஆணையர் பசுபதி"
+      ]
+     },
+     {
+      "title": "சாலை மூடல்",
+      "lines": [
+       "போலீசார் உதவியுடன் கடைகள் அகற்றம்",
+       "கிண்டி கத்திப்பாரா - ஆலந்தூர் ரயில்வே சாலை மூடல்",
+       "பகுதியில் பெரும் பரபரப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வானகரத்தில் தனியார் நிறுவன பெண்கள் ஒப்பனையறையில் ரகசிய கேமரா கண்டுபிடிக்கப்பட்டது. நிறுவனத்தின் மேலாளர் வன்னியராஜ் கைது செய்யப்பட்டுள்ளார். ஒரு பெண் ஊழியர் ஒப்பனையறைக்குச் சென்றபோது, வாஷ் பேசினுக்குக் கீழே ஒரு சிறிய ஸ்பை கேமரா இருப்பதைக் கண்டார். அவர் தனது சக பெண் ஊழியருடன் சேர்ந்து போலீசில் புகார் அளித்தார். போலீசார் சிசிடிவி காட்சிகளை ஆய்வு செய்தனர். அதில், மேலாளர் வன்னியராஜ் இரவில் பெண்கள் ஒப்பனை அறைக்குள் சென்று, வெகு நேரம் கழித்தே வெளியே வந்தது தெரியவந்தது. இந்தச் சம்பவம் அப்பகுதியில் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வானகரத்தில் பெண்கள் ஒப்பனையறையில் ரகசிய கேமரா: நிறுவன மேலாளர் கைது\n\n📰 முழு விவரம்:\nசென்னை வானகரத்தில் உள்ள ஒரு தனியார் நிறுவனத்தின் பெண்கள் ஒப்பனையறையில் சிறிய ஸ்பை கேமரா மறைத்து வைக்கப்பட்டிருந்தது. இதனைத் தொடர்ந்து நிறுவனத்தின் மேலாளர் வன்னியராஜ் கைது செய்யப்பட்டுள்ளார்.\nஒரு பெண் ஊழியர் ஒப்பனையறைக்குச் சென்றபோது, வாஷ் பேசினுக்குக் கீழே கேமராவைக் கண்டார். அவர் சக பெண் ஊழியருடன் இணைந்து போலீசில் புகார் அளித்தார்.\nசிசிடிவி பதிவுகளை ஆய்வு செய்தபோது, மேலாளர் இரவில் பெண்கள் ஒப்பனையறைக்குள் நுழைந்து வெகு நேரம் கழித்து வெளியே வந்தது கண்டறியப்பட்டதாகக் கூறப்படுகிறது.\n\n📍 இடம்: வானகரம், சென்னை\n👮 நடவடிக்கை: மேலாளர் வன்னியராஜ் கைது\n\nஉங்கள் பணியிடத்தில் பெண்கள் பாதுகாப்பு குறித்து கவனமாக இருங்கள். தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nChennai hidden camera in women's changing room, manager arrested | Chennai news\n📍 வானகரம், சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Vanagaram #ChennaiNews #சென்னை",
-   "prompts": "A Tamil Nadu police constable in khaki uniform stands at the entrance of a private company office building in Vanagaram, Chennai, a two-storey concrete block with a glass-paned front door and a metal grill gate. Two female employees in sarees and salwar stand a few steps away, seen from behind and slightly blurred, speaking with a police officer while a police two-wheeler with a red-and-white cover is parked by the kerb. The street is a narrow suburban road with a parked two-wheeler and an autorickshaw passing in the background. Daylight, dull overcast sky, eye level from across the road, 35 mm lens wide enough to show the building and the road, no readable signboards or logos. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small white wash basin with a metal tap in a clean, tiled women's changing room inside an office building in Chennai. Beneath the basin's edge, a small black spy camera device is visible half-hidden in a cluttered corner, lying on a grey folder next to a pair of plastic slippers and a rolled cloth bag on the floor. A police officer's gloved hand, in khaki sleeve, reaches toward the object for evidence collection, shown only from the wrist down. Soft fluorescent light from the ceiling, shallow depth of field, close-up at about 50 cm distance, 35 mm, no readable text or brand marks. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.polimernews.com/districtnews/camera-found-in-womens-changing-room-at-private-company-police-arrest-company-manager-12848300",
-   "published": "2026-11-28T12:03:06+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஆலந்தூரில் வீடுகள் இடிக்கப்பட்டதால் பெண்கள் சாலை மறியல் செய்தனர். பரங்கிமலை கண்டோன்மென்ட் பகுதிக்கு உட்பட்ட ஆலந்தூர் ஆசர்கானா பகுதியில் இன்று காலை வீடுகள், கடைகள் இடிக்கப்பட்டன. கண்டோன்மென்ட் நிலத்தை ஆக்கிரமித்துக் கடைகள் மற்றும் வீடுகள் கட்டப்பட்டுள்ளதாகக் கூறி ஜே சி பி எந்திரத்துடன் அதிகாரிகள் வந்தனர். இதைப் பார்த்த பொதுமக்கள் கடைகள், வீடுகளை இடிக்கக் கூடாது என அதிகாரிகளுடனும் போலீசாருடனும் வாக்குவாதத்தில் ஈடுபட்டனர். மேலும் பெண்கள் திடீரெனச் சாலையில் அமர்ந்து மறியலில் ஈடுபட்டனர். நீதிமன்ற உத்தரவுப்படி நடவடிக்கை எடுக்கப்படுவதாக உதவி ஆணையர் பசுபதி மற்றும் அதிகாரிகள் தெரிவித்துள்ளனர். 35 ஆண்டுகளுக்கு மேலாக வசிப்பதாகவும், வாடகை மற்றும் வரி செலுத்துவதாகவும் மக்கள் வாக்குவாதம் செய்தனர். பின்னர் கண்டோன்மென்ட் அலுவலர்கள் போலீசார் உதவியுடன் கடைகளை அப்புறப்படுத்தினர். இதனால் கிண்டி கத்திப்பாராவில் இருந்து ஆலந்தூர் செல்லும் ரயில்வே சாலையைப் போலீசார் முழுவதுமாக மூடினர். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஆலந்தூரில் வீடுகள், கடைகள் இடிப்பு: பெண்கள் திடீர் சாலை மறியலால் பரபரப்பு!\n\n📰 முழு விவரம்:\nபரங்கிமலை கண்டோன்மென்ட் பகுதிக்கு உட்பட்ட ஆலந்தூர் ஆசர்கானா பகுதியில் கண்டோன்மென்ட் இடத்தை ஆக்கிரமித்துக் கடைகள், வீடுகள் கட்டப்பட்டுள்ளதாகக் கூறி இன்று காலை ஜே.சி.பி எந்திரத்துடன் அதிகாரிகள் வந்தனர். வீடுகள், கடைகளை இடிக்கக் கூடாது என அதிகாரிகளுடனும் போலீசாருடனும் பொதுமக்கள் வாக்குவாதத்தில் ஈடுபட்டனர். பெண்கள் திடீரெனச் சாலையில் அமர்ந்து மறியலில் ஈடுபட்டனர்.\n\n35 ஆண்டுகளுக்கு மேலாக இங்கு வசித்து வருவதாகவும், கண்டோன்மென்டுக்கு முறையாக வாடகை மற்றும் வரி செலுத்தி வருவதாகவும் மக்கள் வாக்குவாதம் செய்தனர். நீதிமன்ற உத்தரவுப்படி தான் நடவடிக்கை எடுக்கப்படுவதாக உதவி ஆணையர் பசுபதி மற்றும் அலுவலர்கள் தெரிவித்தனர். பின்னர் போலீசார் உதவியுடன் கடைகள் அகற்றப்பட்டன. அசம்பாவிதத்தைத் தவிர்க்கக் கிண்டி கத்திப்பாராவில் இருந்து ஆலந்தூர் செல்லும் ரயில்வே சாலையைப் போலீசார் முழுவதுமாக மூடினர்.\n\n📍 இடம்: ஆசர்கானா, ஆலந்தூர், சென்னை\n🗓️ நாள்: 28 நவம்பர் 2026\n👮 நடவடிக்கை: கண்டோன்மென்ட் நில ஆக்கிரமிப்பு அகற்றம், காவல் துறை பாதுகாப்பு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nAlandur shops demolished cantonment land road blockade | Chennai news\n📍 ஆலந்தூர், சென்னை | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #Alandur #ஆலந்தூர் #சென்னை",
+   "prompts": "A yellow JCB excavator breaks down a small roadside shop structure on Alandur Railway Road while a group of local women sit on the asphalt street in protest, blockading traffic. The scene takes place in the Alandur area near Kathipara in Chennai, featuring a broad urban street flanked by simple brick structures and utility poles. A group of ten to fifteen women in colourful sarees and salwar kameez sit together on the road surface, seen from behind. Tamil Nadu police personnel in khaki uniforms stand at a small distance keeping watch. A heavy yellow JCB machine with its arm raised works near concrete rubble, broken bricks, and metal sheet roofing. Bright morning daylight illuminates the entire street. Wide-angle camera shot at eye level, 35mm lens. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nDemolished debris including broken concrete blocks, twisted metal frames, and shattered corrugated roof sheets lie scattered along the roadside in Alandur, Chennai. The setting shows the edge of the cleared Railway Road stretch near Kathipara with partially broken shop facades in the background. A few Tamil Nadu police officers in khaki uniforms stand far in the background near yellow metal police barricades that block vehicular access to the street. The heavy arm of a yellow JCB excavator is parked on the roadside adjacent to the fresh rubble. Morning sunlight casts distinct shadows across the pile of debris and the asphalt road surface. Low-angle medium shot, 35mm lens focusing on the pile of broken construction materials. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.maalaimalar.com/news/tamilnadu/houses-and-shops-demolition-in-alandur",
+   "published": "2026-11-28T09:57:44Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795851328/chennaiminnal/acqlrxxmwa91xmq2gohz.jpg",
-    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795851330/chennaiminnal/tgdby9ww6ibh3wogrzcj.jpg"
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795865765/chennaiminnal/cqzpgchvxuzsplvyipey.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795865768/chennaiminnal/z95moozjb8wxritunhx5.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னையில் இன்று லேசான மழைக்கு வாய்ப்பு: 5 மாவட்டங்களில் கனமழை எச்சரிக்கை",
+   "english_headline": "Light rain likely in Chennai today; heavy rain alert for 5 southern districts including Tirunelveli and Kanyakumari",
+   "category": "Weather & Agriculture",
+   "location": "Chennai city, Chennai district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வானிலை",
+    "loc": "சென்னை",
+    "hl1": "சென்னையில் இன்று லேசான மழைக்கு வாய்ப்பு",
+    "hl2": "5 மாவட்டங்களில் கனமழை",
+    "slides": [
+     {
+      "title": "இன்றைய வானிலை",
+      "lines": [
+       "தமிழகம் முழுவதும் தற்போது <b>பரவலாக மழை</b> பெய்து வருகிறது",
+       "சென்னையில் இன்று வானம் மேகமூட்டத்துடன் காணப்படும்",
+       "நகரின் ஒரு சில இடங்களில் <b>லேசான மழை</b> பெய்யக்கூடும்"
+      ]
+     },
+     {
+      "title": "கடந்த 2 நாட்கள்",
+      "lines": [
+       "தென் மாவட்டங்களில் கடந்த 2 நாட்களாக கனமழை பெய்தது",
+       "மேற்கு தொடர்ச்சி மலை, டெல்டா மாவட்டங்களிலும் மழை பெய்தது",
+       "மிதமானது முதல் கனமழை வரை பதிவாகியுள்ளது"
+      ]
+     },
+     {
+      "title": "கனமழை எச்சரிக்கை",
+      "lines": [
+       "நெல்லை, தூத்துக்குடி, குமரி மாவட்டங்களில் இன்று கனமழை",
+       "ராமநாதபுரம், தென்காசியிலும் கனமழை பெய்ய வாய்ப்பு",
+       "டெல்டா, கடலூர், மயிலாடுதுறையில் மிதமான மழை பெய்யும்"
+      ]
+     },
+     {
+      "title": "நாளை முதல் மாற்றம்",
+      "lines": [
+       "நாளை (நவ.29) முதல் மழை குறையக்கூடும் என வானிலை மையம் தகவல்",
+       "இன்று 5 மாவட்டங்களில் மிதமான மழை பெய்யும்",
+       "ஒரு சில இடங்களில் கனமழைக்கு வாய்ப்பு உள்ளது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னையில் இன்று ஒரு சில இடங்களில் லேசான மழை பெய்ய வாய்ப்பு உள்ளது. தமிழகம் முழுவதும் தற்போது பரவலாக மழை பெய்து வருகிறது. கடந்த 2 நாட்களாக தென் மாவட்டங்கள், மேற்கு தொடர்ச்சி மலை மாவட்டங்கள் மற்றும் டெல்டா மாவட்டங்களில் மிதமான முதல் கனமழை பெய்துள்ளது. இன்று திருநெல்வேலி, தூத்துக்குடி, கன்னியாகுமரி, ராமநாதபுரம் மற்றும் தென்காசி ஆகிய 5 மாவட்டங்களில் மிதமான மழை பெய்யும். இந்த 5 மாவட்டங்களில் ஒரு சில இடங்களில் கனமழை பெய்யவும் வாய்ப்பு உள்ளதாக வானிலை ஆய்வு மையம் தெரிவித்துள்ளது. இதேபோல் டெல்டா மாவட்டங்கள், கடலூர் மற்றும் மயிலாடுதுறை மாவட்டங்களில் மிதமான மழை பெய்யும். சென்னையைப் பொறுத்தவரை இன்று வானம் மேகமூட்டத்துடன் காணப்படும். நகரின் ஒரு சில பகுதிகளில் லேசான மழை பெய்யக்கூடும். நாளை, நவம்பர் 29ஆம் தேதி, முதல் மழை குறையக்கூடும் என்று வானிலை ஆய்வு மையம் அறிவித்துள்ளது. மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "☁️ சென்னையில் இன்று லேசான மழைக்கு வாய்ப்பு - வானிலை ஆய்வு மையம் தகவல்\n\n📰 முழு விவரம்:\nதமிழகம் முழுவதும் தற்போது பரவலாக மழை பெய்து வருகிறது. கடந்த 2 நாட்களாக தென் மாவட்டங்கள், மேற்கு தொடர்ச்சி மலை மாவட்டங்கள் மற்றும் டெல்டா மாவட்டங்களில் மிதமான முதல் கனமழை பெய்துள்ளது. இன்று திருநெல்வேலி, தூத்துக்குடி, கன்னியாகுமரி, ராமநாதபுரம் மற்றும் தென்காசி ஆகிய 5 மாவட்டங்களில் ஒரு சில இடங்களில் கனமழை பெய்ய வாய்ப்பு உள்ளது. டெல்டா மாவட்டங்கள், கடலூர் மற்றும் மயிலாடுதுறையில் மிதமான மழை பெய்யும். சென்னையைப் பொறுத்தவரை வானம் மேகமூட்டத்துடன் காணப்படும்; நகரின் ஒரு சில இடங்களில் லேசான மழை பெய்யக்கூடும். நாளை (நவம்பர் 29) முதல் மழை குறையக்கூடும் என்று தெரிவிக்கப்பட்டுள்ளது.\n\n📍 இடம்: சென்னை மற்றும் தமிழக மாவட்டங்கள்\n🗓️ நாள்: 28 நவம்பர் 2026\n☔ வானிலை: 5 மாவட்டங்களில் கனமழை, சென்னையில் லேசான மழை\n\nChennai weather update today light rain | Chennai news\n📍 Chennai | 28 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiRain #வானிலை #ChennaiNews",
+   "prompts": "Commuters on two-wheelers and pedestrians with umbrellas navigate a damp Chennai street during light rain. The scene is set on a busy road near Anna Salai with a flyover in the background and heavy traffic typical of the city. Men in shirts and trousers are seen from behind on their bikes, while women in sarees walk along the pavement holding umbrellas. Yellow autorickshaws and a blue MTC bus are visible on the wet asphalt. The sky is a heavy, overcast grey, casting a soft, dull light over the urban landscape. The camera is at eye level, using a 35mm lens to capture the wide street and the rainy atmosphere. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of a Chennai city road under a thick blanket of grey clouds, illustrating the overcast weather forecast. The road surface is dark and wet from a recent light drizzle, reflecting the silhouettes of passing vehicles. In the distance, the elevated track of the Metro Rail runs above the street. A few people are seen from far away, some wearing raincoats and others walking near a bus shelter. A yellow autorickshaw and a white car move slowly through the light traffic. The time is daytime, but the heavy cloud cover creates a gloomy, muted lighting. The camera is positioned at a slightly high angle to emphasize the vast cloudy sky over the city infrastructure. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.maalaimalar.com/news/tamilnadu/imd-information-heavy-rain-in-5-districts",
+   "published": "2026-11-28T09:06:10Z",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795865908/chennaiminnal/sxn7xb50zjrbfpe6gc3n.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795865911/chennaiminnal/rgfvilp3amwhkxcynmib.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரசு பஸ் மோதி உயிரிழந்த மகனின் குடும்பத்துக்கு ரூ.31.70 லட்சம் இழப்பீடு",
+   "english_headline": "Chennai court orders Rs 31.70 lakh compensation to family of boy killed in government bus collision",
+   "category": "Crime & Safety",
+   "location": "Chennai, Senneerkuppam flyover area, Chennai district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விபத்து இழப்பீடு",
+    "loc": "சென்னீர்குப்பம், சென்னை",
+    "hl1": "அரசு பஸ் மோதி மகன் உயிரிழப்பு: ரூ.31.70",
+    "hl2": "சென்னை கோர்ட்டு உத்தரவு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சென்னீர்குப்பம் மேம்பாலம் அருகே விபத்து",
+       "பைக்கில் சென்றபோது அரசு பஸ் மோதியது",
+       "பின்னால் அமர்ந்திருந்த 17 வயது மகன் உயிரிழந்தார்"
+      ]
+     },
+     {
+      "title": "எப்போது?",
+      "lines": [
+       "கடந்த <b>25.7.2024</b> அன்று நடந்த விபத்து",
+       "தந்தை ஹேமசங்கர் உடன் பயணம் செய்தார்",
+       "அரும்பாக்கத்தைச் சேர்ந்த குடும்பம்"
+      ]
+     },
+     {
+      "title": "இழப்பீடு உத்தரவு",
+      "lines": [
+       "ரூ.45 லட்சம் கோரி வழக்கு தொடரப்பட்டது",
+       "அதிவேகமாகவும் அஜாக்கிரதையாகவும் பஸ் ஓட்டியதே காரணம்",
+       "விழுப்புரம் அரசு போக்குவரத்துக்கழகம் <b>ரூ.31.70 லட்சம்</b>"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சென்னீர்குப்பம் மேம்பாலம் அருகே அரசு பஸ் மோதியதில் 17 வயது மகன் உயிரிழந்தார். இதற்காக அவரது குடும்பத்துக்கு ரூ.31.70 லட்சம் இழப்பீடு வழங்க சென்னை கோர்ட்டு உத்தரவிட்டுள்ளது. சென்னை அரும்பாக்கத்தைச் சேர்ந்த ஹேமசங்கர், தனது மகனுடன் பைக்கில் சென்றுகொண்டிருந்தார். கடந்த 25.7.2024 அன்று அந்த வழியாக வந்த அரசு பஸ் பைக் மீது மோதியது. பைக்கின் பின்னால் அமர்ந்திருந்த மகன் உயிரிழந்தார். இதையடுத்து ஹேமசங்கர் ரூ.45 லட்சம் இழப்பீடு கோரி, சென்னை மோட்டார் வாகன விபத்து இழப்பீட்டு தீர்ப்பாயத்தில் வழக்குத் தொடர்ந்தார். வழக்கை விசாரித்த நீதிபதி தர்மபிரபு, அதிவேகமாகவும் அஜாக்கிரதையாகவும் பஸ்சை ஓட்டியதே விபத்துக்குக் காரணம் என்று கூறினார். விழுப்புரம் அரசு போக்குவரத்துக்கழகம் ரூ.31.70 லட்சம் இழப்பீடு வழங்க வேண்டும் என்று உத்தரவிட்டார். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 அரசு பஸ் மோதி மகன் உயிரிழப்பு: ரூ.31.70 லட்சம் இழப்பீடு வழங்க சென்னை கோர்ட்டு உத்தரவு\n\n📰 முழு விவரம்:\nசென்னீர்குப்பம் மேம்பாலம் அருகே பைக்கில் சென்றபோது அரசு பஸ் மோதியதில் 17 வயது மகன் உயிரிழந்தார். கடந்த 25.7.2024 அன்று இந்த விபத்து நடந்தது. அரும்பாக்கத்தைச் சேர்ந்த ஹேமசங்கர் ரூ.45 லட்சம் இழப்பீடு கோரி சென்னை மோட்டார் வாகன விபத்து இழப்பீட்டு தீர்ப்பாயத்தில் வழக்குத் தொடர்ந்தார். அதிவேகமாகவும் அஜாக்கிரதையாகவும் பஸ்சை ஓட்டியதே விபத்துக்குக் காரணம் என நீதிபதி தர்மபிரபு கூறினார். விழுப்புரம் அரசு போக்குவரத்துக்கழகம் ரூ.31.70 லட்சம் இழப்பீடு வழங்க வேண்டும் என உத்தரவிடப்பட்டது.\n\n📍 இடம்: சென்னீர்குப்பம் மேம்பாலம் அருகே, சென்னை\n🗓️ நாள்: 25.7.2024 அன்று விபத்து\n💰 இழப்பீடு: ரூ.31.70 லட்சம்\n\nChennai court orders Rs 31.70 lakh compensation for boy killed in bus accident | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #விபத்து #சென்னை",
+   "prompts": "A government city bus slams into a two‑wheel motorcycle on the Senneerkuppam flyover, the impact sending the bike skidding across the concrete median while the bus continues forward. Place: the elevated flyover stretch near Senneerkuppam, with its steel railings, concrete barriers and traffic lanes typical of Chennai’s busy overpasses. People: from behind, a father in a plain shirt rides the motorcycle with his teenage son seated behind him; a few commuters on the flyover watch from a distance, their backs to the camera. Vehicles/Objects: the government bus (large, boxy, no visible markings) and the motorcycle (small, two‑wheel) lie partially overlapped, with broken metal fragments and a scattering of dust. Time/Light/Weather: daylight, clear sky, shadows cast by the flyover’s structure. Camera: eye‑level, 35 mm lens, wide enough to capture the full width of the flyover and both vehicles in the collision zone. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of the damaged motorcycle on the flyover, its front wheel crushed and handlebars bent, with a fragment of the bus’s bumper lodged nearby, highlighting the point of impact. Place: the same Senneerkuppam flyover, focusing on the concrete median and the edge of the traffic lane where the bike rests. People: only the blurred backs of the father and a few onlookers are visible far in the background, keeping the focus on the wreckage. Vehicles/Objects: the motorcycle’s twisted front assembly, a torn seat cover, and a dented section of the bus’s front bumper, all coated with dust and a thin layer of road grime. Time/Light/Weather: bright daylight, sharp shadows emphasizing the metal deformation. Camera: slightly high angle, 35 mm lens, tight framing to capture the broken parts as the central storytelling element. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/chennai-court-orders-compensation-of-rs3170-lakh-to-the-family-of-a-boy-who-died-after-being-hit-by-a-government-bus",
+   "published": "2026-11-28T07:53:22Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: Slide line \"தந்தை ஹேமசங்கர் உடன் பயணம் செய்தார்\" incorrectly mixes roles (implies father traveled with Hemachankar) and is unclear Tamil sentence",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795866003/chennaiminnal/bh7qf3ec04lncwcrotye.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795866006/chennaiminnal/vioxoblfgwy9t3zuihld.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெண்கள் சுயதொழில் தொடங்க ‘சிங்கப்பெண் கடன்’ திட்டம்: விண்ணப்பங்கள் வரவேற்பு",
+   "english_headline": "Singappen loan scheme for women to start self-employment; applications invited, 41,369 beneficiaries given Rs 3,428.49 crore",
+   "category": "Government & Services",
+   "location": "Chennai, Chennai district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Chennai Minnal",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு திட்டம்",
+    "loc": "சென்னை",
+    "hl1": "பெண்களுக்கு ‘சிங்கப்பெண் கடன்’ திட்டம்",
+    "hl2": "விண்ணப்பங்கள் வரவேற்பு",
+    "slides": [
+     {
+      "title": "யார் பயனடையலாம்?",
+      "lines": [
+       "மகளிர் சுயஉதவிக் குழு உறுப்பினர்கள் பயன்பெறலாம்",
+       "கைம்பெண்கள், கைவிடப்பட்ட பெண்களும் பயன்பெறலாம்",
+       "தொழில் முனைவோர், பணிபுரியும் மகளிரும் பயன்பெறலாம்"
+      ]
+     },
+     {
+      "title": "இதுவரை வழங்கியது",
+      "lines": [
+       "நவம்பர் 2026 வரை <b>41,369</b> பயனாளிகளுக்குக் கடன்",
+       "மொத்தம் <b>ரூ.3,428.49 கோடி</b> கடன் வழங்கப்பட்டது",
+       "தொடக்க வேளாண் கூட்டுறவுச் சங்கங்கள் மூலம் <b>22,972</b> பேருக்கு"
+      ]
+     },
+     {
+      "title": "எப்படி",
+      "lines": [
+       "அருகிலுள்ள மாவட்ட மத்திய கூட்டுறவு வங்கியை நேரில் அணுகுங்கள்",
+       "அல்லது தொடக்க வேளாண் கூட்டுறவுக் கடன் சங்கத்தை அணுகுங்கள்",
+       "வாட்ஸ்அப் உதவி எண்: <b>98840 00845</b>"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பெண்கள் சொந்தத் தொழில் தொடங்க ‘சிங்கப்பெண் கடன்’ திட்டத்தில் விண்ணப்பங்கள் வரவேற்கப்படுகின்றன. கூட்டுறவுத்துறை அமைச்சர் காந்திராஜ் இதற்கான அழைப்பை விடுத்துள்ளார். இந்தத் திட்டம் பெண்களின் பொருளாதார தற்சார்பை உறுதி செய்வதற்காகச் செயல்படுத்தப்படுகிறது. மகளிர் சுயஉதவிக் குழு உறுப்பினர்கள், கைம்பெண்கள், கணவரால் கைவிடப்பட்ட பெண்கள், தொழில் முனைவோர், பணிபுரியும் மகளிர் ஆகியோர் கடனுதவி பெறலாம். நடப்பாண்டில் நவம்பர் 2026 வரை 41,369 பயனாளிகளுக்கு ரூ.3,428.49 கோடி கடன் வழங்கப்பட்டுள்ளது. தொடக்க வேளாண்மைக் கூட்டுறவுக் கடன் சங்கங்கள் மூலம் 22,972 பயனாளிகளுக்கு ரூ.1,773.37 கோடி வழங்கப்பட்டுள்ளது. மாவட்ட மத்தியக் கூட்டுறவு வங்கிகள் மூலம் 13,344 பயனாளிகளுக்கு ரூ.1,432.02 கோடி வழங்கப்பட்டுள்ளது. நகரக் கூட்டுறவு வங்கிகள் மூலம் 973 பயனாளிகளுக்கு ரூ.96.56 கோடி வழங்கப்பட்டுள்ளது. நகரக் கூட்டுறவுக் கடன் சங்கங்கள் மூலம் 641 பயனாளிகளுக்கு ரூ.69.43 கோடி வழங்கப்பட்டுள்ளது. மலைவாழ் மக்கள் கூட்டுறவுச் சங்கங்கள் மூலம் 3,154 பயனாளிகளுக்கு ரூ.29.50 கோடி வழங்கப்பட்டுள்ளது. தமிழ்நாடு மாநிலத் தலைமைக் கூட்டுறவு வங்கி மூலம் 285 பயனாளிகளுக்கு ரூ.27.60 கோடி வழங்கப்பட்டுள்ளது. கந்துவட்டியிலிருந்து மக்களை மீட்கவே இந்தத் திட்டம் செயல்படுத்தப்படுகிறது. புதிதாகத் தொழில் தொடங்க விரும்புவோரும், ஏற்கனவே செய்யும் தொழிலை விரிவுபடுத்த விரும்புவோரும் அருகிலுள்ள மாவட்ட மத்திய கூட்டுறவு வங்கி அல்லது தொடக்க வேளாண்மைக் கூட்டுறவுக் கடன் சங்கத்தை நேரில் அணுகலாம். திட்டம் பற்றிய விவரங்களுக்கு 98840 00845 என்ற வாட்ஸ்அப் உதவி எண்ணைத் தொடர்பு கொள்ளலாம். மேலும் செய்திகளுக்கு சென்னை மின்னல் பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "👩 பெண்கள் சுயதொழில் தொடங்க ‘சிங்கப்பெண் கடன்’ திட்டம்: விண்ணப்பங்கள் வரவேற்பு\n\n📰 முழு விவரம்:\nபெண்களின் பொருளாதார தற்சார்பை உறுதி செய்ய கூட்டுறவுத்துறையின் ‘சிங்கப்பெண் கடன்’ திட்டத்தில் சுயதொழில் தொடங்க விண்ணப்பங்கள் வரவேற்கப்படுகின்றன. கூட்டுறவுத்துறை அமைச்சர் காந்திராஜ் இதற்கான அழைப்பு விடுத்துள்ளார்.\nமகளிர் சுயஉதவிக் குழு உறுப்பினர்கள், கைம்பெண்கள், கணவரால் கைவிடப்பட்ட பெண்கள், தொழில் முனைவோர், பணிபுரியும் மகளிர் ஆகியோர் கடனுதவி பெறலாம்.\nநவம்பர் 2026 வரை 41,369 பயனாளிகளுக்கு ரூ.3,428.49 கோடி கடன் வழங்கப்பட்டுள்ளது.\n🏦 தொடக்க வேளாண்மைக் கூட்டுறவுக் கடன் சங்கங்கள் (PACCS): 22,972 பயனாளிகளுக்கு ரூ.1,773.37 கோடி\n🏦 மாவட்ட மத்தியக் கூட்டுறவு வங்கிகள் (CCB): 13,344 பயனாளிகளுக்கு ரூ.1,432.02 கோடி\n🏦 நகரக் கூட்டுறவு வங்கிகள் (UCB): 973 பயனாளிகளுக்கு ரூ.96.56 கோடி\n🏦 நகரக் கூட்டுறவுக் கடன் சங்கங்கள் (UCCS): 641 பயனாளிகளுக்கு ரூ.69.43 கோடி\n🏦 மலைவாழ் மக்கள் பெரும்பலநோக்கு கூட்டுறவுச் சங்கங்கள் (LAMPS): 3,154 பயனாளிகளுக்கு ரூ.29.50 கோடி\n🏦 தமிழ்நாடு மாநிலத் தலைமைக் கூட்டுறவு வங்கி (TNSACB): 285 பயனாளிகளுக்கு ரூ.27.60 கோடி\nகந்துவட்டிப் பிடியிலிருந்து மக்களை மீட்டு, பெண்களின் வாழ்வாதாரத்தை உயர்த்துவதே இத்திட்டத்தின் நோக்கம்.\n📞 விவரங்களுக்கு வாட்ஸ்அப் உதவி எண்: 98840 00845\nஅருகிலுள்ள மாவட்ட மத்திய கூட்டுறவு வங்கி அல்லது தொடக்க வேளாண்மைக் கூட்டுறவுக் கடன் சங்கத்தை நேரில் அணுகுங்கள்.\n\nSinghappen loan scheme for women, apply now | Chennai news\n📍 சென்னை, சென்னை மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#ChennaiMinnal #Chennai #ChennaiNews #சென்னை #அரசுத்திட்டம்",
+   "prompts": "A row of women in sarees and salwars stands in a queue at the counter of a cooperative bank branch in Chennai city, holding application forms and folders as a bank clerk sits behind a wooden desk stacked with ledgers and loan files. The branch is a ground-floor hall with tiled floor, a glass partition, a wall calendar and a few ceiling fans, and a busy Chennai street with two-wheelers and an autorickshaw is visible through the open shutter outside. Some women are seen from behind, others slightly blurred at a distance, all in daylight through the windows. The Singappen loan scheme is shown through the act of women applying for self-employment loans at a cooperative bank. Camera: eye level, 35 mm, wide enough to show the counter and the queue, daylight. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden counter of a cooperative bank in Chennai where a stack of loan application forms, a pen and a small bundle of documents sit beside a pair of hands of a woman in a sari resting on the paper, the rest of her body out of frame. Behind the counter a blurred clerk's desk with ledgers and a steel cabinet, and a few bundles of notes and files show the loan process. The light is soft daylight from a window, no readable text or labels visible. Camera: close-up, 50 mm, shallow depth of field, eye level. Photorealistic press photograph from Chennai city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/singappen-loan-scheme-for-women-to-start-self-employment-applications-welcome",
+   "published": "2026-11-28T10:08:04Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795866012/chennaiminnal/s6fuhd7eb89akxs61xtv.jpg",
+    "https://res.cloudinary.com/p8uobuz8/image/upload/v1795866016/chennaiminnal/sxf4n36bbhhcxuroticj.jpg"
    ]
   }
  ]
